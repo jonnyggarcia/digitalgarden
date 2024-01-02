@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-01T12:08:55.577-05:00"}
+{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-01T12:47:14.340-05:00"}
 ---
 
 
@@ -11,13 +11,11 @@
 *Nationality*: Brasilian (yes with S!)
 
 Contact:
-
 - jonnyggarcia@gmail.com
 - [Instagram](https://www.instagram.com/art.by.jonny/)
 - [Website](https://www.garciacollage.com/)
 
 I do:
-
 - Art
 - Dance
 - Create games
@@ -25,3 +23,4 @@ I do:
 - Sparingly production support for old tech in the financial industry
 
 [[Digital Garden\|Home]]
+
