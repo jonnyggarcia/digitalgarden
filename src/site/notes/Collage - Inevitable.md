@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-inevitable/","tags":["c/paris-collage","c/moon","c/yellow","c/blue","c/circle","c/sphere","c/candle"],"created":"2024-01-01T17:02:14.870-05:00","updated":"2024-01-01T17:16:05.243-05:00"}
+{"dg-publish":true,"permalink":"/collage-inevitable/","tags":["c/paris-collage","c/moon","c/yellow","c/blue","c/circle","c/sphere","c/candle","c/flat-background"],"created":"2024-01-01T17:02:14.870-05:00","updated":"2024-01-02T07:37:16.117-05:00"}
 ---
 
 
