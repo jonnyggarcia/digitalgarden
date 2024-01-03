@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/","created":"2024-01-01T11:34:54.368-05:00","updated":"2024-01-01T11:50:16.448-05:00"}
+{"dg-publish":true,"permalink":"/games/","created":"2024-01-01T11:34:54.368-05:00","updated":"2024-01-02T23:19:17.255-05:00"}
 ---
 
 
@@ -36,3 +36,4 @@ Below you can find a list of some the games I made. More details can be found on
 - Faces of Existence
 - My Life
 - The Circus
+
