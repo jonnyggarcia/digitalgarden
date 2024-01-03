@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-02T23:12:01.202-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-03T00:11:47.165-05:00"}
 ---
 
 My art is all published on [instagram](https://www.instagram.com/art.by.jonny/). From time to time I will be posting articles here about the arts I make.
@@ -8,7 +8,7 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 Check the list of all collages published below.
 
-![Asas.jpg|500](/img/user/MEDIA/Asas.jpg)
+![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)
 ```
 Asas - Jonny Garcia - 2022
 ```
