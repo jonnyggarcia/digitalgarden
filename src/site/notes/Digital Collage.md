@@ -15,6 +15,8 @@ Asas - Jonny Garcia - 2022
 
 
 # Collage List 
+- [[Collage - Me de Motivo\|Collage - Me de Motivo]]
+- [[Collage - Disruption\|Collage - Disruption]]
 - [[Collage - Why\|Collage - Why]]
 - [[Collage - 1000000\|Collage - 1000000]]
 - [[Collage - Projection\|Collage - Projection]]
