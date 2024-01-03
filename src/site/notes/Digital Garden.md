@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-01-01T11:09:40.900-05:00","updated":"2024-01-02T22:46:39.265-05:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-01-01T11:09:40.900-05:00","updated":"2024-01-02T22:47:55.369-05:00"}
 ---
 
 
@@ -15,8 +15,11 @@ Welcome to my place on the internet. Here you will find what I like, dislike, pe
 
 [[Who am I\|Who am I]]
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jonnygarcia" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
 ![jonnyggarcia.jpg|500](/img/user/MEDIA/jonnyggarcia.jpg)
 
-`2FEB2 - Jonny Garcia - 2022
+```
+2FEB2 - Jonny Garcia - 2022
+```
+
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jonnygarcia" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
