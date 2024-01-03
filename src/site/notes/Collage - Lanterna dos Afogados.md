@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-lanterna-dos-afogados/","tags":["c/moon","c/green","c/blue","c/light-house","c/purple","c/abstract","c/music","c/series"],"created":"2024-01-03T09:36:49.251-05:00","updated":"2024-01-03T09:39:44.108-05:00"}
+{"dg-publish":true,"permalink":"/collage-lanterna-dos-afogados/","tags":["c/moon","c/green","c/blue","c/light-house","c/purple","c/abstract","c/music","c/series","c/Paralams-do-Sucesso"],"created":"2024-01-03T09:36:49.251-05:00","updated":"2024-01-03T17:49:02.625-05:00"}
 ---
 
 
