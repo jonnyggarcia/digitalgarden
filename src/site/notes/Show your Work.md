@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T22:23:21.804-05:00"}
+{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T22:26:05.122-05:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 
 
-“Creativity is not a talent. It is a way of operating.” —John Cleese — location: [19]() 
+“Creativity is not a talent. It is a way of operating.” —John Cleese — location: 19 
 
 </div></div>
 
@@ -24,7 +24,7 @@ The book Show your Work by [Austin Kleon](https://austinkleon.com/) advocate tha
 
 
 
-By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage. — location: [30]() 
+By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage. — location: 30 
 
 </div></div>
 
@@ -38,7 +38,7 @@ The majority of us are not genius that will sprang a new art movement, however w
 
 
 
-“scenius.” Under this model, great ideas are often birthed by a group of creative individuals—artists, curators, thinkers, theorists, and other tastemakers—who make up an “ecology of talent.” — location: [53]() 
+“scenius.” Under this model, great ideas are often birthed by a group of creative individuals—artists, curators, thinkers, theorists, and other tastemakers—who make up an “ecology of talent.” — location: 53 
 
 </div></div>
 
@@ -50,7 +50,7 @@ Another reason to be in the scene is because creative work does not happen in is
 
 
 
-good work isn’t created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds. — location: [57]() 
+good work isn’t created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds. — location: 57 
 
 </div></div>
 
@@ -60,7 +60,7 @@ good work isn’t created in a vacuum, and that creativity is always, in some se
 
 
 
-how to influence others by letting them steal from you. — location: [36]() 
+how to influence others by letting them steal from you. — location: 36 
 
 </div></div>
 
@@ -70,7 +70,7 @@ how to influence others by letting them steal from you. — location: [36]()
 
 
 
-We can stop asking what others can do for us, and start asking what we can do for others. — location: [63]() 
+We can stop asking what others can do for us, and start asking what we can do for others. — location: 63 
 
 </div></div>
 
@@ -82,7 +82,7 @@ We can stop asking what others can do for us, and start asking what we can do fo
 
 
 
-You can’t be content with mastery; you have to push yourself to become a student again. “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton. — location: [794]() 
+You can’t be content with mastery; you have to push yourself to become a student again. “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton. — location: 794 
 
 </div></div>
 
@@ -94,7 +94,7 @@ The book discuss about being a professional vs and amateurs. One interesting poi
 
 
 
-“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: [78]() 
+“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: 78 
 
 </div></div>
 
@@ -106,7 +106,7 @@ Despite the amateurs my lack skills, those can be harnessed. The greatest challe
 
 
 
-“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin — location: [71]() 
+“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin — location: 71 
 
 </div></div>
 
@@ -116,7 +116,7 @@ Despite the amateurs my lack skills, those can be harnessed. The greatest challe
 
 
 
-“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: [78]() 
+“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: 78 
 
 </div></div>
 
@@ -126,7 +126,7 @@ Despite the amateurs my lack skills, those can be harnessed. The greatest challe
 
 
 
-This is yet another trait of amateurs—they’ll use whatever tools they can get their hands on to try to get their ideas into the world. — location: [95]() 
+This is yet another trait of amateurs—they’ll use whatever tools they can get their hands on to try to get their ideas into the world. — location: 95 
 
 </div></div>
 
@@ -136,7 +136,7 @@ This is yet another trait of amateurs—they’ll use whatever tools they can ge
 
 
 
-So don’t think of it as starting over. Think of it as beginning again. — location: [806]() 
+So don’t think of it as starting over. Think of it as beginning again. — location: 806 
 
 </div></div>
 
@@ -150,7 +150,7 @@ There is a passage on the book to put perspective in the act of art making. It w
 
 
 
-Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. — location: [124]() 
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. — location: 124 
 
 </div></div>
 
@@ -160,7 +160,7 @@ Remembering that you are going to die is the best way I know to avoid the trap o
 
 
 
-if you could walk around like that all the time, to really have that awareness that it’s actually going to end. That’s the trick.” — location: [137]() 
+if you could walk around like that all the time, to really have that awareness that it’s actually going to end. That’s the trick.” — location: 137 
 
 </div></div>
 
@@ -174,7 +174,7 @@ The value of art is a trick business. To the author it means a lot, but somebody
 
 
 
-people’s assessment of it—how much they like it, how valuable it is—is deeply affected by what you tell them about it.” — location: [388]() 
+people’s assessment of it—how much they like it, how valuable it is—is deeply affected by what you tell them about it.” — location: 388 
 
 </div></div>
 
@@ -184,7 +184,7 @@ people’s assessment of it—how much they like it, how valuable it is—is dee
 
 
 
-To you, and you alone, what matters is the process: the experience of shaping the artwork.” — location: [158]() 
+To you, and you alone, what matters is the process: the experience of shaping the artwork.” — location: 158 
 
 </div></div>
 
@@ -196,7 +196,7 @@ The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to r
 
 
 
-“A lot of people are so used to just seeing the outcome of work. They never see the side of the work you go through to produce the outcome.” —Michael Jackson — location: [150]() 
+“A lot of people are so used to just seeing the outcome of work. They never see the side of the work you go through to produce the outcome.” —Michael Jackson — location: 150 
 
 </div></div>
 
@@ -206,7 +206,7 @@ The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to r
 
 
 
-“The private details of artmaking are utterly uninteresting to audiences,” write Bayles and Orland, “because they’re almost never visible—or even knowable—from examining the finished work.” — location: [160]() 
+“The private details of artmaking are utterly uninteresting to audiences,” write Bayles and Orland, “because they’re almost never visible—or even knowable—from examining the finished work.” — location: 160 
 
 </div></div>
 
@@ -220,7 +220,7 @@ To counter weight that we can share the process and stop being scared to plagiar
 
 
 
-By sharing her day-to-day process—the thing she really cares about—she can form a unique bond with her audience. — location: [166]() 
+By sharing her day-to-day process—the thing she really cares about—she can form a unique bond with her audience. — location: 166 
 
 </div></div>
 
@@ -232,7 +232,7 @@ Now, i have to be honest. I love to see art made by everyone. I do spend hours l
 
 
 
-“By putting things out there, consistently, you can form a relationship with your customers. It allows them to see the person behind the products.” — location: [173]() 
+“By putting things out there, consistently, you can form a relationship with your customers. It allows them to see the person behind the products.” — location: 173 
 
 </div></div>
 
@@ -244,7 +244,7 @@ I used to talk to this analog artist that at certain point start to explain thei
 
 
 
-You have to turn the invisible into something other people can see. — location: [195]() 
+You have to turn the invisible into something other people can see. — location: 195 
 
 </div></div>
 
@@ -254,7 +254,7 @@ You have to turn the invisible into something other people can see. — location
 
 
 
-“In order for connection to happen, we have to allow ourselves to be seen—really seen.” —Brené Brown — location: [178]() 
+“In order for connection to happen, we have to allow ourselves to be seen—really seen.” —Brené Brown — location: 178 
 
 </div></div>
 
@@ -268,7 +268,7 @@ The sharing part can be anything, a new art piece, a reflection, something you s
 
 
 
-“Post as though everyone who can read it has the power to fire you.” — location: [253]() 
+“Post as though everyone who can read it has the power to fire you.” — location: 253 
 
 </div></div>
 
@@ -284,7 +284,7 @@ As a self-though artist, i strong relate to that. I am still thinking what i can
 
 
 
-The act of sharing is one of generosity—you’re putting something out there because you think it might be helpful or entertaining to someone on the other side of the screen. — location: [255]() 
+The act of sharing is one of generosity—you’re putting something out there because you think it might be helpful or entertaining to someone on the other side of the screen. — location: 255 
 
 </div></div>
 
@@ -296,7 +296,7 @@ I always hate marketing or advocating about my ideas, despite having lots of the
 
 
 
-Don’t think of your website as a self-promotion machine, think of it as a self-invention machine. — location: [295]() 
+Don’t think of your website as a self-promotion machine, think of it as a self-invention machine. — location: 295 
 
 </div></div>
 
@@ -310,7 +310,7 @@ This week i will be starting [Collage in Practice Workshop](https://kolajmagazin
 
 
 
-Attribution is all about providing context for what you’re sharing: what the work is, who made it, how they made it, when and where it was made, why you’re sharing it, why people should care about it, and where people can see some more work like it. Attribution is about putting little museum labels next to the stuff you share. — location: [363]() 
+Attribution is all about providing context for what you’re sharing: what the work is, who made it, how they made it, when and where it was made, why you’re sharing it, why people should care about it, and where people can see some more work like it. Attribution is about putting little museum labels next to the stuff you share. — location: 363 
 
 </div></div>
 
@@ -322,7 +322,7 @@ One of the reasons I make art is due to my difficulty to express emotion which i
 
 
 
-Personal stories can make the complex more tangible, spark associations, and offer entry into things that might otherwise leave one cold.” — location: [403]() 
+Personal stories can make the complex more tangible, spark associations, and offer entry into things that might otherwise leave one cold.” — location: 403 
 
 </div></div>
 
@@ -332,7 +332,7 @@ Personal stories can make the complex more tangible, spark associations, and off
 
 
 
-You need to know what a good story is and how to tell one. — location: [408]() 
+You need to know what a good story is and how to tell one. — location: 408 
 
 </div></div>
 
@@ -344,7 +344,7 @@ You need to know what a good story is and how to tell one. — location: [408]()
 
 
 
-Strike all the adjectives from your bio. If you take photos, you’re not an “aspiring” photographer, and you’re not an “amazing” photographer, either. You’re a photographer. Don’t get cute. Don’t brag. Just state the facts. — location: [463]() 
+Strike all the adjectives from your bio. If you take photos, you’re not an “aspiring” photographer, and you’re not an “amazing” photographer, either. You’re a photographer. Don’t get cute. Don’t brag. Just state the facts. — location: 463 
 
 </div></div>
 
@@ -360,7 +360,7 @@ I always be a fan of that philosophy. My dance partners know about that. Despite
 
 
 
-Teaching doesn’t mean instant competition. Just because you know the master’s technique doesn’t mean you’re going to be able to emulate it right away. — location: [485]() 
+Teaching doesn’t mean instant competition. Just because you know the master’s technique doesn’t mean you’re going to be able to emulate it right away. — location: 485 
 
 </div></div>
 
@@ -370,7 +370,7 @@ Teaching doesn’t mean instant competition. Just because you know the master’
 
 
 
-The minute you learn something, turn around and teach it to others. — location: [497]() 
+The minute you learn something, turn around and teach it to others. — location: 497 
 
 </div></div>
 
@@ -380,7 +380,7 @@ The minute you learn something, turn around and teach it to others. — location
 
 
 
-People feel closer to your work because you’re letting them in on what you know. — location: [501]() 
+People feel closer to your work because you’re letting them in on what you know. — location: 501 
 
 </div></div>
 
@@ -390,7 +390,7 @@ People feel closer to your work because you’re letting them in on what you kno
 
 
 
-“Have you tried making yourself a more interesting person?” — location: [543]() 
+“Have you tried making yourself a more interesting person?” — location: 543 
 
 </div></div>
 
@@ -406,7 +406,7 @@ Span are those people who are all about them and the rest do not matter. I think
 
 
 
-If you want to be interesting, you have to be interested. — location: [545]() 
+If you want to be interesting, you have to be interested. — location: 545 
 
 </div></div>
 
@@ -416,7 +416,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 
 
-“It’s all about paying attention. Attention is vitality. It connects you with others.” —Susan Sontag — location: [584]() 
+“It’s all about paying attention. Attention is vitality. It connects you with others.” —Susan Sontag — location: 584 
 
 </div></div>
 
@@ -428,7 +428,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 
 
-“Compulsive avoidance of embarrassment is a form of suicide.” If you spend your life avoiding vulnerability, you and your work will never truly connect with other people. — location: [620]() 
+“Compulsive avoidance of embarrassment is a form of suicide.” If you spend your life avoiding vulnerability, you and your work will never truly connect with other people. — location: 620 
 
 </div></div>
 
@@ -442,7 +442,7 @@ Again [[Art & Fear\|Art & Fear]] tells us about that one of the best teachers yo
 
 
 
-valuable skill he picked up in art school was learning how to take a punch. — location: [605]() 
+valuable skill he picked up in art school was learning how to take a punch. — location: 605 
 
 </div></div>
 
@@ -452,7 +452,7 @@ valuable skill he picked up in art school was learning how to take a punch. — 
 
 
 
-Every piece of criticism is an opportunity for new work. — location: [616]() 
+Every piece of criticism is an opportunity for new work. — location: 616 
 
 </div></div>
 
@@ -462,7 +462,7 @@ Every piece of criticism is an opportunity for new work. — location: [616]()
 
 
 
-more criticism you take, the more you realize it can’t hurt you. — location: [615]() 
+more criticism you take, the more you realize it can’t hurt you. — location: 615 
 
 </div></div>
 
@@ -472,7 +472,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 
 
 
-“If someone took a dump in your living room, you wouldn’t let it sit there, would you?” — location: [640]() 
+“If someone took a dump in your living room, you wouldn’t let it sit there, would you?” — location: 640 
 
 </div></div>
 
@@ -482,7 +482,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 
 
 
-“There’s never a space under paintings in a gallery where someone writes their opinion,” — location: [643]() 
+“There’s never a space under paintings in a gallery where someone writes their opinion,” — location: 643 
 
 </div></div>
 
@@ -492,7 +492,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 
 
 
-use the end of one project to light up the next one. — location: [762]() 
+use the end of one project to light up the next one. — location: 762 
 
 </div></div>
 
@@ -512,7 +512,7 @@ But don't forget, once you succeed help others.
 
 
 
-When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to where you are. — location: [715]() 
+When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to where you are. — location: 715 
 
 </div></div>
 
@@ -526,7 +526,7 @@ It is important to understand that our art is also work even if we don't make li
 
 
 
-It’s very important to separate your work from the rest of your life. As my wife said to me, “If you never go to work, you never get to leave work.” — location: [788]() 
+It’s very important to separate your work from the rest of your life. As my wife said to me, “If you never go to work, you never get to leave work.” — location: 788 
 
 </div></div>
 
@@ -538,7 +538,7 @@ Inspiration is all around, but the book talks about taking time off and allow th
 
 
 
-“Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.” — location: [772]() 
+“Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.” — location: 772 
 
 </div></div>
 
@@ -558,7 +558,7 @@ The book ask us to:
 
 
 
-“What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: [537]() 
+“What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: 537 
 
 </div></div>
 ](<
@@ -566,7 +566,7 @@ The book ask us to:
 
 
 
-“Creativity is not a talent. It is a way of operating.” —John Cleese — location: [19]() 
+“Creativity is not a talent. It is a way of operating.” —John Cleese — location: 19 
 
 </div></div>
 
@@ -582,7 +582,7 @@ The book "Show Your Work" by [Austin Kleon](https://austinkleon.com/) advocates 
 
 
 
-By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage. — location: [30]() 
+By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage. — location: 30 
 
 </div></div>
 
@@ -596,7 +596,7 @@ While most of us may not be geniuses sparking new art movements, we can connect 
 
 
 
-“scenius.” Under this model, great ideas are often birthed by a group of creative individuals—artists, curators, thinkers, theorists, and other tastemakers—who make up an “ecology of talent.” — location: [53]() 
+“scenius.” Under this model, great ideas are often birthed by a group of creative individuals—artists, curators, thinkers, theorists, and other tastemakers—who make up an “ecology of talent.” — location: 53 
 
 </div></div>
 
@@ -608,7 +608,7 @@ Another reason to be part of the scene is that creative work does not happen in 
 
 
 
-good work isn’t created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds. — location: [57]() 
+good work isn’t created in a vacuum, and that creativity is always, in some sense, a collaboration, the result of a mind connected to other minds. — location: 57 
 
 </div></div>
 
@@ -618,7 +618,7 @@ good work isn’t created in a vacuum, and that creativity is always, in some se
 
 
 
-how to influence others by letting them steal from you. — location: [36]() 
+how to influence others by letting them steal from you. — location: 36 
 
 </div></div>
 
@@ -628,7 +628,7 @@ how to influence others by letting them steal from you. — location: [36]()
 
 
 
-We can stop asking what others can do for us, and start asking what we can do for others. — location: [63]() 
+We can stop asking what others can do for us, and start asking what we can do for others. — location: 63 
 
 </div></div>
 
@@ -640,7 +640,7 @@ We can stop asking what others can do for us, and start asking what we can do fo
 
 
 
-You can’t be content with mastery; you have to push yourself to become a student again. “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton. — location: [794]() 
+You can’t be content with mastery; you have to push yourself to become a student again. “Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough,” writes author Alain de Botton. — location: 794 
 
 </div></div>
 
@@ -652,7 +652,7 @@ The book explores the dichotomy of being a professional versus an amateur. An in
 
 
 
-“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: [78]() 
+“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: 78 
 
 </div></div>
 
@@ -664,7 +664,7 @@ Despite lacking skills, amateurs can harness their potential. The primary challe
 
 
 
-“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin — location: [71]() 
+“That’s all any of us are: amateurs. We don’t live long enough to be anything else.” —Charlie Chaplin — location: 71 
 
 </div></div>
 
@@ -674,7 +674,7 @@ Despite lacking skills, amateurs can harness their potential. The primary challe
 
 
 
-“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: [78]() 
+“The stupidest possible creative act is still a creative act,” writes Clay Shirky in his book Cognitive Surplus. — location: 78 
 
 </div></div>
 
@@ -684,7 +684,7 @@ Despite lacking skills, amateurs can harness their potential. The primary challe
 
 
 
-This is yet another trait of amateurs—they’ll use whatever tools they can get their hands on to try to get their ideas into the world. — location: [95]() 
+This is yet another trait of amateurs—they’ll use whatever tools they can get their hands on to try to get their ideas into the world. — location: 95 
 
 </div></div>
 
@@ -694,7 +694,7 @@ This is yet another trait of amateurs—they’ll use whatever tools they can ge
 
 
 
-So don’t think of it as starting over. Think of it as beginning again. — location: [806]() 
+So don’t think of it as starting over. Think of it as beginning again. — location: 806 
 
 </div></div>
 
@@ -708,7 +708,7 @@ A passage in the book puts the act of art-making into perspective, emphasizing t
 
 
 
-Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. — location: [124]() 
+Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. — location: 124 
 
 </div></div>
 
@@ -718,7 +718,7 @@ Remembering that you are going to die is the best way I know to avoid the trap o
 
 
 
-if you could walk around like that all the time, to really have that awareness that it’s actually going to end. That’s the trick.” — location: [137]() 
+if you could walk around like that all the time, to really have that awareness that it’s actually going to end. That’s the trick.” — location: 137 
 
 </div></div>
 
@@ -732,7 +732,7 @@ The value of art is subjective and varies widely. The author acknowledges this, 
 
 
 
-people’s assessment of it—how much they like it, how valuable it is—is deeply affected by what you tell them about it.” — location: [388]() 
+people’s assessment of it—how much they like it, how valuable it is—is deeply affected by what you tell them about it.” — location: 388 
 
 </div></div>
 
@@ -742,7 +742,7 @@ people’s assessment of it—how much they like it, how valuable it is—is dee
 
 
 
-To you, and you alone, what matters is the process: the experience of shaping the artwork.” — location: [158]() 
+To you, and you alone, what matters is the process: the experience of shaping the artwork.” — location: 158 
 
 </div></div>
 
@@ -754,7 +754,7 @@ The quoted passage above strongly resonates with [[Art & Fear\|Art & Fear]]. I a
 
 
 
-“A lot of people are so used to just seeing the outcome of work. They never see the side of the work you go through to produce the outcome.” —Michael Jackson — location: [150]() 
+“A lot of people are so used to just seeing the outcome of work. They never see the side of the work you go through to produce the outcome.” —Michael Jackson — location: 150 
 
 </div></div>
 
@@ -764,7 +764,7 @@ The quoted passage above strongly resonates with [[Art & Fear\|Art & Fear]]. I a
 
 
 
-“The private details of artmaking are utterly uninteresting to audiences,” write Bayles and Orland, “because they’re almost never visible—or even knowable—from examining the finished work.” — location: [160]() 
+“The private details of artmaking are utterly uninteresting to audiences,” write Bayles and Orland, “because they’re almost never visible—or even knowable—from examining the finished work.” — location: 160 
 
 </div></div>
 
@@ -778,7 +778,7 @@ To counterbalance this, artists can share their process without fear of plagiari
 
 
 
-By sharing her day-to-day process—the thing she really cares about—she can form a unique bond with her audience. — location: [166]() 
+By sharing her day-to-day process—the thing she really cares about—she can form a unique bond with her audience. — location: 166 
 
 </div></div>
 
@@ -790,7 +790,7 @@ Now, to be honest, while I enjoy viewing art created by others and spend hours o
 
 
 
-“By putting things out there, consistently, you can form a relationship with your customers. It allows them to see the person behind the products.” — location: [173]() 
+“By putting things out there, consistently, you can form a relationship with your customers. It allows them to see the person behind the products.” — location: 173 
 
 </div></div>
 
@@ -802,7 +802,7 @@ I used to converse with analog artists who, at a certain point, began explaining
 
 
 
-You have to turn the invisible into something other people can see. — location: [195]() 
+You have to turn the invisible into something other people can see. — location: 195 
 
 </div></div>
 
@@ -812,7 +812,7 @@ You have to turn the invisible into something other people can see. — location
 
 
 
-“In order for connection to happen, we have to allow ourselves to be seen—really seen.” —Brené Brown — location: [178]() 
+“In order for connection to happen, we have to allow ourselves to be seen—really seen.” —Brené Brown — location: 178 
 
 </div></div>
 
@@ -826,7 +826,7 @@ The sharing aspect can take various forms – a new art piece, a reflection, or 
 
 
 
-“Post as though everyone who can read it has the power to fire you.” — location: [253]() 
+“Post as though everyone who can read it has the power to fire you.” — location: 253 
 
 </div></div>
 
@@ -844,7 +844,7 @@ I've always disliked marketing or promoting my ideas, despite having many. Howev
 
 
 
-Don’t think of your website as a self-promotion machine, think of it as a self-invention machine. — location: [295]() 
+Don’t think of your website as a self-promotion machine, think of it as a self-invention machine. — location: 295 
 
 </div></div>
 
@@ -858,7 +858,7 @@ This week, I am starting the [Collage in Practice Workshop](https://kolajmagazin
 
 
 
-Attribution is all about providing context for what you’re sharing: what the work is, who made it, how they made it, when and where it was made, why you’re sharing it, why people should care about it, and where people can see some more work like it. Attribution is about putting little museum labels next to the stuff you share. — location: [363]() 
+Attribution is all about providing context for what you’re sharing: what the work is, who made it, how they made it, when and where it was made, why you’re sharing it, why people should care about it, and where people can see some more work like it. Attribution is about putting little museum labels next to the stuff you share. — location: 363 
 
 </div></div>
 
@@ -870,7 +870,7 @@ One of the reasons I create art is due to my difficulty expressing emotions, whi
 
 
 
-Personal stories can make the complex more tangible, spark associations, and offer entry into things that might otherwise leave one cold.” — location: [403]() 
+Personal stories can make the complex more tangible, spark associations, and offer entry into things that might otherwise leave one cold.” — location: 403 
 
 </div></div>
 
@@ -880,7 +880,7 @@ Personal stories can make the complex more tangible, spark associations, and off
 
 
 
-You need to know what a good story is and how to tell one. — location: [408]() 
+You need to know what a good story is and how to tell one. — location: 408 
 
 </div></div>
 
@@ -892,7 +892,7 @@ You need to know what a good story is and how to tell one. — location: [408]()
 
 
 
-Strike all the adjectives from your bio. If you take photos, you’re not an “aspiring” photographer, and you’re not an “amazing” photographer, either. You’re a photographer. Don’t get cute. Don’t brag. Just state the facts. — location: [463]() 
+Strike all the adjectives from your bio. If you take photos, you’re not an “aspiring” photographer, and you’re not an “amazing” photographer, either. You’re a photographer. Don’t get cute. Don’t brag. Just state the facts. — location: 463 
 
 </div></div>
 
@@ -908,7 +908,7 @@ I have always been a fan of that philosophy. My dance partners know this about m
 
 
 
-Teaching doesn’t mean instant competition. Just because you know the master’s technique doesn’t mean you’re going to be able to emulate it right away. — location: [485]() 
+Teaching doesn’t mean instant competition. Just because you know the master’s technique doesn’t mean you’re going to be able to emulate it right away. — location: 485 
 
 </div></div>
 
@@ -918,7 +918,7 @@ Teaching doesn’t mean instant competition. Just because you know the master’
 
 
 
-The minute you learn something, turn around and teach it to others. — location: [497]() 
+The minute you learn something, turn around and teach it to others. — location: 497 
 
 </div></div>
 
@@ -928,7 +928,7 @@ The minute you learn something, turn around and teach it to others. — location
 
 
 
-People feel closer to your work because you’re letting them in on what you know. — location: [501]() 
+People feel closer to your work because you’re letting them in on what you know. — location: 501 
 
 </div></div>
 
@@ -938,7 +938,7 @@ People feel closer to your work because you’re letting them in on what you kno
 
 
 
-“Have you tried making yourself a more interesting person?” — location: [543]() 
+“Have you tried making yourself a more interesting person?” — location: 543 
 
 </div></div>
 
@@ -954,7 +954,7 @@ Spans are those individuals who are self-centered, believing nothing else matter
 
 
 
-If you want to be interesting, you have to be interested. — location: [545]() 
+If you want to be interesting, you have to be interested. — location: 545 
 
 </div></div>
 
@@ -964,7 +964,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 
 
-“It’s all about paying attention. Attention is vitality. It connects you with others.” —Susan Sontag — location: [584]() 
+“It’s all about paying attention. Attention is vitality. It connects you with others.” —Susan Sontag — location: 584 
 
 </div></div>
 
@@ -976,7 +976,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 
 
-“Compulsive avoidance of embarrassment is a form of suicide.” If you spend your life avoiding vulnerability, you and your work will never truly connect with other people. — location: [620]() 
+“Compulsive avoidance of embarrassment is a form of suicide.” If you spend your life avoiding vulnerability, you and your work will never truly connect with other people. — location: 620 
 
 </div></div>
 
@@ -990,7 +990,7 @@ Once again, [[Art & Fear\|Art & Fear]] tells us that one of the best teachers is
 
 
 
-valuable skill he picked up in art school was learning how to take a punch. — location: [605]() 
+valuable skill he picked up in art school was learning how to take a punch. — location: 605 
 
 </div></div>
 
@@ -1000,7 +1000,7 @@ valuable skill he picked up in art school was learning how to take a punch. — 
 
 
 
-Every piece of criticism is an opportunity for new work. — location: [616]() 
+Every piece of criticism is an opportunity for new work. — location: 616 
 
 </div></div>
 
@@ -1010,7 +1010,7 @@ Every piece of criticism is an opportunity for new work. — location: [616]()
 
 
 
-more criticism you take, the more you realize it can’t hurt you. — location: [615]() 
+more criticism you take, the more you realize it can’t hurt you. — location: 615 
 
 </div></div>
 
@@ -1020,7 +1020,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 
 
 
-“If someone took a dump in your living room, you wouldn’t let it sit there, would you?” — location: [640]() 
+“If someone took a dump in your living room, you wouldn’t let it sit there, would you?” — location: 640 
 
 </div></div>
 
@@ -1030,17 +1030,17 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 
 
 
-“There’s never a space under paintings in a gallery where someone writes their opinion,” — location: [643]() 
+“There’s never a space under paintings in a gallery where someone writes their opinion,” — location: 643 
 
 </div></div>
 
 
-> [!quote] 
+ 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-use the end of one project to light up the next one. — location: [762]() 
+use the end of one project to light up the next one. — location: 762 
 
 </div></div>
 
@@ -1055,12 +1055,12 @@ One strategy is to cultivate relationships so that when you need help, you have 
 
 But don't forget, once you succeed, help others.
 
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to where you are. — location: [715]() 
+When you have success, it’s important to use any dough, clout, or platform you’ve acquired to help along the work of the people who’ve helped you get to where you are. — location: 715 
 
 </div></div>
 
@@ -1074,7 +1074,7 @@ It is important to understand that our art is also work, even if we don't make a
 
 
 
-It’s very important to separate your work from the rest of your life. As my wife said to me, “If you never go to work, you never get to leave work.” — location: [788]() 
+It’s very important to separate your work from the rest of your life. As my wife said to me, “If you never go to work, you never get to leave work.” — location: 788 
 
 </div></div>
 
@@ -1086,7 +1086,7 @@ Inspiration is all around, but the book talks about taking time off and allowing
 
 
 
-“Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.” — location: [772]() 
+“Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.” — location: 772 
 
 </div></div>
 
@@ -1106,7 +1106,7 @@ The book asks us to:
 
 
 
-“What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: [537]() 
+“What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: 537 
 
 </div></div>
 
