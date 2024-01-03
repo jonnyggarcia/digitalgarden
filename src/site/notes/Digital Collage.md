@@ -12,6 +12,17 @@ Check the list of all collages published below.
 > Asas - Jonny Garcia - 2022
 
 # Collage List 
+- [[Collage - Once Upon a Time\|Collage - Once Upon a Time]]
+- [[Collage - E\|Collage - E]]
+- [[Collage - V\|Collage - V]]
+- [[Collage - B A U\|Collage - B A U]]
+- [[Collage - Values\|Collage - Values]]
+- [[Collage - Duality\|Collage - Duality]]
+- [[Collage - Dying Force\|Collage - Dying Force]]
+- [[Collage - Mind\|Collage - Mind]]
+- [[Collage - Stagnated Thought\|Collage - Stagnated Thought]]
+- [[Collage - Stagnation\|Collage - Stagnation]]
+- [[Collage - Internal Voice\|Collage - Internal Voice]]
 - [[Collage - It Must Stop\|Collage - It Must Stop]]
 - [[Collage - Solid Liquid\|Collage - Solid Liquid]]
 - [[Collage - Emotions\|Collage - Emotions]]
@@ -196,6 +207,7 @@ Check the list of all collages published below.
 - [[Collage - Ev\|Collage - Ev]]
 - [[Collage - ASL Marriage\|Collage - ASL Marriage]]
 - [[Collage - ASL Culture\|Collage - ASL Culture]]
+- [[Collage - Domestic Thoughts\|Collage - Domestic Thoughts]]
 
 { .block-language-dataview}
 
