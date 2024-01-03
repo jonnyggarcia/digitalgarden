@@ -12,6 +12,17 @@ Check the list of all collages published below.
 > Asas - Jonny Garcia - 2022
 
 # Collage List 
+- [[Collage - Why\|Collage - Why]]
+- [[Collage - 1000000\|Collage - 1000000]]
+- [[Collage - Projection\|Collage - Projection]]
+- [[Collage - Fantasy\|Collage - Fantasy]]
+- [[Collage - Disconnection\|Collage - Disconnection]]
+- [[Collage - Road\|Collage - Road]]
+- [[Collage - Construção\|Collage - Construção]]
+- [[Collage - Paciência\|Collage - Paciência]]
+- [[Collage - Blind\|Collage - Blind]]
+- [[Collage - Esquadros\|Collage - Esquadros]]
+- [[Collage - Preciso me Encontrar\|Collage - Preciso me Encontrar]]
 - [[Collage - Once Upon a Time\|Collage - Once Upon a Time]]
 - [[Collage - E\|Collage - E]]
 - [[Collage - V\|Collage - V]]
