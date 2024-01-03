@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-01T12:47:14.340-05:00"}
+{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-02T23:15:35.216-05:00"}
 ---
 
 
@@ -22,5 +22,6 @@ I do:
 - Perfomance
 - Sparingly production support for old tech in the financial industry
 
-[[Digital Garden\|Home]]
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jonnygarcia" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 
