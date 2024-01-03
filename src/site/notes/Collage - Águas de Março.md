@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-aguas-de-marco/","tags":["c/music","c/series","c/sign","c/moon","c/sun","c/water","c/ocean","c/beje"],"created":"2024-01-03T13:53:38.002-05:00","updated":"2024-01-03T13:58:05.831-05:00"}
+{"dg-publish":true,"permalink":"/collage-aguas-de-marco/","tags":["c/music","c/series","c/sign","c/moon","c/sun","c/water","c/ocean","c/beje","c/Tom-Jobin","c/Elis-Regina"],"created":"2024-01-03T13:53:38.002-05:00","updated":"2024-01-03T17:50:12.408-05:00"}
 ---
 
 
