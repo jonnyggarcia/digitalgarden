@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T23:04:15.457-05:00"}
+{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T23:51:52.866-05:00"}
 ---
 
 
@@ -87,7 +87,7 @@ You can’t be content with mastery; you have to push yourself to become a stude
 </div></div>
 
 
-The book discuss about being a professional vs and amateurs. One interesting point is that the amateur, one who do not live base on their work, has nothing to lose and are willing to try anything. I always had a similar though about become a professional artist; I do not want to be restrained by imposition of external forces.
+The book discuss about being a professional vs amateur. One interesting point is that the amateur, one who do not live base on their work, has nothing to lose and are willing to try anything. I always had a similar though about become a professional artist; I do not want to be restrained by imposition of external forces.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -561,3 +561,4 @@ The book ask us to:
 “What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: 537 
 
 </div></div>
+
