@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sozinho/","tags":["c/woman","c/bw","c/man","c/mouth","c/music","c/series"],"created":"2024-01-03T09:51:42.480-05:00","updated":"2024-01-03T09:53:34.843-05:00"}
+{"dg-publish":true,"permalink":"/collage-sozinho/","tags":["c/woman","c/bw","c/man","c/mouth","c/music","c/series","c/Caetano-Veloso"],"created":"2024-01-03T09:51:42.480-05:00","updated":"2024-01-03T17:48:27.628-05:00"}
 ---
 
 
