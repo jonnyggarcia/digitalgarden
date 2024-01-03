@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reflections/","created":"2024-01-01T11:41:36.910-05:00","updated":"2024-01-02T23:11:32.162-05:00"}
+{"dg-publish":true,"permalink":"/reflections/","created":"2024-01-01T11:41:36.910-05:00","updated":"2024-01-02T23:19:00.757-05:00"}
 ---
 
 # Books
