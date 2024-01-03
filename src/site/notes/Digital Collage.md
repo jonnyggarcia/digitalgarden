@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-03T00:11:47.165-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-03T00:16:06.392-05:00"}
 ---
+
 
 My art is all published on [instagram](https://www.instagram.com/art.by.jonny/). From time to time I will be posting articles here about the arts I make.
 
@@ -13,8 +14,25 @@ Check the list of all collages published below.
 Asas - Jonny Garcia - 2022
 ```
 
+# Collage List
 
-# Collage List 
+- [[Collage - Beyond\|Collage - Beyond]]
+- [[Collage - Cosmos Door\|Collage - Cosmos Door]]
+- [[Collage - Room\|Collage - Room]]
+- [[Collage - Unreachable\|Collage - Unreachable]]
+- [[Collage - How\|Collage - How]]
+- [[Collage - Creative Process\|Collage - Creative Process]]
+- [[Collage - The Gaze\|Collage - The Gaze]]
+- [[Collage - Relativity\|Collage - Relativity]]
+- [[Collage - One\|Collage - One]]
+- [[Collage - Ryujins Cave\|Collage - Ryujins Cave]]
+- [[Collage - Sozinho\|Collage - Sozinho]]
+- [[Collage - Us\|Collage - Us]]
+- [[Collage - Memory\|Collage - Memory]]
+- [[Collage - Lanterna dos Afogados\|Collage - Lanterna dos Afogados]]
+- [[Collage - Você não me ensinou a te esquecer\|Collage - Você não me ensinou a te esquecer]]
+- [[Collage - Time\|Collage - Time]]
+- [[Collage - 4 until\|Collage - 4 until]]
 - [[Collage - Me de Motivo\|Collage - Me de Motivo]]
 - [[Collage - Disruption\|Collage - Disruption]]
 - [[Collage - Why\|Collage - Why]]
@@ -226,5 +244,3 @@ Asas - Jonny Garcia - 2022
 - [[Collage - Domestic Thoughts\|Collage - Domestic Thoughts]]
 
 { .block-language-dataview}
-
-
