@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T22:21:55.339-05:00"}
+{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-02T22:23:21.804-05:00"}
 ---
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -19,7 +19,7 @@
 
 The book Show your Work by [Austin Kleon](https://austinkleon.com/) advocate that everybody should display their work specially the process behind the scenes because in that way people can relate to the artist. When the artist share about them beyond what they make, it creates an opportunity to find people that correlate. Even a beginner artist without much "final product" to share, should be sharing their process, their learnings, influences and etc. It is about striking a meaningful conversation with an audience. Rather than marketing yourself, by create an online presence, within time people will find you.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -33,7 +33,7 @@ By generously sharing their ideas and their knowledge, they often gain an audien
 
 The majority of us are not genius that will sprang a new art movement, however we can be connected with people on the art scene that is relevant. The called it a Scenius. This an observation that my friend Maul and myself notice how the famous people in history were connected or part of groups with other relevant people. ==The questions is: how to find those relevant people and be with them?==
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -45,7 +45,7 @@ The majority of us are not genius that will sprang a new art movement, however w
 
 Another reason to be in the scene is because creative work does not happen in isolation. It is a mix of different influences. So we can be one of those influences by being online. Myself and Mauricio often get together to discuss about random topics, and usually that last for at least 4 hour!
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -55,7 +55,7 @@ good work isn’t created in a vacuum, and that creativity is always, in some se
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -65,7 +65,7 @@ how to influence others by letting them steal from you. — location: [36]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -77,7 +77,7 @@ We can stop asking what others can do for us, and start asking what we can do fo
 
 # Start again
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -89,7 +89,7 @@ You can’t be content with mastery; you have to push yourself to become a stude
 
 The book discuss about being a professional vs and amateurs. One interesting point is that the amateur, one who do not live base on their work, has nothing to lose and are willing to try anything. I always had a similar though about become a professional artist; I do not want to be restrained by imposition of external forces.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -101,7 +101,7 @@ The book discuss about being a professional vs and amateurs. One interesting poi
 
 Despite the amateurs my lack skills, those can be harnessed. The greatest challenged is about doing it and not about the product. The courage to make something will teach the a person the necessary skills. This bring me the memory of passage on the book [[Art & Fear\|Art & Fear]] that mentioned about quantity makes things happen regardless of quality, where as perfection will never be achieved and therefore limit the actual art making. In the end it is about make, create, be "vocal".
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -111,7 +111,7 @@ Despite the amateurs my lack skills, those can be harnessed. The greatest challe
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -121,7 +121,7 @@ Despite the amateurs my lack skills, those can be harnessed. The greatest challe
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -131,7 +131,7 @@ This is yet another trait of amateurs—they’ll use whatever tools they can ge
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -145,7 +145,7 @@ So don’t think of it as starting over. Think of it as beginning again. — loc
 
 There is a passage on the book to put perspective in the act of art making. It was about the ephemerality of life; we all can die at any moment. Having the mentality of do what you do as it is the last time you are doing it is the key to exist and be authentic. I tend to agree, however having a real life threatening experience is not the same as try to emulate the mentality. it is very easy to fall on the trap of caring about consequences. One way the author suggest about this is to read the obituaries a "near-death experiences for cowards" (that is funny!) That remind the practice to painting skull in the middle ages to remind people that no one is above death.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -155,7 +155,7 @@ Remembering that you are going to die is the best way I know to avoid the trap o
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -169,7 +169,7 @@ if you could walk around like that all the time, to really have that awareness t
 
 The value of art is a trick business. To the author it means a lot, but somebody else it is garbage. I have a theory that most people have no clue what means to be an artist, therefore they have zero reference to measure and attribute value to a piece of work. It seems the author agrees with me.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -179,7 +179,7 @@ people’s assessment of it—how much they like it, how valuable it is—is dee
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -191,7 +191,7 @@ To you, and you alone, what matters is the process: the experience of shaping th
 
 The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to read that book again and make notes! #todo!!!
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -201,7 +201,7 @@ The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to r
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -215,7 +215,7 @@ The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to r
 
 To counter weight that we can share the process and stop being scared to plagiarized. By doing it, we create in our audience the sense of value embed in the our work.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -227,7 +227,7 @@ By sharing her day-to-day process—the thing she really cares about—she can f
 
 Now, i have to be honest. I love to see art made by everyone. I do spend hours looking at instagram. However, i must confess that I'm not that much interested in the process, mostly because I do not relate to them. Most people i follow on instagram are analog collage artist, and their process is complete different from mine, specially because my chosen media is digital. I do not have the same constrains as they have, and therefore the product they will make is shaped by that limitation. Although the authors point it is about how to communicate with our audience, which includes people who are not artist. So, I decided to do this by creating my Digital Garden, the current page you are reading. Let's see how that goes in one year.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -239,7 +239,7 @@ Now, i have to be honest. I love to see art made by everyone. I do spend hours l
 
 I used to talk to this analog artist that at certain point start to explain their collages on their instagram posts. Accord to them, they start to get more likes.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -249,7 +249,7 @@ You have to turn the invisible into something other people can see. — location
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -263,7 +263,7 @@ The book strongly recommend to start documenting the artistic process. Inspired 
 
 The sharing part can be anything, a new art piece, a reflection, something you saw that inspire you. It is about the process of sharing and not what to share. Of course it has to make some sort of sense and we should be aware that the information is public.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -279,7 +279,7 @@ One way of thing about what to share is by asking yourself:
 
 As a self-though artist, i strong relate to that. I am still thinking what i can share to contribute.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -291,7 +291,7 @@ The act of sharing is one of generosity—you’re putting something out there b
 
 I always hate marketing or advocating about my ideas, despite having lots of them. But our fiend Austin just said something very interesting:
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -305,7 +305,7 @@ Don’t think of your website as a self-promotion machine, think of it as a self
 
 This week i will be starting [Collage in Practice Workshop](https://kolajmagazine.com/content/content/calls-for-artists/call-to-artists-collage-in-practice-workshop/) facilitated by [Kolaj Institute](https://kolajinstitute.org/) Part of the application require to answer questions that related to the details of my practice. I had to reflect upon them. At the book they mention something similar. The idea of sharing the in and outs of our work is like a personal museum with audio guide.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -317,7 +317,7 @@ Attribution is all about providing context for what you’re sharing: what the w
 
 One of the reasons I make art is due to my difficulty to express emotion which is related to Alexithymia, that i will explain in another reflection. I also liked the cryptographic idea of art, most of the time people cannot really understand what the piece is about. By making art I felt relieved and at the same protected because people will not inquire about it. However, being courage to show the process behind, may triggers me somehow. That is something to be explored.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -327,7 +327,7 @@ Personal stories can make the complex more tangible, spark associations, and off
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -339,7 +339,7 @@ You need to know what a good story is and how to tell one. — location: [408]()
 
 # Be an artist
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -355,7 +355,7 @@ How many people hold on to skill, techniques, knowledge in fear of losing someth
 
 I always be a fan of that philosophy. My dance partners know about that. Despite my short period of dancing salsa, I am always willing to help them practice. In that way both of us get more millage, we become better friends, we evolve together. It is a win-win situation.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -365,7 +365,7 @@ Teaching doesn’t mean instant competition. Just because you know the master’
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -375,7 +375,7 @@ The minute you learn something, turn around and teach it to others. — location
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -385,7 +385,7 @@ People feel closer to your work because you’re letting them in on what you kno
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -401,7 +401,7 @@ Ouch! that hurt!
 
 Span are those people who are all about them and the rest do not matter. I think the analog is about all those span emails we received that drive us crazy because it mealiness to us and they keep coming.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -411,7 +411,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -423,7 +423,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 # Be brave
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -437,7 +437,7 @@ I learned that art mens shit to other people. People don't really care about wha
 
 Again [[Art & Fear\|Art & Fear]] tells us about that one of the best teachers you can have is your last work. It will inform you what needs to be worked on for the next piece. I think this apply for the criticisms as well.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -447,7 +447,7 @@ valuable skill he picked up in art school was learning how to take a punch. — 
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -457,7 +457,7 @@ Every piece of criticism is an opportunity for new work. — location: [616]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -467,7 +467,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -477,7 +477,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -487,7 +487,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -507,7 +507,7 @@ One strategy is to cultivate relationships and when you needed you have an army 
 
 But don't forget, once you succeed help others.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -521,7 +521,7 @@ When you have success, it’s important to use any dough, clout, or platform you
 
 It is important to understand that our art is also work even if we don't make living out of it. So it is important to separate it from the other parts of our live. We should not neglect them.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -533,7 +533,7 @@ It’s very important to separate your work from the rest of your life. As my wi
 
 Inspiration is all around, but the book talks about taking time off and allow that time to recharge us and be ready for what is next.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -553,7 +553,7 @@ The book ask us to:
 
 ---
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -561,7 +561,7 @@ The book ask us to:
 “What you want is to follow and be followed by human beings who care about issues you care about. This thing we make together. This thing is about hearts and minds, not eyeballs.” —Jeffrey Zeldman — location: [537]() 
 
 </div></div>
-](<> 
+](<
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -577,7 +577,7 @@ The book ask us to:
 
 The book "Show Your Work" by [Austin Kleon](https://austinkleon.com/) advocates that everyone should showcase their work, especially the process behind the scenes. This approach allows people to connect with the artist on a more personal level. When artists share insights beyond their finished products, it creates opportunities for meaningful connections. Even novice artists, who may not have many "final products" to share, should focus on sharing their processes, learnings, influences, etc. The goal is to initiate meaningful conversations with the audience. Rather than actively marketing oneself, creating an online presence over time will naturally attract interested individuals.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -591,7 +591,7 @@ By generously sharing their ideas and their knowledge, they often gain an audien
 
 While most of us may not be geniuses sparking new art movements, we can connect with relevant people in the art scene, forming what Kleon refers as "Scenius". My friend Maul, once commented how influential individuals were often connected or part of groups with other significant figures. The question then arises: *how do we find and engage with these relevant people?*
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -603,7 +603,7 @@ While most of us may not be geniuses sparking new art movements, we can connect 
 
 Another reason to be part of the scene is that creative work does not happen in isolation; it is a blend of various influences. By being present online, one can become one of those influences. Maul and I frequently engage in discussions about random topics, often lasting for at least four hours!
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -613,7 +613,7 @@ good work isn’t created in a vacuum, and that creativity is always, in some se
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -623,7 +623,7 @@ how to influence others by letting them steal from you. — location: [36]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -635,7 +635,7 @@ We can stop asking what others can do for us, and start asking what we can do fo
 
 # Starting Anew
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -647,7 +647,7 @@ You can’t be content with mastery; you have to push yourself to become a stude
 
 The book explores the dichotomy of being a professional versus an amateur. An interesting point raised is that amateurs, who do not rely on their work for a living, have nothing to lose and are willing to try anything. I've always held a similar perspective regarding becoming a professional artist – the desire to avoid constraints imposed by external forces.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -659,7 +659,7 @@ The book explores the dichotomy of being a professional versus an amateur. An in
 
 Despite lacking skills, amateurs can harness their potential. The primary challenge is taking action, with the emphasis on the process rather than the final product. The courage to create something will teach necessary skills. This brings to mind a passage from the book "Art & Fear," stating that quantity leads to progress, irrespective of quality, while perfection is elusive and limits actual art-making. Ultimately, it's about making, creating, and being expressive.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -669,7 +669,7 @@ Despite lacking skills, amateurs can harness their potential. The primary challe
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -679,7 +679,7 @@ Despite lacking skills, amateurs can harness their potential. The primary challe
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -689,7 +689,7 @@ This is yet another trait of amateurs—they’ll use whatever tools they can ge
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -703,7 +703,7 @@ So don’t think of it as starting over. Think of it as beginning again. — loc
 
 A passage in the book puts the act of art-making into perspective, emphasizing the ephemerality of life, where anyone can die at any moment. Adopting the mindset of doing each task as if it were the last helps one exist authentically. While I agree with this perspective, experiencing a real-life threatening situation differs from attempting to emulate the same mentality. The author suggests reading obituaries as a form of "near-death experiences for cowards," (funny). It reminds me of the medieval practice of painting skulls to remind people of their mortality.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -713,7 +713,7 @@ Remembering that you are going to die is the best way I know to avoid the trap o
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -727,7 +727,7 @@ if you could walk around like that all the time, to really have that awareness t
 
 The value of art is subjective and varies widely. The author acknowledges this, highlighting that what holds significance for one person might be considered garbage by another. I share the theory that many people lack a clear understanding of what it means to be an artist, making it challenging for them to attribute value to a piece of work. The author seems to concur with this perspective.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -737,7 +737,7 @@ people’s assessment of it—how much they like it, how valuable it is—is dee
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -749,7 +749,7 @@ To you, and you alone, what matters is the process: the experience of shaping th
 
 The quoted passage above strongly resonates with [[Art & Fear\|Art & Fear]]. I am inclined to revisit that book and take notes! #todo!!!
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -759,7 +759,7 @@ The quoted passage above strongly resonates with [[Art & Fear\|Art & Fear]]. I a
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -773,7 +773,7 @@ The quoted passage above strongly resonates with [[Art & Fear\|Art & Fear]]. I a
 
 To counterbalance this, artists can share their process without fear of plagiarism. By doing so, they imbue their work with a sense of value for the audience.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -785,7 +785,7 @@ By sharing her day-to-day process—the thing she really cares about—she can f
 
 Now, to be honest, while I enjoy viewing art created by others and spend hours on Instagram, I confess that I'm less interested in the process, mainly because I can't relate to it. Most of the people I follow are analog collage artists, and their process differs significantly from mine, especially since my chosen medium is digital. I lack the same constraints they face, shaping their products accordingly. Despite this, the author emphasizes the importance of communicating with a broader audience, including non-artists. Hence, I decided to create my Digital Garden, which you are currently exploring. Let's see how it evolves in a year.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -797,7 +797,7 @@ Now, to be honest, while I enjoy viewing art created by others and spend hours o
 
 I used to converse with analog artists who, at a certain point, began explaining their collages on their Instagram posts. According to them, this led to an increase in likes.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -807,7 +807,7 @@ You have to turn the invisible into something other people can see. — location
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -821,7 +821,7 @@ The book strongly recommends documenting the artistic process. Inspired by this,
 
 The sharing aspect can take various forms – a new art piece, a reflection, or something that inspired you. The key is the act of sharing, not necessarily the content. Of course, it should make sense, and one should be aware that the information is public.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -839,7 +839,7 @@ As a self-taught artist, I strongly resonate with this question. I am still cont
 
 I've always disliked marketing or promoting my ideas, despite having many. However, our friend Austin made an interesting point:
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -853,7 +853,7 @@ Don’t think of your website as a self-promotion machine, think of it as a self
 
 This week, I am starting the [Collage in Practice Workshop](https://kolajmagazine.com/content/content/calls-for-artists/call-to-artists-collage-in-practice-workshop/) facilitated by [Kolaj Institute](https://kolajinstitute.org/). The application process required reflection on various aspects of my practice. The book touches on a similar idea – the concept of sharing the ins and outs of our work is akin to a personal museum with an audio guide.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -865,7 +865,7 @@ Attribution is all about providing context for what you’re sharing: what the w
 
 One of the reasons I create art is due to my difficulty expressing emotions, which is related to Alexithymia (to be explained in another reflection). I am also drawn to the cryptographic nature of art – often, people cannot fully understand the meaning behind a piece. Making art offers me relief and safe because people usually don't inquire about it. However, having the courage to reveal the process might trigger something new, and that's something worth exploring.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -875,7 +875,7 @@ Personal stories can make the complex more tangible, spark associations, and off
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -887,7 +887,7 @@ You need to know what a good story is and how to tell one. — location: [408]()
 
 # Be an Artist
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -903,7 +903,7 @@ How many people cling to skills, techniques, and knowledge out of fear of losing
 
 I have always been a fan of that philosophy. My dance partners know this about me. Despite my brief period of dancing salsa, I am always willing to help them practice. This way, both of us gain more experience, become better friends, and evolve together. It's a win-win situation.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -913,7 +913,7 @@ Teaching doesn’t mean instant competition. Just because you know the master’
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -923,7 +923,7 @@ The minute you learn something, turn around and teach it to others. — location
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -933,7 +933,7 @@ People feel closer to your work because you’re letting them in on what you kno
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -949,7 +949,7 @@ Ouch! That hurt!
 
 Spans are those individuals who are self-centered, believing nothing else matters. I believe the analogy is akin to the spam emails that inundate us, focusing solely on their interests.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -959,7 +959,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -971,7 +971,7 @@ If you want to be interesting, you have to be interested. — location: [545]()
 
 # Be Brave
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -985,7 +985,7 @@ I've learned that art means different things to different people. People don't r
 
 Once again, [[Art & Fear\|Art & Fear]] tells us that one of the best teachers is our last work. It informs us about what needs improvement for the next piece. I think this applies to criticisms as well.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -995,7 +995,7 @@ valuable skill he picked up in art school was learning how to take a punch. — 
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1005,7 +1005,7 @@ Every piece of criticism is an opportunity for new work. — location: [616]()
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1015,7 +1015,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1025,7 +1025,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1035,7 +1035,7 @@ more criticism you take, the more you realize it can’t hurt you. — location:
 </div></div>
 
 
-> 
+> [!quote] 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1055,7 +1055,7 @@ One strategy is to cultivate relationships so that when you need help, you have 
 
 But don't forget, once you succeed, help others.
 
-> 
+>
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1069,7 +1069,7 @@ When you have success, it’s important to use any dough, clout, or platform you
 
 It is important to understand that our art is also work, even if we don't make a living from it. Therefore, it is crucial to separate it from other parts of our lives. We should not neglect them.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1081,7 +1081,7 @@ It’s very important to separate your work from the rest of your life. As my wi
 
 Inspiration is all around, but the book talks about taking time off and allowing that time to recharge us, preparing us for what comes next.
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -1101,7 +1101,7 @@ The book asks us to:
 
 ---
 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
