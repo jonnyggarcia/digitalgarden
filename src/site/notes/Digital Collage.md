@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-03T00:16:06.392-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-04T18:16:54.380-05:00"}
 ---
 
 
@@ -7,7 +7,12 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 [[My process of creating collages\|My process of creating collages]]
 
-Check the list of all collages published below.
+
+# Collage in practice workshop
+
+[[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
+
+Check the list of all collages published below (work in progress).
 
 ![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)
 ```
@@ -16,6 +21,31 @@ Asas - Jonny Garcia - 2022
 
 # Collage List
 
+- [[Collage - Water\|Collage - Water]]
+- [[Collage - Composition\|Collage - Composition]]
+- [[Collage - Affinity\|Collage - Affinity]]
+- [[Collage - I\|Collage - I]]
+- [[Collage - J Portrait\|Collage - J Portrait]]
+- [[Collage - Fluidity\|Collage - Fluidity]]
+- [[Collage - Equivalence\|Collage - Equivalence]]
+- [[Collage - Possibility\|Collage - Possibility]]
+- [[Collage - Metropolis\|Collage - Metropolis]]
+- [[Collage - Scars\|Collage - Scars]]
+- [[Collage - Careless\|Collage - Careless]]
+- [[Collage - Opposites\|Collage - Opposites]]
+- [[Collage - Eclipsian Eyes\|Collage - Eclipsian Eyes]]
+- [[Collage - Fada\|Collage - Fada]]
+- [[Collage - Numb\|Collage - Numb]]
+- [[Collage - Cast Shadow\|Collage - Cast Shadow]]
+- [[Collage - Quiet Boy\|Collage - Quiet Boy]]
+- [[Collage - Burning Ice\|Collage - Burning Ice]]
+- [[Collage - Flower Mandala\|Collage - Flower Mandala]]
+- [[Collage - Tri Angle\|Collage - Tri Angle]]
+- [[Collage - &\|Collage - &]]
+- [[Collage - Red Moon\|Collage - Red Moon]]
+- [[Collage - Strips\|Collage - Strips]]
+- [[Collage - Triangle\|Collage - Triangle]]
+- [[Collage - Colorful\|Collage - Colorful]]
 - [[Collage - Não Existe Amor em SP\|Collage - Não Existe Amor em SP]]
 - [[Collage - Coming\|Collage - Coming]]
 - [[Collage - Mark\|Collage - Mark]]
