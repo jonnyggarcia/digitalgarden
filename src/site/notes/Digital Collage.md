@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-04T18:16:54.380-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-04T18:24:30.875-05:00"}
 ---
 
 
@@ -21,6 +21,44 @@ Asas - Jonny Garcia - 2022
 
 # Collage List
 
+- [[Collage - Behind\|Collage - Behind]]
+- [[Collage - City of Mist\|Collage - City of Mist]]
+- [[Collage - Holland\|Collage - Holland]]
+- [[Collage - Dry sight\|Collage - Dry sight]]
+- [[Collage - Unfold\|Collage - Unfold]]
+- [[Collage - Book 2021\|Collage - Book 2021]]
+- [[Collage - Abstract\|Collage - Abstract]]
+- [[Collage - Star Flower\|Collage - Star Flower]]
+- [[Collage - Welcome, not\|Collage - Welcome, not]]
+- [[Collage - Downhill\|Collage - Downhill]]
+- [[Collage - Epicentre\|Collage - Epicentre]]
+- [[Collage - Whiff\|Collage - Whiff]]
+- [[Collage - Yellow\|Collage - Yellow]]
+- [[Collage - Stroke\|Collage - Stroke]]
+- [[Collage - 11 o'clock train\|Collage - 11 o'clock train]]
+- [[Collage - Awakening\|Collage - Awakening]]
+- [[Collage - The Door\|Collage - The Door]]
+- [[Collage - Action\|Collage - Action]]
+- [[Collage - Ballerina\|Collage - Ballerina]]
+- [[Collage - Faces 2\|Collage - Faces 2]]
+- [[Collage - Spread\|Collage - Spread]]
+- [[Collage - Worth It\|Collage - Worth It]]
+- [[Collage - Seize\|Collage - Seize]]
+- [[Collage - Angel on a Step\|Collage - Angel on a Step]]
+- [[Collage - Shackles\|Collage - Shackles]]
+- [[Collage - 2NOV1\|Collage - 2NOV1]]
+- [[Collage - Y.L.G\|Collage - Y.L.G]]
+- [[Collage - L C P\|Collage - L C P]]
+- [[Collage - Exit\|Collage - Exit]]
+- [[Collage - Reveal\|Collage - Reveal]]
+- [[Collage - Smoke\|Collage - Smoke]]
+- [[Collage - JDeterminanion\|Collage - JDeterminanion]]
+- [[Collage - Libation\|Collage - Libation]]
+- [[Collage - Journey\|Collage - Journey]]
+- [[Collage - Confused Colour\|Collage - Confused Colour]]
+- [[Collage - Drip\|Collage - Drip]]
+- [[Collage - Excitement\|Collage - Excitement]]
+- [[Collage - Cycle\|Collage - Cycle]]
 - [[Collage - Water\|Collage - Water]]
 - [[Collage - Composition\|Collage - Composition]]
 - [[Collage - Affinity\|Collage - Affinity]]
