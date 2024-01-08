@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-04T18:24:30.875-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-06T11:50:08.347-05:00"}
 ---
 
 
@@ -21,6 +21,10 @@ Asas - Jonny Garcia - 2022
 
 # Collage List
 
+- [[Collage - O tempo não para\|Collage - O tempo não para]]
+- [[Collage - Exagerado\|Collage - Exagerado]]
+- [[Collage - Asas\|Collage - Asas]]
+- [[Collage - Amei te ver\|Collage - Amei te ver]]
 - [[Collage - 2FEB2 2\|Collage - 2FEB2 2]]
 - [[Collage - Bring You Here\|Collage - Bring You Here]]
 - [[Collage - Bouquet\|Collage - Bouquet]]
@@ -361,6 +365,7 @@ Asas - Jonny Garcia - 2022
 - [[Collage - Drive\|Collage - Drive]]
 - [[Collage - Social Media\|Collage - Social Media]]
 - [[Collage - Now\|Collage - Now]]
+- [[Sculpture - Nicodemus\|Sculpture - Nicodemus]]
 - [[Collage - Society 2\|Collage - Society 2]]
 - [[Collage - In Reach\|Collage - In Reach]]
 - [[Collage - Humans\|Collage - Humans]]
@@ -379,6 +384,7 @@ Asas - Jonny Garcia - 2022
 - [[Collage - Home\|Collage - Home]]
 - [[Collage - Aspirations\|Collage - Aspirations]]
 - [[Collage - Interitus\|Collage - Interitus]]
+- [[Sculpture - ASL Culture\|Sculpture - ASL Culture]]
 - [[Collage - Love in SignoLanguage\|Collage - Love in SignoLanguage]]
 - [[Collage - Enlightenment\|Collage - Enlightenment]]
 - [[Collage - Modern Life\|Collage - Modern Life]]
