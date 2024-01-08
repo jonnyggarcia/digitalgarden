@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hashtags/","tags":["arte/colagem"],"created":"2023-12-12T21:42:44.776-05:00","updated":"2024-01-05T11:43:56.569-05:00"}
+{"dg-publish":true,"permalink":"/hashtags/","tags":["arte/colagem"],"created":"2023-12-12T21:42:44.776-05:00","updated":"2024-01-08T09:57:58.824-05:00"}
 ---
 
 
@@ -25,6 +25,7 @@
 #c/LF → Luiz Falcão
 #c/WA → Wagner Azambuja
 #c/PK → Priscila Cubo
+#c/MM → Mira from Contact Improv
 
 ```
 #collage
