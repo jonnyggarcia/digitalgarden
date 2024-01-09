@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-1/","created":"2024-01-04T16:04:13.075-05:00","updated":"2024-01-04T18:16:18.922-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-1/","created":"2024-01-04T16:04:13.075-05:00","updated":"2024-01-09T17:55:14.656-05:00"}
 ---
 
 
@@ -54,7 +54,7 @@ The Treachery of Images, 1929, René Magritte
 
 **Before photography, art was about making a picture, but photography ruled it out. Despite doing picture making, we are more focused on experience making.**
 
-![Fountain, 1917, Marcel Duchamp.png|300](/img/user/Fountain,%201917,%20Marcel%20Duchamp.png)
+![Fountain, 1917, Marcel Duchamp.png|300](/img/user/MEDIA/Fountain,%201917,%20Marcel%20Duchamp.png)
 
 ```
 Fountain, 1917, Marcel Duchamp
@@ -172,6 +172,8 @@ Approach the practice with intention, how to organize, how to diffuse.
 
 **MODULE: Connecting with our Artistic Ancestors**
 Find an example of a collage by an artist in a museum collection artist that dates to before 1990. The collage should speak to an element of your practice: a similar visual tradition, similar subject material, a shared aesthetic kinship, or some other connection. Post the collage to the ***arthistory*** channel in Slack along with your own collage it is in dialog with. Share your thoughts about the connection.
+
+[[Module - Ancestors\|Module - Ancestors]]
 
 Work presented by Ric:
 
