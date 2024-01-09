@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-09T13:25:26.195-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-09T17:56:03.242-05:00"}
 ---
 
 
@@ -11,6 +11,8 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 # Collage in practice workshop
 
 [[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
+
+[[Module - Ancestors\|Module - Ancestors]]
 
 Check the list of all collages published below (work in progress).
 
@@ -252,7 +254,7 @@ Asas - Jonny Garcia - 2022
 | [[Collage - Get in the Box\|Collage - Get in the Box]]                                           |
 | [[Collage - Night\|Collage - Night]]                                                             |
 | [[Collage - Mask\|Collage - Mask]]                                                               |
-| [[Collage - Red - Painting\|Collage - Red - Painting]]                                           |
+| [[Collage - Red Paint\|Collage - Red Paint]]                                                     |
 | [[Collage - Fall\|Collage - Fall]]                                                               |
 | [[Collage - The Illusion\|Collage - The Illusion]]                                               |
 | [[Collage - Dead Labour\|Collage - Dead Labour]]                                                 |
