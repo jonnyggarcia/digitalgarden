@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-02T23:15:35.216-05:00"}
+{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-01-01T11:11:47.975-05:00","updated":"2024-01-09T13:16:04.990-05:00"}
 ---
 
 
-![2021-11-01_20-09-02_681.jpeg|200](/img/user/MEDIA/2021-11-01_20-09-02_681.jpeg)
+![Jonny Garcia.jpeg|200](/img/user/MEDIA/Jonny%20Garcia.jpeg)
 
 *Name*: Jonny Garcia
 *Born*: 1986
