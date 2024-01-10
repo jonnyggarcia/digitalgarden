@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-09T18:23:53.945-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-09T22:10:35.302-05:00"}
 ---
 
 
@@ -13,6 +13,8 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 [[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
 
 [[Module - Ancestors\|Module - Ancestors]]
+
+[[Module - Element of Practice\|Module - Element of Practice]]
 
 ---
 
