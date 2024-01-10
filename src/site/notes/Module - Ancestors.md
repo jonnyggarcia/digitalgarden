@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-01-09T17:55:14.578-05:00","updated":"2024-01-09T18:23:10.051-05:00"}
+{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-01-09T17:55:14.578-05:00","updated":"2024-01-09T22:11:06.595-05:00"}
 ---
 
 # Ancestors
