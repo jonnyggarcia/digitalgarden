@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/knowledge-administration/","created":"2024-01-10T20:20:24.920-05:00","updated":"2024-01-10T20:47:27.536-05:00"}
+{"dg-publish":true,"permalink":"/knowledge-administration/","created":"2024-01-10T20:20:24.920-05:00","updated":"2024-01-11T13:09:28.158-05:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Information exists in *different ways*:
 
 - *Internalized*: undocumented information that the possessor uses naturally (taking the same route home without needing a map).
 - *Explicit*: documented information that can be consumed.
-- *Embedded*: knowledge or intelligence that is not obvious to the user (computational systems, athletes, and dancers do things instinctively).
+- *Embedded*: knowledge or intelligence that is not obvious to the user (languages, computational systems, athletes, and dancers do things instinctively).
 
 Currently, there is significant information fragmentation causing *cognitive overload*.
 
