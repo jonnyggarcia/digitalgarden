@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T21:13:19.482-05:00"}
+{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T21:13:49.802-05:00"}
 ---
 
 
-**MODULE: Element of Practice**
+# MODULE: Element of Practice
 
 Can you identify an element of your artist practice?For example, whenever I make a collage, I write the date on the back and take a quick-and-dirty photo of it and send it to Chris Byrne. Not only do I like the instant feedback, I can often capture things like title and where I made it. This is useful a month later when I get to scanning art and logging the works in my inventory spreadsheet. This is an element of my practice that helps me organize and document my work. Another example is that when working on a project (or series), I build folders or boxes of materials dedicated for that project. I take notes of what materials I am pulling from so that when its time to write captions, I can do so.I know another artist dedicates their Mondays to responding to calls for artists.These are all elements of practice. What things do you do in your practice that may be an element of practice? Or what things would you like to be doing more consistently? Share your thoughts in the channel module-discussion.
 
