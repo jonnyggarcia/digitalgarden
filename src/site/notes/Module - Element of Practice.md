@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T09:22:29.510-05:00"}
+{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T20:54:52.494-05:00"}
 ---
 
 
@@ -37,3 +37,14 @@ Can you identify an element of your artist practice?For example, whenever I make
 
 - When a song resonates with the message I aim to convey, I often find myself listening to it on repeat for several hours while engaging in other activities.
 - When undertaking a commission, I request a song in which the melody, rather than the lyrics, captures the essence of what the individual desires.
+
+## Names
+
+I have established patterns for certain projects:
+
+### Self
+- Always include a picture of my face, though not fully visible.
+- The title always incorporates the last 2 digits of the year and, between them, the month: e.g., 2JAN4 - January 2024.
+
+### Portraits
+- Utilize the first letter of the person's name along with a word that represents them.
