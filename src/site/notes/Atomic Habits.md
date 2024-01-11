@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-01-08T18:34:12.993-05:00","updated":"2024-01-10T17:12:23.719-05:00"}
+{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-01-08T18:34:12.993-05:00","updated":"2024-01-10T17:12:33.493-05:00"}
 ---
 
 
@@ -1018,9 +1018,10 @@ The author requests his assistant to change the passwords for all social media a
 
 1. Increase friction. Increase the number of steps between you and your bad habits.
 2. Use a commitment device. Restrict your future choices to the ones that benefit you. Inversion of the.
+
 ## Inversion of 4th law: Make it unsatisfying
 
 Roger Fisher, founder of the Harvard Negotiation Project, proposed an intriguing solution to the dilemma of granting access to nuclear codes to U.S. presidents. The potential consequences of launching a nuclear weapon may not feel "real" to the president, given the distance of thousands of kilometers. The process seems simple and detached. Fisher's solution involved implanting the codes in the chest of a volunteer, who would carry a butcher knife. If the president sought access to the codes, they would have to kill the volunteer to obtain them, making the potential death more palpable. This extreme measure aimed to deter hasty decisions and potentially save thousands of lives. Of course this proposal was never implemented.
 
-1. Get an accountability partner. Ask someone to watch your behavior.
+1. Get an accountability partner. Ask someone to watch your behaviour.
 2. Create a habit contract. Make the costs of your bad habits public and painful.
