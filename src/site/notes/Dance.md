@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dance/","created":"2024-01-01T12:13:28.562-05:00","updated":"2024-01-09T13:13:38.190-05:00"}
+{"dg-publish":true,"permalink":"/dance/","created":"2024-01-01T12:13:28.562-05:00","updated":"2024-01-10T20:51:01.196-05:00"}
 ---
 
 
@@ -12,5 +12,5 @@
 
 ![2JUN3.jpg|400](/img/user/MEDIA/2JUN3.jpg)
 ```
-2AUG3 - Jonny Garcia - 2023
+2AUG3, 2023, Jonny Garcia
 ```
