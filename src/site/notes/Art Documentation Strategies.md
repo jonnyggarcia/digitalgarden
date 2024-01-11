@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T10:15:02.269-05:00"}
+{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T10:32:36.081-05:00"}
 ---
 
 > [!quote] "you have to fall in love with boredom", Atomic Habits, James Clear
 
 ---
 
-Since joining the [Collage in Practice Workshop](Digital Collage#Collage in practice workshop), I've observed that many participants struggle with the administrative aspects of the practice, such as cataloging and documentation.
+Since joining the [[Digital Collage#Collage in practice workshop\|Collage in Practice Workshop]], I've observed that many participants struggle with the administrative aspects of the practice, such as cataloging and documentation.
 
-Documentation is already an integral part of my artistic practice, as detailed in the [Module - Element of Practice](Module - Element of Practice). The fundamental steps in my administrative work include:
+Documentation is already an integral part of my artistic practice, as detailed in the [[Module - Element of Practice\|Module - Element of Practice]]. The fundamental steps in my administrative work include:
 
 - Naming the collage
 - Adding my stamp with the date
