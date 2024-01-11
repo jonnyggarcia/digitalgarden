@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2023-12-30T11:42:34.510-05:00","updated":"2024-01-10T20:47:16.793-05:00"}
+{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2023-12-30T11:42:34.510-05:00","updated":"2024-01-11T13:09:07.403-05:00"}
 ---
 
 
@@ -23,7 +23,7 @@ A informação existe de *diferentes maneiras*:
 
 - *Internalizada*: informação não documentada que o possessor utiliza de forma natural (fazer o mesmo caminho de casa sem precisar de mapa)
 - *Explicita*: informação documentada que pode ser consumida.
-- *Embutida*: conhecimento ou inteligência que não é óbvia para o usuário (sistemas computacionais, atletas e dançarinos fazem coisas instintivamente)
+- *Embutida*: conhecimento ou inteligência que não é óbvia para o usuário (idiomas, sistemas computacionais, atletas e dançarinos fazem coisas instintivamente)
 
 Atualmente há um enorme fragmentação da informação que causa *sobrecarga cognitiva*.
 
