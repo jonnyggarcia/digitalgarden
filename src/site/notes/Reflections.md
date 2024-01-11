@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reflections/","created":"2024-01-01T11:41:36.910-05:00","updated":"2024-01-08T18:34:08.097-05:00"}
+{"dg-publish":true,"permalink":"/reflections/","created":"2024-01-01T11:41:36.910-05:00","updated":"2024-01-10T20:51:12.875-05:00"}
 ---
 
 # Books
@@ -10,5 +10,5 @@
 
 ![Mystery.jpg|400](/img/user/MEDIA/Mystery.jpg)
 ```
-Mystery - Jonny Garcia - 2021
+Mystery, 2021, Jonny Garcia
 ```
