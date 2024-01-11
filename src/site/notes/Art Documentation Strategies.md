@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T10:32:36.081-05:00"}
+{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T12:10:01.644-05:00"}
 ---
 
 > [!quote] "you have to fall in love with boredom", Atomic Habits, James Clear
@@ -98,3 +98,7 @@ Consider these factors when creating your system:
 - Tailor the system to your needs for maximum effectiveness.
 
 > [!quote] "The holy grail of habit change is not a single 1 percent improvement, but a thousand of them." - Atomic Habits, James Clear
+
+---
+
+For more stuff about organization, check: [[Knowledge Administration\|Knowledge Administration]]
