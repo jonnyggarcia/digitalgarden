@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-01-01T11:09:40.900-05:00","updated":"2024-01-09T13:15:43.392-05:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-01-01T11:09:40.900-05:00","updated":"2024-01-10T20:50:37.403-05:00"}
 ---
 
 
@@ -11,13 +11,15 @@ Welcome to my place on the internet. Here you will find what I like, dislike, pe
 
 [[Reflections\|Reflections]]
 
+[[Organization\|Organization]]
+
 [[Games\|Games]]
 
 [[Who am I\|Who am I]]
 
 ![jonnyggarcia.jpg|400](/img/user/MEDIA/jonnyggarcia.jpg)
 ```
-2FEB2 - Jonny Garcia - 2022
+2FEB2, 2022, Jonny Garcia
 ```
 
 
