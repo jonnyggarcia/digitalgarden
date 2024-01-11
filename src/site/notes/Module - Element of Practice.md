@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T20:54:52.494-05:00"}
+{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-09T22:10:35.140-05:00","updated":"2024-01-10T21:13:19.482-05:00"}
 ---
 
 
@@ -7,9 +7,7 @@
 
 Can you identify an element of your artist practice?For example, whenever I make a collage, I write the date on the back and take a quick-and-dirty photo of it and send it to Chris Byrne. Not only do I like the instant feedback, I can often capture things like title and where I made it. This is useful a month later when I get to scanning art and logging the works in my inventory spreadsheet. This is an element of my practice that helps me organize and document my work. Another example is that when working on a project (or series), I build folders or boxes of materials dedicated for that project. I take notes of what materials I am pulling from so that when its time to write captions, I can do so.I know another artist dedicates their Mondays to responding to calls for artists.These are all elements of practice. What things do you do in your practice that may be an element of practice? Or what things would you like to be doing more consistently? Share your thoughts in the channel module-discussion.
 
-# MODULE: Element of Practice
-
-## Praxis
+# Praxis
 
 - All collages are created using an iPad with the Apple Pencil and Procreate.
 	- Despite the mobility it offers, I exclusively craft collages in my office using an iPad stand.
@@ -33,18 +31,20 @@ Can you identify an element of your artist practice?For example, whenever I make
 - For printed collages, I update an existing Obsidian note, detailing which collage was printed, when, the owner, and ideally a picture of the person with the collage.
 - Around December or January, I curate a selection of approximately 20 collages made in the past year and compile them into a printed book.
 
-## Inspiration
+# Inspiration
 
 - When a song resonates with the message I aim to convey, I often find myself listening to it on repeat for several hours while engaging in other activities.
 - When undertaking a commission, I request a song in which the melody, rather than the lyrics, captures the essence of what the individual desires.
 
-## Names
+# Names
 
 I have established patterns for certain projects:
 
-### Self
+## Self
+
 - Always include a picture of my face, though not fully visible.
 - The title always incorporates the last 2 digits of the year and, between them, the month: e.g., 2JAN4 - January 2024.
 
-### Portraits
+## Portraits
+
 - Utilize the first letter of the person's name along with a word that represents them.
