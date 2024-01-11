@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/organization/","created":"2024-01-10T20:46:23.749-05:00","updated":"2024-01-10T20:50:07.400-05:00"}
+{"dg-publish":true,"permalink":"/organization/","created":"2024-01-10T20:46:23.749-05:00","updated":"2024-01-11T10:01:46.217-05:00"}
 ---
 
+Knowledge Administration
+- [[Knowledge Administration\|English]]
+- [[Administração de Conhecimento\|Português]]
 
-English: [[Knowledge Administration\|Knowledge Administration]]
-
-Portuguese: [[Administração de Conhecimento\|Administração de Conhecimento]]
+[[Art Documentation Strategies\|Art Documentation Strategies]]
 
 ![Metropolis - 2021 - Jonny Garcia.jpg|400](/img/user/MEDIA/Metropolis%20-%202021%20-%20Jonny%20Garcia.jpg)
 
