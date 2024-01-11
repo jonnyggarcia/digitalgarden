@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-09T22:10:35.302-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-10T20:50:51.597-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Check the list of all collages published below (work in progress).
 
 ![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)
 ```
-Asas - Jonny Garcia - 2022
+Asas, 2022, Jonny Garcia
 ```
 
 # Collage List
