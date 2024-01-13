@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-13T10:44:48.711-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-13T10:50:35.338-05:00"}
 ---
 
 
@@ -86,7 +86,7 @@ Not able to find the reference. Please contact me if you know.
 Artist: Jenny Hampe
 ```
 - [Kolaj article](https://kolajmagazine.com/artistdirectory/jenny-hampe)
-- I suspect that is the [Instagram](https://www.instagram.com/jennysfolkartmuseum/) profile.
+- I suspect this is her [Instagram](https://www.instagram.com/jennysfolkartmuseum/) profile.
 - Repurpose of a picture
 
 ![Ivanhoe, circa 1830, John Thomas Haines.png](/img/user/MEDIA/Ivanhoe,%20circa%201830,%20John%20Thomas%20Haines.png)
@@ -314,7 +314,7 @@ Remastered Art Bennington 1945 by Anna Mary Robertson Moses aka Grandma Moses
 
 ---
 
-# Am Approach to Collage
+# An Approach to Collage
 
 How to approach collage in this workshop?
 
