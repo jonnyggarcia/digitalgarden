@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T12:10:01.644-05:00"}
+{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-01-11T09:05:11.455-05:00","updated":"2024-01-11T15:07:41.983-05:00"}
 ---
 
 > [!quote] "you have to fall in love with boredom", Atomic Habits, James Clear
