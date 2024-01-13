@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-13T10:50:35.338-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-13T10:51:44.251-05:00"}
 ---
 
 
@@ -252,7 +252,7 @@ Where do we draw the line on what is a collage?
 >
 > - The children made a collage of postcards.
 
-- "Infantilize because children also paint and draw.
+- Infantilize because children also paint and draw.
 
 ## [Study.com](https://study.com/academy/lesson/what-is-collage-definition-famous-artists-examples.html#:~:text=Collage%2C%20from%20the%20French%20verb,materials%20to%20a%20flat%20surface)
 
