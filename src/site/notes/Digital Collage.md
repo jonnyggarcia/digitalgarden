@@ -270,7 +270,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Dead Labour\|Collage - Dead Labour]]                                                 |
 | [[Collage - Icarus Illusion\|Collage - Icarus Illusion]]                                         |
 | [[Collage - Book 2020\|Collage - Book 2020]]                                                     |
-| [[Collage - Collage Paying Cards\|Collage - Collage Paying Cards]]                               |
+| [[Collage - Collage Playing Cards\|Collage - Collage Playing Cards]]                             |
 | [[Collage - Visionary Clarity 2-2\|Collage - Visionary Clarity 2-2]]                             |
 | [[Collage - Visionary Clarity 1-2\|Collage - Visionary Clarity 1-2]]                             |
 | [[Collage - Planting Seeds\|Collage - Planting Seeds]]                                           |
