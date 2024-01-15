@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-toronto/","tags":["c/building","c/abstract","c/paint-collage","c/colorfull","c/landscape","c/toronto","c/city"],"created":"2024-01-15T11:18:08.306-05:00","updated":"2024-01-15T11:21:11.303-05:00"}
+{"dg-publish":true,"permalink":"/collage-toronto/","tags":["c/building","c/abstract","c/paint-collage","c/colorfull","c/landscape","c/toronto","c/city","c/2023"],"created":"2024-01-15T11:18:08.306-05:00","updated":"2024-01-15T11:21:28.820-05:00"}
 ---
 
 
