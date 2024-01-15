@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-creative-act/","created":"2024-01-11T12:11:46.730-05:00","updated":"2024-01-14T10:53:03.486-05:00"}
+{"dg-publish":true,"permalink":"/the-creative-act/","created":"2024-01-11T12:11:46.730-05:00","updated":"2024-01-14T10:55:25.860-05:00"}
 ---
 
 
