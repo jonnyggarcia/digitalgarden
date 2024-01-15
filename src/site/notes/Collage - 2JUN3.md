@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-jun-3/","tags":["c/dance","c/salsa","c/jonny","c/series","c/self","c/woman","c/upsidedown","c/red","c/orange","analise","c/blue","c/flat-background","c/white"],"created":"2024-01-09T09:07:03.590-05:00","updated":"2024-01-10T10:03:13.605-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-jun-3/","tags":["c/dance","c/salsa","c/jonny","c/series","c/self","c/woman","c/upsidedown","c/red","c/orange","c/blue","c/flat-background","c/white","c/purple"],"created":"2024-01-09T09:07:03.590-05:00","updated":"2024-01-15T09:07:27.933-05:00"}
 ---
 
 
