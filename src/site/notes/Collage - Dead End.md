@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dead-end/","tags":["sign","c/hand","c/flat-background","c/bw","c/white","c/writting-machine"],"created":"2024-01-08T14:21:45.899-05:00","updated":"2024-01-10T10:03:13.207-05:00"}
+{"dg-publish":true,"permalink":"/collage-dead-end/","tags":["c/hand","c/flat-background","c/bw","c/white","c/writting-machine","c/sign"],"created":"2024-01-08T14:21:45.899-05:00","updated":"2024-01-15T09:09:57.183-05:00"}
 ---
 
 
