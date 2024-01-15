@@ -34,7 +34,6 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
-| [[Collage - sample\|Collage - sample]]                                                           |
 | [[Collage - 2JUN3\|Collage - 2JUN3]]                                                             |
 | [[Collage - Voiceless 2\|Collage - Voiceless 2]]                                                 |
 | [[Collage - Subject\|Collage - Subject]]                                                         |
