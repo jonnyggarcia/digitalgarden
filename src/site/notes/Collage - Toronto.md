@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/collage-toronto/","tags":["c/building","c/abstract","c/paint-collage","c/colorfull","c/landscape","c/toronto","c/city","c/2023"],"created":"2024-01-15T11:18:08.306-05:00","updated":"2024-01-15T11:21:28.820-05:00"}
+{"dg-publish":true,"permalink":"/collage-toronto/","tags":["c/building","c/abstract","c/paint-collage","c/colorfull","c/landscape","c/toronto","c/city","c/2024"],"created":"2024-01-15T11:18:08.306-05:00","updated":"2024-01-15T11:25:28.229-05:00"}
 ---
 
 
 [Toronto](https://www.instagram.com/p/C2IJhevOWIv/?hl=en)
 
-Year: 2023
+Year: 2024
 
 Context: I decide to explore something new inspired by the book Collage, Colour and Texture in Painting by Mike Bernard and Tobin Capo
 
