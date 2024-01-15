@@ -34,6 +34,7 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Toronto\|Collage - Toronto]]                                                         |
 | [[Collage - 2JUN3\|Collage - 2JUN3]]                                                             |
 | [[Collage - Voiceless 2\|Collage - Voiceless 2]]                                                 |
 | [[Collage - Subject\|Collage - Subject]]                                                         |
