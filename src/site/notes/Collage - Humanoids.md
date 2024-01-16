@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-humanoids/","tags":["c/body","c/eye","c/nose","c/sounds","c/mouth","c/boot","c/feet","c/foot","c/subway","c/maul"],"created":"2024-01-01T16:10:32.652-05:00","updated":"2024-01-10T10:03:12.730-05:00"}
+{"dg-publish":true,"permalink":"/collage-humanoids/","tags":["c/body","c/eye","c/nose","c/sounds","c/mouth","c/boot","c/feet","c/foot","c/subway","c/maul","c/2019"],"created":"2024-01-01T16:10:32.652-05:00","updated":"2024-01-15T21:36:22.961-05:00"}
 ---
 
 
