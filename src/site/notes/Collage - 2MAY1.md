@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-may-1/","tags":["c/self","c/jonny","c/bw","c/crack","c/faceless","c/glass","c/money","c/loss","c/flat-background"],"created":"2024-01-03T17:17:08.399-05:00","updated":"2024-01-10T10:03:12.735-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-may-1/","tags":["c/self","c/jonny","c/bw","c/crack","c/faceless","c/glass","c/money","c/loss","c/flat-background","c/series"],"created":"2024-01-03T17:17:08.399-05:00","updated":"2024-01-15T19:56:41.856-05:00"}
 ---
 
 
