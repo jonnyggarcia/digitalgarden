@@ -38,6 +38,9 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Descending\|Collage - Descending]]                                                   |
+| [[Collage - WExpirincing\|Collage - WExpirincing]]                                               |
+| [[Collage - Moon\|Collage - Moon]]                                                               |
 | [[Collage - Toronto\|Collage - Toronto]]                                                         |
 | [[Collage - 2JUN3\|Collage - 2JUN3]]                                                             |
 | [[Collage - Voiceless 2\|Collage - Voiceless 2]]                                                 |
@@ -108,7 +111,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Avoidant\|Collage - Avoidant]]                                                       |
 | [[Collage - One Self\|Collage - One Self]]                                                       |
 | [[Collage - Decaying\|Collage - Decaying]]                                                       |
-| [[Collage - 2MAY-OCT2\|Collage - 2MAY-OCT2]]                                                     |
+| [[Collage - 2MAY - OCT2\|Collage - 2MAY - OCT2]]                                                 |
 | [[Collage - Void\|Collage - Void]]                                                               |
 | [[Collage - Just Enough\|Collage - Just Enough]]                                                 |
 | [[Collage - Hanging\|Collage - Hanging]]                                                         |
@@ -127,14 +130,14 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Asas\|Collage - Asas]]                                                               |
 | [[Collage - Amei te ver\|Collage - Amei te ver]]                                                 |
 | [[Collage - 2FEB2 2\|Collage - 2FEB2 2]]                                                         |
-| [[Collage - Bring You Here\|Collage - Bring You Here]]                                           |
+| [[Collage - Bring You Home\|Collage - Bring You Home]]                                           |
 | [[Collage - Bouquet\|Collage - Bouquet]]                                                         |
 | [[Collage - Sprout\|Collage - Sprout]]                                                           |
 | [[Collage - Thoughts\|Collage - Thoughts]]                                                       |
 | [[Collage - Chaos 2\|Collage - Chaos 2]]                                                         |
 | [[Collage - There 2\|Collage - There 2]]                                                         |
 | [[Collage - Once Upon a Time 2\|Collage - Once Upon a Time 2]]                                   |
-| [[Collage - Obstruct\|Collage - Obstruct]]                                                       |
+| [[Collage - Any Time Obstruct\|Collage - Any Time Obstruct]]                                     |
 | [[Collage - Black and White\|Collage - Black and White]]                                         |
 | [[Collage - Dust\|Collage - Dust]]                                                               |
 | [[Collage - Take Down\|Collage - Take Down]]                                                     |
@@ -176,7 +179,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - 11 o'clock train\|Collage - 11 o'clock train]]                                       |
 | [[Collage - Awakening\|Collage - Awakening]]                                                     |
 | [[Collage - The Door\|Collage - The Door]]                                                       |
-| [[Collage - Action\|Collage - Action]]                                                           |
+| [[Collage - Movement\|Collage - Movement]]                                                       |
 | [[Collage - Ballerina\|Collage - Ballerina]]                                                     |
 | [[Collage - Faces 2\|Collage - Faces 2]]                                                         |
 | [[Collage - Spread\|Collage - Spread]]                                                           |
@@ -225,7 +228,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Não Existe Amor em SP\|Collage - Não Existe Amor em SP]]                             |
 | [[Collage - Coming\|Collage - Coming]]                                                           |
 | [[Collage - Mark\|Collage - Mark]]                                                               |
-| [[Collage - Pinkter\|Collage - Pinkter]]                                                         |
+| [[Collage - Pinkher\|Collage - Pinkher]]                                                         |
 | [[Collage - Art Here\|Collage - Art Here]]                                                       |
 | [[Collage - Majesty\|Collage - Majesty]]                                                         |
 | [[Collage - Oraner\|Collage - Oraner]]                                                           |
@@ -393,9 +396,9 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Man Upside Down\|Collage - Man Upside Down]]                                         |
 | [[Collage - City\|Collage - City]]                                                               |
 | [[Collage - The Begging of the End\|Collage - The Begging of the End]]                           |
-| [[Collage - Failling\|Collage - Failling]]                                                       |
+| [[Collage - Falling\|Collage - Falling]]                                                         |
 | [[Collage - Position\|Collage - Position]]                                                       |
-| [[Collage - J\|Collage - J]]                                                                     |
+| [[Collage -\|Collage -]]                                                                         |
 | [[Collage - Y\|Collage - Y]]                                                                     |
 | [[Collage - K\|Collage - K]]                                                                     |
 | [[Collage - Looking For\|Collage - Looking For]]                                                 |
@@ -422,7 +425,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Leap\|Collage - Leap]]                                                               |
 | [[Collage - BWall\|Collage - BWall]]                                                             |
 | [[Collage - Challenge\|Collage - Challenge]]                                                     |
-| [[Collage - Locker\|Collage - Locker]]                                                           |
+| [[Collage - Locked\|Collage - Locked]]                                                           |
 | [[Collage - Obsession\|Collage - Obsession]]                                                     |
 | [[Collage - Procreating\|Collage - Procreating]]                                                 |
 | [[Collage - Resisting the Earths Pull\|Collage - Resisting the Earths Pull]]                     |
@@ -498,7 +501,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Occupant\|Collage - Occupant]]                                                       |
 | [[Collage - 1AUG7\|Collage - 1AUG7]]                                                             |
 | [[Collage - 1FEB9\|Collage - 1FEB9]]                                                             |
-| [[Collage - 1APR9 - 00FORMATION00\|Collage - 1APR9 - 00FORMATION00]]                             |
+| [[Collage - 00FORMATION00\|Collage - 00FORMATION00]]                                             |
 | [[Collage - Path\|Collage - Path]]                                                               |
 | [[Collage - Lost\|Collage - Lost]]                                                               |
 | [[Collage - Mater\|Collage - Mater]]                                                             |
