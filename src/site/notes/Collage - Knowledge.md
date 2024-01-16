@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-knowledge/","tags":["c/book","c/cubism","c/pages"],"created":"2024-01-01T15:51:55.646-05:00","updated":"2024-01-10T10:03:13.208-05:00"}
+{"dg-publish":true,"permalink":"/collage-knowledge/","tags":["c/book","c/cubism","c/pages","c/2019"],"created":"2024-01-01T15:51:55.646-05:00","updated":"2024-01-15T21:31:28.528-05:00"}
 ---
 
 
