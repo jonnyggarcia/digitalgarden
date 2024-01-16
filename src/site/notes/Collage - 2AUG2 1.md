@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-aug-2-1/","tags":["c/PK","c/trip","c/Sweden","c/apple","c/self","c/jonny","c/purple","c/abstract"],"created":"2024-01-08T09:50:40.976-05:00","updated":"2024-01-10T10:03:13.974-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-aug-2-1/","tags":["c/PK","c/trip","c/Sweden","c/apple","c/self","c/jonny","c/purple","c/abstract","c/series"],"created":"2024-01-08T09:50:40.976-05:00","updated":"2024-01-15T19:55:26.113-05:00"}
 ---
 
 
