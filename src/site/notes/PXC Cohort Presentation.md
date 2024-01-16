@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pxc-cohort-presentation/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-15T19:28:40.876-05:00"}
+{"dg-publish":true,"permalink":"/pxc-cohort-presentation/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-15T19:59:11.574-05:00"}
 ---
 
 
@@ -92,7 +92,7 @@ Bler, 2021
 
 Here's a refined version of your text:
 
-This series aims to document significant moments in my life. Each collage prominently features my face, strategically covered. The goal is to be an ongoing project until the end of my life. The title consistently follows the pattern of YMMMY. Presently, there are 20 collages.
+This series aims to document significant moments in my life. Each collage prominently features my face, strategically covered. The goal is to be an ongoing project until the end of my life. The title consistently follows the pattern of YMMMY. Presently, there are 22 collages.
 
 ![2JUN3, 2023, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2JUN3,%202023,%20Self,%20Jonny%20Garcia.jpg)
 
