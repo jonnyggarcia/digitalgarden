@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-fada/","tags":["c/abstract","c/uncollage","c/brown","c/red","c/yellow","c/FF"],"created":"2024-01-04T11:21:24.455-05:00","updated":"2024-01-10T10:17:20.750-05:00"}
+{"dg-publish":true,"permalink":"/collage-fada/","tags":["c/abstract","c/uncollage","c/brown","c/red","c/yellow","c/FF","c/2021"],"created":"2024-01-04T11:21:24.455-05:00","updated":"2024-01-15T21:57:44.802-05:00"}
 ---
 
 
