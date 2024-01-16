@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sprout/","tags":["c/contemporary-collage-magazine","c/green","c/plant","c/abstract","c/circle","c/swer","c/pattern","c/black"],"created":"2024-01-05T11:41:22.339-05:00","updated":"2024-01-10T10:03:13.444-05:00"}
+{"dg-publish":true,"permalink":"/collage-sprout/","tags":["c/contemporary-collage-magazine","c/green","c/plant","c/abstract","c/circle","c/swer","c/pattern","c/black","c/2022"],"created":"2024-01-05T11:41:22.339-05:00","updated":"2024-01-15T22:02:55.226-05:00"}
 ---
 
 
