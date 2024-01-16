@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-aug-7/","tags":["c/brasil","c/deaf","c/birthday","c/ice-cream","c/self","c/green","c/YT"],"created":"2024-01-01T16:35:49.403-05:00","updated":"2024-01-10T10:03:13.533-05:00"}
+{"dg-publish":true,"permalink":"/collage-1-aug-7/","tags":["c/brasil","c/deaf","c/birthday","c/ice-cream","c/self","c/green","c/YT","c/series"],"created":"2024-01-01T16:35:49.403-05:00","updated":"2024-01-15T19:54:55.587-05:00"}
 ---
 
 
