@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-aug-9/","tags":["c/self","c/jonny","c/imperia","c/birthday","c/friends","c/PR","c/purple","c/japan","c/food"],"created":"2024-01-01T16:58:54.520-05:00","updated":"2024-01-10T10:03:12.764-05:00"}
+{"dg-publish":true,"permalink":"/collage-1-aug-9/","tags":["c/self","c/jonny","c/imperia","c/birthday","c/friends","c/PR","c/purple","c/japan","c/food","c/series"],"created":"2024-01-01T16:58:54.520-05:00","updated":"2024-01-15T19:55:06.321-05:00"}
 ---
 
 
