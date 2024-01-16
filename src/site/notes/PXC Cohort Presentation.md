@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pxc-cohort-presentation/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-15T19:24:15.819-05:00"}
+{"dg-publish":true,"permalink":"/pxc-cohort-presentation/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-15T19:28:40.876-05:00"}
 ---
 
 
@@ -46,13 +46,13 @@ Overall, I believe my artistic practice has evolved through two distinct stages:
 Work, 2019
 ```
 
-![The Body as a Prison, 2019, Jonny Garcia.png](/img/user/MEDIA/The%20Body%20as%20a%20Prison,%202019,%20Jonny%20Garcia.png)
+![The Body as a Prison, 2019, Jonny Garcia.png|500](/img/user/MEDIA/The%20Body%20as%20a%20Prison,%202019,%20Jonny%20Garcia.png)
 
 ```
 Body as Prison, 2019
 ```
 
-![Epiphay, 2019, Jonny Garcia.png](/img/user/MEDIA/Epiphay,%202019,%20Jonny%20Garcia.png)
+![Epiphay, 2019, Jonny Garcia.png|500](/img/user/MEDIA/Epiphay,%202019,%20Jonny%20Garcia.png)
 
 ```
 Epiphany, 2019
@@ -60,7 +60,7 @@ Epiphany, 2019
 
 ### Analog
 
-![Discharging Waste, 2023, Corporeal Gestures, Jonny Garcia.png](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20Jonny%20Garcia.png)
+![Discharging Waste, 2023, Corporeal Gestures, Jonny Garcia.png|500](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20Jonny%20Garcia.png)
 
 ```
 Discharging Waste, 2023, Corporeal Gestures
@@ -68,19 +68,19 @@ Discharging Waste, 2023, Corporeal Gestures
 
 ### Design
 
-![Apologies, 2020, Jonny Garcia.jpg](/img/user/MEDIA/Apologies,%202020,%20Jonny%20Garcia.jpg)
+![Apologies, 2020, Jonny Garcia.jpg|500](/img/user/MEDIA/Apologies,%202020,%20Jonny%20Garcia.jpg)
 
 ```
 Aplogies, 2020
 ```
 
-![1,000,000, 2020, Jonny Garcia.jpg](/img/user/MEDIA/1,000,000,%202020,%20Jonny%20Garcia.jpg)
+![1,000,000, 2020, Jonny Garcia.jpg|500](/img/user/MEDIA/1,000,000,%202020,%20Jonny%20Garcia.jpg)
 
 ```
 1,000,000, 2020
 ```
 
-![Bler - 2021 - Jonny Garcia.jpg](/img/user/MEDIA/Bler%20-%202021%20-%20Jonny%20Garcia.jpg)
+![Bler - 2021 - Jonny Garcia.jpg|500](/img/user/MEDIA/Bler%20-%202021%20-%20Jonny%20Garcia.jpg)
 
 ```
 Bler, 2021
@@ -94,21 +94,21 @@ Here's a refined version of your text:
 
 This series aims to document significant moments in my life. Each collage prominently features my face, strategically covered. The goal is to be an ongoing project until the end of my life. The title consistently follows the pattern of YMMMY. Presently, there are 20 collages.
 
-![2JUN3, 2023, Self, Jonny Garcia.jpg](/img/user/MEDIA/2JUN3,%202023,%20Self,%20Jonny%20Garcia.jpg)
+![2JUN3, 2023, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2JUN3,%202023,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
 2JUN3, 2023
 Context: Whe I started dancing salsa
 ```
 
-![2FEB2, 2022, Self, Jonny Garcia.jpg](/img/user/MEDIA/2FEB2,%202022,%20Self,%20Jonny%20Garcia.jpg)
+![2FEB2, 2022, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2FEB2,%202022,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
 2FEB2, 2022, Self
 Context: Eye surgery
 ```
 
-![2AUG2,  2022, Self, Jonny Garcia.jpg](/img/user/MEDIA/2AUG2,%20%202022,%20Self,%20Jonny%20Garcia.jpg)
+![2AUG2,  2022, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2AUG2,%20%202022,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
 2AUG2,  2022, Self
@@ -119,19 +119,19 @@ Context: When I contracted Covid while traveling
 
 This project aims to create artistic portraits of significant individuals in my life. The representations are symbolic and not focused on realism. The titles follow a pattern of using the first letter of the person's name along with a word that reflects how I perceive them. Currently, there are 4 collages.
 
-![MVision, 2021, Portraits, Jonny Garcia.jpg](/img/user/MEDIA/MVision,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
+![MVision, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/MVision,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
 MVision, 2021, Portraits
 ```
 
-![FChallenge, 2021, Portraits, Jonny Garcia.jpg](/img/user/MEDIA/FChallenge,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
+![FChallenge, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/FChallenge,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
 FChallenge, 2021, Portraits
 ```
 
-![JDetermination, 2021, Portraits, Jonny Garcia.jpg](/img/user/MEDIA/JDetermination,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
+![JDetermination, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/JDetermination,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
 JDetermination, 2021, Portraits
@@ -141,19 +141,19 @@ JDetermination, 2021, Portraits
 
 I find joy in music, and occasionally, I channel that passion into creating collages inspired by songs. Typically, my focus lies more in connection with the melody rather than the lyrics. For this particular series, the creative process involves immersing myself in the chosen song for at least a couple of hours on loop before translating the musical essence into visual art. Currently, there are 15 collages in this series.
 
-![Amei Te Ver by Thiago York, 2022, 2022, Jonny Garcia.jpg](/img/user/MEDIA/Amei%20Te%20Ver%20by%20Thiago%20York,%202022,%202022,%20Jonny%20Garcia.jpg)
+![Amei Te Ver by Thiago York, 2022, 2022, Jonny Garcia.jpg|500](/img/user/MEDIA/Amei%20Te%20Ver%20by%20Thiago%20York,%202022,%202022,%20Jonny%20Garcia.jpg)
 
 ```
 Amei Te Ver by Thiago York, Songs, 2022
 ```
 
-![Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg](/img/user/MEDIA/Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
+![Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 
 ```
 Trem das Onze by Adoniram Barbosa, 2022, Songs
 ```
 
-![Exagerado by Cazuza, 2022, Songs, Jonny Garcia.jpg](/img/user/MEDIA/Exagerado%20by%20Cazuza,%202022,%20Songs,%20Jonny%20Garcia.jpg)
+![Exagerado by Cazuza, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Exagerado%20by%20Cazuza,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 
 ```
 Exagerado by Cazuza, 2022, Songs
