@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cut-lines/","tags":["c/building","c/geometric","c/blue","c/green","c/beje"],"created":"2024-01-02T07:54:00.631-05:00","updated":"2024-01-10T10:03:12.775-05:00"}
+{"dg-publish":true,"permalink":"/collage-cut-lines/","tags":["c/building","c/geometric","c/blue","c/green","c/beje","c/2019"],"created":"2024-01-02T07:54:00.631-05:00","updated":"2024-01-15T21:33:28.385-05:00"}
 ---
 
 
