@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-j-portrait/","tags":["c/uncollage","c/portrait","c/purple","c/JA"],"created":"2024-01-04T11:31:43.270-05:00","updated":"2024-01-10T10:03:12.933-05:00"}
+{"dg-publish":true,"permalink":"/collage-j-portrait/","tags":["c/uncollage","c/portrait","c/purple","c/JA","c/2021"],"created":"2024-01-04T11:31:43.270-05:00","updated":"2024-01-15T22:05:11.645-05:00"}
 ---
 
 
