@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-analysis/","tags":["c/couch","c/red","c/smoke","c/water","c/drop","c/blue","c/wall"],"created":"2024-01-01T16:23:51.625-05:00","updated":"2024-01-10T10:03:13.255-05:00"}
+{"dg-publish":true,"permalink":"/collage-analysis/","tags":["c/couch","c/red","c/smoke","c/water","c/drop","c/blue","c/wall","c/2019"],"created":"2024-01-01T16:23:51.625-05:00","updated":"2024-01-15T21:46:11.556-05:00"}
 ---
 
 
