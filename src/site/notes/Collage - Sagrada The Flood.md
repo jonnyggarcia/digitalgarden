@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sagrada-the-flood/","tags":["c/sagrada","c/wave","c/japan","c/pacifier","c/blue","c/uncollage","c/religion"],"created":"2024-01-01T15:48:47.845-05:00","updated":"2024-01-10T10:03:12.813-05:00"}
+{"dg-publish":true,"permalink":"/collage-sagrada-the-flood/","tags":["c/sagrada","c/wave","c/japan","c/pacifier","c/blue","c/uncollage","c/religion","c/series","c/2019"],"created":"2024-01-01T15:48:47.845-05:00","updated":"2024-01-15T21:43:53.735-05:00"}
 ---
 
 
