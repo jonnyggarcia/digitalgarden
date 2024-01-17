@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-commune/","tags":["c/2022","c/contemporary-collage-magazine","c/letters","c/circle","c/number","c/blue","c/yellow","c/wood","c/green"],"created":"2024-01-16T23:24:19.925-05:00","updated":"2024-01-17T00:01:11.483-05:00"}
+{"dg-publish":true,"permalink":"/collage-commune/","tags":["c/2022","c/contemporary-collage-magazine","c/letters","c/circle","c/number","c/blue","c/yellow","c/wood","c/green"],"created":"2024-01-16T23:24:19.925-05:00","updated":"2024-01-17T09:00:29.610-05:00"}
 ---
 
 
