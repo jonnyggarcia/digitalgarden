@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dwelling/","tags":["c/red","c/building","c/tower","c/flat-background"],"created":"2024-01-02T07:41:46.087-05:00","updated":"2024-01-10T10:03:13.628-05:00"}
+{"dg-publish":true,"permalink":"/collage-dwelling/","tags":["c/red","c/building","c/tower","c/flat-background","c/2019"],"created":"2024-01-02T07:41:46.087-05:00","updated":"2024-01-16T22:53:39.691-05:00"}
 ---
 
 
