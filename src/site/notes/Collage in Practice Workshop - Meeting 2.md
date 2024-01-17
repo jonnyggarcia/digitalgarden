@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-13T10:51:44.251-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-16T20:33:26.189-05:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Any documentation is useful on many levels.
 
 # Collage in Theory
 
-## Game: Is it collage?
+## Game: Is it Collage?
 
 - Clue: They are all Collage as per Ric.
 - Why is it a collage?
@@ -280,7 +280,7 @@ Anastasia creates an experience and invites people to encounter it through a pho
 
 - Refers to the type or category of the art or the content of the art (idea)
 
-Ric mentioned a person who painted with paper due lack of funds for paint. Medium is collage but the genre is painting.
+[Benon Lutaaya](https://kolajmagazine.com/artistdirectory/benon-lutaaya) painted with paper due lack of funds for paint. Medium is collage but the genre is painting.
 
 - **What is our medium?**
 - **What is our genre?**
@@ -498,7 +498,7 @@ A Subtlety, 2014, Kara Walker
 - Illustrations as a form of commission.
 	- The New York Times uses them often.
 
-## Social media
+## Social Media
 
 - Social Media favours motion over still images.
 
@@ -507,7 +507,7 @@ A Subtlety, 2014, Kara Walker
 - Selling your art is like any other business, and it requires a business plan.
 - A website where you could explore selling art <https://www.saatchiart.com>
 
-## Other factors
+## Other Factors
 
  - Tourism.
   - Provides an Instagram opportunity.
@@ -529,7 +529,7 @@ Sunday, Sitting on the Bank of Butterfly Meadow, Wardell Milan
 - Billboard.
 - Commissioned by the park to encourage the participation of black community to visit the park. They belong here.
 
-## Collage art
+## Collage Art
 
 - Usually small.
 - How to fill the wall?
