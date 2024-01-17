@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-disruption/","tags":["c/gear","c/woman","c/gold"],"created":"2024-01-03T00:05:37.659-05:00","updated":"2024-01-10T10:03:13.965-05:00"}
+{"dg-publish":true,"permalink":"/collage-disruption/","tags":["c/gear","c/woman","c/gold","c/2020"],"created":"2024-01-03T00:05:37.659-05:00","updated":"2024-01-16T21:51:54.196-05:00"}
 ---
 
 
