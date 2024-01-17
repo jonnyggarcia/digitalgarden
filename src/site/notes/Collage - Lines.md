@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-lines/","tags":["c/abstract","c/geometric","c/analog","c/red","c/blue","c/green"],"created":"2024-01-02T07:58:16.204-05:00","updated":"2024-01-10T10:03:13.972-05:00"}
+{"dg-publish":true,"permalink":"/collage-lines/","tags":["c/abstract","c/geometric","c/analog","c/red","c/blue","c/green","c/2019","c/paint"],"created":"2024-01-02T07:58:16.204-05:00","updated":"2024-01-16T23:47:56.687-05:00"}
 ---
 
 
