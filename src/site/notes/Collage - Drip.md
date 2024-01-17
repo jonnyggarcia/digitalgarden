@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-drip/","tags":["c/eye","c/church","c/abstract","c/beje","c/red","c/green","c/building"],"created":"2024-01-04T18:53:24.447-05:00","updated":"2024-01-10T10:03:13.962-05:00"}
+{"dg-publish":true,"permalink":"/collage-drip/","tags":["c/eye","c/church","c/abstract","c/beje","c/red","c/green","c/building","c/2021"],"created":"2024-01-04T18:53:24.447-05:00","updated":"2024-01-16T23:52:47.023-05:00"}
 ---
 
 
