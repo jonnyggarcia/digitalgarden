@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-contemporary/","tags":["c/circle","c/rpg","c/eye","c/clock","c/nails","c/bird","c/animal","c/hand","c/yellow","c/blue","c/purple"],"created":"2024-01-02T16:15:03.017-05:00","updated":"2024-01-10T10:03:13.652-05:00"}
+{"dg-publish":true,"permalink":"/collage-contemporary/","tags":["c/circle","c/rpg","c/eye","c/clock","c/nails","c/bird","c/animal","c/hand","c/yellow","c/blue","c/purple","c/2020"],"created":"2024-01-02T16:15:03.017-05:00","updated":"2024-01-16T23:40:11.830-05:00"}
 ---
 
 
