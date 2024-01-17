@@ -38,6 +38,19 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Flames\|Collage - Flames]]                                                           |
+| [[Collage - Atch\|Collage - Atch]]                                                               |
+| [[Collage - F\|Collage - F]]                                                                     |
+| [[Collage - Dark City\|Collage - Dark City]]                                                     |
+| [[Collage - Layers\|Collage - Layers]]                                                           |
+| [[Collage - 1APR9\|Collage - 1APR9]]                                                             |
+| [[Collage - Discovery\|Collage - Discovery]]                                                     |
+| [[Collage - Metamorphosis\|Collage - Metamorphosis]]                                             |
+| [[Collage - MG\|Collage - MG]]                                                                   |
+| [[Collage - Onlooker\|Collage - Onlooker]]                                                       |
+| [[Collage - Bloodbath\|Collage - Bloodbath]]                                                     |
+| [[Collage - Enticement\|Collage - Enticement]]                                                   |
+| [[Collage - Nuanda\|Collage - Nuanda]]                                                           |
 | [[Collage - Attention Identity\|Collage - Attention Identity]]                                   |
 | [[Collage - Overlooked\|Collage - Overlooked]]                                                   |
 | [[Collage - H2022\|Collage - H2022]]                                                             |
