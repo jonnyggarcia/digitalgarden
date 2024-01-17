@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-welcome-not/","tags":["c/traffic-light","c/white","sign","c/shape","c/paper","c/fire","c/letters"],"created":"2024-01-04T19:31:08.304-05:00","updated":"2024-01-10T10:03:14.134-05:00"}
+{"dg-publish":true,"permalink":"/collage-welcome-not/","tags":["c/traffic-light","c/white","sign","c/shape","c/paper","c/fire","c/letters","c/2022"],"created":"2024-01-04T19:31:08.304-05:00","updated":"2024-01-16T23:27:08.278-05:00"}
 ---
 
 
