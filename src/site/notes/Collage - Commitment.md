@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-commitment/","tags":["c/man","c/arrow","c/neon","c/hand","c/face","c/black","c/flat-background","c/blue"],"created":"2024-01-08T14:08:05.869-05:00","updated":"2024-01-10T10:03:12.858-05:00"}
+{"dg-publish":true,"permalink":"/collage-commitment/","tags":["c/man","c/arrow","c/neon","c/hand","c/face","c/black","c/flat-background","c/blue","c/2023"],"created":"2024-01-08T14:08:05.869-05:00","updated":"2024-01-16T22:28:41.750-05:00"}
 ---
 
 
