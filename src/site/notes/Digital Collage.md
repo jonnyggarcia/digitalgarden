@@ -118,7 +118,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Avoidant\|Collage - Avoidant]]                                                       |
 | [[Collage - One Self\|Collage - One Self]]                                                       |
 | [[Collage - Decaying\|Collage - Decaying]]                                                       |
-| [[Collage - 2MAY - OCT2\|Collage - 2MAY - OCT2]]                                                 |
+| [[Collage - 2MAY-OCT2\|Collage - 2MAY-OCT2]]                                                     |
 | [[Collage - Void\|Collage - Void]]                                                               |
 | [[Collage - Just Enough\|Collage - Just Enough]]                                                 |
 | [[Collage - Hanging\|Collage - Hanging]]                                                         |
