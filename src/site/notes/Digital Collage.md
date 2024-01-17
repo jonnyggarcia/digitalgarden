@@ -44,7 +44,6 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Evaporated\|Collage - Evaporated]]                                                   |
 | [[Collage - Commune\|Collage - Commune]]                                                         |
 | [[Collage - Abstrer\|Collage - Abstrer]]                                                         |
-| [[Collage - 2DEC1\|Collage - 2DEC1]]                                                             |
 | [[Collage - Descending\|Collage - Descending]]                                                   |
 | [[Collage - WExpirincing\|Collage - WExpirincing]]                                               |
 | [[Collage - Moon\|Collage - Moon]]                                                               |
