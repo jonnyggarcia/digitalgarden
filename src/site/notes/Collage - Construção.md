@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-construcao/","tags":["c/sign","c/music","c/series","c/gear","c/arrow","c/geometric","c/Chico-Buarque"],"created":"2024-01-02T20:20:07.679-05:00","updated":"2024-01-10T10:20:58.874-05:00"}
+{"dg-publish":true,"permalink":"/collage-construcao/","tags":["c/sign","c/music","c/series","c/gear","c/arrow","c/geometric","c/Chico-Buarque","c/2020"],"created":"2024-01-02T20:20:07.679-05:00","updated":"2024-01-16T23:27:46.628-05:00"}
 ---
 
 
