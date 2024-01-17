@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-aim-s-touch/","tags":["c/CI","c/dance","c/MM","c/hand","c/woman","c/yell","c/purple","c/plant"],"created":"2024-01-08T09:53:57.040-05:00","updated":"2024-01-10T10:03:13.857-05:00"}
+{"dg-publish":true,"permalink":"/collage-aim-s-touch/","tags":["c/CI","c/dance","c/MM","c/hand","c/woman","c/yell","c/purple","c/plant","c/2022"],"created":"2024-01-08T09:53:57.040-05:00","updated":"2024-01-16T23:13:57.834-05:00"}
 ---
 
 
