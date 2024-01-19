@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-15T14:16:08.749-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-18T15:47:31.186-05:00"}
 ---
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
@@ -13,6 +13,8 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 [[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
 
 [[Collage in Practice Workshop - Meeting 2\|Collage in Practice Workshop - Meeting 2]]
+
+[[Collage in Practice Workshop - Meeting 3\|Collage in Practice Workshop - Meeting 3]]
 
 [[Module - Ancestors\|Module - Ancestors]]
 
