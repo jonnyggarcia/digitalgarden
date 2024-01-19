@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-16T20:33:26.189-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-01-11T15:01:00.061-05:00","updated":"2024-01-18T15:52:55.187-05:00"}
 ---
 
 
@@ -328,7 +328,7 @@ How to approach collage in this workshop?
 
 - Material: Materials used.
 - Juxtaposition: Conversation between the elements.
-- Composition: How to arrange them.
+- Composition: The arrangement of the elements.
 
 The artistic process of each artist is fascinating, and artists tend to be afraid to share it. We should be proud of it and share the ins and outs.
 
