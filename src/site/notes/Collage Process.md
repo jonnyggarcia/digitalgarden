@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-21T12:55:04.043-05:00"}
+{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-21T13:00:43.512-05:00"}
 ---
 
 
@@ -32,24 +32,24 @@ My areas of interest are:
 
 ## Phases
 
-Overall, I believe my artistic practice has evolved through two distinct stages:
+Overall, I believe my artistic practice has evolved through three distinct stages:
 
 - **Exploration:** This phase was purely experimental, closely resembling analog collage. Digital resources were minimally utilized, primarily for resizing. It was a brief exploratory period.
 - **Design:** This phase emerged after studying design. The resulting pieces often feature flat backgrounds and prioritize visual harmony. They share many similarities with analog collage in their aesthetic approach.
-- **Blending:** Shifting the focus towards creating artworks where elements seamlessly merge. It fully utilizes all digital capabilities.
+- **Blend:** Shifting the focus towards creating artworks where elements seamlessly merge. It fully utilizes all digital capabilities.
 
 ### Exploration
 
 ![Work - 2019 - Jonny Garcia.png|700](/img/user/MEDIA/Work%20-%202019%20-%20Jonny%20Garcia.png)
 
 ```
-Work, 2019
+Work, 2019, Jonny Garcia
 ```
 
 ![The Body as a Prison, 2019, Jonny Garcia.png|500](/img/user/MEDIA/The%20Body%20as%20a%20Prison,%202019,%20Jonny%20Garcia.png)
 
 ```
-Body as Prison, 2019
+Body as Prison, 2019, Jonny Garcia
 ```
 
 ### Design
@@ -57,13 +57,13 @@ Body as Prison, 2019
 ![Epiphay, 2019, Jonny Garcia.png|500](/img/user/MEDIA/Epiphay,%202019,%20Jonny%20Garcia.png)
 
 ```
-Epiphany, 2019
+Epiphany, 2019, Jonny Garcia
 ```
 
 ![Consumption, 2019, Jonny Garcia.jpg|500](/img/user/MEDIA/Consumption,%202019,%20Jonny%20Garcia.jpg)
 
 ```
-Consumption, 2019
+Consumption, 2019, Jonny Garcia
 ```
 
 ### Analog
@@ -71,7 +71,7 @@ Consumption, 2019
 ![Discharging Waste, 2023, Corporeal Gestures, analog, Jonny Garcia.png|500](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20analog,%20Jonny%20Garcia.png)
 
 ```
-Discharging Waste, 2023, Corporeal Gestures
+Discharging Waste, 2023, Corporeal Gestures, Jonny Garcia
 ```
 
 ### Blending
@@ -79,19 +79,19 @@ Discharging Waste, 2023, Corporeal Gestures
 ![Apologies, 2020, Jonny Garcia.jpg|500](/img/user/MEDIA/Apologies,%202020,%20Jonny%20Garcia.jpg)
 
 ```
-Apologies, 2020
+Apologies, 2020, Jonny Garcia
 ```
 
 ![1,000,000, 2020, Jonny Garcia.jpg|500](/img/user/MEDIA/1,000,000,%202020,%20Jonny%20Garcia.jpg)
 
 ```
-1,000,000, 2020
+1,000,000, 2020, Jonny Garcia
 ```
 
 ![Bler - 2021 - Jonny Garcia.jpg|500](/img/user/MEDIA/Bler%20-%202021%20-%20Jonny%20Garcia.jpg)
 
 ```
-Bler, 2021
+Bler, 2021, Jonny Garcia
 ```
 
 ## Projects
@@ -103,21 +103,21 @@ This series aims to document significant moments in my life. Each collage promin
 ![2JUN3, 2023, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2JUN3,%202023,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
-2JUN3, 2023
+2JUN3, 2023, Self, Jonny Garcia
 Context: Whe I started dancing salsa
 ```
 
 ![2FEB2, 2022, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2FEB2,%202022,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
-2FEB2, 2022, Self
+2FEB2, 2022, Self, Jonny Garcia
 Context: Eye surgery
 ```
 
 ![2AUG2,  2022, Self, Jonny Garcia.jpg|500](/img/user/MEDIA/2AUG2,%20%202022,%20Self,%20Jonny%20Garcia.jpg)
 
 ```
-2AUG2,  2022, Self
+2AUG2,  2022, Self, Jonny Garcia
 Context: When I contracted Covid while traveling
 ```
 
@@ -128,19 +128,19 @@ This project aims to create artistic portraits of significant individuals in my 
 ![MVision, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/MVision,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
-MVision, 2021, Portraits
+MVision, 2021, Portraits, Jonny Garcia
 ```
 
 ![FChallenge, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/FChallenge,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
-FChallenge, 2021, Portraits
+FChallenge, 2021, Portraits, Jonny Garcia
 ```
 
 ![JDetermination, 2021, Portraits, Jonny Garcia.jpg|500](/img/user/MEDIA/JDetermination,%202021,%20Portraits,%20Jonny%20Garcia.jpg)
 
 ```
-JDetermination, 2021, Portraits
+JDetermination, 2021, Portraits, Jonny Garcia
 ```
 
 ### Songs
@@ -152,7 +152,7 @@ I find joy in music, and occasionally, I channel that passion into creating coll
 [Youtube](https://youtu.be/W62-ZG9tPpI?si=HT8I-bszRLRS0Lvn)
 
 ```
-Amei Te Ver by Thiago York, Songs, 2022
+Amei Te Ver by Thiago York, Songs, 2022, Jonny Garcia
 ```
 
 ![Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
@@ -160,7 +160,7 @@ Amei Te Ver by Thiago York, Songs, 2022
 [Youtube](https://youtu.be/RkkGVgOqPuM?si=qtS4QREYdVIHcxW-)
 
 ```
-Trem das Onze by Adoniram Barbosa, 2022, Songs
+Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia
 ```
 
 ![Exagerado by Cazuza, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Exagerado%20by%20Cazuza,%202022,%20Songs,%20Jonny%20Garcia.jpg)
@@ -168,7 +168,7 @@ Trem das Onze by Adoniram Barbosa, 2022, Songs
 [Youtube](https://youtu.be/ZBwjT-3t2O8?si=PC8USWazRACHfOGQ)
 
 ```
-Exagerado by Cazuza, 2022, Songs
+Exagerado by Cazuza, 2022, Songs, Jonny Garcia
 ```
 
 ### Corporeal Gestures
@@ -201,8 +201,10 @@ From left to right:
 ```
 
 ![Discharging Waste, 2019, Corporeal Gestures, Digital Collage, Jonny Garcia.jpg|300](/img/user/MEDIA/Discharging%20Waste,%202019,%20Corporeal%20Gestures,%20Digital%20Collage,%20Jonny%20Garcia.jpg)![Discharging Waste, 2023, Corporeal Gestures, analog, Jonny Garcia.png|305](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20analog,%20Jonny%20Garcia.png)
+
 ```
-Discharging Waste, 2019, Corporeal Gestures, digital vs analog
+Discharging Waste, 2019, Corporeal Gestures, Jonny Garcia
+digital vs analog
 ```
 
 ---
@@ -281,7 +283,8 @@ jonnyggarcia@gmail.com
 [@art.by.jonny](https://www.instagram.com/art.by.jonny/)
 
 ---
-Not accessible: 
+
+Not accessible:
 
 [[Excalidraw/Art Process, Jonny Garcia.excalidraw\|Art Process, Jonny Garcia.excalidraw]]
 
