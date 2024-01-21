@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-18T15:47:31.186-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-19T13:44:34.442-05:00"}
 ---
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
 
 My art is all published on [instagram](https://www.instagram.com/art.by.jonny/). From time to time I will be posting articles here about the arts I make.
 
-[[My process of creating collages\|My process of creating collages]]
+[[Collage Process\|Collage Process]]
 
-# Collage in practice workshop
+# Collage in Practice Workshop
 
 [[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
 
@@ -21,10 +21,6 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 [[Module - Element of Practice\|Module - Element of Practice]]
 
 [[Module - Collage Taxonomy\|Module - Collage Taxonomy]]
-
----
-
-[[PXC Cohort Presentation\|PXC Cohort Presentation]]
 
 ---
 
