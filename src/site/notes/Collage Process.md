@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-21T10:42:18.102-05:00"}
+{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-21T12:55:04.043-05:00"}
 ---
 
 
@@ -149,17 +149,23 @@ I find joy in music, and occasionally, I channel that passion into creating coll
 
 ![Amei Te Ver by Tiago Iork, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Amei%20Te%20Ver%20by%20Tiago%20Iork,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 
+[Youtube](https://youtu.be/W62-ZG9tPpI?si=HT8I-bszRLRS0Lvn)
+
 ```
 Amei Te Ver by Thiago York, Songs, 2022
 ```
 
 ![Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 
+[Youtube](https://youtu.be/RkkGVgOqPuM?si=qtS4QREYdVIHcxW-)
+
 ```
 Trem das Onze by Adoniram Barbosa, 2022, Songs
 ```
 
 ![Exagerado by Cazuza, 2022, Songs, Jonny Garcia.jpg|500](/img/user/MEDIA/Exagerado%20by%20Cazuza,%202022,%20Songs,%20Jonny%20Garcia.jpg)
+
+[Youtube](https://youtu.be/ZBwjT-3t2O8?si=PC8USWazRACHfOGQ)
 
 ```
 Exagerado by Cazuza, 2022, Songs
@@ -186,7 +192,7 @@ From left to right:
 - Breathing
 - Nourishing
 - Sleeping
-- Discharging waste
+- Discharging Waste
 - Procreating
 - Resisting the earth’s pull
 - Communicating
@@ -194,14 +200,12 @@ From left to right:
 - Dying
 ```
 
+![Discharging Waste, 2019, Corporeal Gestures, Digital Collage, Jonny Garcia.jpg|300](/img/user/MEDIA/Discharging%20Waste,%202019,%20Corporeal%20Gestures,%20Digital%20Collage,%20Jonny%20Garcia.jpg)![Discharging Waste, 2023, Corporeal Gestures, analog, Jonny Garcia.png|305](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20analog,%20Jonny%20Garcia.png)
+```
+Discharging Waste, 2019, Corporeal Gestures, digital vs analog
+```
+
 ---
-
-![Discharging Waste, 2019, Corporeal Gestures, Digital Collage, Jonny Garcia.jpg](/img/user/MEDIA/Discharging%20Waste,%202019,%20Corporeal%20Gestures,%20Digital%20Collage,%20Jonny%20Garcia.jpg)
-
-![Discharging Waste, 2023, Corporeal Gestures, analog, Jonny Garcia.png|500](/img/user/MEDIA/Discharging%20Waste,%202023,%20Corporeal%20Gestures,%20analog,%20Jonny%20Garcia.png)
-
----
-
 
 ### Willian Talbot Collage Book
 
@@ -275,6 +279,9 @@ jonnyggarcia@gmail.com
 <https://jonnygarcia.netlify.app/>
 
 [@art.by.jonny](https://www.instagram.com/art.by.jonny/)
+
+---
+Not accessible: 
 
 [[Excalidraw/Art Process, Jonny Garcia.excalidraw\|Art Process, Jonny Garcia.excalidraw]]
 
