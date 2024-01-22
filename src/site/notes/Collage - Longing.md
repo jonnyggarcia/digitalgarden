@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-longing/","tags":["c/bw","c/woman","c/hand","c/body","c/black"],"created":"2024-01-02T09:02:53.015-05:00","updated":"2024-01-10T10:03:13.108-05:00"}
+{"dg-publish":true,"permalink":"/collage-longing/","tags":["c/bw","c/woman","c/hand","c/body","c/black","c/2020"],"created":"2024-01-02T09:02:53.015-05:00","updated":"2024-01-22T15:48:07.195-05:00"}
 ---
 
 
