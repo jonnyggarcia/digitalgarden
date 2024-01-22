@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-hanging/","tags":["c/clothes","c/bw","c/lamp","c/hand","c/falling-to-pieces","c/hanger","c/dating-app"],"created":"2024-01-08T10:00:13.875-05:00","updated":"2024-01-10T10:03:12.721-05:00"}
+{"dg-publish":true,"permalink":"/collage-hanging/","tags":["c/clothes","c/bw","c/lamp","c/hand","c/falling-to-pieces","c/hanger","c/dating-app","c/2022"],"created":"2024-01-08T10:00:13.875-05:00","updated":"2024-01-22T14:42:51.670-05:00"}
 ---
 
 
