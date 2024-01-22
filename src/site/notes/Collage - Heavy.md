@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-heavy/","tags":["c/hand","c/woman","c/abstract","c/body","c/subway"],"created":"2024-01-02T16:17:38.434-05:00","updated":"2024-01-10T10:03:13.963-05:00"}
+{"dg-publish":true,"permalink":"/collage-heavy/","tags":["c/hand","c/woman","c/abstract","c/body","c/subway","c/2020"],"created":"2024-01-02T16:17:38.434-05:00","updated":"2024-01-22T15:51:58.594-05:00"}
 ---
 
 
