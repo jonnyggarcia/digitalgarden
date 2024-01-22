@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-position/","tags":["c/woman","c/red","c/building","c/church","c/plant"],"created":"2024-01-02T09:12:50.301-05:00","updated":"2024-01-10T10:03:14.007-05:00"}
+{"dg-publish":true,"permalink":"/collage-position/","tags":["c/woman","c/red","c/building","c/church","c/plant","c/2020"],"created":"2024-01-02T09:12:50.301-05:00","updated":"2024-01-22T15:48:28.591-05:00"}
 ---
 
 
