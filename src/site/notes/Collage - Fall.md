@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-fall/","tags":["c/green","c/yellow","c/abstract","c/paint-collage","c/red"],"created":"2024-01-03T17:08:46.001-05:00","updated":"2024-01-10T10:03:14.028-05:00"}
+{"dg-publish":true,"permalink":"/collage-fall/","tags":["c/green","c/yellow","c/abstract","c/paint-collage","c/red","c/2021"],"created":"2024-01-03T17:08:46.001-05:00","updated":"2024-01-22T14:53:59.230-05:00"}
 ---
 
 
