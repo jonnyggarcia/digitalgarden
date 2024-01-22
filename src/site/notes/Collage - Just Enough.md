@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-just-enough/","tags":["c/flat-background","c/white","c/hand","c/blue","c/yellow","c/dating-app"],"created":"2024-01-08T10:04:55.666-05:00","updated":"2024-01-10T10:03:13.003-05:00"}
+{"dg-publish":true,"permalink":"/collage-just-enough/","tags":["c/flat-background","c/white","c/hand","c/blue","c/yellow","c/dating-app","c/2022"],"created":"2024-01-08T10:04:55.666-05:00","updated":"2024-01-22T14:43:01.741-05:00"}
 ---
 
 
