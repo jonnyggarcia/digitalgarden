@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-burden/","tags":["c/trip","c/hand","c/man","c/abstract","c/metal-finish","c/blue","c/CK","c/fight"],"created":"2024-01-03T16:52:06.592-05:00","updated":"2024-01-10T10:03:14.019-05:00"}
+{"dg-publish":true,"permalink":"/collage-burden/","tags":["c/trip","c/hand","c/man","c/abstract","c/metal-finish","c/blue","c/CK","c/fight","c/2021"],"created":"2024-01-03T16:52:06.592-05:00","updated":"2024-01-22T14:47:09.627-05:00"}
 ---
 
 
