@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-presence/","tags":["c/woman","c/faceless","c/bw","c/blue","c/abstract"],"created":"2024-01-08T13:58:36.766-05:00","updated":"2024-01-10T10:03:12.717-05:00"}
+{"dg-publish":true,"permalink":"/collage-presence/","tags":["c/woman","c/faceless","c/bw","c/blue","c/abstract","c/2022"],"created":"2024-01-08T13:58:36.766-05:00","updated":"2024-01-22T14:44:38.179-05:00"}
 ---
 
 
