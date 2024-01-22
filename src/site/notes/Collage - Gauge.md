@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-gauge/","tags":["c/man","c/elder","c/pressure","c/pipe","c/wall","c/bw"],"created":"2024-01-08T14:19:27.240-05:00","updated":"2024-01-10T10:03:12.787-05:00"}
+{"dg-publish":true,"permalink":"/collage-gauge/","tags":["c/man","c/elder","c/pressure","c/pipe","c/wall","c/bw","c/2023"],"created":"2024-01-08T14:19:27.240-05:00","updated":"2024-01-22T14:21:30.747-05:00"}
 ---
 
 
