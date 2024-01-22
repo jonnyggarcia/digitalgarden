@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-her/","tags":["c/letters","c/japan","c/woman","c/flat-background","c/mouth"],"created":"2024-01-02T08:53:55.066-05:00","updated":"2024-01-10T10:03:13.949-05:00"}
+{"dg-publish":true,"permalink":"/collage-her/","tags":["c/letters","c/japan","c/woman","c/flat-background","c/mouth","c/2020"],"created":"2024-01-02T08:53:55.066-05:00","updated":"2024-01-22T15:46:56.617-05:00"}
 ---
 
 
