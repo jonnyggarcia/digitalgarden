@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-distant/","tags":["c/line","c/woman","c/black","c/brown","c/circle"],"created":"2024-01-08T14:15:07.900-05:00","updated":"2024-01-10T10:03:13.754-05:00"}
+{"dg-publish":true,"permalink":"/collage-distant/","tags":["c/line","c/woman","c/black","c/brown","c/circle","c/2023"],"created":"2024-01-08T14:15:07.900-05:00","updated":"2024-01-22T14:20:44.151-05:00"}
 ---
 
 
