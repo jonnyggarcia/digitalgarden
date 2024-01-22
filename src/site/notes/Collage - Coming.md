@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-coming/","tags":["c/woman","c/mask","c/brick","c/wall","c/red","c/blue"],"created":"2024-01-03T17:43:48.832-05:00","updated":"2024-01-10T10:03:13.977-05:00"}
+{"dg-publish":true,"permalink":"/collage-coming/","tags":["c/woman","c/mask","c/brick","c/wall","c/red","c/blue","c/2021"],"created":"2024-01-03T17:43:48.832-05:00","updated":"2024-01-22T15:02:17.889-05:00"}
 ---
 
 
