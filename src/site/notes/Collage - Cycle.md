@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cycle/","tags":["c/ripples","c/woman","c/circle","c/abstract","c/red","c/beje"],"created":"2024-01-04T18:22:10.014-05:00","updated":"2024-01-10T10:03:12.771-05:00"}
+{"dg-publish":true,"permalink":"/collage-cycle/","tags":["c/ripples","c/woman","c/circle","c/abstract","c/red","c/beje","c/2021"],"created":"2024-01-04T18:22:10.014-05:00","updated":"2024-01-22T15:04:12.197-05:00"}
 ---
 
 
