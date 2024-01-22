@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-mask/","tags":["c/mexico","c/yellow","c/brown","c/flat-background","c/red","c/cut-over","c/pattern","c/mask"],"created":"2024-01-03T17:10:12.232-05:00","updated":"2024-01-10T10:03:13.405-05:00"}
+{"dg-publish":true,"permalink":"/collage-mask/","tags":["c/mexico","c/yellow","c/brown","c/flat-background","c/red","c/cut-over","c/pattern","c/mask","c/2021"],"created":"2024-01-03T17:10:12.232-05:00","updated":"2024-01-22T14:54:10.310-05:00"}
 ---
 
 
