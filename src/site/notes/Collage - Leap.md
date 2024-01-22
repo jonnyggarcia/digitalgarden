@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-leap/","tags":["c/paris-collage","c/woman","c/flat-background","c/blue","c/stained-glass","c/jump"],"created":"2024-01-02T08:47:10.211-05:00","updated":"2024-01-10T10:03:13.579-05:00"}
+{"dg-publish":true,"permalink":"/collage-leap/","tags":["c/paris-collage","c/woman","c/flat-background","c/blue","c/stained-glass","c/jump","c/2020"],"created":"2024-01-02T08:47:10.211-05:00","updated":"2024-01-22T15:46:05.268-05:00"}
 ---
 
 
