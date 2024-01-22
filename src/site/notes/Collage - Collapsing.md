@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-collapsing/","tags":["c/man","c/bw","c/flat-background","c/abstract","c/profile","c/white"],"created":"2024-01-03T17:16:01.546-05:00","updated":"2024-01-16T21:44:08.952-05:00"}
+{"dg-publish":true,"permalink":"/collage-collapsing/","tags":["c/man","c/bw","c/flat-background","c/abstract","c/profile","c/white","c/2021"],"created":"2024-01-03T17:16:01.546-05:00","updated":"2024-01-22T14:54:44.355-05:00"}
 ---
 
 
