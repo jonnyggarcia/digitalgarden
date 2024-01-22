@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-majesty/","tags":["c/printed","c/child","c/metal-finish","c/abstract","c/game","c/letters","c/LK"],"created":"2024-01-03T17:40:23.236-05:00","updated":"2024-01-10T10:03:13.557-05:00"}
+{"dg-publish":true,"permalink":"/collage-majesty/","tags":["c/printed","c/child","c/metal-finish","c/abstract","c/game","c/letters","c/LK","c/2021"],"created":"2024-01-03T17:40:23.236-05:00","updated":"2024-01-22T15:01:59.736-05:00"}
 ---
 
 
