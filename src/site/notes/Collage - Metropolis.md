@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-metropolis/","tags":["c/flat-background","c/white","c/city","c/tree","c/man","c/hood","c/upsidedown","c/faceless"],"created":"2024-01-04T11:27:28.496-05:00","updated":"2024-01-10T10:03:13.335-05:00"}
+{"dg-publish":true,"permalink":"/collage-metropolis/","tags":["c/flat-background","c/white","c/city","c/tree","c/man","c/hood","c/upsidedown","c/faceless","c/2021"],"created":"2024-01-04T11:27:28.496-05:00","updated":"2024-01-22T15:03:32.384-05:00"}
 ---
 
 
