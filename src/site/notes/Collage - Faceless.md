@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-faceless/","tags":["c/woman","c/faceless","c/plant","c/bw","c/abstract"],"created":"2024-01-09T08:52:23.091-05:00","updated":"2024-01-10T10:03:13.628-05:00"}
+{"dg-publish":true,"permalink":"/collage-faceless/","tags":["c/woman","c/faceless","c/plant","c/bw","c/abstract","c/2023"],"created":"2024-01-09T08:52:23.091-05:00","updated":"2024-01-22T14:24:46.560-05:00"}
 ---
 
 
