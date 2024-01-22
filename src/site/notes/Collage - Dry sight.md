@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dry-sight/","tags":["c/jonny","c/tree","c/winter","c/pink","c/letters","c/falling-to-pieces","c/dry","c/glasses"],"created":"2024-01-04T19:34:12.607-05:00","updated":"2024-01-10T10:03:12.991-05:00"}
+{"dg-publish":true,"permalink":"/collage-dry-sight/","tags":["c/jonny","c/tree","c/winter","c/pink","c/letters","c/falling-to-pieces","c/dry","c/glasses","c/2022"],"created":"2024-01-04T19:34:12.607-05:00","updated":"2024-01-22T14:28:27.015-05:00"}
 ---
 
 
