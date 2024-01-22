@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-on-e-1/","tags":["c/hand","c/abstract","c/cross","c/brown","c/red","c/face"],"created":"2024-01-05T11:27:10.582-05:00","updated":"2024-01-10T10:03:13.777-05:00"}
+{"dg-publish":true,"permalink":"/collage-on-e-1/","tags":["c/hand","c/abstract","c/cross","c/brown","c/red","c/face","c/2022"],"created":"2024-01-05T11:27:10.582-05:00","updated":"2024-01-22T14:30:27.869-05:00"}
 ---
 
 
