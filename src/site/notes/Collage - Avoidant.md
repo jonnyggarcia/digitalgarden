@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-avoidant/","tags":["c/hand","c/heart","c/red","c/purple","c/ring","c/smoke"],"created":"2024-01-08T13:48:46.814-05:00","updated":"2024-01-10T10:03:14.033-05:00"}
+{"dg-publish":true,"permalink":"/collage-avoidant/","tags":["c/hand","c/heart","c/red","c/purple","c/ring","c/smoke","c/2022"],"created":"2024-01-08T13:48:46.814-05:00","updated":"2024-01-22T14:43:27.032-05:00"}
 ---
 
 
