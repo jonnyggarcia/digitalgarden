@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-canadians/","tags":["c/fence","c/abstract","c/flower","c/shadow"],"created":"2024-01-03T17:32:43.360-05:00","updated":"2024-01-10T10:03:12.739-05:00"}
+{"dg-publish":true,"permalink":"/collage-canadians/","tags":["c/fence","c/abstract","c/flower","c/shadow","c/2021"],"created":"2024-01-03T17:32:43.360-05:00","updated":"2024-01-22T15:01:13.765-05:00"}
 ---
 
 
