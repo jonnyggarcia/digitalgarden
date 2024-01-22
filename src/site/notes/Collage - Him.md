@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-him/","tags":["c/green","c/minas-gerais","c/map","c/cartography","c/IG","c/2019"],"created":"2024-01-01T16:55:58.550-05:00","updated":"2024-01-21T23:21:40.482-05:00"}
+{"dg-publish":true,"permalink":"/collage-him/","tags":["c/green","c/minas-gerais","c/map","c/cartography","c/IG","c/2019","c/printed"],"created":"2024-01-01T16:55:58.550-05:00","updated":"2024-01-22T14:51:45.677-05:00"}
 ---
 
 
