@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-book-2021/","tags":["c/collage-book","c/2021"],"created":"2024-01-04T19:33:11.447-05:00","updated":"2024-01-15T18:46:17.434-05:00"}
+{"dg-publish":true,"permalink":"/collage-book-2021/","tags":["c/collage-book","c/2021","c/printed"],"created":"2024-01-04T19:33:11.447-05:00","updated":"2024-01-22T14:48:11.028-05:00"}
 ---
 
 
