@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-exagerado/","tags":["c/music","c/series","c/Cazuza","c/bw","c/body","c/acrobatic","c/face","c/woman","c/flat-background"],"created":"2024-01-08T09:26:25.089-05:00","updated":"2024-01-10T10:20:58.801-05:00"}
+{"dg-publish":true,"permalink":"/collage-exagerado/","tags":["c/music","c/series","c/Cazuza","c/bw","c/body","c/acrobatic","c/face","c/woman","c/flat-background","c/2022"],"created":"2024-01-08T09:26:25.089-05:00","updated":"2024-01-22T14:39:00.438-05:00"}
 ---
 
 
