@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-consume/","tags":["c/RS","c/fruit","c/lips","c/hand","c/strawberry","c/red","c/cup"],"created":"2024-01-08T09:51:32.959-05:00","updated":"2024-01-10T10:03:13.257-05:00"}
+{"dg-publish":true,"permalink":"/collage-consume/","tags":["c/RS","c/fruit","c/lips","c/hand","c/strawberry","c/red","c/cup","c/2022"],"created":"2024-01-08T09:51:32.959-05:00","updated":"2024-01-22T14:42:05.955-05:00"}
 ---
 
 
