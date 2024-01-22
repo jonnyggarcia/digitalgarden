@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-f-challenge/","tags":["c/portrait","c/series","c/bw","c/abstract","c/white","c/FM"],"created":"2024-01-03T17:34:28.696-05:00","updated":"2024-01-10T10:03:12.719-05:00"}
+{"dg-publish":true,"permalink":"/collage-f-challenge/","tags":["c/portrait","c/series","c/bw","c/abstract","c/white","c/FM","c/2021"],"created":"2024-01-03T17:34:28.696-05:00","updated":"2024-01-22T15:01:31.148-05:00"}
 ---
 
 
