@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-journey/","tags":["c/ripples","c/flat-background","c/bridge","c/falling-to-pieces","c/white","c/tree","c/black","c/bw"],"created":"2024-01-04T18:59:19.009-05:00","updated":"2024-01-10T10:03:12.725-05:00"}
+{"dg-publish":true,"permalink":"/collage-journey/","tags":["c/ripples","c/flat-background","c/bridge","c/falling-to-pieces","c/white","c/tree","c/black","c/bw","c/2021"],"created":"2024-01-04T18:59:19.009-05:00","updated":"2024-01-22T15:04:36.450-05:00"}
 ---
 
 
