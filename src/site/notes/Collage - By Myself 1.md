@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-by-myself-1/","tags":["c/shadow","c/man","c/abstract","c/hand","c/woman","c/red","c/green"],"created":"2024-01-08T14:20:49.980-05:00","updated":"2024-01-10T10:03:12.788-05:00"}
+{"dg-publish":true,"permalink":"/collage-by-myself-1/","tags":["c/shadow","c/man","c/abstract","c/hand","c/woman","c/red","c/green","c/2023"],"created":"2024-01-08T14:20:49.980-05:00","updated":"2024-01-22T14:21:42.893-05:00"}
 ---
 
 
