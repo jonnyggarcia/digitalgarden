@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-get-in-the-box/","tags":["c/social-media","c/camera","c/phone","c/woman","c/cellphone","c/pattern","c/geometric","c/blue","c/purple"],"created":"2024-01-03T17:11:36.819-05:00","updated":"2024-01-10T10:03:13.159-05:00"}
+{"dg-publish":true,"permalink":"/collage-get-in-the-box/","tags":["c/social-media","c/camera","c/phone","c/woman","c/cellphone","c/pattern","c/geometric","c/blue","c/purple","c/2021"],"created":"2024-01-03T17:11:36.819-05:00","updated":"2024-01-22T14:54:19.176-05:00"}
 ---
 
 
