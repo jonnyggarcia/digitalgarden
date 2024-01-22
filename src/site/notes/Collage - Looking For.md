@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-looking-for/","tags":["c/woman","c/man","c/bw","c/black"],"created":"2024-01-02T09:03:32.409-05:00","updated":"2024-01-10T10:03:13.894-05:00"}
+{"dg-publish":true,"permalink":"/collage-looking-for/","tags":["c/woman","c/man","c/bw","c/black","c/2020"],"created":"2024-01-02T09:03:32.409-05:00","updated":"2024-01-22T15:48:11.349-05:00"}
 ---
 
 
