@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-frustration/","tags":["c/number","c/abstract","c/hand","c/shadow","c/letters"],"created":"2024-01-02T16:16:20.059-05:00","updated":"2024-01-10T10:03:12.755-05:00"}
+{"dg-publish":true,"permalink":"/collage-frustration/","tags":["c/number","c/abstract","c/hand","c/shadow","c/letters","c/2020"],"created":"2024-01-02T16:16:20.059-05:00","updated":"2024-01-22T15:51:49.634-05:00"}
 ---
 
 
