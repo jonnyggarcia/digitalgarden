@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-excitement/","tags":["c/rope","c/woman","c/man","c/city","c/black","c/red","c/faceless","c/RS"],"created":"2024-01-04T18:22:55.513-05:00","updated":"2024-01-10T10:03:12.761-05:00"}
+{"dg-publish":true,"permalink":"/collage-excitement/","tags":["c/rope","c/woman","c/man","c/city","c/black","c/red","c/faceless","c/RS","c/2021"],"created":"2024-01-04T18:22:55.513-05:00","updated":"2024-01-22T15:04:20.899-05:00"}
 ---
 
 
