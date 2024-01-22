@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dead-labour/","tags":["c/hammer","c/abstract","c/red","c/green"],"created":"2024-01-03T17:07:21.684-05:00","updated":"2024-01-10T10:03:14.041-05:00"}
+{"dg-publish":true,"permalink":"/collage-dead-labour/","tags":["c/hammer","c/abstract","c/red","c/green","c/2021"],"created":"2024-01-03T17:07:21.684-05:00","updated":"2024-01-22T14:53:46.462-05:00"}
 ---
 
 
