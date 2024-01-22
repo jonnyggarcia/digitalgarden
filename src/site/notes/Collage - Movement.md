@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-movement/","tags":["c/bw","c/line","c/acrobatic","c/people","c/motion","c/series","c/2022"],"created":"2024-01-04T19:20:42.294-05:00","updated":"2024-01-15T21:37:30.891-05:00"}
+{"dg-publish":true,"permalink":"/collage-movement/","tags":["c/bw","c/line","c/acrobatic","c/people","c/motion","c/series","c/2021"],"created":"2024-01-04T19:20:42.294-05:00","updated":"2024-01-22T15:06:44.289-05:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [Action 5](https://www.instagram.com/p/CXbPnjTLP-f/?img_index=5) - Dancer
 - [Action 6](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=1) - Dancer
 - [Action 7](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=2) - Boxer
-- [Action 8](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=3) - Figur Staketing
+- [Action 8](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=3) - Figure Skating
 - [Action 9](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=4) - BBoy
 - [Action 10](https://www.instagram.com/p/CXdqjuFrNm5/?img_index=5) - Partner Dance
 
