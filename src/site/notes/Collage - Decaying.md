@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-decaying/","tags":["c/flat-background","c/bw","c/shadow","c/woman","c/plant","c/white"],"created":"2024-01-08T13:47:32.079-05:00","updated":"2024-01-10T10:03:12.752-05:00"}
+{"dg-publish":true,"permalink":"/collage-decaying/","tags":["c/flat-background","c/bw","c/shadow","c/woman","c/plant","c/white","c/2022"],"created":"2024-01-08T13:47:32.079-05:00","updated":"2024-01-22T14:43:14.170-05:00"}
 ---
 
 
