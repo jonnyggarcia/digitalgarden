@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-locked/","tags":["c/face","c/woman","c/chains","c/circle","c/door-knobe","c/flat-background","c/brown","c/red","c/2019","c/line"],"created":"2024-01-02T08:45:00.092-05:00","updated":"2024-01-16T05:32:00.772-05:00"}
+{"dg-publish":true,"permalink":"/collage-locked/","tags":["c/face","c/woman","c/chains","c/circle","c/door-knobe","c/flat-background","c/brown","c/red","c/line","c/2020"],"created":"2024-01-02T08:45:00.092-05:00","updated":"2024-01-22T15:44:50.949-05:00"}
 ---
 
 
