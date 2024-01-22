@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-protest/","tags":["c/bolsonaro","c/pandemic","c/wheel","c/cross","c/green","c/red","c/speaker"],"created":"2024-01-02T16:05:20.317-05:00","updated":"2024-01-10T10:03:12.754-05:00"}
+{"dg-publish":true,"permalink":"/collage-protest/","tags":["c/bolsonaro","c/pandemic","c/wheel","c/cross","c/green","c/red","c/speaker","c/2020"],"created":"2024-01-02T16:05:20.317-05:00","updated":"2024-01-22T15:50:36.035-05:00"}
 ---
 
 
