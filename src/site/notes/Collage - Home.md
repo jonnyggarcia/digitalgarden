@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-home/","tags":["c/tree","c/bw","c/house","c/shadow","c/winter","c/sky","c/snow","c/water","c/river","c/2019"],"created":"2024-01-01T16:51:05.520-05:00","updated":"2024-01-15T22:02:38.145-05:00"}
+{"dg-publish":true,"permalink":"/collage-home/","tags":["c/tree","c/bw","c/house","c/shadow","c/winter","c/sky","c/snow","c/water","c/river","c/2019","c/immigration"],"created":"2024-01-01T16:51:05.520-05:00","updated":"2024-01-22T12:29:07.596-05:00"}
 ---
 
 
