@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-insufflation/","tags":["c/texture","c/flat-background","c/woman","c/faceless","c/mouth","c/purple","c/yellow","c/abstract","c/2023"],"created":"2024-01-22T12:24:41.718-05:00","updated":"2024-01-22T14:00:41.354-05:00"}
+{"dg-publish":true,"permalink":"/collage-insufflation/","tags":["c/texture","c/flat-background","c/woman","c/faceless","c/mouth","c/purple","c/yellow","c/abstract","c/2023","c/air","c/pink","c/orange"],"created":"2024-01-22T12:24:41.718-05:00","updated":"2024-01-22T14:19:24.065-05:00"}
 ---
 
 
