@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-present/","tags":["c/cross","c/blue","c/black","c/medicine"],"created":"2024-01-05T08:59:48.114-05:00","updated":"2024-01-10T10:03:14.035-05:00"}
+{"dg-publish":true,"permalink":"/collage-present/","tags":["c/cross","c/blue","c/black","c/medicine","c/2022"],"created":"2024-01-05T08:59:48.114-05:00","updated":"2024-01-22T14:28:57.247-05:00"}
 ---
 
 
