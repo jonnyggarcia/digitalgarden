@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-k/","tags":["c/red","c/letters","c/dance","c/CI","c/woman","c/series","c/flat-background","c/KW"],"created":"2024-01-02T09:05:56.203-05:00","updated":"2024-01-10T10:03:13.701-05:00"}
+{"dg-publish":true,"permalink":"/collage-k/","tags":["c/red","c/letters","c/dance","c/CI","c/woman","c/series","c/flat-background","c/KW","c/2020"],"created":"2024-01-02T09:05:56.203-05:00","updated":"2024-01-22T15:48:15.218-05:00"}
 ---
 
 
