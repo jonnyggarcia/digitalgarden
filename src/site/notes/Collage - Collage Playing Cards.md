@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-collage-playing-cards/","tags":["c/playing-card","c/analog"],"created":"2024-01-03T17:00:31.929-05:00","updated":"2024-01-15T12:31:00.026-05:00"}
+{"dg-publish":true,"permalink":"/collage-collage-playing-cards/","tags":["c/playing-card","c/analog","c/2021"],"created":"2024-01-03T17:00:31.929-05:00","updated":"2024-01-22T14:47:32.046-05:00"}
 ---
 
 
