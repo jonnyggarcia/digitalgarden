@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-impact/","tags":["c/skull","c/animal","c/circle","c/line","c/pattern","c/abstract","c/pink","c/plant"],"created":"2024-01-09T08:51:25.105-05:00","updated":"2024-01-10T10:03:14.040-05:00"}
+{"dg-publish":true,"permalink":"/collage-impact/","tags":["c/skull","c/animal","c/circle","c/line","c/pattern","c/abstract","c/pink","c/plant","c/2023"],"created":"2024-01-09T08:51:25.105-05:00","updated":"2024-01-22T14:24:37.318-05:00"}
 ---
 
 
