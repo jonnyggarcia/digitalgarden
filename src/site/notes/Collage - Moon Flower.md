@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-moon-flower/","tags":["c/moon","c/bw","c/flower","c/building","c/smoke","c/purple"],"created":"2024-01-08T09:53:17.063-05:00","updated":"2024-01-10T10:03:13.984-05:00"}
+{"dg-publish":true,"permalink":"/collage-moon-flower/","tags":["c/moon","c/bw","c/flower","c/building","c/smoke","c/purple","c/2022"],"created":"2024-01-08T09:53:17.063-05:00","updated":"2024-01-22T14:42:15.540-05:00"}
 ---
 
 
