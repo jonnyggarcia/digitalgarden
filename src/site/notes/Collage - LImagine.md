@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-l-imagine/","tags":["c/portrait","c/bridge","c/plank","c/purple","c/white","c/series","c/LK"],"created":"2024-01-03T17:24:52.680-05:00","updated":"2024-01-10T10:03:13.951-05:00"}
+{"dg-publish":true,"permalink":"/collage-l-imagine/","tags":["c/portrait","c/bridge","c/plank","c/purple","c/white","c/series","c/LK","c/2021"],"created":"2024-01-03T17:24:52.680-05:00","updated":"2024-01-22T15:00:06.663-05:00"}
 ---
 
 
