@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-19T13:44:34.442-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-22T14:43:39.779-05:00"}
 ---
 
-> [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
+w> [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
 
 My art is all published on [instagram](https://www.instagram.com/art.by.jonny/). From time to time I will be posting articles here about the arts I make.
 
@@ -26,8 +26,7 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 Check the list of all collages published below (work in progress).
 
-![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)
-
+![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)N
 ```
 Asas, 2022, Jonny Garcia
 ```
@@ -71,7 +70,6 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Tear\|Collage - Tear]]                                                               |
 | [[Collage - Odds\|Collage - Odds]]                                                               |
 | [[Collage - Again\|Collage - Again]]                                                             |
-| [[Collage - Insuflation\|Collage - Insuflation]]                                                 |
 | [[Collage - 2MAR3\|Collage - 2MAR3]]                                                             |
 | [[Collage - 2AUG3\|Collage - 2AUG3]]                                                             |
 | [[Collage - Clarity\|Collage - Clarity]]                                                         |
@@ -91,7 +89,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - 13\|Collage - 13]]                                                                   |
 | [[Collage - Connection 2\|Collage - Connection 2]]                                               |
 | [[Collage - Shame\|Collage - Shame]]                                                             |
-| [[Collage - Desconstruction\|Collage - Desconstruction]]                                         |
+| [[Collage - Deconstruction\|Collage - Deconstruction]]                                           |
 | [[Collage - Reinforcement\|Collage - Reinforcement]]                                             |
 | [[Collage - Constrained\|Collage - Constrained]]                                                 |
 | [[Collage -  Question Mark\|Collage -  Question Mark]]                                           |
@@ -146,11 +144,11 @@ Asas, 2022, Jonny Garcia
 | [[Collage - 2AUG2\|Collage - 2AUG2]]                                                             |
 | [[Collage - Monte Castelo\|Collage - Monte Castelo]]                                             |
 | [[Collage - Devolva-me\|Collage - Devolva-me]]                                                   |
-| [[Collage - O tempo não para\|Collage - O tempo não para]]                                       |
+| [[Collage - O Tempo Não Para\|Collage - O Tempo Não Para]]                                       |
 | [[Collage - Exagerado\|Collage - Exagerado]]                                                     |
 | [[Collage - Asas\|Collage - Asas]]                                                               |
-| [[Collage - Amei te ver\|Collage - Amei te ver]]                                                 |
-| [[Collage - 2FEB2 2\|Collage - 2FEB2 2]]                                                         |
+| [[Collage - Amei Te Ver\|Collage - Amei Te Ver]]                                                 |
+| [[Collage - 2FEB2 B\|Collage - 2FEB2 B]]                                                         |
 | [[Collage - Bring You Home\|Collage - Bring You Home]]                                           |
 | [[Collage - Bouquet\|Collage - Bouquet]]                                                         |
 | [[Collage - Sprout\|Collage - Sprout]]                                                           |
