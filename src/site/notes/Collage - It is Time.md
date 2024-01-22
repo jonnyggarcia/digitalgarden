@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-it-is-time/","tags":["c/tv","c/suit","c/flower","c/colorfull","c/door","c/man","c/line"],"created":"2024-01-08T09:58:59.015-05:00","updated":"2024-01-10T10:03:13.233-05:00"}
+{"dg-publish":true,"permalink":"/collage-it-is-time/","tags":["c/tv","c/suit","c/flower","c/colorfull","c/door","c/man","c/line","c/2022"],"created":"2024-01-08T09:58:59.015-05:00","updated":"2024-01-22T14:42:32.585-05:00"}
 ---
 
 
