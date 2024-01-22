@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cosmos/","tags":["c/pattern","c/analog","c/shape","c/letters"],"created":"2024-01-02T08:55:35.237-05:00","updated":"2024-01-10T10:03:13.996-05:00"}
+{"dg-publish":true,"permalink":"/collage-cosmos/","tags":["c/pattern","c/analog","c/shape","c/letters","c/2020"],"created":"2024-01-02T08:55:35.237-05:00","updated":"2024-01-22T15:47:05.299-05:00"}
 ---
 
 
