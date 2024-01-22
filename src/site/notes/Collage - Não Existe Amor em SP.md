@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-nao-existe-amor-em-sp/","tags":["c/grafitti","c/music","c/series","c/flower","c/bridge","c/yellow","c/number","c/letters","c/hood","c/Criolo"],"created":"2024-01-03T17:44:19.505-05:00","updated":"2024-01-10T10:20:58.826-05:00"}
+{"dg-publish":true,"permalink":"/collage-nao-existe-amor-em-sp/","tags":["c/grafitti","c/music","c/series","c/flower","c/bridge","c/yellow","c/number","c/letters","c/hood","c/Criolo","c/2021"],"created":"2024-01-03T17:44:19.505-05:00","updated":"2024-01-22T15:02:20.882-05:00"}
 ---
 
 
