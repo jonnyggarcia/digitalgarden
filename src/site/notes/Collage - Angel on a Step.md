@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-angel-on-a-step/","tags":["c/skull","c/stairs","c/abstract","c/brain","c/tatoo","c/woman","c/KR","c/performance"],"created":"2024-01-04T19:14:31.809-05:00","updated":"2024-01-10T10:03:13.036-05:00"}
+{"dg-publish":true,"permalink":"/collage-angel-on-a-step/","tags":["c/skull","c/stairs","c/abstract","c/brain","c/tatoo","c/woman","c/KR","c/performance","c/2021"],"created":"2024-01-04T19:14:31.809-05:00","updated":"2024-01-22T15:05:33.241-05:00"}
 ---
 
 
