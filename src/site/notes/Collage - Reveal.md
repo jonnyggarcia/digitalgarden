@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reveal/","tags":["c/statue","c/geometric","c/shape","c/vase","c/purple","c/yellow","c/orange"],"created":"2024-01-04T19:08:48.960-05:00","updated":"2024-01-10T10:03:13.948-05:00"}
+{"dg-publish":true,"permalink":"/collage-reveal/","tags":["c/statue","c/geometric","c/shape","c/vase","c/purple","c/yellow","c/orange","c/2021"],"created":"2024-01-04T19:08:48.960-05:00","updated":"2024-01-22T15:04:56.443-05:00"}
 ---
 
 
