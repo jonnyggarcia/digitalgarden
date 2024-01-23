@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-woman-hat/","tags":["c/woman","c/analog","c/meeting","c/flower","c/art-deco"],"created":"2024-01-02T08:59:57.256-05:00","updated":"2024-01-10T10:03:12.997-05:00"}
+{"dg-publish":true,"permalink":"/collage-woman-hat/","tags":["c/woman","c/analog","c/meeting","c/flower","c/art-deco","c/2020"],"created":"2024-01-02T08:59:57.256-05:00","updated":"2024-01-22T15:47:44.107-05:00"}
 ---
 
 
