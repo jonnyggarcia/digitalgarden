@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-21T13:00:43.512-05:00"}
+{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-22T21:19:14.509-05:00"}
 ---
 
 
@@ -253,12 +253,18 @@ In the last 6 months, my artistic process has become clear. Here are some of the
 
    - Engaging in specific projects which impose structure and direction to the work.
 
-### Collage Details
+### Collage Details - Making
 
 - The primary source for all images is Unsplash, with the exception being when I incorporate pictures of individuals I personally know.
 - Standardizing the dimensions, all works are crafted in a 13x19 vertical format, influenced by the constraints of my available printer.
 - Utilizing an iPad and Apple Pencil on the Procreate app, each collage comes to life through a digital creative process.
 - Each completed collage is marked with a date stamp, while the backup provides additional information on the moment it was saved.
+
+### Style
+
+Digital tools enable the application of techniques that are challenging to replicate in analog formats. I delve into the process of eliminating contrast commonly created when juxtaposing images. Although each individual element remains recognizable, they are distilled to only what is essential for conveying meaning.
+
+Colour is intentionally applied using a limited and harmonious palette. The human figure, particularly bodies, hands, and faces, is a recurrent element in my work, blended with abstract paintings and set against unobtrusive backgrounds. This fusion of diluted elements creates a visual synergy that goes beyond the sum of its parts, giving rise to a cohesive new image.
 
 ### Administrative Work
 
