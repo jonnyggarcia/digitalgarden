@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-afar/","tags":["c/woman","c/hand","c/flat-background","c/black"],"created":"2024-01-08T14:16:50.971-05:00","updated":"2024-01-10T10:03:14.088-05:00"}
+{"dg-publish":true,"permalink":"/collage-afar/","tags":["c/woman","c/hand","c/flat-background","c/black","c/2023"],"created":"2024-01-08T14:16:50.971-05:00","updated":"2024-01-22T14:21:14.212-05:00"}
 ---
 
 
