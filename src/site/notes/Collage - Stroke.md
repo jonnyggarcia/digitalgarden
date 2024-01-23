@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-stroke/","tags":["c/woman","c/bw","c/face","c/white","c/abstract"],"created":"2024-01-04T19:28:04.604-05:00","updated":"2024-01-10T10:03:13.384-05:00"}
+{"dg-publish":true,"permalink":"/collage-stroke/","tags":["c/woman","c/bw","c/face","c/white","c/abstract","c/2021"],"created":"2024-01-04T19:28:04.604-05:00","updated":"2024-01-22T14:27:11.495-05:00"}
 ---
 
 
