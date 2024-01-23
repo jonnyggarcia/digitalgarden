@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-alone/","tags":["c/face","c/bw","c/key","c/clock","c/hand","c/eye"],"created":"2024-01-02T09:01:19.560-05:00","updated":"2024-01-10T10:03:14.089-05:00"}
+{"dg-publish":true,"permalink":"/collage-alone/","tags":["c/face","c/bw","c/key","c/clock","c/hand","c/eye","c/2020"],"created":"2024-01-02T09:01:19.560-05:00","updated":"2024-01-22T15:47:52.958-05:00"}
 ---
 
 
