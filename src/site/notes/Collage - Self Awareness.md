@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-self-awareness/","tags":["c/man","c/faceless","c/building","c/ruins","c/white","c/bw","c/black","c/flat-background"],"created":"2024-01-03T17:15:09.595-05:00","updated":"2024-01-10T10:03:13.958-05:00"}
+{"dg-publish":true,"permalink":"/collage-self-awareness/","tags":["c/man","c/faceless","c/building","c/ruins","c/white","c/bw","c/black","c/flat-background","c/2021"],"created":"2024-01-03T17:15:09.595-05:00","updated":"2024-01-22T14:54:40.967-05:00"}
 ---
 
 
