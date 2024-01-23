@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-1/","created":"2024-01-04T16:04:13.075-05:00","updated":"2024-01-11T15:57:25.370-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-1/","created":"2024-01-04T16:04:13.075-05:00","updated":"2024-01-23T17:55:59.508-05:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Artists learn by doing. The final project:
 
 > [!quote] If you want to go fast, go alone; if you want to go far, go with others - Cat Lloyd
 
-# What is art?
+# What is Art?
 
 Comments made by the participants:
 
@@ -34,7 +34,7 @@ Comments made by the participants:
 - Expression.
 - A way of communicating.
 
-## Technology of art
+## Technology of Art
 
 A picture of a rock, is it art?
 
@@ -76,7 +76,7 @@ Currently, we can experience art through a proxy, like immersive Van Gogh.
 
 *Art as an experience, anything can be art.*
 
-# What is art?
+# What is Art?
 
 Urban Institute: 96% value art, but only 27% value artists.
 
