@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-13/","tags":["c/KG","c/red","c/number","c/stairs","c/spiral","c/woman","c/face"],"created":"2024-01-09T08:40:42.290-05:00","updated":"2024-01-10T10:03:13.583-05:00"}
+{"dg-publish":true,"permalink":"/collage-13/","tags":["c/KG","c/red","c/number","c/stairs","c/spiral","c/woman","c/face","c/2023"],"created":"2024-01-09T08:40:42.290-05:00","updated":"2024-01-22T14:23:32.335-05:00"}
 ---
 
 
