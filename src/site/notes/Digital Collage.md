@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-22T14:43:39.779-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-22T19:17:54.715-05:00"}
 ---
 
 w> [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
@@ -21,6 +21,7 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 [[Module - Element of Practice\|Module - Element of Practice]]
 
 [[Module - Collage Taxonomy\|Module - Collage Taxonomy]]
+
 
 ---
 
