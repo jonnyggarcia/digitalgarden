@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-surrender/","tags":["c/woman","c/cross","c/abstract","c/smoke","c/red","c/water"],"created":"2024-01-05T09:05:56.384-05:00","updated":"2024-01-10T10:03:12.769-05:00"}
+{"dg-publish":true,"permalink":"/collage-surrender/","tags":["c/woman","c/cross","c/abstract","c/smoke","c/red","c/water","c/2022"],"created":"2024-01-05T09:05:56.384-05:00","updated":"2024-01-22T14:29:23.982-05:00"}
 ---
 
 
