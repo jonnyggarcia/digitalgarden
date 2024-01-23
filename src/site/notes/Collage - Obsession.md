@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-obsession/","tags":["c/face","c/woman","c/brown","c/gear"],"created":"2024-01-02T08:35:43.644-05:00","updated":"2024-01-10T10:03:13.578-05:00"}
+{"dg-publish":true,"permalink":"/collage-obsession/","tags":["c/face","c/woman","c/brown","c/gear","c/2020"],"created":"2024-01-02T08:35:43.644-05:00","updated":"2024-01-22T15:45:04.010-05:00"}
 ---
 
 
