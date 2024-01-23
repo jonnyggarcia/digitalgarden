@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-art-here/","tags":["c/man","c/suit","c/faceless","c/letters","sign","c/abstract","c/blue","c/pink","c/LK"],"created":"2024-01-03T17:41:49.101-05:00","updated":"2024-01-10T10:03:12.733-05:00"}
+{"dg-publish":true,"permalink":"/collage-art-here/","tags":["c/man","c/suit","c/faceless","c/letters","sign","c/abstract","c/blue","c/pink","c/LK","c/2021"],"created":"2024-01-03T17:41:49.101-05:00","updated":"2024-01-22T15:02:03.338-05:00"}
 ---
 
 
