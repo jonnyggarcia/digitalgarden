@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-01-09T17:55:14.578-05:00","updated":"2024-01-09T22:11:06.595-05:00"}
+{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-01-09T17:55:14.578-05:00","updated":"2024-01-23T17:55:44.818-05:00"}
 ---
+
 
 # Ancestors
 
 **MODULE: Connecting with our Artistic Ancestors**
+
 Find an example of a collage by an artist in a museum collection artist that dates to before 1990. The collage should speak to an element of your practice: a similar visual tradition, similar subject material, a shared aesthetic kinship, or some other connection. Post the collage to the ***arthistory*** channel in Slack along with your own collage it is in dialog with. Share your thoughts about the connection.
 
 ---
@@ -20,12 +22,13 @@ For this assignment, I selected an untitled abstract collage from 1980 in the MA
 In parallel, I present one of my own works titled [Abstract](https://www.instagram.com/p/CZ7zCiLudmA/). This piece, showcased on my Instagram, simulates an abstract painting but is, in fact, a fusion of various paintings into a cohesive new creation. I selected this piece for its shared abstract qualities and the evident lines, which echo the characteristics found in Palatnik's work
 
 ![Untitled, cardboard, 48x48 c, 1980, Abraham Palatnik.png|300](/img/user/MEDIA/Untitled,%20cardboard,%2048x48%20c,%201980,%20Abraham%20Palatnik.png)
+
 ```
 Untitled, cardboard, 48x48 cm, 1980, Abraham Palatnik
 ```
 
-
 ![Abstract, digital collage, 13x19, 2021, Jonny Garcia.jpg|300](/img/user/MEDIA/Abstract,%20digital%20collage,%2013x19,%202021,%20Jonny%20Garcia.jpg)
+
 ```
 Abstract, digital collage, 13x19, 2021, Jonny Garcia
 ```
