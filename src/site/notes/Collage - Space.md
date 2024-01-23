@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-space/","tags":["c/geometric","c/man","c/woman","c/blue","c/purple","c/CI"],"created":"2024-01-02T08:57:26.765-05:00","updated":"2024-01-10T10:03:14.051-05:00"}
+{"dg-publish":true,"permalink":"/collage-space/","tags":["c/geometric","c/man","c/woman","c/blue","c/purple","c/CI","c/2020"],"created":"2024-01-02T08:57:26.765-05:00","updated":"2024-01-22T15:47:23.579-05:00"}
 ---
 
 
