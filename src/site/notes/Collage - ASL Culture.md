@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-culture/","tags":["c/hand","c/woman","c/pregnant","c/asl","c/purple","c/uncollage","c/2019"],"created":"2024-01-01T15:26:55.364-05:00","updated":"2024-01-15T22:01:24.461-05:00"}
+{"dg-publish":true,"permalink":"/collage-asl-culture/","tags":["c/hand","c/woman","c/pregnant","c/asl","c/purple","c/uncollage","c/2019","c/printed"],"created":"2024-01-01T15:26:55.364-05:00","updated":"2024-01-22T14:52:15.461-05:00"}
 ---
 
 
