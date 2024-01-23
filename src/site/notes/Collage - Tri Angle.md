@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-tri-angle/","tags":["c/shape","c/woman","#analise","c/abstract","c/colorfull"],"created":"2024-01-04T11:14:29.998-05:00","updated":"2024-01-10T10:03:13.673-05:00"}
+{"dg-publish":true,"permalink":"/collage-tri-angle/","tags":["c/shape","c/woman","#analise","c/abstract","c/colorfull","c/2021"],"created":"2024-01-04T11:14:29.998-05:00","updated":"2024-01-22T15:02:47.362-05:00"}
 ---
 
 
