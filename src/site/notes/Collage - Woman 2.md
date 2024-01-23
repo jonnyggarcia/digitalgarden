@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-woman-2/","tags":["c/body","c/woman","c/hand","c/red"],"created":"2024-01-02T16:14:34.669-05:00","updated":"2024-01-10T10:03:13.310-05:00"}
+{"dg-publish":true,"permalink":"/collage-woman-2/","tags":["c/body","c/woman","c/hand","c/red","c/2020"],"created":"2024-01-02T16:14:34.669-05:00","updated":"2024-01-22T15:51:39.024-05:00"}
 ---
 
 
