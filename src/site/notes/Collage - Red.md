@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-red/","tags":["c/red","c/pattern","c/geometric","c/tree","c/abstract"],"created":"2024-01-02T08:52:32.009-05:00","updated":"2024-01-10T10:03:12.749-05:00"}
+{"dg-publish":true,"permalink":"/collage-red/","tags":["c/red","c/pattern","c/geometric","c/tree","c/abstract","c/2020"],"created":"2024-01-02T08:52:32.009-05:00","updated":"2024-01-22T15:46:41.281-05:00"}
 ---
 
 
