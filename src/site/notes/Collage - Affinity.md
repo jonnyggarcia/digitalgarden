@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-affinity/","tags":["c/window","c/stained-glass","c/woman","c/blue","c/purple","c/wall","c/brick"],"created":"2024-01-04T11:33:01.235-05:00","updated":"2024-01-10T10:03:12.737-05:00"}
+{"dg-publish":true,"permalink":"/collage-affinity/","tags":["c/window","c/stained-glass","c/woman","c/blue","c/purple","c/wall","c/brick","c/2021"],"created":"2024-01-04T11:33:01.235-05:00","updated":"2024-01-22T15:04:00.057-05:00"}
 ---
 
 
