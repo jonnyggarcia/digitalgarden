@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-red-invitation/","tags":["c/abstract","c/blue","c/red","c/woman","c/flower","c/dating-app"],"created":"2024-01-03T17:20:01.789-05:00","updated":"2024-01-10T10:03:13.605-05:00"}
+{"dg-publish":true,"permalink":"/collage-red-invitation/","tags":["c/abstract","c/blue","c/red","c/woman","c/flower","c/dating-app","c/2021"],"created":"2024-01-03T17:20:01.789-05:00","updated":"2024-01-22T14:56:30.777-05:00"}
 ---
 
 
