@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-yellow/","tags":["c/yellow","c/woman","c/abstract"],"created":"2024-01-04T19:28:51.670-05:00","updated":"2024-01-10T10:03:12.984-05:00"}
+{"dg-publish":true,"permalink":"/collage-yellow/","tags":["c/yellow","c/woman","c/abstract","c/2021"],"created":"2024-01-04T19:28:51.670-05:00","updated":"2024-01-22T14:27:35.503-05:00"}
 ---
 
 
