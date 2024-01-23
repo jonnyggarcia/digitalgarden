@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-illusion/","tags":["c/woman","c/faceless","c/red","c/abstract","c/boy","c/line"],"created":"2024-01-03T17:07:49.542-05:00","updated":"2024-01-10T10:03:14.037-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-illusion/","tags":["c/woman","c/faceless","c/red","c/abstract","c/boy","c/line","c/2021"],"created":"2024-01-03T17:07:49.542-05:00","updated":"2024-01-22T14:53:55.276-05:00"}
 ---
 
 
