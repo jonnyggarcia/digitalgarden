@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-visionary-clarity-1-2/","tags":["c/analog","c/horse","c/animal","c/flat-background","c/beje","c/pattern","c/abstract","c/CK"],"created":"2024-01-03T16:54:42.008-05:00","updated":"2024-01-10T10:03:13.059-05:00"}
+{"dg-publish":true,"permalink":"/collage-visionary-clarity-1-2/","tags":["c/analog","c/horse","c/animal","c/flat-background","c/beje","c/pattern","c/abstract","c/CK","c/2021"],"created":"2024-01-03T16:54:42.008-05:00","updated":"2024-01-22T14:47:22.612-05:00"}
 ---
 
 
