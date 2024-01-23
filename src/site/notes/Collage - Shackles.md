@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shackles/","tags":["c/sex","c/woman","c/abstract","c/hand","c/legs","c/chains"],"created":"2024-01-04T19:13:53.032-05:00","updated":"2024-01-10T10:03:14.027-05:00"}
+{"dg-publish":true,"permalink":"/collage-shackles/","tags":["c/sex","c/woman","c/abstract","c/hand","c/legs","c/chains","c/2021"],"created":"2024-01-04T19:13:53.032-05:00","updated":"2024-01-22T15:05:26.681-05:00"}
 ---
 
 
