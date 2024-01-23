@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-oct-3/","tags":["c/jonny","c/self","c/series","c/glasses","c/bw","c/red","c/woman","c/faceless","c/texture"],"created":"2024-01-09T09:04:11.611-05:00","updated":"2024-01-10T10:03:14.050-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-oct-3/","tags":["c/jonny","c/self","c/series","c/glasses","c/bw","c/red","c/woman","c/faceless","c/texture","c/2023"],"created":"2024-01-09T09:04:11.611-05:00","updated":"2024-01-22T14:17:24.696-05:00"}
 ---
 
 
