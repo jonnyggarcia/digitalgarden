@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shapes/","tags":["c/abstract","c/flat-background","c/blue","c/purple","c/shape","c/line"],"created":"2024-01-02T08:53:08.938-05:00","updated":"2024-01-10T10:03:12.882-05:00"}
+{"dg-publish":true,"permalink":"/collage-shapes/","tags":["c/abstract","c/flat-background","c/blue","c/purple","c/shape","c/line","c/2020"],"created":"2024-01-02T08:53:08.938-05:00","updated":"2024-01-22T15:46:45.586-05:00"}
 ---
 
 
