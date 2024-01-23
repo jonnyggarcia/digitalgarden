@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-untitled-3/","tags":["c/woman","c/speaker","c/flower","c/black","c/flat-background","c/red"],"created":"2024-01-03T17:27:54.692-05:00","updated":"2024-01-10T10:03:13.885-05:00"}
+{"dg-publish":true,"permalink":"/collage-untitled-3/","tags":["c/woman","c/speaker","c/flower","c/black","c/flat-background","c/red","c/2021"],"created":"2024-01-03T17:27:54.692-05:00","updated":"2024-01-22T15:00:49.113-05:00"}
 ---
 
 
