@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-5/","tags":["c/interitus","c/bw","c/red","c/number","c/people","c/rope","c/black"],"created":"2024-01-02T16:11:26.742-05:00","updated":"2024-01-10T10:03:12.766-05:00"}
+{"dg-publish":true,"permalink":"/collage-5/","tags":["c/interitus","c/bw","c/red","c/number","c/people","c/rope","c/black","c/2020"],"created":"2024-01-02T16:11:26.742-05:00","updated":"2024-01-22T15:51:22.453-05:00"}
 ---
 
 
