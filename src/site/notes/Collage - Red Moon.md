@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-red-moon/","tags":["c/bridge","c/moon","c/red","c/flat-background","c/line","c/abstract"],"created":"2024-01-04T11:09:42.428-05:00","updated":"2024-01-10T10:03:14.023-05:00"}
+{"dg-publish":true,"permalink":"/collage-red-moon/","tags":["c/bridge","c/moon","c/red","c/flat-background","c/line","c/abstract","c/2021"],"created":"2024-01-04T11:09:42.428-05:00","updated":"2024-01-22T15:02:40.484-05:00"}
 ---
 
 
