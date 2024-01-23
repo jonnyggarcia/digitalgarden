@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-attention-identity/","tags":["c/green","c/finger-print","c/eye"],"created":"2024-01-16T23:54:36.004-05:00","updated":"2024-01-22T14:06:42.067-05:00"}
+{"dg-publish":true,"permalink":"/collage-attention-identity/","tags":["c/green","c/finger-print","c/eye","c/2020"],"created":"2024-01-16T23:54:36.004-05:00","updated":"2024-01-22T14:15:33.960-05:00"}
 ---
 
 
