@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-nuanda/","tags":["c/IG","c/LG","c/man","c/woman","c/geometric","c/2023","c/yellow","c/purple","c/abstract"],"created":"2024-01-17T11:55:41.800-05:00","updated":"2024-01-17T12:35:11.940-05:00"}
+{"dg-publish":true,"permalink":"/collage-nuanda/","tags":["c/IG","c/LG","c/man","c/woman","c/geometric","c/2023","c/yellow","c/purple","c/abstract","c/printed"],"created":"2024-01-17T11:55:41.800-05:00","updated":"2024-01-22T14:49:22.510-05:00"}
 ---
 
 
