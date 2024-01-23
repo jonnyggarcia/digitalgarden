@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-take-it-all/","tags":["c/man","c/cry","c/hand","c/pray","c/flat-background","c/white","c/smoke"],"created":"2024-01-08T14:17:20.118-05:00","updated":"2024-01-10T10:03:13.579-05:00"}
+{"dg-publish":true,"permalink":"/collage-take-it-all/","tags":["c/man","c/cry","c/hand","c/pray","c/flat-background","c/white","c/smoke","c/2023"],"created":"2024-01-08T14:17:20.118-05:00","updated":"2024-01-22T14:21:19.259-05:00"}
 ---
 
 
