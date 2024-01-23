@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-rebirth/","tags":["c/hand","c/plant","c/pandemic","c/flat-background","c/line","c/circle","c/red"],"created":"2024-01-02T16:07:34.012-05:00","updated":"2024-01-10T10:03:13.674-05:00"}
+{"dg-publish":true,"permalink":"/collage-rebirth/","tags":["c/hand","c/plant","c/pandemic","c/flat-background","c/line","c/circle","c/red","c/2020"],"created":"2024-01-02T16:07:34.012-05:00","updated":"2024-01-22T15:50:56.163-05:00"}
 ---
 
 
