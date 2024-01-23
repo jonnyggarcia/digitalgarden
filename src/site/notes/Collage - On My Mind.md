@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-on-my-mind/","tags":["c/man","c/black","c/white","c/yellow","c/red","c/line","c/abstract"],"created":"2024-01-08T13:54:00.340-05:00","updated":"2024-01-10T10:03:12.770-05:00"}
+{"dg-publish":true,"permalink":"/collage-on-my-mind/","tags":["c/man","c/black","c/white","c/yellow","c/red","c/line","c/abstract","c/2022"],"created":"2024-01-08T13:54:00.340-05:00","updated":"2024-01-22T14:44:14.384-05:00"}
 ---
 
 
