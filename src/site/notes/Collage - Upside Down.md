@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-upside-down/","tags":["c/woman","c/hand","c/legs","c/shoes","c/flat-background","c/white","c/bw","c/faceless"],"created":"2024-01-08T14:22:19.411-05:00","updated":"2024-01-10T10:03:13.831-05:00"}
+{"dg-publish":true,"permalink":"/collage-upside-down/","tags":["c/woman","c/hand","c/legs","c/shoes","c/flat-background","c/white","c/bw","c/faceless","c/2023"],"created":"2024-01-08T14:22:19.411-05:00","updated":"2024-01-22T14:21:57.616-05:00"}
 ---
 
 
