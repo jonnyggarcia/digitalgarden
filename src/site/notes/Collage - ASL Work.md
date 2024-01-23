@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-work/","tags":["c/asl","c/uncollage","c/work","c/purple","c/hand","c/2019"],"created":"2024-01-02T16:20:00.746-05:00","updated":"2024-01-16T22:54:25.872-05:00"}
+{"dg-publish":true,"permalink":"/collage-asl-work/","tags":["c/asl","c/uncollage","c/work","c/purple","c/hand","c/2020"],"created":"2024-01-02T16:20:00.746-05:00","updated":"2024-01-22T15:53:10.313-05:00"}
 ---
 
 
