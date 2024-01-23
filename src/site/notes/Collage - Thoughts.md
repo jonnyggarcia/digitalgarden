@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-thoughts/","tags":["c/woman","c/statue","c/colorfull","c/mess","c/flat-background","c/white"],"created":"2024-01-05T11:40:36.892-05:00","updated":"2024-01-10T10:03:13.002-05:00"}
+{"dg-publish":true,"permalink":"/collage-thoughts/","tags":["c/woman","c/statue","c/colorfull","c/mess","c/flat-background","c/white","c/2022"],"created":"2024-01-05T11:40:36.892-05:00","updated":"2024-01-22T14:35:48.958-05:00"}
 ---
 
 
