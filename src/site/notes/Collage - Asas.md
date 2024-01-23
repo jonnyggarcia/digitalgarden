@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asas/","tags":["c/forro","c/Falamansa","c/woman","c/faceless","c/abstract","c/moon","c/light-bulb","c/jump"],"created":"2024-01-08T09:22:35.602-05:00","updated":"2024-01-10T10:03:14.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-asas/","tags":["c/forro","c/Falamansa","c/woman","c/faceless","c/abstract","c/moon","c/light-bulb","c/jump","c/2022"],"created":"2024-01-08T09:22:35.602-05:00","updated":"2024-01-22T14:38:52.448-05:00"}
 ---
 
 
