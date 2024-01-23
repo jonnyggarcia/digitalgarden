@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-window/","tags":["c/analog","c/meeting","c/orange","c/red","c/pattern"],"created":"2024-01-02T08:59:12.221-05:00","updated":"2024-01-10T10:03:12.756-05:00"}
+{"dg-publish":true,"permalink":"/collage-window/","tags":["c/analog","c/meeting","c/orange","c/red","c/pattern","c/2020"],"created":"2024-01-02T08:59:12.221-05:00","updated":"2024-01-22T15:47:38.721-05:00"}
 ---
 
 
