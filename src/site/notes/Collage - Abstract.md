@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-abstract/","tags":["c/paint-collage","c/abstract","c/blue","c/red"],"created":"2024-01-04T19:32:44.231-05:00","updated":"2024-01-10T10:03:13.511-05:00"}
+{"dg-publish":true,"permalink":"/collage-abstract/","tags":["c/paint-collage","c/abstract","c/blue","c/red","c/2022"],"created":"2024-01-04T19:32:44.231-05:00","updated":"2024-01-22T14:28:17.077-05:00"}
 ---
 
 
