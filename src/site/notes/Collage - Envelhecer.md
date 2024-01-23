@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-envelhecer/","tags":["c/flower","c/rose","c/heart","c/uncollage","c/red","c/2021"],"created":"2024-01-01T15:31:43.545-05:00","updated":"2024-01-16T21:57:08.172-05:00"}
+{"dg-publish":true,"permalink":"/collage-envelhecer/","tags":["c/flower","c/rose","c/heart","c/uncollage","c/red","c/2019"],"created":"2024-01-01T15:31:43.545-05:00","updated":"2024-01-22T22:05:39.555-05:00"}
 ---
 
 
