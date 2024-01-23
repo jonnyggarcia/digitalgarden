@@ -1,33 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-22T19:17:54.715-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T17:50:39.115-05:00"}
 ---
 
-w> [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
+> [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
 
 My art is all published on [instagram](https://www.instagram.com/art.by.jonny/). From time to time I will be posting articles here about the arts I make.
 
 [[Collage Process\|Collage Process]]
 
-# Collage in Practice Workshop
-
-[[Collage in Practice Workshop - Meeting 1\|Collage in Practice Workshop - Meeting 1]]
-
-[[Collage in Practice Workshop - Meeting 2\|Collage in Practice Workshop - Meeting 2]]
-
-[[Collage in Practice Workshop - Meeting 3\|Collage in Practice Workshop - Meeting 3]]
-
-[[Module - Ancestors\|Module - Ancestors]]
-
-[[Module - Element of Practice\|Module - Element of Practice]]
-
-[[Module - Collage Taxonomy\|Module - Collage Taxonomy]]
+# [[Collage in Practice Workshop - Notes\|Collage in Practice Workshop - Notes]]
 
 
 ---
 
 Check the list of all collages published below (work in progress).
 
-![Asas.jpg|400](/img/user/MEDIA/Asas.jpg)N
+![Asas, 2022, Jonny Garcia.jpg|400](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)N
 ```
 Asas, 2022, Jonny Garcia
 ```
@@ -36,6 +24,7 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Ryujin\|Collage - Ryujin]]                                                           |
 | [[Collage - Market\|Collage - Market]]                                                           |
 | [[Collage - Insufflation\|Collage - Insufflation]]                                               |
 | [[Collage - Gift\|Collage - Gift]]                                                               |
