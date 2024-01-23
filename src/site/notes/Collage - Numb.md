@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-numb/","tags":["c/flower","c/bw","c/red","c/hand","c/tombstone","c/plant","c/black"],"created":"2024-01-04T11:20:46.737-05:00","updated":"2024-01-10T10:03:13.508-05:00"}
+{"dg-publish":true,"permalink":"/collage-numb/","tags":["c/flower","c/bw","c/red","c/hand","c/tombstone","c/plant","c/black","c/2021"],"created":"2024-01-04T11:20:46.737-05:00","updated":"2024-01-22T15:03:10.909-05:00"}
 ---
 
 
