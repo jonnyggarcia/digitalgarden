@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ashes/","tags":["c/man","c/body","c/woman","c/abstract","c/letters","c/purple","c/black"],"created":"2024-01-08T13:59:06.524-05:00","updated":"2024-01-10T10:03:12.757-05:00"}
+{"dg-publish":true,"permalink":"/collage-ashes/","tags":["c/man","c/body","c/woman","c/abstract","c/letters","c/purple","c/black","c/2022","c/music","c/The-Struts","c/series"],"created":"2024-01-08T13:59:06.524-05:00","updated":"2024-01-22T14:45:06.546-05:00"}
 ---
 
 
