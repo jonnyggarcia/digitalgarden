@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-untitled-2/","tags":["c/abstract","c/red","c/jonny","c/crack"],"created":"2024-01-03T17:16:36.172-05:00","updated":"2024-01-10T10:03:13.750-05:00"}
+{"dg-publish":true,"permalink":"/collage-untitled-2/","tags":["c/abstract","c/red","c/jonny","c/crack","c/2021"],"created":"2024-01-03T17:16:36.172-05:00","updated":"2024-01-22T14:54:52.716-05:00"}
 ---
 
 
