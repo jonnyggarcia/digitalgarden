@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-take-down/","tags":["c/man","c/woman","c/wall","c/brick","c/grafitti","c/white"],"created":"2024-01-05T11:34:58.566-05:00","updated":"2024-01-10T10:03:12.742-05:00"}
+{"dg-publish":true,"permalink":"/collage-take-down/","tags":["c/man","c/woman","c/wall","c/brick","c/grafitti","c/white","c/2022"],"created":"2024-01-05T11:34:58.566-05:00","updated":"2024-01-22T14:35:00.766-05:00"}
 ---
 
 
