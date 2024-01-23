@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-triangle/","tags":["c/mouth","c/abstract","c/triangle","c/pattern","c/red","c/yellow","c/wall","c/falling-to-pieces"],"created":"2024-01-04T11:07:13.576-05:00","updated":"2024-01-10T10:03:13.980-05:00"}
+{"dg-publish":true,"permalink":"/collage-triangle/","tags":["c/mouth","c/abstract","c/triangle","c/pattern","c/red","c/yellow","c/wall","c/falling-to-pieces","c/2021"],"created":"2024-01-04T11:07:13.576-05:00","updated":"2024-01-22T15:02:29.517-05:00"}
 ---
 
 
