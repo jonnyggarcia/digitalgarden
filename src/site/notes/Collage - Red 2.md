@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-red-2/","tags":["c/man","c/woman","c/pattern","c/black","c/red","c/fire"],"created":"2024-01-03T17:30:52.408-05:00","updated":"2024-01-10T10:03:12.992-05:00"}
+{"dg-publish":true,"permalink":"/collage-red-2/","tags":["c/man","c/woman","c/pattern","c/black","c/red","c/fire","c/2021"],"created":"2024-01-03T17:30:52.408-05:00","updated":"2024-01-22T15:01:07.871-05:00"}
 ---
 
 
