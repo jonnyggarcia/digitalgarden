@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-obsession-2/","tags":["c/jonny","c/bw","c/smoke","c/crack","c/purple"],"created":"2024-01-03T17:20:56.433-05:00","updated":"2024-01-10T10:03:12.751-05:00"}
+{"dg-publish":true,"permalink":"/collage-obsession-2/","tags":["c/jonny","c/bw","c/smoke","c/crack","c/purple","c/2021"],"created":"2024-01-03T17:20:56.433-05:00","updated":"2024-01-22T14:59:43.342-05:00"}
 ---
 
 
