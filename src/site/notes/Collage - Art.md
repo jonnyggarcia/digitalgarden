@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-art/","tags":["c/pandemic","c/flower","c/pages","c/camera","c/musical-instrument","c/white","c/purple","c/red"],"created":"2024-01-02T16:03:36.774-05:00","updated":"2024-01-16T23:20:38.579-05:00"}
+{"dg-publish":true,"permalink":"/collage-art/","tags":["c/pandemic","c/flower","c/pages","c/camera","c/musical-instrument","c/white","c/purple","c/red","c/2020"],"created":"2024-01-02T16:03:36.774-05:00","updated":"2024-01-22T15:49:15.319-05:00"}
 ---
 
 
