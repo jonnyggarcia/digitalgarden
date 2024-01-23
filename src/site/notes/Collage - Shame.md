@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shame/","tags":["c/manequin","c/abstract","c/brown","c/flower","c/hand"],"created":"2024-01-09T08:39:12.204-05:00","updated":"2024-01-10T10:03:13.135-05:00"}
+{"dg-publish":true,"permalink":"/collage-shame/","tags":["c/manequin","c/abstract","c/brown","c/flower","c/hand","c/2023"],"created":"2024-01-09T08:39:12.204-05:00","updated":"2024-01-22T14:23:21.288-05:00"}
 ---
 
 
