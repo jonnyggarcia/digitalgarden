@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-confusion/","tags":["c/face","c/flat-background","c/black","c/hand","c/orange","c/faceless","c/2022"],"created":"2024-01-08T14:13:23.393-05:00","updated":"2024-01-22T14:20:54.488-05:00"}
+{"dg-publish":true,"permalink":"/collage-confusion/","tags":["c/flat-background","c/black","c/hand","c/orange","c/faceless","c/2022"],"created":"2024-01-08T14:13:23.393-05:00","updated":"2024-01-23T21:13:03.782-05:00"}
 ---
 
 
