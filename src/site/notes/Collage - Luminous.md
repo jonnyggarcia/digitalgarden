@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-luminous/","tags":["c/paris-collage","c/woman","c/red","c/flower","c/geometric","c/shattered","c/purple"],"created":"2024-01-01T16:53:13.107-05:00","updated":"2024-01-10T10:03:12.758-05:00"}
+{"dg-publish":true,"permalink":"/collage-luminous/","tags":["c/paris-collage","c/woman","c/red","c/flower","c/geometric","c/shattered","c/purple","c/2019"],"created":"2024-01-01T16:53:13.107-05:00","updated":"2024-01-23T21:46:39.511-05:00"}
 ---
 
 
