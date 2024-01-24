@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-faces-2/","tags":["c/woman","c/faceless","c/face","c/glass","c/black","c/2021"],"created":"2024-01-04T19:19:13.170-05:00","updated":"2024-01-22T15:05:54.524-05:00"}
+{"dg-publish":true,"permalink":"/collage-faces-2/","tags":["c/woman","c/faceless","c/glass","c/black","c/2021"],"created":"2024-01-04T19:19:13.170-05:00","updated":"2024-01-23T21:13:17.409-05:00"}
 ---
 
 
