@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-modernity/","tags":["c/green","c/smoke","c/suit","c/building","c/sky","c/cloud","c/2020"],"created":"2024-01-01T16:21:47.402-05:00","updated":"2024-01-16T23:57:07.870-05:00"}
+{"dg-publish":true,"permalink":"/collage-modernity/","tags":["c/green","c/smoke","c/suit","c/building","c/sky","c/cloud","c/2019"],"created":"2024-01-01T16:21:47.402-05:00","updated":"2024-01-23T21:50:24.923-05:00"}
 ---
 
 
