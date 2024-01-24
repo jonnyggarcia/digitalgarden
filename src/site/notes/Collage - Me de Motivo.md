@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-me-de-motivo/","tags":["c/statue","c/gold","c/man","c/brown","c/silver"],"created":"2024-01-03T00:06:17.388-05:00","updated":"2024-01-10T10:03:14.007-05:00"}
+{"dg-publish":true,"permalink":"/collage-me-de-motivo/","tags":["c/statue","c/gold","c/man","c/brown","c/silver","c/2020","c/metal-finish","c/music","c/series","c/Tim-Maia"],"created":"2024-01-03T00:06:17.388-05:00","updated":"2024-01-23T21:27:26.919-05:00"}
 ---
 
 
