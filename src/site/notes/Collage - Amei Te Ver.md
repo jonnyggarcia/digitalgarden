@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/collage-amei-te-ver/","tags":["c/music","c/series","c/body","c/man","c/woman","c/purple","c/red","c/flower","c/hand","c/water","c/2022","c/Tiago-Iorc"],"created":"2024-01-08T09:19:38.667-05:00","updated":"2024-01-22T14:37:12.974-05:00"}
+{"dg-publish":true,"permalink":"/collage-amei-te-ver/","tags":["c/music","c/series","c/body","c/man","c/woman","c/purple","c/red","c/flower","c/hand","c/water","c/2022","c/Tiago-Iorc"],"created":"2024-01-08T09:19:38.667-05:00","updated":"2024-01-23T22:01:32.282-05:00"}
 ---
 
 
-[Amei te ver](https://www.instagram.com/p/Cf_m6DguJA4/)
+[Amei Te Ver](https://www.instagram.com/p/Cf_m6DguJA4/)
 
-Inspired by: [Amei te ver by Tiago York](https://youtu.be/W62-ZG9tPpI?si=7Xpegnbq0YhobXU6)
+Inspired by: [Amei Te Ver by Tiago Iorc](https://youtu.be/W62-ZG9tPpI?si=7Xpegnbq0YhobXU6)
 
 ![](https://youtu.be/W62-ZG9tPpI?si=7Xpegnbq0YhobXU6)
 
