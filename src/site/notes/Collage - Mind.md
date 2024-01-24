@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-mind/","tags":["c/letters","c/flat-background","c/flower","c/vase","c/blue","c/purple","c/YT","c/SG"],"created":"2024-01-02T19:56:00.910-05:00","updated":"2024-01-10T10:03:13.110-05:00"}
+{"dg-publish":true,"permalink":"/collage-mind/","tags":["c/letters","c/flat-background","c/flower","c/vase","c/blue","c/purple","c/YT","c/SG","c/2020"],"created":"2024-01-02T19:56:00.910-05:00","updated":"2024-01-23T21:17:31.637-05:00"}
 ---
 
 
