@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-a-ruby-pillar-in-the-history-of-art/","tags":["c/red","c/number","c/jewel","c/kanyer-art-collection","c/passage","c/abstract"],"created":"2024-01-03T16:39:22.751-05:00","updated":"2024-01-10T10:03:13.134-05:00"}
+{"dg-publish":true,"permalink":"/collage-a-ruby-pillar-in-the-history-of-art/","tags":["c/red","c/number","c/jewel","c/kanyer-art-collection","c/passage","c/abstract","c/2020"],"created":"2024-01-03T16:39:22.751-05:00","updated":"2024-01-23T21:37:30.212-05:00"}
 ---
 
 
