@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-no/","tags":["c/politics","c/bolsonaro","c/hand","c/gun","c/torture","c/statue","c/religion","c/bullet","c/woman","c/manequin","c/red","c/green"],"created":"2024-01-01T16:54:04.139-05:00","updated":"2024-01-10T10:03:13.982-05:00"}
+{"dg-publish":true,"permalink":"/collage-no/","tags":["c/politics","c/bolsonaro","c/hand","c/gun","c/torture","c/statue","c/religion","c/bullet","c/woman","c/manequin","c/red","c/green","c/2019"],"created":"2024-01-01T16:54:04.139-05:00","updated":"2024-01-23T21:46:35.229-05:00"}
 ---
 
 
