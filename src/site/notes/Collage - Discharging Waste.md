@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-discharging-waste/","tags":["c/analog","c/corporeal-gestures","c/series","c/statue","c/purple","c/geometric","c/shape","c/green"],"created":"2024-01-02T08:24:08.822-05:00","updated":"2024-01-10T10:03:13.976-05:00"}
+{"dg-publish":true,"permalink":"/collage-discharging-waste/","tags":["c/analog","c/corporeal-gestures","c/series","c/statue","c/purple","c/geometric","c/shape","c/green","c/2019"],"created":"2024-01-02T08:24:08.822-05:00","updated":"2024-01-23T21:41:41.399-05:00"}
 ---
 
 
