@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-look/","tags":["c/face","c/woman","c/letters","c/analog"],"created":"2024-01-02T07:38:30.263-05:00","updated":"2024-01-10T10:03:12.980-05:00"}
+{"dg-publish":true,"permalink":"/collage-look/","tags":["c/face","c/woman","c/letters","c/analog","c/2019"],"created":"2024-01-02T07:38:30.263-05:00","updated":"2024-01-23T21:44:19.121-05:00"}
 ---
 
 
