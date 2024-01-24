@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-wound/","tags":["c/red","c/flower","c/torns","c/cross","c/purple","c/abstract","c/SG"],"created":"2024-01-03T13:39:27.562-05:00","updated":"2024-01-10T10:03:13.161-05:00"}
+{"dg-publish":true,"permalink":"/collage-wound/","tags":["c/red","c/flower","c/torns","c/cross","c/purple","c/abstract","c/SG","c/2020"],"created":"2024-01-03T13:39:27.562-05:00","updated":"2024-01-23T21:34:29.625-05:00"}
 ---
 
 
