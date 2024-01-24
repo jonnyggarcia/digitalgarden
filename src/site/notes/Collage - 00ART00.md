@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-00-art-00/","tags":["c/jonny","c/magic","c/circus","c/dance","c/shoes","c/mime","c/gloves","c/hat","c/self","c/series"],"created":"2024-01-01T16:37:37.524-05:00","updated":"2024-01-15T21:21:07.579-05:00"}
+{"dg-publish":true,"permalink":"/collage-00-art-00/","tags":["c/jonny","c/magic","c/circus","c/dance","c/shoes","c/mime","c/gloves","c/hat","c/self","c/series","c/2019"],"created":"2024-01-01T16:37:37.524-05:00","updated":"2024-01-23T21:48:11.073-05:00"}
 ---
 
 
