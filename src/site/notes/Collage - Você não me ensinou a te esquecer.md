@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-voce-nao-me-ensinou-a-te-esquecer/","tags":["c/purple","c/compass","c/compass-rose","c/woman","c/music","c/series","c/Caetano-Veloso"],"created":"2024-01-03T09:33:13.853-05:00","updated":"2024-01-10T10:20:58.778-05:00"}
+{"dg-publish":true,"permalink":"/collage-voce-nao-me-ensinou-a-te-esquecer/","tags":["c/purple","c/compass","c/compass-rose","c/woman","c/music","c/series","c/Caetano-Veloso","c/2020"],"created":"2024-01-03T09:33:13.853-05:00","updated":"2024-01-23T21:29:48.431-05:00"}
 ---
 
 
