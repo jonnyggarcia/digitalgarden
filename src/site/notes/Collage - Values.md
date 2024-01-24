@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-values/","tags":["c/cross","c/medicine","c/beje","c/fire","c/wood"],"created":"2024-01-02T20:01:59.036-05:00","updated":"2024-01-10T10:03:12.860-05:00"}
+{"dg-publish":true,"permalink":"/collage-values/","tags":["c/cross","c/medicine","c/beje","c/fire","c/wood","s/snake","c/2020"],"created":"2024-01-02T20:01:59.036-05:00","updated":"2024-01-23T21:18:28.923-05:00"}
 ---
 
 
