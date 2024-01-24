@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-libation/","tags":["c/woman","c/faceless","c/face","c/hand","c/bw","c/glasses","c/2021"],"created":"2024-01-04T19:00:13.645-05:00","updated":"2024-01-22T15:04:39.631-05:00"}
+{"dg-publish":true,"permalink":"/collage-libation/","tags":["c/woman","c/faceless","c/hand","c/bw","c/glasses","c/2021"],"created":"2024-01-04T19:00:13.645-05:00","updated":"2024-01-23T21:13:41.824-05:00"}
 ---
 
 
