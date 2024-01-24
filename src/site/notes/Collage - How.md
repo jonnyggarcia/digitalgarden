@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-how/","tags":["c/hand","c/blue","c/purple","c/glass"],"created":"2024-01-03T10:10:40.292-05:00","updated":"2024-01-10T10:03:13.157-05:00"}
+{"dg-publish":true,"permalink":"/collage-how/","tags":["c/hand","c/blue","c/purple","c/glass","c/2020","c/humid"],"created":"2024-01-03T10:10:40.292-05:00","updated":"2024-01-23T21:32:22.725-05:00"}
 ---
 
 
