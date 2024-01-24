@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-beyond-the-lines/","tags":["c/line","c/yellow","c/orange","c/building","c/street"],"created":"2024-01-03T16:46:42.334-05:00","updated":"2024-01-10T10:03:14.011-05:00"}
+{"dg-publish":true,"permalink":"/collage-beyond-the-lines/","tags":["c/line","c/yellow","c/orange","c/building","c/street","c/2020"],"created":"2024-01-03T16:46:42.334-05:00","updated":"2024-01-23T21:38:47.618-05:00"}
 ---
 
 
