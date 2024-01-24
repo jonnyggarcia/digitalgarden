@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-other-history/","tags":["c/shadow","c/abstract","c/pages","c/circle","c/purple","c/letters","c/kanyer-art-collection"],"created":"2024-01-03T16:38:37.370-05:00","updated":"2024-01-10T10:03:12.994-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-other-history/","tags":["c/shadow","c/abstract","c/pages","c/circle","c/purple","c/letters","c/kanyer-art-collection","c/2020"],"created":"2024-01-03T16:38:37.370-05:00","updated":"2024-01-23T21:37:18.360-05:00"}
 ---
 
 
