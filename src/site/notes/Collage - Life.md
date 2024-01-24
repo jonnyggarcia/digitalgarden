@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-life/","tags":["c/pages","c/child","c/clock","c/pocket-watch","c/orange","c/catavento","c/sky","c/time","c/senior","c/elder","c/woman","c/2020"],"created":"2024-01-01T16:20:13.389-05:00","updated":"2024-01-16T23:27:30.925-05:00"}
+{"dg-publish":true,"permalink":"/collage-life/","tags":["c/pages","c/child","c/clock","c/pocket-watch","c/orange","c/catavento","c/sky","c/time","c/senior","c/elder","c/woman","c/2019"],"created":"2024-01-01T16:20:13.389-05:00","updated":"2024-01-23T21:50:35.340-05:00"}
 ---
 
 
