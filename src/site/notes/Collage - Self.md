@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-self/","tags":["c/dice","c/d20","c/book","c/statue","c/hand","c/road","c/yellow","c/flat-background"],"created":"2024-01-01T16:19:27.037-05:00","updated":"2024-01-10T10:03:14.038-05:00"}
+{"dg-publish":true,"permalink":"/collage-self/","tags":["c/dice","c/d20","c/book","c/statue","c/hand","c/road","c/yellow","c/flat-background","c/2019"],"created":"2024-01-01T16:19:27.037-05:00","updated":"2024-01-23T21:50:40.210-05:00"}
 ---
 
 
