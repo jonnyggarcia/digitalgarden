@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ldr/","tags":["c/tower","c/abstract","c/red","c/rose","c/petal","c/sex","c/CK"],"created":"2024-01-03T16:42:59.396-05:00","updated":"2024-01-10T10:03:12.954-05:00"}
+{"dg-publish":true,"permalink":"/collage-ldr/","tags":["c/tower","c/abstract","c/red","c/rose","c/petal","c/sex","c/CK","c/2020"],"created":"2024-01-03T16:42:59.396-05:00","updated":"2024-01-23T21:38:20.873-05:00"}
 ---
 
 
