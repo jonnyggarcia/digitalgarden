@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-monsters/","tags":["c/analog","c/animal","c/building","c/sewing","c/insect"],"created":"2024-01-02T00:09:26.616-05:00","updated":"2024-01-10T10:03:14.023-05:00"}
+{"dg-publish":true,"permalink":"/collage-monsters/","tags":["c/analog","c/animal","c/building","c/sewing","c/insect","c/2019"],"created":"2024-01-02T00:09:26.616-05:00","updated":"2024-01-23T21:44:37.933-05:00"}
 ---
 
 
