@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-creep-crawlers/","tags":["c/money","c/red","c/animals","c/cibc"],"created":"2024-01-02T00:04:46.021-05:00","updated":"2024-01-10T10:03:13.778-05:00"}
+{"dg-publish":true,"permalink":"/collage-creep-crawlers/","tags":["c/money","c/red","c/animals","c/cibc","c/2019"],"created":"2024-01-02T00:04:46.021-05:00","updated":"2024-01-23T21:44:55.231-05:00"}
 ---
 
 
