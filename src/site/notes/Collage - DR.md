@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dr/","tags":["c/tongue","c/scissor","c/purple","c/abstract","c/CK"],"created":"2024-01-03T16:42:20.574-05:00","updated":"2024-01-10T10:03:12.981-05:00"}
+{"dg-publish":true,"permalink":"/collage-dr/","tags":["c/tongue","c/scissor","c/purple","c/abstract","c/CK","c/2020"],"created":"2024-01-03T16:42:20.574-05:00","updated":"2024-01-23T21:38:12.484-05:00"}
 ---
 
 
