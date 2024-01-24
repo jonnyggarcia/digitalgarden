@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-trauma/","tags":["c/man","c/lava","c/black","c/abstract","c/shattered","c/torn","c/flat-background","c/red"],"created":"2024-01-03T13:32:15.055-05:00","updated":"2024-01-10T10:03:13.968-05:00"}
+{"dg-publish":true,"permalink":"/collage-trauma/","tags":["c/man","c/lava","c/black","c/abstract","c/shattered","c/torn","c/flat-background","c/red","c/2020"],"created":"2024-01-03T13:32:15.055-05:00","updated":"2024-01-23T21:33:46.049-05:00"}
 ---
 
 
