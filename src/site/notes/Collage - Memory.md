@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-memory/","tags":["c/woman","c/purple","c/blue","c/fragment","c/falling-to-pieces"],"created":"2024-01-03T09:50:19.952-05:00","updated":"2024-01-10T10:03:12.779-05:00"}
+{"dg-publish":true,"permalink":"/collage-memory/","tags":["c/woman","c/purple","c/blue","c/fragment","c/falling-to-pieces","c/2020"],"created":"2024-01-03T09:50:19.952-05:00","updated":"2024-01-23T21:30:01.770-05:00"}
 ---
 
 
