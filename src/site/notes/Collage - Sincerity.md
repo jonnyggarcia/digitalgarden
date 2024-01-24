@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sincerity/","tags":["c/eye","c/canion","c/rocks","c/glass","c/purple"],"created":"2024-01-03T13:30:55.738-05:00","updated":"2024-01-10T10:03:14.010-05:00"}
+{"dg-publish":true,"permalink":"/collage-sincerity/","tags":["c/eye","c/canion","c/rocks","c/glass","c/purple","c/2020"],"created":"2024-01-03T13:30:55.738-05:00","updated":"2024-01-23T21:33:34.722-05:00"}
 ---
 
 
