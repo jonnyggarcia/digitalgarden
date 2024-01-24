@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-high-maintenance/","tags":["c/hand","c/flat-background","c/red","c/woman","c/CK"],"created":"2024-01-03T16:45:10.100-05:00","updated":"2024-01-10T10:03:13.112-05:00"}
+{"dg-publish":true,"permalink":"/collage-high-maintenance/","tags":["c/hand","c/flat-background","c/red","c/woman","c/CK","c/2020"],"created":"2024-01-03T16:45:10.100-05:00","updated":"2024-01-23T21:38:32.983-05:00"}
 ---
 
 
