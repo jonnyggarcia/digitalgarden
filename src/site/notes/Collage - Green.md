@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-green/","tags":["c/abstract","c/decollage","c/green","c/analog"],"created":"2024-01-02T07:42:32.192-05:00","updated":"2024-01-10T10:03:12.781-05:00"}
+{"dg-publish":true,"permalink":"/collage-green/","tags":["c/abstract","c/decollage","c/green","c/analog","c/2019"],"created":"2024-01-02T07:42:32.192-05:00","updated":"2024-01-23T21:43:32.684-05:00"}
 ---
 
 
