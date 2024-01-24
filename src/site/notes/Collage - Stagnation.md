@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-stagnation/","tags":["c/shadow","c/abstract","c/line","c/red"],"created":"2024-01-02T19:54:12.420-05:00","updated":"2024-01-10T10:03:14.001-05:00"}
+{"dg-publish":true,"permalink":"/collage-stagnation/","tags":["c/shadow","c/abstract","c/line","c/red","c/2020"],"created":"2024-01-02T19:54:12.420-05:00","updated":"2024-01-23T21:16:59.267-05:00"}
 ---
 
 
