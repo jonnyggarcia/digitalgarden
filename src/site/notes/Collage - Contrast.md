@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-contrast/","tags":["c/paris-collage","c/rainbow","c/mountain"],"created":"2024-01-01T16:40:51.423-05:00","updated":"2024-01-16T22:57:36.013-05:00"}
+{"dg-publish":true,"permalink":"/collage-contrast/","tags":["c/paris-collage","c/rainbow","c/mountain","c/2019","c/colorfull"],"created":"2024-01-01T16:40:51.423-05:00","updated":"2024-01-23T21:47:46.856-05:00"}
 ---
 
 
