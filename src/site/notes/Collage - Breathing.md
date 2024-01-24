@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-breathing/","tags":["c/corporeal-gestures","c/green","c/statue","c/series","c/blue","c/shape"],"created":"2024-01-02T08:33:04.159-05:00","updated":"2024-01-10T10:03:13.978-05:00"}
+{"dg-publish":true,"permalink":"/collage-breathing/","tags":["c/corporeal-gestures","c/green","c/statue","c/series","c/blue","c/shape","c/2019"],"created":"2024-01-02T08:33:04.159-05:00","updated":"2024-01-23T21:41:13.248-05:00"}
 ---
 
 
