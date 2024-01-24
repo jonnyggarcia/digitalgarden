@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-tower/","tags":["c/tower","c/purple","c/moon","c/sky","c/blue","c/sand","c/building"],"created":"2024-01-03T13:25:11.500-05:00","updated":"2024-01-10T10:03:13.920-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-tower/","tags":["c/tower","c/purple","c/moon","c/sky","c/blue","c/sand","c/building","c/2020"],"created":"2024-01-03T13:25:11.500-05:00","updated":"2024-01-23T21:33:21.198-05:00"}
 ---
 
 
