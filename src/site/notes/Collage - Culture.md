@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-culture/","tags":["c/circle","c/sphere","c/letters","c/purple","c/green","c/tree"],"created":"2024-01-01T16:26:03.778-05:00","updated":"2024-01-15T21:33:42.830-05:00"}
+{"dg-publish":true,"permalink":"/collage-culture/","tags":["c/circle","c/sphere","c/letters","c/purple","c/green","c/tree","c/2019"],"created":"2024-01-01T16:26:03.778-05:00","updated":"2024-01-23T21:49:59.659-05:00"}
 ---
 
 
