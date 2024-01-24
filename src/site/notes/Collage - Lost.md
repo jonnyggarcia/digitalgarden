@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-lost/","tags":["c/glass","c/shattered","c/window","c/heart","c/petal","c/red"],"created":"2024-01-01T16:31:26.302-05:00","updated":"2024-01-10T10:03:12.746-05:00"}
+{"dg-publish":true,"permalink":"/collage-lost/","tags":["c/glass","c/shattered","c/window","c/heart","c/petal","c/red","c/2019"],"created":"2024-01-01T16:31:26.302-05:00","updated":"2024-01-23T21:49:48.858-05:00"}
 ---
 
 
