@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-system/","tags":["c/skull","c/crowd","c/smoke","c/vertical","c/globe"],"created":"2024-01-01T16:08:46.763-05:00","updated":"2024-01-10T10:03:13.509-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-system/","tags":["c/skull","c/crowd","c/smoke","c/vertical","c/globe","c/2019"],"created":"2024-01-01T16:08:46.763-05:00","updated":"2024-01-23T21:53:03.174-05:00"}
 ---
 
 
