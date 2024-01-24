@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sculpture-asl-culture/","tags":["c/sculpture","c/asl","c/culture","c/green","c/clay","c/hand","review"],"created":"2024-01-01T16:47:15.461-05:00","updated":"2024-01-10T10:56:59.224-05:00"}
+{"dg-publish":true,"permalink":"/sculpture-asl-culture/","tags":["c/sculpture","c/asl","c/culture","c/green","c/clay","c/hand","review","c/2019"],"created":"2024-01-01T16:47:15.461-05:00","updated":"2024-01-23T21:46:59.868-05:00"}
 ---
 
 
