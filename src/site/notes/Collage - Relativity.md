@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-relativity/","tags":["c/stairs","c/beje","c/escher"],"created":"2024-01-03T10:03:13.829-05:00","updated":"2024-01-10T10:03:12.720-05:00"}
+{"dg-publish":true,"permalink":"/collage-relativity/","tags":["c/stairs","c/beje","c/escher","c/2020","c/surrealism"],"created":"2024-01-03T10:03:13.829-05:00","updated":"2024-01-23T21:31:01.290-05:00"}
 ---
 
 
