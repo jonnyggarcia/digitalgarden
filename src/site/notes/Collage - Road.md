@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-road/","tags":["c/light-bulb","c/tire","c/motorcycle","c/road","c/sky","c/blue","c/purple"],"created":"2024-01-02T20:21:08.366-05:00","updated":"2024-01-10T10:03:14.026-05:00"}
+{"dg-publish":true,"permalink":"/collage-road/","tags":["c/light-bulb","c/tire","c/motorcycle","c/road","c/sky","c/blue","c/purple","c/2020"],"created":"2024-01-02T20:21:08.366-05:00","updated":"2024-01-23T21:25:03.631-05:00"}
 ---
 
 
