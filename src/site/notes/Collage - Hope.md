@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-hope/","tags":["c/window","c/green","c/red","c/yellow","c/cibc"],"created":"2024-01-02T00:01:02.680-05:00","updated":"2024-01-10T10:03:13.783-05:00"}
+{"dg-publish":true,"permalink":"/collage-hope/","tags":["c/window","c/green","c/red","c/yellow","c/cibc","c/2019"],"created":"2024-01-02T00:01:02.680-05:00","updated":"2024-01-23T21:45:11.710-05:00"}
 ---
 
 
