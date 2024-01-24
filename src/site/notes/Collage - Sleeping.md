@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sleeping/","tags":["c/corporeal-gestures","c/shape","c/statue","c/flat-background","c/yellow","c/red","c/blue","c/series","c/printed"],"created":"2024-01-02T08:31:24.256-05:00","updated":"2024-01-22T14:51:57.106-05:00"}
+{"dg-publish":true,"permalink":"/collage-sleeping/","tags":["c/corporeal-gestures","c/shape","c/statue","c/flat-background","c/yellow","c/red","c/blue","c/series","c/printed","c/2019"],"created":"2024-01-02T08:31:24.256-05:00","updated":"2024-01-23T21:41:25.844-05:00"}
 ---
 
 
