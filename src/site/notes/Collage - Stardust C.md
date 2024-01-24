@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-stardust-c/","tags":["c/woman","c/abstract","c/brown","c/green","c/metal-finish","c/CK"],"created":"2024-01-03T13:40:30.533-05:00","updated":"2024-01-10T10:03:12.717-05:00"}
+{"dg-publish":true,"permalink":"/collage-stardust-c/","tags":["c/woman","c/abstract","c/brown","c/green","c/metal-finish","c/CK","c/2020"],"created":"2024-01-03T13:40:30.533-05:00","updated":"2024-01-23T21:34:33.723-05:00"}
 ---
 
 
