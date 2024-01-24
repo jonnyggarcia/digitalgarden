@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-dec-0-2/","tags":["c/blue","c/self","c/jonny","c/pattern","c/plant","c/sign","c/hand","c/CK","c/YT","c/series"],"created":"2024-01-03T16:43:45.852-05:00","updated":"2024-01-15T19:55:41.013-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-dec-0-2/","tags":["c/blue","c/self","c/jonny","c/pattern","c/plant","c/sign","c/hand","c/CK","c/YT","c/series","c/2020"],"created":"2024-01-03T16:43:45.852-05:00","updated":"2024-01-23T21:38:26.096-05:00"}
 ---
 
 
