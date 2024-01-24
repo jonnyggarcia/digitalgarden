@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-esquadros/","tags":["c/music","c/series","c/geometric","c/woman","c/red","c/brown","c/purple","c/window","c/Adriana-Calcanhoto"],"created":"2024-01-02T20:16:56.829-05:00","updated":"2024-01-22T15:58:00.014-05:00"}
+{"dg-publish":true,"permalink":"/collage-esquadros/","tags":["c/music","c/series","c/geometric","c/woman","c/red","c/brown","c/purple","c/window","c/Adriana-Calcanhoto","c/2020"],"created":"2024-01-02T20:16:56.829-05:00","updated":"2024-01-23T21:23:17.186-05:00"}
 ---
 
 
