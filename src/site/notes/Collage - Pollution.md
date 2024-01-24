@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-pollution/","tags":["c/ring","c/blue","c/purple","c/geometric","c/water","c/washrooom","c/marriage","c/SG","c/YT"],"created":"2024-01-03T13:38:38.365-05:00","updated":"2024-01-10T10:03:13.990-05:00"}
+{"dg-publish":true,"permalink":"/collage-pollution/","tags":["c/ring","c/blue","c/purple","c/geometric","c/water","c/washrooom","c/marriage","c/SG","c/YT","c/2020"],"created":"2024-01-03T13:38:38.365-05:00","updated":"2024-01-23T21:34:23.966-05:00"}
 ---
 
 
