@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ideation/","tags":["c/analog","c/circle","c/exibition","c/letters","c/religion","c/red","c/pink","c/green","c/abstract","c/SG"],"created":"2024-01-02T07:51:38.537-05:00","updated":"2024-01-10T10:03:13.881-05:00"}
+{"dg-publish":true,"permalink":"/collage-ideation/","tags":["c/analog","c/circle","c/exibition","c/letters","c/religion","c/red","c/pink","c/green","c/abstract","c/SG","c/2019"],"created":"2024-01-02T07:51:38.537-05:00","updated":"2024-01-23T21:42:59.584-05:00"}
 ---
 
 
