@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-v/","tags":["c/statue","c/letters","c/woman","c/face","c/red","c/black","c/voiceless"],"created":"2024-01-02T20:04:12.688-05:00","updated":"2024-01-10T10:03:13.945-05:00"}
+{"dg-publish":true,"permalink":"/collage-v/","tags":["c/statue","c/letters","c/woman","c/red","c/black","c/voiceless","c/2020","c/faceless"],"created":"2024-01-02T20:04:12.688-05:00","updated":"2024-01-23T21:19:01.573-05:00"}
 ---
 
 
