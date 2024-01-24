@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-heart/","tags":["c/analog","c/heart","c/winter","c/flat-background","c/shape","c/abstract","c/JA"],"created":"2024-01-02T08:17:17.912-05:00","updated":"2024-01-10T10:03:12.978-05:00"}
+{"dg-publish":true,"permalink":"/collage-heart/","tags":["c/analog","c/heart","c/winter","c/flat-background","c/shape","c/abstract","c/JA","c/2019"],"created":"2024-01-02T08:17:17.912-05:00","updated":"2024-01-23T21:42:26.907-05:00"}
 ---
 
 
