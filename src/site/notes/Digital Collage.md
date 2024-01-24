@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T17:50:39.115-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T21:14:39.137-05:00"}
 ---
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
@@ -15,7 +15,7 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 Check the list of all collages published below (work in progress).
 
-![Asas, 2022, Jonny Garcia.jpg|400](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)N
+![Asas, 2022, Jonny Garcia.jpg|400](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)
 ```
 Asas, 2022, Jonny Garcia
 ```
@@ -24,7 +24,6 @@ Asas, 2022, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
-| [[Collage - Ryujin\|Collage - Ryujin]]                                                           |
 | [[Collage - Market\|Collage - Market]]                                                           |
 | [[Collage - Insufflation\|Collage - Insufflation]]                                               |
 | [[Collage - Gift\|Collage - Gift]]                                                               |
@@ -347,11 +346,11 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Lanterna dos Afogados\|Collage - Lanterna dos Afogados]]                             |
 | [[Collage - Você não me ensinou a te esquecer\|Collage - Você não me ensinou a te esquecer]]     |
 | [[Collage - Time\|Collage - Time]]                                                               |
-| [[Collage - 4 until\|Collage - 4 until]]                                                         |
+| [[Collage - 4 B\|Collage - 4 B]]                                                                 |
 | [[Collage - Me de Motivo\|Collage - Me de Motivo]]                                               |
 | [[Collage - Disruption\|Collage - Disruption]]                                                   |
 | [[Collage - Why\|Collage - Why]]                                                                 |
-| [[Collage - 1000000\|Collage - 1000000]]                                                         |
+| [[Collage - 1,000,000\|Collage - 1,000,000]]                                                     |
 | [[Collage - Projection\|Collage - Projection]]                                                   |
 | [[Collage - Fantasy\|Collage - Fantasy]]                                                         |
 | [[Collage - Disconnection\|Collage - Disconnection]]                                             |
@@ -361,7 +360,7 @@ Asas, 2022, Jonny Garcia
 | [[Collage - Blind\|Collage - Blind]]                                                             |
 | [[Collage - Esquadros\|Collage - Esquadros]]                                                     |
 | [[Collage - Preciso me Encontrar\|Collage - Preciso me Encontrar]]                               |
-| [[Collage - Once Upon a Time\|Collage - Once Upon a Time]]                                       |
+| [[Collage - Era uma Vez\|Collage - Era uma Vez]]                                                 |
 | [[Collage - E\|Collage - E]]                                                                     |
 | [[Collage - V\|Collage - V]]                                                                     |
 | [[Collage - B A U\|Collage - B A U]]                                                             |
