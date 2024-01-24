@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T21:14:39.137-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T22:57:59.493-05:00"}
 ---
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
@@ -8,16 +8,16 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 [[Collage Process\|Collage Process]]
 
-# [[Collage in Practice Workshop - Notes\|Collage in Practice Workshop - Notes]]
-
+[[Collage in Practice Workshop - Notes\|Collage in Practice Workshop - Notes]]
 
 ---
 
 Check the list of all collages published below (work in progress).
 
 ![Asas, 2022, Jonny Garcia.jpg|400](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)
+
 ```
-Asas, 2022, Jonny Garcia
+Asas, 2022, Songs, Jonny Garcia
 ```
 
 # Collage List
