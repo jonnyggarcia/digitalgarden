@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-room/","tags":["c/furniture","c/room","c/beje","c/orange","c/escher"],"created":"2024-01-03T10:12:37.346-05:00","updated":"2024-01-10T10:03:13.780-05:00"}
+{"dg-publish":true,"permalink":"/collage-room/","tags":["c/furniture","c/room","c/beje","c/orange","c/escher","c/2020","c/surrealism"],"created":"2024-01-03T10:12:37.346-05:00","updated":"2024-01-23T21:32:38.069-05:00"}
 ---
 
 
