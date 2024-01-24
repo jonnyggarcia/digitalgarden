@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-consciousness/","tags":["c/analog","c/abstract","c/letters","c/number","c/stamp"],"created":"2024-01-02T07:47:15.584-05:00","updated":"2024-01-10T10:03:13.724-05:00"}
+{"dg-publish":true,"permalink":"/collage-consciousness/","tags":["c/analog","c/abstract","c/letters","c/number","c/stamp","c/2019"],"created":"2024-01-02T07:47:15.584-05:00","updated":"2024-01-23T21:43:15.689-05:00"}
 ---
 
 
