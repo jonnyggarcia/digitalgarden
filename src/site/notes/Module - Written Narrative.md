@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-written-narrative/","created":"2024-01-23T17:51:32.259-05:00","updated":"2024-01-23T22:21:28.461-05:00"}
+{"dg-publish":true,"permalink":"/module-written-narrative/","created":"2024-01-23T17:51:32.259-05:00","updated":"2024-01-24T18:59:50.389-05:00"}
 ---
 
 
@@ -125,9 +125,9 @@ Jonny Garcia is a Brazilian-Canadian self-taught multi-disciplinary artist. From
 
 In addition to his artistic pursuits, Garcia holds two computer degrees and currently works full-time in the financial industry. Furthermore, he possesses a degree in psychoanalysis and has experience both in private practice and within a mental institution.
 
-Since 2019, Garcia has dedicated his efforts to exploring digital collages. His body of work consists more than 500 digital collages. Garcia's collages have been featured in exhibitions such as *Corporeal Gestures: An International Exhibition of Contemporary Collage* curated by Clive Knights in 2022. In 2020, one of Garcia's collage became part of a school program in the city of Kingston, Canada. The *Schwitters’ Army Collection of Collage Art* at MERZ Gallery have incorporated one of Garcia's collage into its collection.
+Since 2019, Garcia has dedicated his efforts to exploring digital collages. His body of work consists of more than 500 digital collages. Garcia's collages have been featured in exhibitions such as *Corporeal Gestures: An International Exhibition of Contemporary Collage* curated by Clive Knights in 2022. In 2020, one of Garcia's collage became part of a school program in the city of Kingston, Canada. The *Schwitters’ Army Collection of Collage Art* at MERZ Gallery has incorporated one of Garcia's collage into its collection.
 
-### Art Statement
+### Artist Statement
 
 The intentional choice of the digital medium over analog is driven by the desire for creative freedom. My challenge in articulating emotions verbally, stemming from Alexithymia, also known as emotional blindness, poses a significant constraint. Digital tools, however, offer me the liberation to experiment, modify, and seamlessly adapt visual symbols, providing a space for unrestricted creative exploration.
 
@@ -137,8 +137,8 @@ I dedicate a significant amount of time maintaining a well-organized inventory o
 
 Ensuring the preservation of my work, the original digital files are securely backed up on the cloud. I adopt a systematic approach to cataloging my collages, creating a file for each piece that includes a detailed description of all elements present using hashtags for efficient searches. This method enables me to identify patterns in the most commonly used elements, colours, and the number of collages created each year. For collages requiring printing, vital information is registered on the back of the piece. The destination of each piece determines how and where the collage will be printed and framed.
 
-I disseminate my work through various channels, including participating in calls for artists, utilizing Instagram, and maintaining a personal website. Over the past three years, I have compiled high-quality books curated with 20 to 25 collages created during each respective year. In 2024, I will be delving into collaborative project with two other artists with the intention to produce a proposal for presentation to galleries and curators.
+I disseminate my work through various channels, including participating in calls for artists, utilizing Instagram, and maintaining a personal website. Over the past three years, I have compiled high-quality books curated with 20 to 25 collages created during each respective year. In 2024, I will be delving into a collaborative project with two other artists with the intention to produce a proposal for presentation to galleries and curators.
 
 ## STEP FIVE: Submitting Your Statement
 
-If you would like feedback on your statement, we invite you to send the statement to [ric@kasinihouse.com](mailto:ric@kasinihouse.com). Please include 3-5 images of artwork, what sort of feedback you are looking for and whether or not you are interested in a one-on-one phone call or zoom. The subject of the email should be "Collage in Practice: YOUR NAME".
+If you would like feedback on your statement, we invite you to send the statement to ric@kasinihouse.com. Please include 3-5 images of artwork, what sort of feedback you are looking for and whether or not you are interested in a one-on-one phone call or zoom. The subject of the email should be "Collage in Practice: YOUR NAME".
