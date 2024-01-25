@@ -24,6 +24,7 @@ Asas, 2022, Songs, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Expert Trap\|Collage - Expert Trap]]                                                 |
 | [[Collage - Market\|Collage - Market]]                                                           |
 | [[Collage - Insufflation\|Collage - Insufflation]]                                               |
 | [[Collage - Gift\|Collage - Gift]]                                                               |
@@ -52,7 +53,7 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Moon\|Collage - Moon]]                                                               |
 | [[Collage - Toronto\|Collage - Toronto]]                                                         |
 | [[Collage - 2JUN3\|Collage - 2JUN3]]                                                             |
-| [[Collage - Voiceless 2\|Collage - Voiceless 2]]                                                 |
+| [[Collage - Voiceless 1\|Collage - Voiceless 1]]                                                 |
 | [[Collage - Subject\|Collage - Subject]]                                                         |
 | [[Collage - 2OCT3\|Collage - 2OCT3]]                                                             |
 | [[Collage - Cold Hands\|Collage - Cold Hands]]                                                   |
@@ -151,7 +152,7 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Take Down\|Collage - Take Down]]                                                     |
 | [[Collage - 2MAY2\|Collage - 2MAY2]]                                                             |
 | [[Collage -  Look 2\|Collage -  Look 2]]                                                         |
-| [[Collage - Art 1\|Collage - Art 1]]                                                             |
+| [[Collage - CC Magazine - Art\|Collage - CC Magazine - Art]]                                     |
 | [[Collage - Down\|Collage - Down]]                                                               |
 | [[Collage - Spark\|Collage - Spark]]                                                             |
 | [[Collage - Crumbling\|Collage - Crumbling]]                                                     |
@@ -178,7 +179,7 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Book 2021\|Collage - Book 2021]]                                                     |
 | [[Collage - Abstract\|Collage - Abstract]]                                                       |
 | [[Collage - Star Flower\|Collage - Star Flower]]                                                 |
-| [[Collage - Welcome, not\|Collage - Welcome, not]]                                               |
+| [[Collage - Welcome , not\|Collage - Welcome , not]]                                             |
 | [[Collage - Downhill\|Collage - Downhill]]                                                       |
 | [[Collage - Epicentre\|Collage - Epicentre]]                                                     |
 | [[Collage - Whiff\|Collage - Whiff]]                                                             |
@@ -204,7 +205,7 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - JDeterminanion\|Collage - JDeterminanion]]                                           |
 | [[Collage - Libation\|Collage - Libation]]                                                       |
 | [[Collage - Journey\|Collage - Journey]]                                                         |
-| [[Collage - Confused Colour\|Collage - Confused Colour]]                                         |
+| [[Collage - Confused Colours\|Collage - Confused Colours]]                                       |
 | [[Collage - Drip\|Collage - Drip]]                                                               |
 | [[Collage - Excitement\|Collage - Excitement]]                                                   |
 | [[Collage - Cycle\|Collage - Cycle]]                                                             |
