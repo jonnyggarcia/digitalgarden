@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/fusion-event-dec-15-2023/","created":"2023-12-16T12:41:55.142-05:00","updated":"2024-01-09T13:12:33.326-05:00"}
+{"dg-publish":true,"permalink":"/fusion-event-dec-15-2023/","created":"2023-12-16T12:41:55.142-05:00","updated":"2024-01-27T14:10:37.790-05:00"}
 ---
 
 
 [Playlist from one of the DJs](https://open.spotify.com/playlist/251Bhl2zQeWN2lAYAWwrTK?si=84af325da0bd4032) with a total of 3 DJs.
 
-I believe that Kinga and I were the only newcomers at Fusion.
+I believe that my companion and I were the only newcomers at Fusion.
 
 The event took place at Anex Dance in Toronto, at Bathurst and Bloor. The initial class was about [[Zouk\|Zouk]] and was led by two women whom I believe are a couple.
 
@@ -45,7 +45,8 @@ I imagined the possibility that people could be more faithful to their dance sty
 
 The lead has to be much more focused on adapting to the dance style and body movement of the follower, and only then leading the dance.
 
-The best dances came from people with advanced body listening, allowing for a harmonious dance. This reinforces my theory that people should learn body listening before learning steps.{ #connection}
+The best dances came from people with advanced body listening, allowing for a harmonious dance. This reinforces my theory that people should learn body listening before learning steps.
+{ #connection}
 
 
 I believe that Fusion, as it happened at the event, is not a dance style but rather a cultural phenomenon or mentality, a reflection of urban centres with varied dance options where people allow themselves to explore what they know in alternative contexts, thus being creative. I believe that without attending classes of other dance styles, personal development is very limited. Possibly what I aspire to as dance is Fusion as a dance style.
