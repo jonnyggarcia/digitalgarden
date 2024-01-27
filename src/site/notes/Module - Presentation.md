@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-presentation/","created":"2024-01-22T19:18:05.248-05:00","updated":"2024-01-23T22:21:49.552-05:00"}
+{"dg-publish":true,"permalink":"/module-presentation/","created":"2024-01-22T19:18:05.248-05:00","updated":"2024-01-25T15:18:57.702-05:00"}
 ---
 
 
@@ -48,12 +48,14 @@ Identify 1-2 ideas that explain each of the different areas of your practice. Wr
 - **Finishing**
 	- I maintain a well-organized inventory of all my artworks.
 	- I have name patterns for collages associated with projects.
-	- I can easily search and identify patterns through the use of a cataloging system.
-	- When collages are printed, they have vital information on the back.
+	- Describe each element with hashtags
+	- Easy search 
+	- Print: they have vital information on the back.
 	- The destination determines how they will be printed and framed.
 - **Diffusion**
 	- Participating in open call, instagram, and personal website.
-	- This year will be engaged in a collaborative project with 2 other artist to produce a proposal for galleries and curators.
+	- 2024: mor open for calls
+	- 2024: project with 2 other artist to produce a proposal for galleries and curators.
 - **Impact & Engagement**
 	- My collages can be emotionally charged. Communicating with neuro divergent minds.
 	- They also reflects the experiences of being an immigrant.
