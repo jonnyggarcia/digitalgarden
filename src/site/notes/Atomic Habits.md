@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-01-08T18:34:12.993-05:00","updated":"2024-01-10T17:12:33.493-05:00"}
+{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-01-08T18:34:12.993-05:00","updated":"2024-01-27T11:15:37.139-05:00"}
 ---
 
 
