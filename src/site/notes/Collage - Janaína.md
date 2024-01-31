@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-janaina/","tags":["c/music","c/series","c/yellow","c/face","c/woman","c/blue","c/purple","c/number","c/geometric","c/ballon"],"created":"2024-01-28T12:28:51.551-05:00","updated":"2024-01-28T12:31:58.023-05:00"}
+{"dg-publish":true,"permalink":"/collage-janaina/","tags":["c/music","c/series","c/yellow","c/face","c/woman","c/blue","c/purple","c/number","c/geometric","c/ballon","c/2024","c/Biquíni-Cavadão"],"created":"2024-01-28T12:28:51.551-05:00","updated":"2024-01-29T15:32:10.576-05:00"}
 ---
 
 
