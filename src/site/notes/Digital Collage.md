@@ -24,6 +24,7 @@ Asas, 2022, Songs, Jonny Garcia
 
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - Celebrations , Immigration\|Collage - Celebrations , Immigration]]                   |
 | [[Collage - Janaína\|Collage - Janaína]]                                                         |
 | [[Collage - Expert Trap\|Collage - Expert Trap]]                                                 |
 | [[Collage - Market\|Collage - Market]]                                                           |
