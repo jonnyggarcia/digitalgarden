@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sozinho/","tags":["c/woman","c/bw","c/man","c/mouth","c/music","c/series","c/Caetano-Veloso","c/2020"],"created":"2024-01-03T09:51:42.480-05:00","updated":"2024-01-16T22:23:43.360-05:00"}
+{"dg-publish":true,"permalink":"/collage-sozinho/","tags":["c/woman","c/bw","c/man","c/mouth","c/series-songs","c/series","c/Caetano-Veloso","c/2020","c/remake","c/songs-MPB"],"created":"2024-01-03T09:51:42.480-05:00","updated":"2024-02-01T09:08:04.946-05:00"}
 ---
 
 
