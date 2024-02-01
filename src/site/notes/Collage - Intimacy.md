@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-intimacy/","tags":["c/immigration","c/hand","c/cherry","c/caleidoscope","c/fruit","c/geometric","c/white","c/2019"],"created":"2024-01-01T16:09:42.376-05:00","updated":"2024-01-16T23:08:17.006-05:00"}
+{"dg-publish":true,"permalink":"/collage-intimacy/","tags":["c/series-immigration","c/hand","c/cherry","c/caleidoscope","c/fruit","c/geometric","c/white","c/2019"],"created":"2024-01-01T16:09:42.376-05:00","updated":"2024-02-01T09:10:40.952-05:00"}
 ---
 
 
