@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-aug-1/","tags":["c/self","c/series","c/jonny","c/cat","c/adoption","c/purple","c/abstract","c/2021"],"created":"2024-01-03T17:36:18.018-05:00","updated":"2024-01-22T15:01:37.872-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-aug-1/","tags":["c/series-self","c/series","c/jonny","c/cat","c/adoption","c/purple","c/abstract","c/2021"],"created":"2024-01-03T17:36:18.018-05:00","updated":"2024-02-01T09:07:48.202-05:00"}
 ---
 
+
+Context: Adoption of my 2 cats, Pipper and Ember.
 
 [2AUG1](https://www.instagram.com/p/CTCnJr5L1Li/)
 
