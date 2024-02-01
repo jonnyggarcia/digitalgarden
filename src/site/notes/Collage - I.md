@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-i/","tags":["c/jonny","c/uncollage","c/portrait","c/colorfull","c/2021"],"created":"2024-01-04T11:32:30.139-05:00","updated":"2024-01-22T15:03:55.933-05:00"}
+{"dg-publish":true,"permalink":"/collage-i/","tags":["c/jonny","c/uncollage","c/series-portrait","c/colorfull","c/2021"],"created":"2024-01-04T11:32:30.139-05:00","updated":"2024-02-01T09:08:26.140-05:00"}
 ---
 
 
