@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-holidays/","tags":["c/circle","c/abstract","c/yellow","c/blue","c/immigration","c/2020"],"created":"2024-01-03T16:48:59.414-05:00","updated":"2024-01-23T21:39:14.279-05:00"}
+{"dg-publish":true,"permalink":"/collage-holidays/","tags":["c/circle","c/abstract","c/yellow","c/blue","c/series-immigration","c/2020"],"created":"2024-01-03T16:48:59.414-05:00","updated":"2024-02-01T09:10:40.798-05:00"}
 ---
 
 
