@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-dec-0/","tags":["c/self","c/series","c/face","c/jonny","c/abstract","c/red","c/CK","c/2020"],"created":"2024-01-03T14:08:59.241-05:00","updated":"2024-01-23T21:35:30.058-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-dec-0/","tags":["c/series-self","c/series","c/face","c/jonny","c/abstract","c/red","c/CK","c/2020"],"created":"2024-01-03T14:08:59.241-05:00","updated":"2024-02-01T09:07:48.460-05:00"}
 ---
 
 
