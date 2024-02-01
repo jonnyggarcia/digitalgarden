@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-00-formation-00/","tags":["c/self","c/jonny","c/kungfu","c/light-bulb","c/psychoanlysis","c/yellow","c/shirtless","c/series","c/2019"],"created":"2024-01-01T16:33:18.632-05:00","updated":"2024-01-16T23:13:06.361-05:00"}
+{"dg-publish":true,"permalink":"/collage-00-formation-00/","tags":["c/series-self","c/jonny","c/kungfu","c/light-bulb","c/psychoanlysis","c/yellow","c/shirtless","c/series","c/2019"],"created":"2024-01-01T16:33:18.632-05:00","updated":"2024-02-01T09:07:47.887-05:00"}
 ---
 
 
