@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-era-uma-vez/","tags":["c/music","c/man","c/child","c/yellow","c/flower","c/series","c/Kell-Smith","c/2020"],"created":"2024-01-02T20:05:28.475-05:00","updated":"2024-01-23T21:20:06.715-05:00"}
+{"dg-publish":true,"permalink":"/collage-era-uma-vez/","tags":["c/series-songs","c/man","c/child","c/yellow","c/flower","c/series","c/Kell-Smith","c/2020","c/songs-pop"],"created":"2024-01-02T20:05:28.475-05:00","updated":"2024-02-01T09:08:05.189-05:00"}
 ---
 
 
