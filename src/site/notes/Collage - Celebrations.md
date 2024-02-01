@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-celebrations/","tags":["c/immigration","c/boy","c/earth","c/planet","c/cake","c/orange","c/triangle","c/geometric","c/2019"],"created":"2024-01-01T15:47:01.379-05:00","updated":"2024-01-22T12:39:09.538-05:00"}
+{"dg-publish":true,"permalink":"/collage-celebrations/","tags":["c/series-immigration","c/boy","c/earth","c/planet","c/cake","c/orange","c/triangle","c/geometric","c/2019"],"created":"2024-01-01T15:47:01.379-05:00","updated":"2024-02-01T09:10:40.568-05:00"}
 ---
 
 
