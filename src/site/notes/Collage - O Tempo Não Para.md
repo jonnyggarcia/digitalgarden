@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-o-tempo-nao-para/","tags":["c/music","c/series","c/hand","c/bw","c/moon","c/falling-to-pieces","c/flat-background","c/white","c/2022","c/Cazuza"],"created":"2024-01-08T09:28:19.777-05:00","updated":"2024-01-22T14:40:07.668-05:00"}
+{"dg-publish":true,"permalink":"/collage-o-tempo-nao-para/","tags":["c/series-songs","c/series","c/hand","c/bw","c/moon","c/falling-to-pieces","c/flat-background","c/white","c/2022","c/Cazuza","c/songs-rock"],"created":"2024-01-08T09:28:19.777-05:00","updated":"2024-02-01T09:08:04.750-05:00"}
 ---
 
 
