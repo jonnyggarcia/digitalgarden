@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-paciencia/","tags":["c/clock","c/purple","c/rocks","c/wall","c/Lenine","c/music","c/series","c/2020"],"created":"2024-01-02T20:18:29.812-05:00","updated":"2024-01-16T23:07:03.896-05:00"}
+{"dg-publish":true,"permalink":"/collage-paciencia/","tags":["c/clock","c/purple","c/rocks","c/wall","c/Lenine","c/series-songs","c/series","c/2020","c/songs-MPB"],"created":"2024-01-02T20:18:29.812-05:00","updated":"2024-02-01T09:08:04.827-05:00"}
 ---
 
 
