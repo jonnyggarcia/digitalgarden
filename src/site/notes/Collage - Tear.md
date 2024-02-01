@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-tear/","tags":["c/flat-background","c/bw","c/white","c/black","c/ring","c/hand","c/tear","c/dress","c/music","c/series","c/2023","c/printed"],"created":"2024-01-09T09:00:46.313-05:00","updated":"2024-01-22T14:49:50.264-05:00"}
+{"dg-publish":true,"permalink":"/collage-tear/","tags":["c/flat-background","c/bw","c/white","c/black","c/ring","c/hand","c/tear","c/dress","c/series-songs","c/series","c/2023","c/printed","c/songs-rock-gothic"],"created":"2024-01-09T09:00:46.313-05:00","updated":"2024-02-01T09:08:04.994-05:00"}
 ---
 
 
