@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-immigrant/","tags":["c/person","c/immigration","c/subway","c/letters","c/2019"],"created":"2024-01-01T15:43:51.835-05:00","updated":"2024-01-24T19:47:00.410-05:00"}
+{"dg-publish":true,"permalink":"/collage-immigrant/","tags":["c/person","c/series-immigration","c/subway","c/letters","c/2019"],"created":"2024-01-01T15:43:51.835-05:00","updated":"2024-02-01T09:10:40.905-05:00"}
 ---
 
 
