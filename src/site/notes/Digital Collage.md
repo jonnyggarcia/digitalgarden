@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-01-23T22:57:59.493-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-02-01T09:25:56.827-05:00"}
 ---
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
@@ -22,9 +22,21 @@ Asas, 2022, Songs, Jonny Garcia
 
 # Collage List
 
+- [[Collage - 1SEP9\|Collage - 1SEP9]]
+- [[Collage - Culture Embrace\|Collage - Culture Embrace]]
+- [[Collage - Festivities\|Collage - Festivities]]
+- [[Collage - Janaína\|Collage - Janaína]]
+- [[Collage - Expert Trap\|Collage - Expert Trap]]
+- [[Collage - Market\|Collage - Market]]
+- [[Collage - Insufflation\|Collage - Insufflation]]
+
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
-| [[Collage - Celebrations , Immigration\|Collage - Celebrations , Immigration]]                   |
+| [[Collage - 1JUN4\|Collage - 1JUN4]]                                                             |
+| [[Collage - 2APR1\|Collage - 2APR1]]                                                             |
+| [[Collage - 1SEP9\|Collage - 1SEP9]]                                                             |
+| [[Collage - Culture Embrace\|Collage - Culture Embrace]]                                         |
+| [[Collage - Festivities\|Collage - Festivities]]                                                 |
 | [[Collage - Janaína\|Collage - Janaína]]                                                         |
 | [[Collage - Expert Trap\|Collage - Expert Trap]]                                                 |
 | [[Collage - Market\|Collage - Market]]                                                           |
