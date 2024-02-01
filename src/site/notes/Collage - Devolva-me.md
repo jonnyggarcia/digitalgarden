@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-devolva-me/","tags":["c/flat-background","c/white","c/envelope","c/plant","c/woman","c/bw","c/Adriana-Calcanhoto","c/2022"],"created":"2024-01-08T09:34:51.924-05:00","updated":"2024-01-22T14:41:44.146-05:00"}
+{"dg-publish":true,"permalink":"/collage-devolva-me/","tags":["c/flat-background","c/white","c/envelope","c/plant","c/woman","c/bw","c/Adriana-Calcanhoto","c/2022","c/series-songs","c/series","c/songs-MPB"],"created":"2024-01-08T09:34:51.924-05:00","updated":"2024-02-01T09:08:04.440-05:00"}
 ---
 
 
