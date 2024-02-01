@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-2/","tags":["c/self","c/series","c/trip","c/brasil","c/airplane","c/cup","c/chair","c/lamp","c/bw","c/exibition","c/bridge","c/2022"],"created":"2024-01-05T09:00:32.180-05:00","updated":"2024-01-16T23:09:37.219-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-2/","tags":["c/series-self","c/series","c/trip","c/brasil","c/airplane","c/cup","c/chair","c/lamp","c/bw","c/exibition","c/bridge","c/2022"],"created":"2024-01-05T09:00:32.180-05:00","updated":"2024-02-01T09:07:48.562-05:00"}
 ---
 
 
