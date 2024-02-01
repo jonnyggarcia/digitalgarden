@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-trem-das-onze/","tags":["c/train","c/man","c/music","c/series","c/white","c/flat-background","c/orange","c/purple","c/Adoniran-Barbosa","c/2021"],"created":"2024-01-04T19:25:19.401-05:00","updated":"2024-01-22T21:25:11.283-05:00"}
+{"dg-publish":true,"permalink":"/collage-trem-das-onze/","tags":["c/train","c/man","c/series-songs","c/series","c/white","c/flat-background","c/orange","c/purple","c/Adoniran-Barbosa","c/2021","c/songs-samba"],"created":"2024-01-04T19:25:19.401-05:00","updated":"2024-02-01T09:08:05.018-05:00"}
 ---
 
 
