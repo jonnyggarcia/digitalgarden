@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-k-2/","tags":["c/uncollage","c/series-portrait","c/bw","c/face","c/KG","c/2019"],"created":"2024-01-01T15:35:09.246-05:00","updated":"2024-02-01T09:08:26.285-05:00"}
+{"dg-publish":true,"permalink":"/collage-k-2/","tags":["c/uncollage","c/bw","c/face","c/KG","c/2019","c/portrait"],"created":"2024-01-01T15:35:09.246-05:00","updated":"2024-02-06T13:20:43.351-05:00"}
 ---
 
 
