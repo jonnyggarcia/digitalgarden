@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-jun-1/","tags":["c/wound","c/pain","c/kidney-stone","c/jonny","c/series-self","c/pipe","c/line","c/red","c/black","c/series","c/2021"],"created":"2024-01-03T17:22:50.781-05:00","updated":"2024-02-01T09:07:48.673-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-jun-1/","tags":["c/wound","c/pain","c/kidney-stone","c/jonny","c/series-self","c/pipe","c/line","c/red","c/black","c/series","c/2021"],"created":"2024-01-03T17:22:50.781-05:00","updated":"2024-02-06T17:16:09.095-05:00"}
 ---
 
+
+Context: Kidney stone.
 
 [2JUN1](https://www.instagram.com/p/CQbm7-dBarE/)
 
