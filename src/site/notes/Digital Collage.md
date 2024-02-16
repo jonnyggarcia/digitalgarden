@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-02-01T09:25:56.827-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-02-08T19:02:52.479-05:00"}
 ---
+
 
 > [!quote] "Collage artists take materials that already exist in the world and combine them together to to create something entirely different and unique from the materials themselves." - Cyndi Philkill
 
@@ -22,16 +23,18 @@ Asas, 2022, Songs, Jonny Garcia
 
 # Collage List
 
-- [[Collage - 1SEP9\|Collage - 1SEP9]]
-- [[Collage - Culture Embrace\|Collage - Culture Embrace]]
-- [[Collage - Festivities\|Collage - Festivities]]
-- [[Collage - Janaína\|Collage - Janaína]]
-- [[Collage - Expert Trap\|Collage - Expert Trap]]
-- [[Collage - Market\|Collage - Market]]
-- [[Collage - Insufflation\|Collage - Insufflation]]
-
 | File                                                                                                |
 | --------------------------------------------------------------------------------------------------- |
+| [[Collage - 2FEB4\|Collage - 2FEB4]]                                                             |
+| [[Collage - Permanency\|Collage - Permanency]]                                                   |
+| [[Collage - Roots\|Collage - Roots]]                                                             |
+| [[Collage - Wishes\|Collage - Wishes]]                                                           |
+| [[Collage -  Sociability\|Collage -  Sociability]]                                               |
+| [[Collage - Disaffection\|Collage - Disaffection]]                                               |
+| [[Collage - Residency\|Collage - Residency]]                                                     |
+| [[Collage - Immersion\|Collage - Immersion]]                                                     |
+| [[Collage - Language\|Collage - Language]]                                                       |
+| [[Collage - Outlander\|Collage - Outlander]]                                                     |
 | [[Collage - 1JUN4\|Collage - 1JUN4]]                                                             |
 | [[Collage - 2APR1\|Collage - 2APR1]]                                                             |
 | [[Collage - 1SEP9\|Collage - 1SEP9]]                                                             |
@@ -313,7 +316,7 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Beyond the Lines\|Collage - Beyond the Lines]]                                       |
 | [[Collage - By Myself\|Collage - By Myself]]                                                     |
 | [[Collage - High Maintenance\|Collage - High Maintenance]]                                       |
-| [[Collage - 2DEC0 2\|Collage - 2DEC0 2]]                                                         |
+| [[Collage - 2DEC0\|Collage - 2DEC0]]                                                             |
 | [[Collage - LDR\|Collage - LDR]]                                                                 |
 | [[Collage - DR\|Collage - DR]]                                                                   |
 | [[Collage - Hold my Hand\|Collage - Hold my Hand]]                                               |
@@ -325,7 +328,6 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Thrust\|Collage - Thrust]]                                                           |
 | [[Collage - Rebirth 2\|Collage - Rebirth 2]]                                                     |
 | [[Collage - Reconstructing Realities\|Collage - Reconstructing Realities]]                       |
-| [[Collage - 2DEC0\|Collage - 2DEC0]]                                                             |
 | [[Collage - Águas de Março\|Collage - Águas de Março]]                                           |
 | [[Collage - Into the Arms\|Collage - Into the Arms]]                                             |
 | [[Collage - Connection\|Collage - Connection]]                                                   |
@@ -548,7 +550,6 @@ Asas, 2022, Songs, Jonny Garcia
 | [[Collage - Unity\|Collage - Unity]]                                                             |
 | [[Collage - Society\|Collage - Society]]                                                         |
 | [[Collage - Mother\|Collage - Mother]]                                                           |
-| [[Collage - Foreigner 2\|Collage - Foreigner 2]]                                                 |
 | [[Collage - Foreigner\|Collage - Foreigner]]                                                     |
 | [[Collage - Knowledge\|Collage - Knowledge]]                                                     |
 | [[Collage - Ágape\|Collage - Ágape]]                                                             |
