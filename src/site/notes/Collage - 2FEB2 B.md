@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-2-b/","tags":["c/series-self","c/jonny","c/glasses","c/surjery","c/abstract","c/white","c/red","c/colorfull","c/trip","c/brasil","c/series","c/2022"],"created":"2024-01-05T11:44:21.237-05:00","updated":"2024-02-01T09:07:48.489-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-2-b/","tags":["c/series-self","c/jonny","c/glasses","c/surjery","c/abstract","c/white","c/red","c/colorfull","c/trip","c/brasil","c/series","c/2022"],"created":"2024-01-05T11:44:21.237-05:00","updated":"2024-02-06T17:15:46.369-05:00"}
 ---
 
+
+Context: Eye surgery to remove glasses.
 
 [2FEB2](https://www.instagram.com/p/Cf7FJ4TOUmH/)
 
