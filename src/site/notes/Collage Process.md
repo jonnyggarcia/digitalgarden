@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-01-22T21:19:14.509-05:00"}
+{"dg-publish":true,"permalink":"/collage-process/","created":"2024-01-15T13:06:25.128-05:00","updated":"2024-02-12T19:15:54.993-05:00"}
 ---
 
 
