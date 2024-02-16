@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-may-2/","tags":["c/series-self","c/jonny","c/green","c/house","c/key","c/number","c/arrow","c/wall","c/white","c/series","c/2022"],"created":"2024-01-05T11:34:18.947-05:00","updated":"2024-02-01T09:07:48.931-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-may-2/","tags":["c/series-self","c/jonny","c/green","c/house","c/key","c/number","c/arrow","c/wall","c/white","c/series","c/2022"],"created":"2024-01-05T11:34:18.947-05:00","updated":"2024-02-06T17:18:13.805-05:00"}
 ---
 
+
+Context: House acquisition
 
 [2MAY2](https://www.instagram.com/p/CeL6XTQOHeW/)
 
