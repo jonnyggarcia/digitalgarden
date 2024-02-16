@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-apr-9/","tags":["c/series","c/series-self","c/money","c/ipad","c/leaf","c/book","c/jonny","c/blue","c/yellow","c/texture","c/2019"],"created":"2024-01-17T12:13:22.483-05:00","updated":"2024-02-01T09:07:48.023-05:00"}
+{"dg-publish":true,"permalink":"/collage-1-apr-9/","tags":["c/series","c/series-self","c/money","c/ipad","c/leaf","c/book","c/jonny","c/blue","c/yellow","c/texture","c/2019","c/remake"],"created":"2024-01-17T12:13:22.483-05:00","updated":"2024-02-08T18:56:46.544-05:00"}
 ---
 
 
