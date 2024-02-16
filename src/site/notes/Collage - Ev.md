@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ev/","tags":["c/uncollage","c/drawing","c/bw","c/face","c/series-portrait","c/EF","c/2019"],"created":"2024-01-01T15:30:36.221-05:00","updated":"2024-02-01T09:08:26.030-05:00"}
+{"dg-publish":true,"permalink":"/collage-ev/","tags":["c/uncollage","c/drawing","c/bw","c/face","c/EF","c/2019","c/portrait"],"created":"2024-01-01T15:30:36.221-05:00","updated":"2024-02-06T13:21:06.992-05:00"}
 ---
 
 
