@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["c/2024","c/series","c/series-immigration","c/baby","c/red","c/yellow","c/hand","c/flat-background","c/black"],"created":"2024-01-31T16:33:50.796-05:00","updated":"2024-02-01T09:26:51.543-05:00"}
+{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["c/2024","c/series","c/baby","c/red","c/yellow","c/hand","c/flat-background","c/black","c/series-immigration-decade"],"created":"2024-01-31T16:33:50.796-05:00","updated":"2024-02-06T17:04:13.879-05:00"}
 ---
 
 
-Context: Culture is imposed around us since birth. When one move to another country, they don't know the embedded references everyone else share, and no one knows their reference of the world.
+**Context**: Culture is imposed around us since birth. When one move to another country, they don't know the embedded references everyone else share, and no one knows their reference of the world. Remake of [[Collage - Foreigner\|Collage - Foreigner]]
 
 Red means Canada; Yellow means Brasil.
 
