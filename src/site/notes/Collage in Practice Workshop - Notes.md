@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-notes/","created":"2024-01-23T17:50:40.289-05:00","updated":"2024-02-01T15:05:57.448-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-notes/","created":"2024-01-23T17:50:40.289-05:00","updated":"2024-02-07T09:50:02.922-05:00"}
 ---
 
 
@@ -20,6 +20,8 @@
 [[Module - Written Narrative\|Module - Written Narrative]]
 
 [[Module - Presentation\|Module - Presentation]]
+
+[[Module - Vulnerability\|Module - Vulnerability]]
 
 Not Accessible:
 
