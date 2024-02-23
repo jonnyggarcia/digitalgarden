@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-02-16T09:34:53.222-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-02-23T13:55:40.056-05:00"}
 ---
 
 
@@ -13,7 +13,7 @@ My art is all published on [instagram](https://www.instagram.com/art.by.jonny/).
 
 ---
 
-Check the list of all collages published below (work in progress).
+Check the list of all collages published below.
 
 ![Asas, 2022, Jonny Garcia.jpg|400](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)
 
@@ -23,6 +23,8 @@ Asas, 2022, Songs, Jonny Garcia
 
 # Collage List
 
+[[Collage - 2JUL3\|Collage - 2JUL3]]
+[[Collage - Reasons\|Collage - Reasons]]
 [[Collage - 2FEB4\|Collage - 2FEB4]]
 [[Collage - Permanency\|Collage - Permanency]]
 [[Collage - Roots\|Collage - Roots]]
@@ -154,6 +156,8 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Asas\|Collage - Asas]]
 [[Collage - Amei Te Ver\|Collage - Amei Te Ver]]
 [[Collage - 2FEB2 B\|Collage - 2FEB2 B]]
+[[Collage - A&M\|Collage - A&M]]
+[[Collage - P K\|Collage - P K]]
 [[Collage - Bring You Home\|Collage - Bring You Home]]
 [[Collage - Bouquet\|Collage - Bouquet]]
 [[Collage - Sprout\|Collage - Sprout]]
@@ -261,6 +265,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Abster\|Collage - Abster]]
 [[Collage - 2AUG1\|Collage - 2AUG1]]
 [[Collage - Dial\|Collage - Dial]]
+[[Collage - Face Mask\|Collage - Face Mask]]
 [[Collage - FChallenge\|Collage - FChallenge]]
 [[Collage - Patience\|Collage - Patience]]
 [[Collage - Blocking\|Collage - Blocking]]
@@ -270,7 +275,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Helium\|Collage - Helium]]
 [[Collage - Run\|Collage - Run]]
 [[Collage - Drop\|Collage - Drop]]
-[[Collage - Untitled 3\|Collage - Untitled 3]]
+[[Collage - Flower Face\|Collage - Flower Face]]
 [[Collage - Drowning\|Collage - Drowning]]
 [[Collage - P S2\|Collage - P S2]]
 [[Collage - Race\|Collage - Race]]
@@ -290,7 +295,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Collapsing\|Collage - Collapsing]]
 [[Collage - Self Awareness\|Collage - Self Awareness]]
 [[Collage - Chaos\|Collage - Chaos]]
-[[Collage - Relationships 2\|Collage - Relationships 2]]
+[[Collage - Relationships\|Collage - Relationships]]
 [[Collage - Collage Book - Willian Talbot\|Collage - Collage Book - Willian Talbot]]
 [[Collage - Get in the Box\|Collage - Get in the Box]]
 [[Collage - Night\|Collage - Night]]
@@ -470,6 +475,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Cut Lines\|Collage - Cut Lines]]
 [[Collage - Beach\|Collage - Beach]]
 [[Collage - Ideation\|Collage - Ideation]]
+[[Collage - Y 33\|Collage - Y 33]]
 [[Collage - Mexico\|Collage - Mexico]]
 [[Collage - Isolation\|Collage - Isolation]]
 [[Collage - Consciousness\|Collage - Consciousness]]
@@ -511,7 +517,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Where is your home\|Collage - Where is your home]]
 [[Collage - Home\|Collage - Home]]
 [[Collage - Aspirations\|Collage - Aspirations]]
-[[Collage - Interitus\|Collage - Interitus]]
+[[Collage - Interitus Poster\|Collage - Interitus Poster]]
 [[Sculpture - ASL Culture\|Sculpture - ASL Culture]]
 [[Collage - Love in SignoLanguage\|Collage - Love in SignoLanguage]]
 [[Collage - Enlightenment\|Collage - Enlightenment]]
@@ -545,7 +551,7 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Humanoids\|Collage - Humanoids]]
 [[Collage - Intimacy\|Collage - Intimacy]]
 [[Collage - The System\|Collage - The System]]
-[[Collage - Attention\|Collage - Attention]]
+[[Collage - ASL Attention\|Collage - ASL Attention]]
 [[Collage - Unity\|Collage - Unity]]
 [[Collage - Society\|Collage - Society]]
 [[Collage - Mother\|Collage - Mother]]
@@ -566,8 +572,8 @@ Asas, 2022, Songs, Jonny Garcia
 [[Collage - Sagrada The Seven Days\|Collage - Sagrada The Seven Days]]
 [[Collage - ASL Society\|Collage - ASL Society]]
 [[Collage - K 2\|Collage - K 2]]
-[[Collage - Immigration\|Collage - Immigration]]
-[[Collage - Friendship\|Collage - Friendship]]
+[[Collage - ASL Immigration\|Collage - ASL Immigration]]
+[[Collage - ASL Friendship\|Collage - ASL Friendship]]
 [[Collage - Envelhecer\|Collage - Envelhecer]]
 [[Collage - Ev\|Collage - Ev]]
 [[Collage - ASL Marriage\|Collage - ASL Marriage]]
