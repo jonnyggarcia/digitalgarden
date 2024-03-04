@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-01-27T11:15:15.791-05:00"}
+{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-01-01T11:42:29.427-05:00","updated":"2024-02-26T12:57:05.950-05:00"}
 ---
 
 
@@ -189,7 +189,7 @@ To you, and you alone, what matters is the process: the experience of shaping th
 </div></div>
 
 
-The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to read that book again and make notes! #todo!!!
+The quote above reminds me so much about [[Art & Fear\|Art & Fear]]. I need to read that book again and make notes! # todo!!!
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -501,7 +501,7 @@ Yes, this section requires lots of quotes to inspire to us to keep going!
 
 # Survive
 
-Yes we like art, but we also have to pay the bills. I hate marketing myself! I hate advertise myself. So in the book it suggest to add a link for people to give donation, like buy me a coffee #todo!
+Yes we like art, but we also have to pay the bills. I hate marketing myself! I hate advertise myself. So in the book it suggest to add a link for people to give donation, like buy me a coffee # todo!
 
 One strategy is to cultivate relationships and when you needed you have an army of people ready to help you. So back to sharing!
 
@@ -548,7 +548,7 @@ Inspiration is all around, but the book talks about taking time off and allow th
 The book ask us to:
 
 - Share your stuff online (done!!!)
-- Plan a "Show Your Work!" night. (to be done #todo )
+- Plan a "Show Your Work!" night. (to be done # todo )
 - Give a copy the book. (Sharing this as way to allow people to come across it)
 
 ---
