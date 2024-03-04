@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/organization/","created":"2024-01-10T20:46:23.749-05:00","updated":"2024-01-11T10:01:46.217-05:00"}
+{"dg-publish":true,"permalink":"/organization/","created":"2024-01-10T20:46:23.749-05:00","updated":"2024-02-25T11:46:11.822-05:00"}
 ---
 
-Knowledge Administration
+**Knowledge Administration**
 - [[Knowledge Administration\|English]]
 - [[Administração de Conhecimento\|Português]]
 
