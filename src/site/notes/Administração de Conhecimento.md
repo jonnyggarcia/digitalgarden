@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2023-12-30T11:42:34.510-05:00","updated":"2024-01-11T13:09:07.403-05:00"}
+{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2023-12-30T11:42:34.510-05:00","updated":"2024-03-03T16:05:36.956-05:00"}
 ---
 
 
@@ -79,7 +79,7 @@ Há infinitas maneiras de *organizar-se* e tomar notas. O que importa é que ela
 
 Como processar a informação?
 
-- Quando *sublinhar* algo, *explique o por que* esse fato é relevante no momento. Seu eu futuro agradecerá.
+- Quando *sublinhar* algo, *explique o por que* esse fato é relevante no momento. Seu futuro eu agradecerá.
 - *Explicar* o que é dito com *suas palavras* é um forma de *reforçar* o conhecimento.
 - Sempre tente criar *conexões*. Ao criar conexões com outras notas, *explique* o porque aquela conexão existe.
 - Considere que uma informação possa ser referenciada em *múltiplos lugares*, se apropriado crie uma nota individual que possa ser referenciada. *Atomicidade*.
