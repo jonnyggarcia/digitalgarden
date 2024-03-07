@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-apologies/","tags":["c/man","c/abstract","c/woman","c/shadow","c/red","c/black","c/SG","c/2020"],"created":"2024-01-02T16:16:51.997-05:00","updated":"2024-01-22T15:51:53.784-05:00"}
+{"dg-publish":true,"permalink":"/collage-apologies/","tags":["c/man","c/abstract","c/woman","c/shadow","c/red","c/black","c/SG","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:51:53.000-05:00"}
 ---
 
 
