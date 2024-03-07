@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-aug-7/","tags":["c/brasil","c/deaf","c/birthday","c/ice-cream","c/series-self","c/green","c/YT","c/series","c/2019","c/remake"],"created":"2024-01-01T16:35:49.403-05:00","updated":"2024-02-08T18:56:54.886-05:00"}
+{"dg-publish":true,"permalink":"/collage-1-aug-7/","tags":["c/brasil","c/deaf","c/birthday","c/ice-cream","c/series-self","c/green","c/YT","c/series","c/2019","c/remake"],"created":"2024-03-05T12:46:22.000-05:00","updated":"2024-02-08T18:56:54.000-05:00"}
 ---
 
 Context:  Trip to Brasil.
