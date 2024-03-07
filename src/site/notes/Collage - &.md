@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-and/","tags":["c/flat-background","c/white","c/abstract","c/purple","c/statue","c/letters","c/shape","c/2021"],"created":"2024-01-04T11:13:30.046-05:00","updated":"2024-01-22T15:02:43.978-05:00"}
+{"dg-publish":true,"permalink":"/collage-and/","tags":["c/flat-background","c/white","c/abstract","c/purple","c/statue","c/letters","c/shape","c/2021"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T15:02:43.000-05:00"}
 ---
 
 
