@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-any-time-obstruct/","tags":["c/letters","c/flat-background","c/pattern","c/line","c/green","c/white","c/machine","c/2022","c/contemporary-collage-magazine","c/pole","c/eletricity"],"created":"2024-01-05T11:37:24.205-05:00","updated":"2024-01-17T13:07:29.603-05:00"}
+{"dg-publish":true,"permalink":"/collage-any-time-obstruct/","tags":["c/letters","c/flat-background","c/pattern","c/line","c/green","c/white","c/machine","c/2022","c/contemporary-collage-magazine","c/pole","c/eletricity"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-17T13:07:29.000-05:00"}
 ---
 
 
