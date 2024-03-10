@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-01-01T11:33:25.700-05:00","updated":"2024-03-04T08:30:18.289-05:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-03-05T12:46:23.000-05:00","updated":"2024-03-10T14:13:18.129-04:00"}
 ---
 
 
@@ -20,6 +20,24 @@ Check the list of all collages published below.
 ```
 Asas, 2022, Songs, Jonny Garcia
 ```
+
+# Series
+
+## Immigration
+
+- [[Collage -  Sociability\|Collage -  Sociability]]
+- [[Collage - Citizen\|Collage - Citizen]]
+- [[Collage - Culture Embrace\|Collage - Culture Embrace]]
+- [[Collage - Disaffection\|Collage - Disaffection]]
+- [[Collage - Festivities\|Collage - Festivities]]
+- [[Collage - Immersion\|Collage - Immersion]]
+- [[Collage - Language\|Collage - Language]]
+- [[Collage - Outlander\|Collage - Outlander]]
+- [[Collage - Permanency\|Collage - Permanency]]
+- [[Collage - Reasons\|Collage - Reasons]]
+- [[Collage - Residency\|Collage - Residency]]
+- [[Collage - Roots\|Collage - Roots]]
+- [[Collage - Wishes\|Collage - Wishes]]
 
 # Collage List
 
