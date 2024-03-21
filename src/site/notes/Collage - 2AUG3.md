@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-aug-3/","tags":["c/AR","c/letters","c/series-self","c/jonny","c/face","c/woman","c/man","c/flower","c/abstract","c/neon","c/blue","c/pink","c/yellow","c/series","c/2023","c/printed"],"created":"2024-01-09T08:56:09.343-05:00","updated":"2024-02-01T09:07:48.363-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-aug-3/","tags":["c/AR","c/letters","c/series-self","c/jonny","c/face","c/woman","c/man","c/flower","c/abstract","c/neon","c/blue","c/pink","c/yellow","c/series","c/2023","c/printed"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-01T09:07:48.000-05:00"}
 ---
 
 
