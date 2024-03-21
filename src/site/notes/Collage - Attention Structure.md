@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-attention-structure/","tags":["c/eye","c/green","c/stairs","c/escher","c/2020"],"created":"2024-01-03T13:30:15.886-05:00","updated":"2024-01-16T23:13:44.017-05:00"}
+{"dg-publish":true,"permalink":"/collage-attention-structure/","tags":["c/eye","c/green","c/stairs","c/escher","c/2020"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-16T23:13:44.000-05:00"}
 ---
 
 
