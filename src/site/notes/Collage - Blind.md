@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-blind/","tags":["c/man","c/woman","c/blind","c/purple","c/flat-background","c/zombie","c/2020"],"created":"2024-01-02T20:17:36.135-05:00","updated":"2024-01-23T21:23:35.418-05:00"}
+{"dg-publish":true,"permalink":"/collage-blind/","tags":["c/man","c/woman","c/blind","c/purple","c/flat-background","c/zombie","c/2020"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-23T21:23:35.000-05:00"}
 ---
 
 
