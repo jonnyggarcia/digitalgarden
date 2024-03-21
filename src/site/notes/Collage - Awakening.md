@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-awakening/","tags":["c/suit","c/traffic-light","c/line","c/yellow","c/green","c/abstract","c/2021"],"created":"2024-01-04T19:24:46.671-05:00","updated":"2024-01-22T14:27:02.455-05:00"}
+{"dg-publish":true,"permalink":"/collage-awakening/","tags":["c/suit","c/traffic-light","c/line","c/yellow","c/green","c/abstract","c/2021"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:27:02.000-05:00"}
 ---
 
 
