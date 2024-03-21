@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-beyond/","tags":["c/frame","c/woman","c/pieces","c/red","c/brown","c/2020","c/fragment","c/face"],"created":"2024-01-03T10:18:30.224-05:00","updated":"2024-01-23T21:33:02.549-05:00"}
+{"dg-publish":true,"permalink":"/collage-beyond/","tags":["c/frame","c/woman","c/pieces","c/red","c/brown","c/2020","c/fragment","c/face"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:33:02.000-05:00"}
 ---
 
 
