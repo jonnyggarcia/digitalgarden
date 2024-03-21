@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-aspirations/","tags":["c/paris-collage","c/child","c/labour","c/car","c/slum","c/river","c/water","c/letters","c/marketing","c/2019"],"created":"2024-01-01T16:49:50.352-05:00","updated":"2024-01-16T23:42:26.792-05:00"}
+{"dg-publish":true,"permalink":"/collage-aspirations/","tags":["c/paris-collage","c/child","c/labour","c/car","c/slum","c/river","c/water","c/letters","c/marketing","c/2019"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-16T23:42:26.000-05:00"}
 ---
 
 
