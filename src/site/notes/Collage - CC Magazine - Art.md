@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cc-magazine-art/","tags":["c/contemporary-collage-magazine","c/abstract","c/letters","c/building","c/paper","c/colorfull","c/2022"],"created":"2024-01-05T11:33:07.655-05:00","updated":"2024-01-16T23:20:55.045-05:00"}
+{"dg-publish":true,"permalink":"/collage-cc-magazine-art/","tags":["c/contemporary-collage-magazine","c/abstract","c/letters","c/building","c/paper","c/colorfull","c/2022"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-16T23:20:55.000-05:00"}
 ---
 
 
