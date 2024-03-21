@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-marriage/","tags":["c/asl","c/hand","c/person","c/silhouete","c/yellow","c/orange","c/2019"],"created":"2024-01-01T15:29:25.346-05:00","updated":"2024-01-16T22:07:51.036-05:00"}
+{"dg-publish":true,"permalink":"/collage-asl-marriage/","tags":["c/asl","c/hand","c/person","c/silhouete","c/yellow","c/orange","c/2019"],"created":"2024-03-05T12:46:22.000-05:00","updated":"2024-01-16T22:07:51.000-05:00"}
 ---
 
 
