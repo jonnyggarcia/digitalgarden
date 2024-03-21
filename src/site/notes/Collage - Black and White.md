@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-black-and-white/","tags":["c/hand","c/man","c/woman","c/upsidedown","c/metal-finish","c/blue","c/white","c/black","c/2022"],"created":"2024-01-05T11:36:29.607-05:00","updated":"2024-01-22T14:35:17.793-05:00"}
+{"dg-publish":true,"permalink":"/collage-black-and-white/","tags":["c/hand","c/man","c/woman","c/upsidedown","c/metal-finish","c/blue","c/white","c/black","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:35:17.000-05:00"}
 ---
 
 
