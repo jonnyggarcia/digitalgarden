@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-confession/","tags":["c/abstract","c/faceless","c/woman","c/purple","c/2020"],"created":"2024-01-03T13:43:18.463-05:00","updated":"2024-01-23T21:34:55.296-05:00"}
+{"dg-publish":true,"permalink":"/collage-confession/","tags":["c/abstract","c/faceless","c/woman","c/purple","c/2020"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-23T21:34:55.000-05:00"}
 ---
 
 
