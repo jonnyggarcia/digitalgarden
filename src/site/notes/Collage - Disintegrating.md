@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-disintegrating/","tags":["c/flat-background","c/white","c/woman","c/body","c/abstract","c/red","c/2022"],"created":"2024-01-08T13:50:19.761-05:00","updated":"2024-01-22T14:43:55.120-05:00"}
+{"dg-publish":true,"permalink":"/collage-disintegrating/","tags":["c/flat-background","c/white","c/woman","c/body","c/abstract","c/red","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:43:55.000-05:00"}
 ---
 
 
