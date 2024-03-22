@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-crave/","tags":["c/pandemic","c/paris-collage","c/white","c/bw","c/astrounaut","c/man","c/flat-background","c/2020"],"created":"2024-01-02T16:02:30.781-05:00","updated":"2024-01-22T15:49:00.304-05:00"}
+{"dg-publish":true,"permalink":"/collage-crave/","tags":["c/pandemic","c/paris-collage","c/white","c/bw","c/astrounaut","c/man","c/flat-background","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:49:00.000-05:00"}
 ---
 
 
