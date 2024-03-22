@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-constrained/","tags":["c/hand","c/woman","c/faceless","c/bw","c/plant","c/flat-background","c/white","c/2023"],"created":"2024-01-09T08:36:47.114-05:00","updated":"2024-01-22T14:22:11.315-05:00"}
+{"dg-publish":true,"permalink":"/collage-constrained/","tags":["c/hand","c/woman","c/faceless","c/bw","c/plant","c/flat-background","c/white","c/2023"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:22:11.000-05:00"}
 ---
 
 
