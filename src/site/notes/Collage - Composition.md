@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-composition/","tags":["c/woman","c/geometric","c/man","c/blue","c/water","c/flower","c/RS","c/2021"],"created":"2024-01-04T11:34:06.045-05:00","updated":"2024-01-22T14:26:38.169-05:00"}
+{"dg-publish":true,"permalink":"/collage-composition/","tags":["c/woman","c/geometric","c/man","c/blue","c/water","c/flower","c/RS","c/2021"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:26:38.000-05:00"}
 ---
 
 
