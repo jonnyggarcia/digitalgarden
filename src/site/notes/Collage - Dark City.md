@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dark-city/","tags":["c/2020","c/inDignos","c/man","c/hat","c/flower","c/yellow","c/city"],"created":"2024-01-17T12:17:10.557-05:00","updated":"2024-01-22T14:07:11.369-05:00"}
+{"dg-publish":true,"permalink":"/collage-dark-city/","tags":["c/2020","c/inDignos","c/man","c/hat","c/flower","c/yellow","c/city"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-22T14:07:11.000-05:00"}
 ---
 
 
