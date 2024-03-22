@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-construcao/","tags":["c/sign","c/series-songs","c/series","c/gear","c/arrow","c/geometric","c/Chico-Buarque","c/2020","c/songs-MPB"],"created":"2024-01-02T20:20:07.679-05:00","updated":"2024-02-01T09:08:04.344-05:00"}
+{"dg-publish":true,"permalink":"/collage-construcao/","tags":["c/sign","c/series-songs","c/series","c/gear","c/arrow","c/geometric","c/Chico-Buarque","c/2020","c/songs-MPB"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-01T09:08:04.000-05:00"}
 ---
 
 
