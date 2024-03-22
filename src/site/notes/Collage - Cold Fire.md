@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cold-fire/","tags":["c/LK","c/flat-background","c/black","c/moon","c/hand","c/fire","c/blue","c/red","c/2023"],"created":"2024-01-08T14:16:16.344-05:00","updated":"2024-01-22T14:21:08.148-05:00"}
+{"dg-publish":true,"permalink":"/collage-cold-fire/","tags":["c/LK","c/flat-background","c/black","c/moon","c/hand","c/fire","c/blue","c/red","c/2023"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:21:08.000-05:00"}
 ---
 
 
