@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-connection-1/","tags":["c/man","c/floating","c/woman","c/flat-background","c/cloud","c/line","c/red","c/bw","c/2022"],"created":"2024-01-05T11:22:01.291-05:00","updated":"2024-01-22T14:30:11.328-05:00"}
+{"dg-publish":true,"permalink":"/collage-connection-1/","tags":["c/man","c/floating","c/woman","c/flat-background","c/cloud","c/line","c/red","c/bw","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:30:11.000-05:00"}
 ---
 
 
