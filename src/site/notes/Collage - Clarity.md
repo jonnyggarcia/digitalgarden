@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-clarity/","tags":["c/AR","c/speaker","c/woman","c/face","c/abstract","c/colorfull","c/microphone","c/2023"],"created":"2024-01-09T08:55:26.849-05:00","updated":"2024-01-22T14:20:15.505-05:00"}
+{"dg-publish":true,"permalink":"/collage-clarity/","tags":["c/AR","c/speaker","c/woman","c/face","c/abstract","c/colorfull","c/microphone","c/2023"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:20:15.000-05:00"}
 ---
 
 
