@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-domestic-thoughts/","tags":["c/dog","c/cat","c/animals","c/shadow","c/flower","c/blue","c/purple","c/YT","c/SG","c/2020"],"created":"2024-01-01T10:23:16.628-05:00","updated":"2024-01-23T21:54:54.235-05:00"}
+{"dg-publish":true,"permalink":"/collage-domestic-thoughts/","tags":["c/dog","c/cat","c/animals","c/shadow","c/flower","c/blue","c/purple","c/YT","c/SG","c/2020"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-23T21:54:54.000-05:00"}
 ---
 
 
