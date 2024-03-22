@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-confused-colours/","tags":["c/paint-collage","c/abstract","c/white","c/pink","c/green","c/2021"],"created":"2024-01-04T18:54:19.607-05:00","updated":"2024-01-16T23:26:51.784-05:00"}
+{"dg-publish":true,"permalink":"/collage-confused-colours/","tags":["c/paint-collage","c/abstract","c/white","c/pink","c/green","c/2021"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-16T23:26:51.000-05:00"}
 ---
 
 
