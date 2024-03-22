@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-communication/","tags":["c/corporeal-gestures","c/statue","c/flat-background","c/blue","c/yellow","c/red","c/shape","c/2019"],"created":"2024-01-02T08:22:10.975-05:00","updated":"2024-01-16T22:12:07.551-05:00"}
+{"dg-publish":true,"permalink":"/collage-communication/","tags":["c/corporeal-gestures","c/statue","c/flat-background","c/blue","c/yellow","c/red","c/shape","c/2019"],"created":"2024-03-05T12:46:17.000-05:00","updated":"2024-01-16T22:12:07.000-05:00"}
 ---
 
 
