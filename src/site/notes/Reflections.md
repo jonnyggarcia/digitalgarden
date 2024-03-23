@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/reflections/","created":"2024-01-01T11:41:36.910-05:00","updated":"2024-01-11T12:11:38.811-05:00"}
+{"dg-publish":true,"permalink":"/reflections/","created":"2024-03-05T12:46:24.000-05:00","updated":"2024-03-04T19:12:53.000-05:00"}
 ---
+
+# Art
+
+[[Artistic Movements\|Artistic Movements]]
 
 # Books
 
