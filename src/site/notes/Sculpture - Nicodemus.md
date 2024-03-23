@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sculpture-nicodemus/","tags":["c/sculpture","c/skull","c/clay","c/brown","c/nicodemus","c/2019"],"created":"2024-01-01T17:07:42.024-05:00","updated":"2024-01-23T21:45:42.168-05:00"}
+{"dg-publish":true,"permalink":"/sculpture-nicodemus/","tags":["c/sculpture","c/skull","c/clay","c/brown","c/nicodemus","c/2019"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-23T21:45:42.000-05:00"}
 ---
 
 
