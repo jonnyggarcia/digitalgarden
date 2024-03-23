@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-emotioned/","tags":["c/CI","c/yoga","c/circle","c/gong","c/hand","c/abstract","c/blue","c/RF","c/2022","c/donuts","c/woman"],"created":"2024-01-08T14:10:18.457-05:00","updated":"2024-01-24T19:20:18.055-05:00"}
+{"dg-publish":true,"permalink":"/collage-emotioned/","tags":["c/CI","c/yoga","c/circle","c/gong","c/hand","c/abstract","c/blue","c/RF","c/2022","c/donuts","c/woman"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-24T19:20:18.000-05:00"}
 ---
 
 
