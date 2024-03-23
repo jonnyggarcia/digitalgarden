@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["c/2024","c/series","c/baby","c/red","c/yellow","c/hand","c/flat-background","c/black","c/series-immigration-decade"],"created":"2024-03-05T12:46:09.000-05:00","updated":"2024-02-06T17:04:13.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["c/2024","c/series","c/baby","c/red","c/yellow","c/hand","c/flat-background","c/black","c/series-emigration"],"created":"2024-03-05T12:46:09.000-05:00","updated":"2024-03-23T13:30:27.924-04:00"}
 ---
 
 
