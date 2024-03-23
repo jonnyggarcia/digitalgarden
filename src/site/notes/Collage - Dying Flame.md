@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dying-flame/","tags":["c/hand","c/flat-background","c/white","c/fire","c/shadow","c/red","c/2022","c/cover"],"created":"2024-01-08T09:59:41.117-05:00","updated":"2024-01-22T14:42:46.777-05:00"}
+{"dg-publish":true,"permalink":"/collage-dying-flame/","tags":["c/hand","c/flat-background","c/white","c/fire","c/shadow","c/red","c/2022","c/cover"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:42:46.000-05:00"}
 ---
 
 
