@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fusion-event-dec-15-2023/","created":"2023-12-16T12:41:55.142-05:00","updated":"2024-01-27T14:10:37.790-05:00"}
+{"dg-publish":true,"permalink":"/fusion-event-dec-15-2023/","created":"2024-03-05T12:46:22.000-05:00","updated":"2024-01-27T14:10:37.000-05:00"}
 ---
 
 
