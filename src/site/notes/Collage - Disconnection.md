@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-disconnection/","tags":["c/hand","c/grafitti","c/pattern","c/red","c/black","c/2020"],"created":"2024-01-02T20:21:52.746-05:00","updated":"2024-01-23T21:25:08.567-05:00"}
+{"dg-publish":true,"permalink":"/collage-disconnection/","tags":["c/hand","c/grafitti","c/pattern","c/red","c/black","c/2020"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-23T21:25:08.000-05:00"}
 ---
 
 
