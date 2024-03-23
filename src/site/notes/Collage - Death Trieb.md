@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-death-trieb/","tags":["c/paris-collage","c/man","c/flower","c/flat-background","c/green","c/building","c/woman","c/fall","c/purple","c/2020"],"created":"2024-01-02T16:13:40.837-05:00","updated":"2024-01-22T15:51:31.309-05:00"}
+{"dg-publish":true,"permalink":"/collage-death-trieb/","tags":["c/paris-collage","c/man","c/flower","c/flat-background","c/green","c/building","c/woman","c/fall","c/purple","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:51:31.000-05:00"}
 ---
 
 
