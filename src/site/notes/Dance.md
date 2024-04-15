@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dance/","created":"2024-03-05T12:46:22.000-05:00","updated":"2024-01-23T22:58:19.000-05:00"}
+{"dg-publish":true,"permalink":"/dance/","created":"2024-01-23T22:58:19.000-05:00","updated":"2024-01-23T22:58:19.000-05:00"}
 ---
 
 
