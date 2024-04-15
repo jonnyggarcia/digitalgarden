@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-03-23T18:04:04.108-04:00","updated":"2024-03-23T18:07:50.126-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-03-23T18:07:50.000-04:00","updated":"2024-04-15T12:03:30.640-04:00"}
 ---
 
 
@@ -21,6 +21,7 @@
 
 # Self
 
+- [[Collage - 2APR4\|Collage - 2APR4]]
 - [[Collage - 2MAR4-2\|Collage - 2MAR4-2]]
 - [[Collage - 2MAR4-1\|Collage - 2MAR4-1]]
 - [[Collage - 2FEB4\|Collage - 2FEB4]]
