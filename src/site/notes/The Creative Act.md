@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-creative-act/","created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-27T11:15:51.000-05:00"}
+{"dg-publish":true,"permalink":"/the-creative-act/","created":"2024-01-27T11:15:51.000-05:00","updated":"2024-04-15T12:03:32.540-04:00"}
 ---
 
 
@@ -123,7 +123,7 @@ Then I roll a 4-sided die and got a one. I visually divide the book into 4 secti
 
 The Kolaj Magazine edition 32. Games, art, and psychology are the most common items in my tiny library, with collage occupying perhaps 1/3 of the art section. Now, let's open it. By chance, I open to page 12, which features an article called 'Les Cocobopros' by Christopher Byrne. It talks about a series of books produced by a collage artist.
 
-This is interesting because as part of the [[Digital Collage#Collage in Practice Workshop\|Collage in Practice Workshop]], I asked Ric how I can expose myself more and told him about the [[Collage - Book 2022\|annual book]] I have been producing for the last 3 years. His comment was that my product is luxury and expensive, and I should try to find alternatives for it. Perhaps this article can shed some light.
+This is interesting because as part of the [[Digital Collagetec#Collage in Practice Workshop\|Collage in Practice Workshop]], I asked Ric how I can expose myself more and told him about the [[Collage - Book 2022\|annual book]] I have been producing for the last 3 years. His comment was that my product is luxury and expensive, and I should try to find alternatives for it. Perhaps this article can shed some light.
 
 We cannot forget that our minds are outstanding machines at drawing patterns, even when they do not exist. What do you believe?
 
