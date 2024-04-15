@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-03-05T12:46:23.000-05:00","updated":"2024-03-23T18:05:56.977-04:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-03-23T18:40:50.000-04:00","updated":"2024-04-15T12:03:12.020-04:00"}
 ---
 
 
@@ -26,6 +26,7 @@ Asas, 2022, Songs, Jonny Garcia
 
 # Collage List
 
+[[Collage - 2APR4\|Collage - 2APR4]]
 [[Collage - 2MAR4-1\|Collage - 2MAR4-1]]
 [[Collage - 2MAR4-2\|Collage - 2MAR4-2]]
 [[Collage - Citizen\|Collage - Citizen]]
