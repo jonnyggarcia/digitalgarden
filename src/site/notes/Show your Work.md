@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-02-26T12:57:05.000-05:00","updated":"2024-04-15T12:03:32.238-04:00"}
+{"dg-publish":true,"permalink":"/show-your-work/","created":"2024-02-26T12:57:05.000-05:00","updated":"2024-04-15T12:04:46.663-04:00"}
 ---
 
 
@@ -259,7 +259,7 @@ You have to turn the invisible into something other people can see. — location
 </div></div>
 
 
-The book strongly recommend to start documenting the artistic process. Inspired by it, i create my digital gardening and i am cataloging all my collages in different aspects. First i am applying hashtags to describe them, so i can easily find them. I will be going through my inventory and will explain what is the collage about specially because i notice that majority of things i made i do not recollect the reason why. I you are curious go check [[Digital Collagetec\|Digital Collagetec]]. Still work in progress though.
+The book strongly recommend to start documenting the artistic process. Inspired by it, i create my digital gardening and i am cataloging all my collages in different aspects. First i am applying hashtags to describe them, so i can easily find them. I will be going through my inventory and will explain what is the collage about specially because i notice that majority of things i made i do not recollect the reason why. I you are curious go check [[Digital Collage\|Digital Collage]]. Still work in progress though.
 
 The sharing part can be anything, a new art piece, a reflection, something you saw that inspire you. It is about the process of sharing and not what to share. Of course it has to make some sort of sense and we should be aware that the information is public.
 
