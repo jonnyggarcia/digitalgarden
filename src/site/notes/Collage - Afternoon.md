@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-afternoon/","tags":["c/paris-collage","c/cup","c/mug","c/brown","c/abstract","c/shape","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:46:36.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-afternoon/","tags":["c/paris-collage","c/cup","c/mug","c/brown","c/abstract","c/shape","c/2020"],"created":"2024-01-22T15:46:36.000-05:00","updated":"2024-04-15T12:04:07.845-04:00"}
 ---
 
 
