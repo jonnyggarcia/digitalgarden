@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-6/","tags":["c/interitus","c/bw","c/red","c/woman","c/candle","c/book","c/pages","c/black","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:51:25.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-6/","tags":["c/interitus","c/bw","c/red","c/woman","c/candle","c/book","c/pages","c/black","c/2020"],"created":"2024-01-22T15:51:25.000-05:00","updated":"2024-04-15T12:04:06.935-04:00"}
 ---
 
 
