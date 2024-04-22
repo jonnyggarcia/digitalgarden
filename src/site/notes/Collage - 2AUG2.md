@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-aug-2/","tags":["c/series","c/pandemic","c/trip","c/jonny","c/series-self","c/PK","c/covid","c/map","c/beje","c/Sweden","c/2022"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-06T17:14:37.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-aug-2/","tags":["c/series","c/pandemic","c/trip","c/jonny","c/series-self","c/PK","c/covid","c/map","c/beje","c/Sweden","c/2022"],"created":"2024-02-06T17:14:37.000-05:00","updated":"2024-04-15T12:04:05.899-04:00"}
 ---
 
 
