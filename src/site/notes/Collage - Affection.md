@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-affection/","tags":["c/hand","c/blue","c/abstract","c/purple","c/printed","c/2020"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-23T21:33:39.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-affection/","tags":["c/hand","c/blue","c/abstract","c/purple","c/printed","c/2020"],"created":"2024-01-23T21:33:39.000-05:00","updated":"2024-04-15T12:04:07.695-04:00"}
 ---
 
 
