@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-2-b/","tags":["c/series-self","c/jonny","c/glasses","c/surjery","c/abstract","c/white","c/red","c/colorfull","c/trip","c/brasil","c/series","c/2022"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-06T17:15:46.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-2-b/","tags":["c/series-self","c/jonny","c/glasses","c/surjery","c/abstract","c/white","c/red","c/colorfull","c/trip","c/brasil","c/series","c/2022"],"created":"2024-02-06T17:15:46.000-05:00","updated":"2024-04-15T12:04:06.030-04:00"}
 ---
 
 
