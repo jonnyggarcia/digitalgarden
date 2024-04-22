@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-attraction/","tags":["c/woman","c/candle","c/boobs","c/breast","c/red","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:47:10.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-attraction/","tags":["c/woman","c/candle","c/boobs","c/breast","c/red","c/2020"],"created":"2024-01-22T15:47:10.000-05:00","updated":"2024-04-15T12:04:08.828-04:00"}
 ---
 
 
