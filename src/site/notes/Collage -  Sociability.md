@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sociability/","tags":["c/2024","c/series-emigration","c/hand","c/chair","c/plant","c/yellow","c/blue","c/red","c/texture","c/drawing"],"created":"2024-03-05T12:46:09.000-05:00","updated":"2024-03-23T13:30:27.825-04:00"}
+{"dg-publish":true,"permalink":"/collage-sociability/","tags":["c/2024","c/series-emigration","c/hand","c/chair","c/plant","c/yellow","c/blue","c/red","c/texture","c/drawing"],"created":"2024-03-23T13:30:27.000-04:00","updated":"2024-04-15T12:04:05.039-04:00"}
 ---
 
 
