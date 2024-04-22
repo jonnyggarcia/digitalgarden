@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2024-03-05T12:46:23.000-05:00","updated":"2024-03-03T16:05:36.000-05:00"}
+{"dg-publish":true,"permalink":"/administracao-de-conhecimento/","created":"2024-03-03T16:05:36.000-05:00","updated":"2024-03-03T16:05:36.000-05:00"}
 ---
 
 
