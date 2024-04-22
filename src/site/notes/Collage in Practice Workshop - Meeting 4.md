@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-4/","created":"2024-01-25T16:01:57.595-05:00","updated":"2024-01-27T14:11:33.953-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-4/","created":"2024-01-27T14:11:33.000-05:00","updated":"2024-01-27T14:11:33.000-05:00"}
 ---
 
 1. Donna Caffrey
