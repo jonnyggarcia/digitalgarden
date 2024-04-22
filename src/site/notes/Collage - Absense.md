@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-absense/","tags":["c/door","c/distortion","c/window","c/abstract","c/blue","c/purple","c/2020"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-16T23:03:53.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-absense/","tags":["c/door","c/distortion","c/window","c/abstract","c/blue","c/purple","c/2020"],"created":"2024-01-16T23:03:53.000-05:00","updated":"2024-04-15T12:04:07.412-04:00"}
 ---
 
 
