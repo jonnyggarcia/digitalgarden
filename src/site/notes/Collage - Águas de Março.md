@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-aguas-de-marco/","tags":["c/series-songs","c/series","c/sign","c/moon","c/sun","c/water","c/ocean","c/beje","c/Tom-Jobim","c/Elis-Regina","c/2020","c/remake","c/songs-bossa-nova","c/Tom-Jobim"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-01T09:10:04.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-aguas-de-marco/","tags":["c/series-songs","c/series","c/sign","c/moon","c/sun","c/water","c/ocean","c/beje","c/Tom-Jobim","c/Elis-Regina","c/2020","c/remake","c/songs-bossa-nova","c/Tom-Jobim"],"created":"2024-02-01T09:10:04.000-05:00","updated":"2024-04-15T12:04:46.195-04:00"}
 ---
 
 
