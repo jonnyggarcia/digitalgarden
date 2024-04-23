@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-challenge/","tags":["c/letters","c/woman","c/flat-background","c/purple","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-22T15:45:44.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-challenge/","tags":["c/letters","c/woman","c/flat-background","c/purple","c/2020"],"created":"2024-01-22T15:45:44.000-05:00","updated":"2024-04-15T12:04:10.777-04:00"}
 ---
 
 
