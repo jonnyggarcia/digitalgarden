@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-c/","tags":["c/carrefour","c/letters","c/hand","c/blood","c/red","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:34:10.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-c/","tags":["c/carrefour","c/letters","c/hand","c/blood","c/red","c/2020"],"created":"2024-01-23T21:34:10.000-05:00","updated":"2024-04-15T12:04:10.381-04:00"}
 ---
 
 
