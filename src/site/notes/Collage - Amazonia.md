@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-amazonia/","tags":["c/politics","c/bolsonaro","c/brasil","c/map","c/hand","c/gun","c/fire","c/green","c/red","c/2019"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-23T21:46:04.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-amazonia/","tags":["c/politics","c/bolsonaro","c/brasil","c/map","c/hand","c/gun","c/fire","c/green","c/red","c/2019"],"created":"2024-01-23T21:46:04.000-05:00","updated":"2024-04-15T12:04:08.149-04:00"}
 ---
 
 [Amazonia](https://www.instagram.com/p/B1cbJoMBMVY/)
