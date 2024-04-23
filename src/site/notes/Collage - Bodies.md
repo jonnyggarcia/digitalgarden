@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bodies/","tags":["c/body","c/naked","c/black","c/water","c/purple","c/red","c/LK","c/2023"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:24:58.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-bodies/","tags":["c/body","c/naked","c/black","c/water","c/purple","c/red","c/LK","c/2023"],"created":"2024-01-22T14:24:58.000-05:00","updated":"2024-04-15T12:04:09.694-04:00"}
 ---
 
 
