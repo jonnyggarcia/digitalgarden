@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-mar-3/","tags":["c/LK","c/jonny","c/series-self","c/series","c/leaf","c/abstract","c/chains","c/wings","c/colorfull","c/2023"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-06T17:16:49.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-2-mar-3/","tags":["c/LK","c/jonny","c/series-self","c/series","c/leaf","c/abstract","c/chains","c/wings","c/colorfull","c/2023"],"created":"2024-02-06T17:16:49.000-05:00","updated":"2024-04-15T12:04:06.372-04:00"}
 ---
 
 
