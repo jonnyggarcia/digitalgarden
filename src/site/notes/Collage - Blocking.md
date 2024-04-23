@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-blocking/","tags":["c/mountain","c/blue","c/abstract","c/window","c/yellow","c/2021"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-21T21:01:43.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-blocking/","tags":["c/mountain","c/blue","c/abstract","c/window","c/yellow","c/2021"],"created":"2024-02-21T21:01:43.000-05:00","updated":"2024-04-15T12:04:09.566-04:00"}
 ---
 
 
