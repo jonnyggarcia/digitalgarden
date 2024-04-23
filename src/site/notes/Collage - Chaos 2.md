@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-chaos-2/","tags":["c/abstract","c/letters","c/face","c/woman","c/red","c/blue","c/black","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:35:39.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-chaos-2/","tags":["c/abstract","c/letters","c/face","c/woman","c/red","c/blue","c/black","c/2022"],"created":"2024-01-22T14:35:39.000-05:00","updated":"2024-04-15T12:04:10.927-04:00"}
 ---
 
 
