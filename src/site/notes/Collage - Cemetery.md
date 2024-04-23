@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cemetery/","tags":["c/bw","c/flat-background","c/white","c/woman","c/lamp","c/philosophy","c/mario-sergio-cortella","c/2021"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-22T14:55:48.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-cemetery/","tags":["c/bw","c/flat-background","c/white","c/woman","c/lamp","c/philosophy","c/mario-sergio-cortella","c/2021"],"created":"2024-01-22T14:55:48.000-05:00","updated":"2024-04-15T12:04:10.709-04:00"}
 ---
 
 
