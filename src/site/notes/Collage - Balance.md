@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-balance/","tags":["c/house","c/boat","c/water","c/submerged","c/red","c/slum","c/poverty","c/innequality","c/2019","c/under-water"],"created":"2024-03-05T12:46:22.000-05:00","updated":"2024-01-24T20:09:27.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-balance/","tags":["c/house","c/boat","c/water","c/submerged","c/red","c/slum","c/poverty","c/innequality","c/2019","c/under-water"],"created":"2024-01-24T20:09:27.000-05:00","updated":"2024-04-15T12:04:09.047-04:00"}
 ---
 
 
