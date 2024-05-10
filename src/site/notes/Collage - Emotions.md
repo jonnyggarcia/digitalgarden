@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-emotions/","tags":["c/lock","c/heart","c/abstract","c/hand","c/alexthymia","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:16:15.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-emotions/","tags":["c/lock","c/heart","c/abstract","c/hand","c/alexthymia","c/2020"],"created":"2024-01-23T21:16:15.000-05:00","updated":"2024-04-15T12:04:23.012-04:00"}
 ---
 
 
