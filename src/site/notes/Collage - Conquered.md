@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-conquered/","tags":["c/paris-collage","c/garbage","c/mountain","c/red","c/green","c/geometric","c/2019"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-01-23T21:48:01.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-conquered/","tags":["c/paris-collage","c/garbage","c/mountain","c/red","c/green","c/geometric","c/2019"],"created":"2024-01-23T21:48:01.000-05:00","updated":"2024-04-15T12:04:12.202-04:00"}
 ---
 
 
