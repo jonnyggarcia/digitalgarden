@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-enticement/","tags":["c/jonny","c/RS","c/colorfull","c/man","c/woman","c/2021"],"created":"2024-01-17T11:58:54.746-05:00","updated":"2024-01-22T14:15:14.414-05:00"}
+{"dg-publish":true,"permalink":"/collage-enticement/","tags":["c/jonny","c/RS","c/colorfull","c/man","c/woman","c/2021"],"created":"2024-01-22T14:15:14.000-05:00","updated":"2024-04-15T12:04:23.519-04:00"}
 ---
 
 
