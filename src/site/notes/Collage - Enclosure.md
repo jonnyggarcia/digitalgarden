@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-enclosure/","tags":["c/flat-background","c/black","c/woman","c/faceless","c/hand","c/white","c/red","c/2022"],"created":"2024-01-08T14:01:30.105-05:00","updated":"2024-01-22T14:45:17.284-05:00"}
+{"dg-publish":true,"permalink":"/collage-enclosure/","tags":["c/flat-background","c/black","c/woman","c/faceless","c/hand","c/white","c/red","c/2022"],"created":"2024-01-22T14:45:17.000-05:00","updated":"2024-04-15T12:04:23.368-04:00"}
 ---
 
 
