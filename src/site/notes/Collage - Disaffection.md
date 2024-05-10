@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-disaffection/","tags":["c/2024","c/series","c/series-immigration-decade","c/woman","c/man","c/face","c/red","yell","c/abstract","c/texture","c/suit"],"created":"2024-03-05T12:46:09.000-05:00","updated":"2024-02-06T17:04:17.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-disaffection/","tags":["c/2024","c/series","c/series-emigration","c/woman","c/man","c/face","c/red","c/abstract","c/texture","c/suit","c/yellow"],"created":"2024-03-23T18:29:23.000-04:00","updated":"2024-04-15T12:04:14.048-04:00"}
 ---
 
 
