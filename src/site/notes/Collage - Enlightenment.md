@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-enlightenment/","tags":["c/woman","c/fall","c/book","c/geometric","c/red","c/green","c/suicide","c/2019"],"created":"2024-01-01T16:45:01.306-05:00","updated":"2024-01-16T21:51:37.833-05:00"}
+{"dg-publish":true,"permalink":"/collage-enlightenment/","tags":["c/woman","c/fall","c/book","c/geometric","c/red","c/green","c/suicide","c/2019"],"created":"2024-01-16T21:51:37.000-05:00","updated":"2024-04-15T12:04:23.430-04:00"}
 ---
 
 
