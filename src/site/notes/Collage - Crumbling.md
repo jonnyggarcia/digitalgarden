@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-crumbling/","tags":["c/colorfull","c/man","c/tree","c/dry","c/magnifying-glass","c/blue","c/faceless","c/snowflake","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:30:51.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-crumbling/","tags":["c/colorfull","c/man","c/tree","c/dry","c/magnifying-glass","c/blue","c/faceless","c/snowflake","c/2022"],"created":"2024-01-22T14:30:51.000-05:00","updated":"2024-04-15T12:04:12.810-04:00"}
 ---
 
 
