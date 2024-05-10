@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-creative-process/","tags":["c/glass","c/purple","c/fireworks","c/hourglass","c/blue","c/black","c/praticas-relfexiva","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:32:06.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-creative-process/","tags":["c/glass","c/purple","c/fireworks","c/hourglass","c/blue","c/black","c/praticas-relfexiva","c/2020"],"created":"2024-01-23T21:32:06.000-05:00","updated":"2024-04-15T12:04:12.726-04:00"}
 ---
 
 
