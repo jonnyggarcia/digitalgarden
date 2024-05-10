@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-equivalence/","tags":["c/woman","c/letters","c/purple","c/hand","c/2021"],"created":"2024-01-04T11:29:54.353-05:00","updated":"2024-01-22T15:03:41.300-05:00"}
+{"dg-publish":true,"permalink":"/collage-equivalence/","tags":["c/woman","c/letters","c/purple","c/hand","c/2021"],"created":"2024-01-22T15:03:41.000-05:00","updated":"2024-04-15T12:04:23.945-04:00"}
 ---
 
 
