@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-expert-trap/","tags":["c/bw","c/JA","c/exclamation","c/question-mark","c/letters","c/man","c/faceless","c/fence"],"created":"2024-01-24T19:37:21.644-05:00","updated":"2024-01-24T19:40:36.700-05:00"}
+{"dg-publish":true,"permalink":"/collage-expert-trap/","tags":["c/bw","c/JA","c/exclamation","c/question-mark","c/letters","c/man","c/faceless","c/fence"],"created":"2024-01-24T19:40:36.000-05:00","updated":"2024-04-15T12:04:25.043-04:00"}
 ---
 
 
