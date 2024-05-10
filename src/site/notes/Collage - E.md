@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-e/","tags":["c/letters","c/man","c/woman","c/orange","c/metal-finish","c/2020"],"created":"2024-01-02T20:04:54.736-05:00","updated":"2024-01-23T21:19:21.108-05:00"}
+{"dg-publish":true,"permalink":"/collage-e/","tags":["c/letters","c/man","c/woman","c/orange","c/metal-finish","c/2020"],"created":"2024-01-23T21:19:21.000-05:00","updated":"2024-04-15T12:04:20.824-04:00"}
 ---
 
 
