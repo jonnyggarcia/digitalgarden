@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-disconnection-2/","tags":["c/hand","c/ring","c/woman","c/flat-background","c/black","c/flower","c/bw","c/2022"],"created":"2024-01-08T13:53:13.406-05:00","updated":"2024-01-22T14:44:06.022-05:00"}
+{"dg-publish":true,"permalink":"/collage-disconnection-2/","tags":["c/hand","c/ring","c/woman","c/flat-background","c/black","c/flower","c/bw","c/2022"],"created":"2024-01-22T14:44:06.000-05:00","updated":"2024-04-15T12:04:15.302-04:00"}
 ---
 
 
