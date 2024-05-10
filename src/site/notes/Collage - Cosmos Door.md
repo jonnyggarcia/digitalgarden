@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cosmos-door/","tags":["c/door","c/space","c/mountain","c/sky","c/stars","c/stairs","c/purple","c/2020"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:32:46.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-cosmos-door/","tags":["c/door","c/space","c/mountain","c/sky","c/stars","c/stairs","c/purple","c/2020"],"created":"2024-01-23T21:32:46.000-05:00","updated":"2024-04-15T12:04:12.557-04:00"}
 ---
 
 
