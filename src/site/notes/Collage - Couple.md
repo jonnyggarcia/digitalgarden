@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-couple/","tags":["c/man","c/woman","c/white","c/red","c/orange","c/flat-background","c/2022"],"created":"2024-03-05T12:46:18.000-05:00","updated":"2024-01-22T14:29:59.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-couple/","tags":["c/man","c/woman","c/white","c/red","c/orange","c/flat-background","c/2022"],"created":"2024-01-22T14:29:59.000-05:00","updated":"2024-04-15T12:04:12.641-04:00"}
 ---
 
 
