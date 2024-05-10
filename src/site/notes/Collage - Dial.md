@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dial/","tags":["c/flower","c/circle","c/pattern","c/red","c/rose","c/abstract","c/2021"],"created":"2024-03-05T12:46:20.000-05:00","updated":"2024-02-21T21:03:13.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-dial/","tags":["c/flower","c/circle","c/pattern","c/red","c/rose","c/abstract","c/2021"],"created":"2024-02-21T21:03:13.000-05:00","updated":"2024-04-15T12:04:13.723-04:00"}
 ---
 
 
