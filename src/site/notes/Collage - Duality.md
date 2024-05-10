@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-duality/","tags":["c/tree","c/blue","c/purple","c/2020","c/dry","c/abstract"],"created":"2024-03-05T12:46:19.000-05:00","updated":"2024-01-23T21:17:56.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-duality/","tags":["c/tree","c/blue","c/purple","c/2020","c/dry","c/abstract"],"created":"2024-01-23T21:17:56.000-05:00","updated":"2024-04-15T12:04:19.023-04:00"}
 ---
 
 
