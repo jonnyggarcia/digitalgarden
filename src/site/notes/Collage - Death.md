@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-death/","tags":["c/flat-background","c/corporeal-gestures","c/statue","c/shape","c/blue","c/purple","c/series","c/2019"],"created":"2024-03-05T12:46:13.000-05:00","updated":"2024-01-23T21:42:12.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-death/","tags":["c/flat-background","c/corporeal-gestures","c/statue","c/shape","c/blue","c/purple","c/series","c/2019"],"created":"2024-01-23T21:42:12.000-05:00","updated":"2024-04-15T12:04:13.369-04:00"}
 ---
 
 
