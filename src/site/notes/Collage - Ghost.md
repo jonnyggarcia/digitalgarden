@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ghost/","tags":["c/uncollage","c/woman","c/bw","c/2020"],"created":"2024-01-02T16:18:57.390-05:00","updated":"2024-01-22T15:52:49.638-05:00"}
+{"dg-publish":true,"permalink":"/collage-ghost/","tags":["c/uncollage","c/woman","c/bw","c/2020"],"created":"2024-01-22T15:52:49.000-05:00","updated":"2024-04-15T12:04:29.228-04:00"}
 ---
 
 
