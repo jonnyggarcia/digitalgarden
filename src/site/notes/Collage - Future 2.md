@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-future-2/","tags":["c/woman","c/hand","c/abstract","c/blue","c/red","c/flower","c/2023"],"created":"2024-01-08T14:20:20.055-05:00","updated":"2024-01-22T14:21:36.954-05:00"}
+{"dg-publish":true,"permalink":"/collage-future-2/","tags":["c/woman","c/hand","c/abstract","c/blue","c/red","c/flower","c/2023"],"created":"2024-01-22T14:21:36.000-05:00","updated":"2024-04-15T12:04:28.455-04:00"}
 ---
 
 
