@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-festivities/","tags":["c/2024","c/series","c/cake","c/compass-rose","c/falling-to-pieces","c/red","c/yellow","c/face","c/man","c/series-immigration-decade"],"created":"2024-01-31T13:47:09.684-05:00","updated":"2024-02-06T17:04:19.739-05:00"}
+{"dg-publish":true,"permalink":"/collage-festivities/","tags":["c/2024","c/series","c/cake","c/compass-rose","c/falling-to-pieces","c/red","c/yellow","c/face","c/man","c/series-emigration"],"created":"2024-03-23T13:30:31.000-04:00","updated":"2024-04-15T12:04:26.692-04:00"}
 ---
 
 
-**Context**: When you cannot partake on the celebrations of your loved ones. Yellow for brasil on the south and red for canada in the north. Remake of [[Collage - Celebrations\|Collage - Celebrations]]
+**Context**: When you cannot partake on the celebrations of your loved ones. Yellow for Brasil on the south and red for Canada in the north. Remake of [[Collage - Celebrations\|Collage - Celebrations]]
 
 [Festivities](https://www.instagram.com/p/C2xnR67RMT7/)
 
