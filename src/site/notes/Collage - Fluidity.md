@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-fluidity/","tags":["c/clock","c/circle","c/ripples","c/water","c/blue","c/2021"],"created":"2024-01-04T11:30:50.596-05:00","updated":"2024-01-22T15:03:45.882-05:00"}
+{"dg-publish":true,"permalink":"/collage-fluidity/","tags":["c/clock","c/circle","c/ripples","c/water","c/blue","c/2021"],"created":"2024-01-22T15:03:45.000-05:00","updated":"2024-04-15T12:04:27.424-04:00"}
 ---
 
 
