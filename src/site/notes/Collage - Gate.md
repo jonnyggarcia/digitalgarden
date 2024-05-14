@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-gate/","tags":["c/analog","c/art-tape","c/baillarina","c/geometric","c/door","c/2020"],"created":"2024-01-02T08:48:49.010-05:00","updated":"2024-01-22T15:46:16.187-05:00"}
+{"dg-publish":true,"permalink":"/collage-gate/","tags":["c/analog","c/art-tape","c/baillarina","c/geometric","c/door","c/2020"],"created":"2024-01-22T15:46:16.000-05:00","updated":"2024-04-15T12:04:28.830-04:00"}
 ---
 
 
