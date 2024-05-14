@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-wrong-reasons/","tags":["c/hand","c/record","c/manequin","c/pattern","c/blue","analise","c/dance","c/2023"],"created":"2024-01-09T08:53:27.825-05:00","updated":"2024-01-16T22:28:51.699-05:00"}
+{"dg-publish":true,"permalink":"/collage-wrong-reasons/","tags":["c/hand","c/record","c/manequin","c/pattern","c/blue","analise","c/dance","c/2023"],"created":"2024-01-16T22:28:51.000-05:00","updated":"2024-04-15T12:04:45.798-04:00"}
 ---
 
 
