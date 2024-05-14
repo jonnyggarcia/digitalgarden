@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-wonderland/","tags":["c/woman","c/letters","c/flower","c/face","c/mouth","c/eye","c/bw","c/red","c/body","c/2020"],"created":"2024-01-02T08:58:31.659-05:00","updated":"2024-01-22T15:47:34.493-05:00"}
+{"dg-publish":true,"permalink":"/collage-wonderland/","tags":["c/woman","c/letters","c/flower","c/face","c/mouth","c/eye","c/bw","c/red","c/body","c/2020"],"created":"2024-01-22T15:47:34.000-05:00","updated":"2024-04-15T12:04:45.598-04:00"}
 ---
 
 
