@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-heritage/","tags":["c/man","c/traveller","c/backpack","c/building","c/beans","c/series-immigration","c/white","c/street","c/2019"],"created":"2024-01-01T15:44:32.620-05:00","updated":"2024-02-06T17:09:05.358-05:00"}
+{"dg-publish":true,"permalink":"/collage-heritage/","tags":["c/man","c/traveller","c/backpack","c/building","c/beans","c/series-immigration","c/white","c/street","c/2019"],"created":"2024-02-06T17:09:05.000-05:00","updated":"2024-04-15T12:04:30.340-04:00"}
 ---
 
 
