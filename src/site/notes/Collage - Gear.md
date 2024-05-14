@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-gear/","tags":["c/scissor","c/couch","c/hood","c/head","c/man","c/house","c/red","c/yellow","c/2019"],"created":"2024-01-01T16:16:13.945-05:00","updated":"2024-01-16T22:20:28.790-05:00"}
+{"dg-publish":true,"permalink":"/collage-gear/","tags":["c/scissor","c/couch","c/hood","c/head","c/man","c/house","c/red","c/yellow","c/2019"],"created":"2024-01-16T22:20:28.000-05:00","updated":"2024-04-15T12:04:28.959-04:00"}
 ---
 
 
