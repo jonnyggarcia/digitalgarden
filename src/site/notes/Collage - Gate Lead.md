@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-gate-lead/","tags":["c/art-tape","c/geometric","c/yellow","c/2020"],"created":"2024-01-02T08:49:56.175-05:00","updated":"2024-01-22T15:46:21.458-05:00"}
+{"dg-publish":true,"permalink":"/collage-gate-lead/","tags":["c/art-tape","c/geometric","c/yellow","c/2020"],"created":"2024-01-22T15:46:21.000-05:00","updated":"2024-04-15T12:04:28.720-04:00"}
 ---
 
 
