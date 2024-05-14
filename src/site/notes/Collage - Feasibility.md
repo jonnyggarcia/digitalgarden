@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-feasibility/","tags":["c/woman","c/child","c/red","c/cloud","c/shattered","c/blue","c/face","c/circle"],"created":"2024-01-08T14:08:43.737-05:00","updated":"2024-01-10T10:03:12.775-05:00"}
+{"dg-publish":true,"permalink":"/collage-feasibility/","tags":["c/woman","c/child","c/red","c/cloud","c/shattered","c/blue","c/face","c/circle"],"created":"2024-01-10T10:03:12.000-05:00","updated":"2024-04-15T12:04:26.571-04:00"}
 ---
 
 
