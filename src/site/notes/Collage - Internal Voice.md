@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-internal-voice/","tags":["c/phone","c/flower","c/brown","c/2020","c/abstract"],"created":"2024-01-02T19:53:30.955-05:00","updated":"2024-02-21T20:54:28.626-05:00"}
+{"dg-publish":true,"permalink":"/collage-internal-voice/","tags":["c/phone","c/flower","c/brown","c/2020","c/abstract"],"created":"2024-02-21T20:54:28.000-05:00","updated":"2024-04-15T12:04:32.838-04:00"}
 ---
 
 
