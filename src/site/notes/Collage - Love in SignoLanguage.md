@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-love-in-signo-language/","tags":["c/love","c/signo-language","c/flower","c/water","c/blue","c/purple","c/2019"],"created":"2024-01-01T16:46:06.091-05:00","updated":"2024-02-20T20:53:14.420-05:00"}
+{"dg-publish":true,"permalink":"/collage-love-in-signo-language/","tags":["c/love","c/signo-language","c/flower","c/water","c/blue","c/purple","c/2019"],"created":"2024-02-20T20:53:14.000-05:00","updated":"2024-04-15T12:04:35.137-04:00"}
 ---
 
 
