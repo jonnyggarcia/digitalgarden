@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-holland/","tags":["c/contemporary-collage-magazine","c/line","c/pattern","c/clock","c/letters","c/blue","c/orange","c/ticket","c/2022"],"created":"2024-01-04T19:35:05.423-05:00","updated":"2024-01-22T14:28:37.615-05:00"}
+{"dg-publish":true,"permalink":"/collage-holland/","tags":["c/contemporary-collage-magazine","c/line","c/pattern","c/clock","c/letters","c/blue","c/orange","c/ticket","c/2022"],"created":"2024-01-22T14:28:37.000-05:00","updated":"2024-04-15T12:04:30.822-04:00"}
 ---
 
 
