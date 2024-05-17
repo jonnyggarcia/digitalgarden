@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-night/","tags":["c/bw","c/train-track","c/train","c/woman","c/wound","c/black","c/2021"],"created":"2024-01-03T17:10:55.877-05:00","updated":"2024-01-22T14:54:14.407-05:00"}
+{"dg-publish":true,"permalink":"/collage-night/","tags":["c/bw","c/train-track","c/train","c/woman","c/wound","c/black","c/2021"],"created":"2024-01-22T14:54:14.000-05:00","updated":"2024-04-15T12:04:36.389-04:00"}
 ---
 
 
