@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-lanterna-dos-afogados/","tags":["c/moon","c/green","c/blue","c/light-house","c/purple","c/abstract","c/series-songs","c/series","c/Paralams-do-Sucesso","c/2020","c/songs-MPB"],"created":"2024-01-03T09:36:49.251-05:00","updated":"2024-02-01T09:08:04.593-05:00"}
+{"dg-publish":true,"permalink":"/collage-lanterna-dos-afogados/","tags":["c/moon","c/green","c/blue","c/light-house","c/purple","c/abstract","c/series-songs","c/series","c/Paralams-do-Sucesso","c/2020","c/songs-MPB"],"created":"2024-02-01T09:08:04.000-05:00","updated":"2024-04-15T12:04:33.897-04:00"}
 ---
 
 
