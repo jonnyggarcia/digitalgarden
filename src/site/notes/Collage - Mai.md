@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-mai/","tags":["c/toronto","c/maul","c/photography","c/streetcar","c/grafitti","c/letters","c/yellow","c/red","c/light","c/2019"],"created":"2024-01-01T16:11:38.794-05:00","updated":"2024-01-23T21:51:08.742-05:00"}
+{"dg-publish":true,"permalink":"/collage-mai/","tags":["c/toronto","c/maul","c/photography","c/streetcar","c/grafitti","c/letters","c/yellow","c/red","c/light","c/2019"],"created":"2024-01-23T21:51:08.000-05:00","updated":"2024-04-15T12:04:35.310-04:00"}
 ---
 
 
