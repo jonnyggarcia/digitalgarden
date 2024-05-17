@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-now/","tags":["c/orange","c/hand","c/geometric","c/woman","c/paris-collage","c/flat-background","c/2019"],"created":"2024-01-01T23:56:23.851-05:00","updated":"2024-01-23T21:45:35.724-05:00"}
+{"dg-publish":true,"permalink":"/collage-now/","tags":["c/orange","c/hand","c/geometric","c/woman","c/paris-collage","c/flat-background","c/2019"],"created":"2024-01-23T21:45:35.000-05:00","updated":"2024-04-15T12:04:36.476-04:00"}
 ---
 
 **
