@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-hold-my-hand/","tags":["c/hand","c/metal-finish","c/abstract","c/2020","c/texture"],"created":"2024-01-03T16:41:45.435-05:00","updated":"2024-01-23T21:38:02.286-05:00"}
+{"dg-publish":true,"permalink":"/collage-hold-my-hand/","tags":["c/hand","c/metal-finish","c/abstract","c/2020","c/texture"],"created":"2024-01-23T21:38:02.000-05:00","updated":"2024-04-15T12:04:30.596-04:00"}
 ---
 
 
