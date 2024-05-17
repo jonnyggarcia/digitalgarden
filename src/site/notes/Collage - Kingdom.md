@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-kingdom/","tags":["c/paris-collage","c/red","c/throne","c/chair","c/garbage","c/shape","c/2020"],"created":"2024-01-02T08:50:26.888-05:00","updated":"2024-01-22T15:46:28.591-05:00"}
+{"dg-publish":true,"permalink":"/collage-kingdom/","tags":["c/paris-collage","c/red","c/throne","c/chair","c/garbage","c/shape","c/2020"],"created":"2024-01-22T15:46:28.000-05:00","updated":"2024-04-15T12:04:33.546-04:00"}
 ---
 
 
