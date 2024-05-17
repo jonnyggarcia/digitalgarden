@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-j-determinanion/","tags":["c/JA","c/series","c/series-portrait","c/abstract","c/colorfull","c/woman","c/glasses","c/face","c/2021"],"created":"2024-01-04T19:01:15.736-05:00","updated":"2024-02-01T09:08:26.225-05:00"}
+{"dg-publish":true,"permalink":"/collage-j-determinanion/","tags":["c/JA","c/series","c/series-portrait","c/abstract","c/colorfull","c/woman","c/glasses","c/face","c/2021"],"created":"2024-02-01T09:08:26.000-05:00","updated":"2024-04-15T12:04:33.188-04:00"}
 ---
 
 
