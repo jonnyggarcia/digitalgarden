@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-legacy/","tags":["c/finger-print","c/statue","c/monalisa","c/earth","c/own-voice","c/2019"],"created":"2024-01-01T16:41:32.160-05:00","updated":"2024-01-23T21:47:30.866-05:00"}
+{"dg-publish":true,"permalink":"/collage-legacy/","tags":["c/finger-print","c/statue","c/monalisa","c/earth","c/own-voice","c/2019"],"created":"2024-01-23T21:47:30.000-05:00","updated":"2024-04-15T12:04:34.073-04:00"}
 ---
 
 
