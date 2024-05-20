@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reality/","tags":["c/woman","c/man","c/fence","c/caleidoscope","c/2019"],"created":"2024-01-01T15:42:50.060-05:00","updated":"2024-01-16T23:34:12.836-05:00"}
+{"dg-publish":true,"permalink":"/collage-reality/","tags":["c/woman","c/man","c/fence","c/caleidoscope","c/2019"],"created":"2024-01-16T23:34:12.000-05:00","updated":"2024-04-15T12:04:38.534-04:00"}
 ---
 
 
