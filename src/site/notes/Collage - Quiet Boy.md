@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-quiet-boy/","tags":["c/flat-background","c/blue","c/hand","c/cloud","c/circle","c/white","c/mouth","c/man","c/2021"],"created":"2024-01-04T11:17:17.643-05:00","updated":"2024-01-22T15:02:59.760-05:00"}
+{"dg-publish":true,"permalink":"/collage-quiet-boy/","tags":["c/flat-background","c/blue","c/hand","c/cloud","c/circle","c/white","c/mouth","c/man","c/2021"],"created":"2024-01-22T15:02:59.000-05:00","updated":"2024-04-15T12:04:38.404-04:00"}
 ---
 
 
