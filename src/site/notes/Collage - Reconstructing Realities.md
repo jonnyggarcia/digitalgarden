@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reconstructing-realities/","tags":["c/building","c/escher","c/purple","c/kanyer-art-collection","c/2020"],"created":"2024-01-03T14:09:49.353-05:00","updated":"2024-01-23T21:35:40.987-05:00"}
+{"dg-publish":true,"permalink":"/collage-reconstructing-realities/","tags":["c/building","c/escher","c/purple","c/kanyer-art-collection","c/2020"],"created":"2024-01-23T21:35:40.000-05:00","updated":"2024-04-15T12:04:38.750-04:00"}
 ---
 
 
