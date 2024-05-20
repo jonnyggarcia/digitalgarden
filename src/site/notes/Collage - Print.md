@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-print/","tags":["c/hand","c/orange","c/flat-background","c/analog","c/finger-print","c/2019"],"created":"2024-01-02T07:44:23.048-05:00","updated":"2024-01-23T21:43:27.691-05:00"}
+{"dg-publish":true,"permalink":"/collage-print/","tags":["c/hand","c/orange","c/flat-background","c/analog","c/finger-print","c/2019"],"created":"2024-01-23T21:43:27.000-05:00","updated":"2024-04-15T12:04:38.034-04:00"}
 ---
 
 
