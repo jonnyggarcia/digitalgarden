@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-options/","tags":["c/woman","c/sign","c/clock","c/shape","c/red","c/blue","c/paris-collage","c/2020"],"created":"2024-01-02T09:00:41.855-05:00","updated":"2024-01-22T15:47:48.233-05:00"}
+{"dg-publish":true,"permalink":"/collage-options/","tags":["c/woman","c/sign","c/clock","c/shape","c/red","c/blue","c/paris-collage","c/2020"],"created":"2024-01-22T15:47:48.000-05:00","updated":"2024-04-15T12:04:37.165-04:00"}
 ---
 
 
