@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-relationships/","tags":["c/man","c/woman","c/faceless","c/red","c/wound","c/black","c/valentines-day","c/2021"],"created":"2024-01-03T17:13:46.667-05:00","updated":"2024-01-22T14:54:34.789-05:00"}
+{"dg-publish":true,"permalink":"/collage-relationships/","tags":["c/man","c/woman","c/faceless","c/red","c/wound","c/black","c/valentines-day","c/2021"],"created":"2024-01-22T14:54:34.000-05:00","updated":"2024-04-15T12:04:39.126-04:00"}
 ---
 
 
