@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-path/","tags":["c/door","c/tombstone","c/city","c/building","c/flower","c/blue","c/cross","c/flat-background","c/2019"],"created":"2024-01-01T16:32:16.200-05:00","updated":"2024-01-15T22:01:53.098-05:00"}
+{"dg-publish":true,"permalink":"/collage-path/","tags":["c/door","c/tombstone","c/city","c/building","c/flower","c/blue","c/cross","c/flat-background","c/2019"],"created":"2024-01-15T22:01:53.000-05:00","updated":"2024-04-15T12:04:37.536-04:00"}
 ---
 
 
