@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-opposites/","tags":["c/inDignos","c/abstract","c/purple","c/woman","c/statue"],"created":"2024-01-04T11:25:17.870-05:00","updated":"2024-01-10T10:03:13.992-05:00"}
+{"dg-publish":true,"permalink":"/collage-opposites/","tags":["c/inDignos","c/abstract","c/purple","c/woman","c/statue"],"created":"2024-01-10T10:03:13.000-05:00","updated":"2024-04-15T12:04:37.122-04:00"}
 ---
 
 
