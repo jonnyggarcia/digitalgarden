@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-one-self/","tags":["c/flat-background","c/white","c/hand","c/man","c/naked","c/crack","c/2022"],"created":"2024-01-08T13:48:14.679-05:00","updated":"2024-01-22T14:43:21.951-05:00"}
+{"dg-publish":true,"permalink":"/collage-one-self/","tags":["c/flat-background","c/white","c/hand","c/man","c/naked","c/crack","c/2022"],"created":"2024-01-22T14:43:21.000-05:00","updated":"2024-04-15T12:04:36.992-04:00"}
 ---
 
 
