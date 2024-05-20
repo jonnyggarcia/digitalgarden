@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-odds/","tags":["c/space","c/man","c/woman","c/sun","c/moon","c/AR","c/ripples","c/yellow","c/blue","c/2023"],"created":"2024-01-09T08:59:56.231-05:00","updated":"2024-01-22T14:17:37.687-05:00"}
+{"dg-publish":true,"permalink":"/collage-odds/","tags":["c/space","c/man","c/woman","c/sun","c/moon","c/AR","c/ripples","c/yellow","c/blue","c/2023"],"created":"2024-01-22T14:17:37.000-05:00","updated":"2024-04-15T12:04:36.819-04:00"}
 ---
 
 
