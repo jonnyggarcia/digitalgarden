@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reasons/","tags":["c/2024","c/series-immigration-decade","c/series","c/mask","c/chair","c/card","c/flat-background","c/white","c/yellow","c/red","c/blue"],"created":"2024-02-20T19:02:43.675-05:00","updated":"2024-02-20T21:22:31.560-05:00"}
+{"dg-publish":true,"permalink":"/collage-reasons/","tags":["c/2024","c/series-emigration","c/series","c/mask","c/chair","c/card","c/flat-background","c/white","c/yellow","c/red","c/blue"],"created":"2024-03-23T13:30:37.000-04:00","updated":"2024-04-15T12:04:38.578-04:00"}
 ---
 
 
