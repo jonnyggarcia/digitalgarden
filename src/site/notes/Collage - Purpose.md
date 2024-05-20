@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-purpose/","tags":["c/woman","c/black-person","c/green","c/yellow","c/red","c/cibc","c/flat-background","c/2019"],"created":"2024-01-02T00:01:54.912-05:00","updated":"2024-01-23T21:45:06.797-05:00"}
+{"dg-publish":true,"permalink":"/collage-purpose/","tags":["c/woman","c/black-person","c/green","c/yellow","c/red","c/flat-background","c/2019"],"created":"2024-03-23T18:32:57.000-04:00","updated":"2024-04-15T12:04:38.273-04:00"}
 ---
 
 
