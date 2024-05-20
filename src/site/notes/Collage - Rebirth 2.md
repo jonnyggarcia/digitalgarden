@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-rebirth-2/","tags":["c/grafitti","c/letters","c/wood","c/crack","c/orange","c/kanyer-art-collection","c/2020"],"created":"2024-01-03T14:37:46.476-05:00","updated":"2024-01-16T22:36:41.508-05:00"}
+{"dg-publish":true,"permalink":"/collage-rebirth-2/","tags":["c/grafitti","c/letters","c/wood","c/crack","c/orange","c/kanyer-art-collection","c/2020"],"created":"2024-01-16T22:36:41.000-05:00","updated":"2024-04-15T12:04:38.642-04:00"}
 ---
 
 
