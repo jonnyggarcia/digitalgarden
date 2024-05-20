@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-outlander/","tags":["c/2024","c/series","c/man","c/face","c/red","c/blue","c/texture","c/yellow","c/suit","c/pieces","c/slices","c/series-immigration-decade"],"created":"2024-02-02T10:12:40.519-05:00","updated":"2024-02-06T17:07:22.057-05:00"}
+{"dg-publish":true,"permalink":"/collage-outlander/","tags":["c/2024","c/series","c/man","c/face","c/red","c/blue","c/texture","c/yellow","c/suit","c/pieces","c/slices","c/series-emigration"],"created":"2024-03-23T13:30:34.000-04:00","updated":"2024-04-15T12:04:37.252-04:00"}
 ---
 
 
