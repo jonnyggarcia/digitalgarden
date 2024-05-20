@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-permanency/","tags":["c/2024","c/series","c/series-immigration-decade","c/hand","c/abstract","c/number","c/fabric"],"created":"2024-02-12T14:40:33.694-05:00","updated":"2024-02-12T14:45:52.763-05:00"}
+{"dg-publish":true,"permalink":"/collage-permanency/","tags":["c/2024","c/series","c/series-emigration","c/hand","c/abstract","c/number","c/fabric"],"created":"2024-03-23T13:30:35.000-04:00","updated":"2024-04-15T12:04:37.621-04:00"}
 ---
 
 
