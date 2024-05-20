@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-red-paint/","tags":["c/paint-collage","c/blue","c/red","c/abstract","c/2021"],"created":"2024-01-03T17:09:32.437-05:00","updated":"2024-01-22T19:31:00.105-05:00"}
+{"dg-publish":true,"permalink":"/collage-red-paint/","tags":["c/paint-collage","c/blue","c/red","c/abstract","c/2021"],"created":"2024-01-22T19:31:00.000-05:00","updated":"2024-04-15T12:04:38.976-04:00"}
 ---
 
 
