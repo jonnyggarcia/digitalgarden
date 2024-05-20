@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reinforcement/","tags":["c/white","c/flat-background","c/blue","c/man","c/body","c/naked","c/hand","c/2023"],"created":"2024-01-09T08:37:23.757-05:00","updated":"2024-01-22T14:22:25.813-05:00"}
+{"dg-publish":true,"permalink":"/collage-reinforcement/","tags":["c/white","c/flat-background","c/blue","c/man","c/body","c/naked","c/hand","c/2023"],"created":"2024-01-22T14:22:25.000-05:00","updated":"2024-04-15T12:04:39.083-04:00"}
 ---
 
 
