@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-revealing/","tags":["c/wound","c/river","c/red","c/abstract","s/staple","c/2020"],"created":"2024-01-03T16:41:04.363-05:00","updated":"2024-01-23T21:37:44.514-05:00"}
+{"dg-publish":true,"permalink":"/collage-revealing/","tags":["c/wound","c/river","c/red","c/abstract","s/staple","c/2020"],"created":"2024-01-23T21:37:44.000-05:00","updated":"2024-04-15T12:04:39.387-04:00"}
 ---
 
 
