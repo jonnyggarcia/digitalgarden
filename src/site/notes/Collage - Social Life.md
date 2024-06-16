@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-social-life/","tags":["c/tree","c/winter","c/city","c/purple","c/series-immigration","c/2019","c/frozen"],"created":"2024-01-01T15:50:02.255-05:00","updated":"2024-02-06T18:32:07.591-05:00"}
+{"dg-publish":true,"permalink":"/collage-social-life/","tags":["c/tree","c/winter","c/city","c/purple","c/series-immigration","c/2019","c/frozen"],"created":"2024-02-06T18:32:07.000-05:00","updated":"2024-04-15T12:04:41.054-04:00"}
 ---
 
 
