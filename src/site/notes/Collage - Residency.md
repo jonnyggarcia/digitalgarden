@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-residency/","tags":["c/2024","c/series-immigration-decade","c/series","c/number","c/5","c/flag","c/canada","c/PR","c/texture","c/red","c/white","c/yellow","c/card"],"created":"2024-02-06T13:16:28.775-05:00","updated":"2024-02-06T17:04:28.688-05:00"}
+{"dg-publish":true,"permalink":"/collage-residency/","tags":["c/2024","c/series-emigration","c/series","c/number","c/5","c/flag","c/canada","c/PR","c/texture","c/red","c/white","c/yellow","c/card"],"created":"2024-03-23T13:30:38.000-04:00","updated":"2024-04-15T12:04:39.256-04:00"}
 ---
 
 
