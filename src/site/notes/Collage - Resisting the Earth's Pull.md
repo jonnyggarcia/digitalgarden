@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-resisting-the-earth-s-pull/","tags":["c/corporeal-gestures","c/series","c/statue","c/shape","c/geometric","c/brown","c/yellow","c/gold","c/red","c/2019"],"created":"2024-01-02T08:33:50.439-05:00","updated":"2024-01-16T22:26:53.856-05:00"}
+{"dg-publish":true,"permalink":"/collage-resisting-the-earth-s-pull/","tags":["c/corporeal-gestures","c/series","c/statue","c/shape","c/geometric","c/brown","c/yellow","c/gold","c/red","c/2019"],"created":"2024-01-16T22:26:53.000-05:00","updated":"2024-04-15T12:04:39.299-04:00"}
 ---
 
 
