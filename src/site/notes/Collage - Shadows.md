@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shadows/","tags":["c/man","c/woman","c/shadow","c/abstract","c/line","c/2022"],"created":"2024-01-05T09:05:19.607-05:00","updated":"2024-01-22T14:29:19.264-05:00"}
+{"dg-publish":true,"permalink":"/collage-shadows/","tags":["c/man","c/woman","c/shadow","c/abstract","c/line","c/2022"],"created":"2024-01-22T14:29:19.000-05:00","updated":"2024-04-15T12:04:40.395-04:00"}
 ---
 
 
