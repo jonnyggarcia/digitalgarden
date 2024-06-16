@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-social-media/","tags":["c/monkey","c/animal","c/pink","c/purple","c/geometric","c/paris-collage","c/2019"],"created":"2024-01-01T23:57:17.808-05:00","updated":"2024-01-23T21:45:31.743-05:00"}
+{"dg-publish":true,"permalink":"/collage-social-media/","tags":["c/monkey","c/animal","c/pink","c/purple","c/geometric","c/paris-collage","c/2019"],"created":"2024-01-23T21:45:31.000-05:00","updated":"2024-04-15T12:04:41.103-04:00"}
 ---
 
 
