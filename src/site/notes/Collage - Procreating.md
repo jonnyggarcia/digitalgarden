@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-procreating/","tags":["c/corporeal-gestures","c/series","c/statue","c/shape","c/analog","c/sold","c/exibition","c/JA","c/2019"],"created":"2024-01-02T08:34:49.032-05:00","updated":"2024-01-22T15:45:19.037-05:00"}
+{"dg-publish":true,"permalink":"/collage-procreating/","tags":["c/corporeal-gestures","c/series","c/statue","c/shape","c/analog","c/sold","c/exibition","c/JA","c/2019"],"created":"2024-01-22T15:45:19.000-05:00","updated":"2024-04-15T12:04:38.080-04:00"}
 ---
 
 
