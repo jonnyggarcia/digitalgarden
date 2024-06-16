@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shadowy-figure/","tags":["c/tower","c/shadow","c/man","c/faceless","c/black","c/flat-background","c/wall","c/2022"],"created":"2024-01-08T13:57:51.047-05:00","updated":"2024-01-22T14:44:34.306-05:00"}
+{"dg-publish":true,"permalink":"/collage-shadowy-figure/","tags":["c/tower","c/shadow","c/man","c/faceless","c/black","c/flat-background","c/wall","c/2022"],"created":"2024-01-22T14:44:34.000-05:00","updated":"2024-04-15T12:04:40.439-04:00"}
 ---
 
 
