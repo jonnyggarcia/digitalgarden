@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-scars/","tags":["c/hand","c/flower","c/blood","c/black","c/red","c/2021"],"created":"2024-01-04T11:26:55.675-05:00","updated":"2024-01-22T15:03:27.624-05:00"}
+{"dg-publish":true,"permalink":"/collage-scars/","tags":["c/hand","c/flower","c/blood","c/black","c/red","c/2021"],"created":"2024-01-22T15:03:27.000-05:00","updated":"2024-04-15T12:04:40.027-04:00"}
 ---
 
 
