@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-silent-delight/","tags":["c/analog","c/building","c/smoke","c/vulcano","c/CK","c/2021"],"created":"2024-01-03T16:52:45.664-05:00","updated":"2024-01-22T14:47:13.247-05:00"}
+{"dg-publish":true,"permalink":"/collage-silent-delight/","tags":["c/analog","c/building","c/smoke","c/vulcano","c/CK","c/2021"],"created":"2024-01-22T14:47:13.000-05:00","updated":"2024-04-15T12:04:40.656-04:00"}
 ---
 
 
