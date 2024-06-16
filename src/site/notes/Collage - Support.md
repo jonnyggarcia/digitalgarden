@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-support/","tags":["c/hand","c/red","c/box","c/2020","c/texture"],"created":"2024-01-02T16:21:09.057-05:00","updated":"2024-01-23T21:16:10.111-05:00"}
+{"dg-publish":true,"permalink":"/collage-support/","tags":["c/hand","c/red","c/box","c/2020","c/texture"],"created":"2024-01-23T21:16:10.000-05:00","updated":"2024-04-15T12:04:42.257-04:00"}
 ---
 
 
