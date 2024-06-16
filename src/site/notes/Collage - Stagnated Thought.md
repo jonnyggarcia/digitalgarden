@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-stagnated-thought/","tags":["c/woman","c/window","c/purple","c/2020","c/faceless"],"created":"2024-01-02T19:54:49.725-05:00","updated":"2024-01-23T21:17:21.274-05:00"}
+{"dg-publish":true,"permalink":"/collage-stagnated-thought/","tags":["c/woman","c/window","c/purple","c/2020","c/faceless"],"created":"2024-01-23T21:17:21.000-05:00","updated":"2024-04-15T12:04:41.742-04:00"}
 ---
 
 
