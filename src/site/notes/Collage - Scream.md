@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-scream/","tags":["c/woman","c/screen","c/yellow","c/grafitti","c/shape","c/geometric","c/flat-background","c/blue","c/green","c/2020"],"created":"2024-01-02T08:47:58.805-05:00","updated":"2024-01-22T15:46:11.320-05:00"}
+{"dg-publish":true,"permalink":"/collage-scream/","tags":["c/woman","c/screen","c/yellow","c/grafitti","c/shape","c/geometric","c/flat-background","c/blue","c/green","c/2020"],"created":"2024-01-22T15:46:11.000-05:00","updated":"2024-04-15T12:04:40.090-04:00"}
 ---
 
 
