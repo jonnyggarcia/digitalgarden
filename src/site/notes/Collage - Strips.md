@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-strips/","tags":["c/strip","c/flat-background","c/2021"],"created":"2024-01-04T11:08:11.899-05:00","updated":"2024-01-15T21:47:26.800-05:00"}
+{"dg-publish":true,"permalink":"/collage-strips/","tags":["c/strip","c/flat-background","c/2021"],"created":"2024-01-15T21:47:26.000-05:00","updated":"2024-04-15T12:04:41.971-04:00"}
 ---
 
 
