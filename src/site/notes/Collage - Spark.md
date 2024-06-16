@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-spark/","tags":["c/man","c/woman","c/faceless","c/red","c/bw","c/line","c/2022"],"created":"2024-01-05T11:31:13.526-05:00","updated":"2024-01-22T14:30:54.292-05:00"}
+{"dg-publish":true,"permalink":"/collage-spark/","tags":["c/man","c/woman","c/faceless","c/red","c/bw","c/line","c/2022"],"created":"2024-01-22T14:30:54.000-05:00","updated":"2024-04-15T12:04:41.508-04:00"}
 ---
 
 
