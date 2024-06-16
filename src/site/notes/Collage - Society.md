@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-society/","tags":["c/couple","c/man","c/woman","c/limbs","c/road","c/red","c/geometric","c/2019"],"created":"2024-01-01T15:55:46.686-05:00","updated":"2024-01-15T22:01:46.127-05:00"}
+{"dg-publish":true,"permalink":"/collage-society/","tags":["c/couple","c/man","c/woman","c/limbs","c/road","c/red","c/geometric","c/2019"],"created":"2024-01-15T22:01:46.000-05:00","updated":"2024-04-15T12:04:41.241-04:00"}
 ---
 
 
