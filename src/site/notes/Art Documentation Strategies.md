@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-02-06T13:26:10.000-05:00","updated":"2024-04-15T12:04:04.771-04:00"}
+{"dg-publish":true,"permalink":"/art-documentation-strategies/","created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:04.000-04:00"}
 ---
 
 

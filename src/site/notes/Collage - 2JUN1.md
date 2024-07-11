@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-jun-1/","tags":["c/wound","c/pain","c/kidney-stone","c/jonny","c/series-self","c/pipe","c/line","c/red","c/black","c/series","c/2021"],"created":"2024-02-06T17:16:09.000-05:00","updated":"2024-04-15T12:04:06.265-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-jun-1/","tags":["c/wound","c/pain","c/kidney-stone","c/jonny","c/series-self","c/pipe","c/line","c/red","c/black","c/series","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:06.000-04:00"}
 ---
 
 

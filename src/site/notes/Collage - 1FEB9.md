@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-feb-9/","tags":["c/series-self","c/japan","c/trip","c/jonny","c/flight-ticket","c/food","c/building","c/YT","c/series","c/2019","c/remake"],"created":"2024-02-08T18:57:10.000-05:00","updated":"2024-04-15T12:04:05.488-04:00"}
+{"dg-publish":true,"permalink":"/collage-1-feb-9/","tags":["c/series-self","c/japan","c/trip","c/jonny","c/flight-ticket","c/food","c/building","c/YT","c/series","c/2019","c/remake"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:05.000-04:00"}
 ---
 
 

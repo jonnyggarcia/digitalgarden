@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-2/","tags":["c/series-self","c/series","c/trip","c/brasil","c/airplane","c/cup","c/chair","c/lamp","c/bw","c/exibition","c/bridge","c/2022"],"created":"2024-02-06T17:15:28.000-05:00","updated":"2024-04-15T12:04:06.073-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-2/","tags":["c/series-self","c/series","c/trip","c/brasil","c/airplane","c/cup","c/chair","c/lamp","c/bw","c/exibition","c/bridge","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:06.000-04:00"}
 ---
 
 Context: Trip to Brasil.

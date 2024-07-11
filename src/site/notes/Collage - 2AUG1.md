@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-aug-1/","tags":["c/series-self","c/series","c/jonny","c/cat","c/adoption","c/purple","c/abstract","c/2021"],"created":"2024-02-01T09:07:48.000-05:00","updated":"2024-04-15T12:04:05.704-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-aug-1/","tags":["c/series-self","c/series","c/jonny","c/cat","c/adoption","c/purple","c/abstract","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:05.000-04:00"}
 ---
 
 

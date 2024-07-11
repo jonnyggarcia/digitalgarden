@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-4/","tags":["c/2024","c/series-self","c/series","c/jonny","c/leaf","c/red","c/abstract","c/white","c/purple","c/card","c/PR","c/line","c/canada"],"created":"2024-02-15T16:25:47.000-05:00","updated":"2024-04-15T12:04:06.115-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-4/","tags":["c/2024","c/series-self","c/series","c/jonny","c/leaf","c/red","c/abstract","c/white","c/purple","c/card","c/PR","c/line","c/canada"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:06.000-04:00"}
 ---
 
 

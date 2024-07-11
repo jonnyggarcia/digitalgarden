@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-apr-1/","tags":["c/2024","c/series-self","c/series","c/motorcycle","c/abstract","c/map","c/wheel","c/purple","c/face"],"created":"2024-02-01T13:37:27.000-05:00","updated":"2024-04-15T12:04:05.660-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-apr-1/","tags":["c/2024","c/series-self","c/series","c/motorcycle","c/abstract","c/map","c/wheel","c/purple","c/face"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:05.000-04:00"}
 ---
 
 

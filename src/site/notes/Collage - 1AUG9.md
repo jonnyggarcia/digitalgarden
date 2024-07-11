@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-aug-9/","tags":["c/series-self","c/jonny","c/imperia","c/birthday","c/friends","c/PR","c/purple","c/japan","c/food","c/series","c/2019"],"created":"2024-02-06T17:13:13.000-05:00","updated":"2024-04-15T12:04:05.446-04:00"}
+{"dg-publish":true,"permalink":"/collage-1-aug-9/","tags":["c/series-self","c/jonny","c/imperia","c/birthday","c/friends","c/PR","c/purple","c/japan","c/food","c/series","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:05.000-04:00"}
 ---
 
 Context: Birth celebration and Imperia publication.

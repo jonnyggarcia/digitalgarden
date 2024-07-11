@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-jul-3/","tags":["c/2024","c/series-self","c/series","c/jonny","c/man","c/face","c/door-knobe","c/door","c/car","c/wheel","c/pink","c/green","c/flat-background","c/white"],"created":"2024-02-23T13:58:34.000-05:00","updated":"2024-04-15T12:04:06.202-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-jul-3/","tags":["c/2024","c/series-self","c/series","c/jonny","c/man","c/face","c/door-knobe","c/door","c/car","c/wheel","c/pink","c/green","c/flat-background","c/white"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:06.000-04:00"}
 ---
 
 
