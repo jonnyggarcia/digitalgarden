@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-07-11T12:21:32.268-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-07-14T13:29:51.989-04:00"}
 ---
 
 
@@ -76,9 +76,13 @@
 	- Volta do passeio levanta perna da frente
 	- Usa a perna direita do lead para levantar a perna da frente do seguidor caminhar para trás no passeio de costas.
 - Tonado (ver o mesmo em giros)
-- ==Arremesso==
 - Elevador
+- [Aconchego](https://youtu.be/0aJs_Kf2rHk?si=oVfjy7I2vHdORWuQ&t=38)
+	- Aconchego
+	- Reverso (corpos opostos, saída da mulher)
+	- Frontal (Saída de aconchego ou com abertura 90)
 - ==Morceguinho==
+- ==Arremesso==
 
 ## Aranhas
 
@@ -86,14 +90,11 @@
 
 ## Arrastadas
 
-- ==[Aconchego](https://youtu.be/0aJs_Kf2rHk?si=oVfjy7I2vHdORWuQ&t=38)==
-	- Aconchego
-	- Reverso (corpos opostos, saída da mulher)
-	- Frontal
-		- Saída de aconchego ou com abertura 90
-- Aconchego Frontal/Reverso
-	- ==Deslize==
-- Básico 2
+- Lateral Levantada
+	- Saída mulher
+	- ==Básico 2==
+- Lateral Puxada
+- ==Lateral Deslize==
 - ==Frontal==
 
 ## Giros
@@ -113,10 +114,10 @@
 - Tornado (levantada da perna esquerda em posição de abertura 90, giro para direita carregando a dama)
 	- Arrastada
 	- Levantada
+- Ioi ioi
 - ==Spiralada==
 - ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída)
 - ==Rotunda== (inside turn from passeio)
-- ==Ioi ioi==
 
 # Resources
 

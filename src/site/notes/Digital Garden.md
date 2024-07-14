@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-01-23T22:58:08.000-05:00","updated":"2024-04-15T12:04:46.511-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:46.000-04:00"}
 ---
 
 Welcome to my place on the internet. Here you will find what I like, dislike, personal reflections, my ART, my games and etc. Please reach out to me on [Instagram](https://www.instagram.com/art.by.jonny/) or jonnyggarcia@gmail.com

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-01-23T17:56:20.000-05:00","updated":"2024-01-23T17:56:20.000-05:00"}
+{"dg-publish":true,"permalink":"/module-element-of-practice/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-01-23T17:56:20.000-05:00"}
 ---
 
 

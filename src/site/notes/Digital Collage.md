@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-03-23T18:40:50.000-04:00","updated":"2024-04-23T12:11:14.878-04:00"}
+{"dg-publish":true,"permalink":"/digital-collage/","created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-23T12:11:14.000-04:00"}
 ---
 
 

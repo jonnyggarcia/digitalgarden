@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reflections/","created":"2024-03-04T19:12:53.000-05:00","updated":"2024-05-14T12:40:19.503-04:00"}
+{"dg-publish":true,"permalink":"/reflections/","created":"2024-06-28T12:56:50.000-04:00","updated":"2024-05-14T12:40:19.000-04:00"}
 ---
 
 # Art

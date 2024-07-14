@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/steal-like-an-artist/","created":"2024-01-27T13:21:30.000-05:00","updated":"2024-01-27T13:21:30.000-05:00"}
+{"dg-publish":true,"permalink":"/steal-like-an-artist/","created":"2024-06-28T12:56:47.000-04:00","updated":"2024-01-27T13:21:30.000-05:00"}
 ---
 
 
