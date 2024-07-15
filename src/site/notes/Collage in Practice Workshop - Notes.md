@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-notes/","created":"2024-02-07T09:50:02.000-05:00","updated":"2024-04-15T12:04:46.396-04:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-notes/","created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:46.000-04:00"}
 ---
 
 

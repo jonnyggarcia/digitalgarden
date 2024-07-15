@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-abstrer/","tags":["c/woman","c/2021","c/abstract","c/faceless"],"created":"2024-01-23T21:12:53.000-05:00","updated":"2024-04-15T12:04:07.565-04:00"}
+{"dg-publish":true,"permalink":"/collage-abstrer/","tags":["c/woman","c/2021","c/abstract","c/faceless"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
 ---
 
 

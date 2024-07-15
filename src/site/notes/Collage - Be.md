@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-be/","tags":["c/flat-background","c/texture","c/man","c/shadow","c/face","c/circle","c/blue","c/white","c/2023"],"created":"2024-01-22T14:20:26.000-05:00","updated":"2024-04-15T12:04:09.177-04:00"}
+{"dg-publish":true,"permalink":"/collage-be/","tags":["c/flat-background","c/texture","c/man","c/shadow","c/face","c/circle","c/blue","c/white","c/2023"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:09.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-aging/","tags":["c/corporeal-gestures","c/shape","c/flat-background","c/blue","c/woman","c/statue","c/series","c/2019"],"created":"2024-01-23T21:41:48.000-05:00","updated":"2024-04-15T12:04:07.955-04:00"}
+{"dg-publish":true,"permalink":"/collage-aging/","tags":["c/corporeal-gestures","c/shape","c/flat-background","c/blue","c/woman","c/statue","c/series","c/2019"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
 ---
 
 

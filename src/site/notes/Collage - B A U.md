@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-b-a-u/","tags":["c/umbrella","c/red","c/flat-background","c/yellow","c/man","c/hook","c/arrow","c/carrefour","c/2020"],"created":"2024-01-23T21:18:34.000-05:00","updated":"2024-04-15T12:04:08.957-04:00"}
+{"dg-publish":true,"permalink":"/collage-b-a-u/","tags":["c/umbrella","c/red","c/flat-background","c/yellow","c/man","c/hook","c/arrow","c/carrefour","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:08.000-04:00"}
 ---
 
 

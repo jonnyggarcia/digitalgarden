@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ascension/","tags":["c/shadow","c/blue","c/purple","c/wings","c/abstract","c/CK"],"created":"2024-01-10T10:03:12.000-05:00","updated":"2024-04-15T12:04:08.566-04:00"}
+{"dg-publish":true,"permalink":"/collage-ascension/","tags":["c/shadow","c/blue","c/purple","c/wings","c/abstract","c/CK"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:08.000-04:00"}
 ---
 
 
