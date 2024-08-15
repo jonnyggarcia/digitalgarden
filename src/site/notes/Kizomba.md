@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-07-14T13:34:18.155-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-08-15T17:18:00.179-04:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 
 # Classes
 
-## May 2024
+## Kizomba 1 - May 2024
 
 - Básico 1
 - Básico 2
@@ -21,42 +21,85 @@
 - Corridinho FWD (circular walk lead forward)
 - Corridinho BWD (circular walk lead backward)
 
+## Kizomba 2 - July 2024
+
+- Review of first level
+- Retrocesso
+- 2 Retrocessos seguidos
+- sequencia:
+	- Basico 3 curvado, terceiro passo para trás imendando retrocesso
+	- retrocesso
+	- saida da mulher imendada. Passo do homem para traz cruzando a frente
+	- inerrupção mandando de volta; contratempo 
+	- corridinho; contratempo reconexão
+
 # Personal Studies
 
 - Basic variations
 
 ## Caminhadas
 
+- [Diamante](https://youtu.be/E_8VW6Xhlfs?si=Y20432k8F2rG6GZ9&t=456)(3 steps diagonal up, 3 steps diagonal down, marca, repeat)
+- [Quadrado](https://youtu.be/E_8VW6Xhlfs?si=ziKbrgq6CGLjV2K3&t=485)
 - Abertura
 	- Abertura (para trás)
 	- Abertura Lateral
 	- Abertura 90
 - Balance
-- Saídas
+- Relógio
+- [Saídas](https://youtu.be/GxeaaQzvdT8?si=hYJ-Fk4iawheMSRZ&t=966)
 	- Saída da Mulher
 		- Saída em Cruz (saída da mulher, no 3 gira o corpo com passadas no tempo e termina com outra saída da mulher)
 	- Saída do Homen
 	- [Saída Flutuante](https://youtu.be/fIPdbsICV-c?si=I75rbUDd4smlpImk) (o passo 1 da saída na verdade é flutuante e vai de uma lado para ouro)
 	- Saída girada (final de giro entrando em retrocesso)
+	- [Casamento](https://youtu.be/GxeaaQzvdT8?si=1n4lIMzpOniNQ5DA&t=562) (Saída do homem terminando em saída da mulher)
+	- [Casamento II](https://youtu.be/GxeaaQzvdT8?si=8VAIxmM-mWzK9WXI&t=640) (Saída man, 2 steps to the side follower backward - lead forward, saída mulher)
+	- Casamento III (mesmo que o 2, porém com passo para frente)
+	- [Casamento com Giro](https://youtu.be/GxeaaQzvdT8?si=CEjIQqlz4jBRgySx&t=781) (saída man , inversão no 2, passo a frente, saída da mulher)
 - [Passeio](https://youtu.be/SdZOmVjyeVw?si=avsdwjICzN6-b7wH)
-- ==De lá pra cá== (short passeio back and forth)
+- ==[De lá pra cá](https://youtu.be/qzsj4ShqJXM?si=gOjG5qhZc86OIKpp&t=651)== (regra de 3)
+	- Follower: abertura 90 (1), 2, pivot 3
+	- Lead
+		- Mark steps in place
+		- [Drill 2](https://youtu.be/qzsj4ShqJXM?si=GLxkkkMABWlcbg-b&t=208): 1 backwards, 1 side, 1 forward. (reverse cuban break)
+		- [Drill 3](https://youtu.be/qzsj4ShqJXM?si=EpImO44TkNJ4ad8o&t=347): Lead and follow walk fwd change direction in cross
+		- [Drill 4](https://youtu.be/qzsj4ShqJXM?si=JbN_jInK8FF13gi3&t=456): Lead fwd while follower bwd
+		- Drill 5: drill 3, change to drill 4
 - [Volta ao Mundo](https://youtu.be/cnfsT64e810?si=SwlWmCNrht62w-vl)
 - Volta
-- Relógio
 - [Diagonais](https://youtu.be/XBJxKKIzOFc?si=lbAoHJsz6hGhOs-h)
 - ==[Passadas](https://youtu.be/tFOO2V4IZMA?si=OWdTuwMz_ygwMSYF&t=6)==
 - [Cadeirinha](https://youtu.be/Ql9c9NFI4_8?si=QhDFvUF4UPcMSpcS)
 - [Pedágio](https://youtu.be/aprZyUIE72o?si=WG1148bXqXeTycBj)
 	- Interrupção no ombro
-- Onde você pensa que vai?: Abertura 90 impulsionando para frente, 1/2 volta do homem para esquerda buscando as costas ad dama com mão esquerda, puxa ela de volta.
+	- com frame
+- Onde você pensa que vai?: Abertura 90 impulsionando para frente, 1/2 volta do homem para esquerda buscando as costas da dama com mão esquerda, puxa ela de volta.
 - Cruzada
 	- [Cruzada Atrás](https://youtu.be/OYtkgTlX3LA?si=ymM00OalLDV3zyXW)
 	- [Cruzada a Frente](https://youtu.be/xULxFEtKis8?si=wY81KJZTsXTXySQG&t=60) - Caranguejo
-- [Tango Giro](https://www.youtube.com/watch?v=eNN3tjgi5yU&list=PLwK81NqKJka0fy__-SP-TY-Hdcndorn6X)
+	- [Cruzada Abre e Fecha](https://youtu.be/2lN9WdCBDhM?si=vwkYUdkZYGb7I3oU&t=115)
+	- [Cruzada Atrás com volta](https://youtu.be/2lN9WdCBDhM?si=5cIlJ3IlJKNwHav7&t=81)
+- ==[Tango Giro](https://www.youtube.com/watch?v=eNN3tjgi5yU&list=PLwK81NqKJka0fy__-SP-TY-Hdcndorn6X)==
 - Retrocesso
 	- Indicação: passo direito para trás com curva.
 	- Entradas: básico 2, básico 3 para tráz, [balance](https://youtu.be/kdUS6reIsjw?si=Zbc6LbVpIg8W7kCB)
+- Passo Junto
+	- ==[Relógio](https://youtu.be/r-e6VsdLlpM?si=xtr_c6OTkodDm0bW)==
+- ==Tangente==
+	- 1 
+	- 2
+- ==Flutuada==
+- ==Varal==
+	- homem
+	- Mulher
+- ==Astronauta==
 
+## Sombra
+
+- titanique
+- ==[Sombra inversa](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)==
+- ==[Sombra com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)==
 ## Deslizes
 
 - [Deslise de abertura traseira](https://youtu.be/qyEfa7v5RYo?si=bqTjzjq1D3LZ_XcF)
@@ -81,12 +124,14 @@
 	- Aconchego
 	- Reverso (corpos opostos, saída da mulher)
 	- Frontal (Saída de aconchego ou com abertura 90)
+- Arremesso
 - ==Morceguinho==
-- ==Arremesso==
+- ==Super==
+- [Obstáculo](https://youtu.be/2lN9WdCBDhM?si=N64FeZ18Mr2JqI66&t=56)
 
 ## Aranhas
 
-- Elegância
+- ==Elegância==
 
 ## Arrastadas
 
@@ -96,6 +141,11 @@
 - Lateral Puxada
 - ==Lateral Deslize==
 - ==Frontal==
+- ==Vai e Vem==
+- ==Espacate==
+	- frontal
+	- abertura 90
+- 
 
 ## Giros
 
@@ -104,20 +154,24 @@
 	- 1/2 giro para esquerda
 - Giro para direita
 	- Exibila (cassino)
-	- Conduzido (Saída de pedágio conectando no ombro)
+	- ==Conduzido== (Saída de pedágio conectando no ombro)
 - Passarela (Passeio, turn to the right (6 steps))
 - [Passarela reversa](https://youtu.be/pRnQk-sV-Yg?si=j3Dl3P8qPxq2fwJB&t=811): giro para esquerda na volta
-- Vai Vem (woman saída, open like passeio, steps back and then forward with left turn, double turn)
+- Eixo (woman saída, open like passeio, turn on the back leg on the spot, use the right hand to help with the left turn)
 - Espiral (passeio, turn to the left, collect)
-- Peão (básico 2, abertura 90 assistida pelo puxão da camiseta da dama em giro)
+- Pião (básico 2, abertura 90 assistida pelo puxão da camiseta da dama em giro)
 - Carrossel (giro conectado com o parceiro)
 - Tornado (levantada da perna esquerda em posição de abertura 90, giro para direita carregando a dama)
 	- Arrastada
 	- Levantada
 - Ioi ioi
+- Liquidificador
+- ==Pirulito==
 - ==Spiralada==
 - ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída)
 - ==Rotunda== (inside turn from passeio)
+- [Rolo](https://youtu.be/2lN9WdCBDhM?si=ssMLqeqqQMfSISn9)
+- [Giro e Meio](https://youtu.be/2lN9WdCBDhM?si=lBwv5DovIQ3pSRIk&t=44)
 
 # Resources
 
@@ -131,3 +185,26 @@
 - [Oitos](https://youtu.be/wT1i3pMbgSM?si=0UdP1XDozyoSK5Is)
 - [Giro, Sombra, Cruzada](https://youtu.be/qyyPo1X921s?si=ZGwQAG2V3qRgbmi7)
 - [Passo Largo](https://youtu.be/iphVXwNfApU?si=bspqWGCaDZGeV_0y&t=10)
+
+# To Study
+
+https://youtu.be/f4lCIxU4i54?si=yHjdaW4seWrAMvtZ
+
+kick: https://youtu.be/ThhVV2M4JQE?si=HIsvCw9H9MKqEtDi
+
+legs styling: https://youtu.be/K0ipnPYU5Oc?si=ZERhL33OvCrJaYUG
+
+https://youtu.be/wNxUEOEPFK4?si=BUk2BHlHtqSGqAOK
+
+[basic 3 invertido peso](https://youtu.be/Qxw3Nc1VSXk?si=F4dLa8cb232Bjki_)
+
+
+https://youtu.be/AbLkuzigcHo?si=tIe8XpCL69yCLp1M
+
+[shadow](https://youtu.be/V88h5Dibl3s?si=4WYFqS7MoH1TlBgg)
+
+[shadow](https://youtu.be/EL2LZ5hcWRc?si=9W7qgro4RZKfxkMz)
+
+[shadow](https://youtu.be/SVi0YBiyGzo?si=nWZhxOvWKmS1iQ7V)
+
+[passo junto](https://youtu.be/QEusAbNaQ-0?si=phpxZJZ56Yf7Ra1_)

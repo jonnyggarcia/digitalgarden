@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bring-you-home/","tags":["c/PK","c/line","c/pattern","c/red","c/woman","c/shadow","c/hand","c/chair","c/2022"],"created":"2024-01-15T21:35:40.000-05:00","updated":"2024-04-15T12:04:09.995-04:00"}
+{"dg-publish":true,"permalink":"/collage-bring-you-home/","tags":["c/PK","c/line","c/pattern","c/red","c/woman","c/shadow","c/hand","c/chair","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:09.000-04:00"}
 ---
 
 

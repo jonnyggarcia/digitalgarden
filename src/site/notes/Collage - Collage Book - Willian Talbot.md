@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-collage-book-willian-talbot/","tags":["c/photography","c/collage-book","c/willian-talbot","c/analog","c/2021"],"created":"2024-01-15T21:39:49.000-05:00","updated":"2024-04-15T12:04:11.441-04:00"}
+{"dg-publish":true,"permalink":"/collage-collage-book-willian-talbot/","tags":["c/photography","c/collage-book","c/willian-talbot","c/analog","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:11.000-04:00"}
 ---
 
 

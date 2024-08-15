@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-caution/","tags":["c/door","c/red","c/pattern","c/purple","c/wall","c/contemporary-collage-magazine","c/2022"],"created":"2024-01-16T23:00:21.000-05:00","updated":"2024-04-15T12:04:10.622-04:00"}
+{"dg-publish":true,"permalink":"/collage-caution/","tags":["c/door","c/red","c/pattern","c/purple","c/wall","c/contemporary-collage-magazine","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:10.000-04:00"}
 ---
 
 

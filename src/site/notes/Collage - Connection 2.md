@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-connection-2/","tags":["c/bw","c/man","c/body","c/naked","c/hand","c/hollow","c/blood","c/black","c/alexthymia","c/2023"],"created":"2024-01-22T14:23:27.000-05:00","updated":"2024-04-15T12:04:12.093-04:00"}
+{"dg-publish":true,"permalink":"/collage-connection-2/","tags":["c/bw","c/man","c/body","c/naked","c/hand","c/hollow","c/blood","c/black","c/alexthymia","c/2023"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:12.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-citizen/","tags":["c/2024","c/mouth","c/canada","c/passaport","c/map","c/speaker","c/letters","c/blue","c/green","c/red","c/yellow","c/series","c/series-emigration"],"created":"2024-03-23T13:30:27.000-04:00","updated":"2024-04-15T12:04:11.178-04:00"}
+{"dg-publish":true,"permalink":"/collage-citizen/","tags":["c/2024","c/mouth","c/canada","c/passaport","c/map","c/speaker","c/letters","c/blue","c/green","c/red","c/yellow","c/series","c/series-emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:11.000-04:00"}
 ---
 
 

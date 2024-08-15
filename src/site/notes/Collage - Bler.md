@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bler/","tags":["c/favorite","c/woman","c/ripples","c/blue","c/pink","c/flower","c/sign","c/grafitti","c/black","c/tatoo","c/printed","c/metal","c/lk","c/2021"],"created":"2024-01-22T15:01:52.000-05:00","updated":"2024-04-15T12:04:09.434-04:00"}
+{"dg-publish":true,"permalink":"/collage-bler/","tags":["c/favorite","c/woman","c/ripples","c/blue","c/pink","c/flower","c/sign","c/grafitti","c/black","c/tatoo","c/printed","c/metal","c/lk","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:09.000-04:00"}
 ---
 
 

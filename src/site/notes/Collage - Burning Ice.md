@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-burning-ice/","tags":["c/woman","c/bler","c/circle","c/snowflake","c/red","c/tatoo","c/2021"],"created":"2024-01-22T15:02:55.000-05:00","updated":"2024-04-15T12:04:10.212-04:00"}
+{"dg-publish":true,"permalink":"/collage-burning-ice/","tags":["c/woman","c/bler","c/circle","c/snowflake","c/red","c/tatoo","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:10.000-04:00"}
 ---
 
 

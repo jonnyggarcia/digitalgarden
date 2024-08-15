@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-consumption/","tags":["c/paris-collage","c/mask","c/out-of-air","c/air","c/bottle","c/flower","c/smoke","c/brown","c/green","c/breath","c/2019"],"created":"2024-01-16T22:29:29.000-05:00","updated":"2024-04-15T12:04:12.443-04:00"}
+{"dg-publish":true,"permalink":"/collage-consumption/","tags":["c/paris-collage","c/mask","c/out-of-air","c/air","c/bottle","c/flower","c/smoke","c/brown","c/green","c/breath","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:12.000-04:00"}
 ---
 
 

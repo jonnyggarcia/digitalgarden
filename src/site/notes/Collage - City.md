@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-city/","tags":["c/building","c/cubism","c/shadow","c/bw","c/fall","c/2020"],"created":"2024-03-23T18:27:00.000-04:00","updated":"2024-04-15T12:04:11.268-04:00"}
+{"dg-publish":true,"permalink":"/collage-city/","tags":["c/building","c/cubism","c/shadow","c/bw","c/fall","c/2020"],"created":"2024-06-28T12:55:28.000-04:00","updated":"2024-04-15T12:04:11.000-04:00"}
 ---
 
 
