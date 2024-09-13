@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-emaciate/","tags":["c/question-mark","c/flower","c/red","c/beje","c/texture","c/dying","c/2020"],"created":"2024-01-23T21:39:09.000-05:00","updated":"2024-04-15T12:04:22.064-04:00"}
+{"dg-publish":true,"permalink":"/collage-emaciate/","tags":["c/question-mark","c/flower","c/red","c/beje","c/texture","c/dying","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:22.000-04:00"}
 ---
 
 

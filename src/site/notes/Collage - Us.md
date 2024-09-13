@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-us/","tags":["c/hand","c/letters","c/blue","c/abstract","c/2020"],"created":"2024-01-03T09:51:18.283-05:00","updated":"2024-01-23T21:30:06.702-05:00"}
+{"dg-publish":true,"permalink":"/collage-us/","tags":["c/hand","c/letters","c/blue","c/abstract","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

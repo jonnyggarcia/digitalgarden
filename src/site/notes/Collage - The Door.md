@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-door/","tags":["c/MY","c/door","c/number","c/man","c/faceless","c/red","c/yellow","c/black","c/flat-background","c/2021"],"created":"2024-01-04T19:23:06.024-05:00","updated":"2024-01-22T15:07:03.379-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-door/","tags":["c/MY","c/door","c/number","c/man","c/faceless","c/red","c/yellow","c/black","c/flat-background","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:42.000-04:00"}
 ---
 
 

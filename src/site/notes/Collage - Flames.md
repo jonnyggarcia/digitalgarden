@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-flames/","tags":["c/2019","c/flower","c/woman","c/fire","c/red","c/polka"],"created":"2024-01-17T12:35:11.000-05:00","updated":"2024-04-15T12:04:26.949-04:00"}
+{"dg-publish":true,"permalink":"/collage-flames/","tags":["c/2019","c/flower","c/woman","c/fire","c/red","c/polka"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:26.000-04:00"}
 ---
 
 

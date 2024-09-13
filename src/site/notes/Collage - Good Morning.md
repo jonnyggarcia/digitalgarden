@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-good-morning/","tags":["c/shadow","c/window","c/bw","c/smoke","c/man","c/2022"],"created":"2024-01-22T14:29:07.000-05:00","updated":"2024-04-15T12:04:29.504-04:00"}
+{"dg-publish":true,"permalink":"/collage-good-morning/","tags":["c/shadow","c/window","c/bw","c/smoke","c/man","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:29.000-04:00"}
 ---
 
 

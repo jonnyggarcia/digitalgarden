@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-universal/","tags":["c/people","c/purple","c/panties","c/green","c/money","c/2019"],"created":"2024-01-01T16:38:47.013-05:00","updated":"2024-01-23T21:48:07.141-05:00"}
+{"dg-publish":true,"permalink":"/collage-universal/","tags":["c/people","c/purple","c/panties","c/green","c/money","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

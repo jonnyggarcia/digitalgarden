@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-one/","tags":["c/man","c/letters","c/floating","c/2020","c/faceless"],"created":"2024-01-23T21:30:38.000-05:00","updated":"2024-04-15T12:04:37.036-04:00"}
+{"dg-publish":true,"permalink":"/collage-one/","tags":["c/man","c/letters","c/floating","c/2020","c/faceless"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:37.000-04:00"}
 ---
 
 

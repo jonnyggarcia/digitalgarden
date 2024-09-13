@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-unreachable/","tags":["c/hand","c/pattern","c/black","c/red","c/stairs","c/faceless","c/spiral","c/2020"],"created":"2024-01-03T10:11:34.433-05:00","updated":"2024-01-23T21:32:30.922-05:00"}
+{"dg-publish":true,"permalink":"/collage-unreachable/","tags":["c/hand","c/pattern","c/black","c/red","c/stairs","c/faceless","c/spiral","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

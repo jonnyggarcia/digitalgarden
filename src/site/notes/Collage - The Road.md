@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-the-road/","tags":["c/manequin","c/line","c/yellow","c/purple","c/tree","c/2022"],"created":"2024-01-08T09:52:30.088-05:00","updated":"2024-01-22T14:42:11.656-05:00"}
+{"dg-publish":true,"permalink":"/collage-the-road/","tags":["c/manequin","c/line","c/yellow","c/purple","c/tree","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:43.000-04:00"}
 ---
 
 

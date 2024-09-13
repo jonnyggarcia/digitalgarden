@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-there-2/","tags":["c/manequin","c/woman","c/abstract","c/flat-background","c/white","c/shadow","c/2022"],"created":"2024-01-05T11:39:12.224-05:00","updated":"2024-01-16T23:40:48.681-05:00"}
+{"dg-publish":true,"permalink":"/collage-there-2/","tags":["c/manequin","c/woman","c/abstract","c/flat-background","c/white","c/shadow","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:43.000-04:00"}
 ---
 
 

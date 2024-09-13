@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-solid-liquid/","tags":["c/abstract","c/number","c/woman","c/yellow","c/black","c/sign","c/2020"],"created":"2024-01-23T21:16:21.000-05:00","updated":"2024-04-15T12:04:41.329-04:00"}
+{"dg-publish":true,"permalink":"/collage-solid-liquid/","tags":["c/abstract","c/number","c/woman","c/yellow","c/black","c/sign","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:41.000-04:00"}
 ---
 
 

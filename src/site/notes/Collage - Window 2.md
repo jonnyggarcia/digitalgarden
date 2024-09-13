@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-window-2/","tags":["c/pattern","c/door","c/woman","c/glasses","c/hand","c/red","c/face","c/2022"],"created":"2024-01-05T11:28:02.943-05:00","updated":"2024-01-22T14:30:35.240-05:00"}
+{"dg-publish":true,"permalink":"/collage-window-2/","tags":["c/pattern","c/door","c/woman","c/glasses","c/hand","c/red","c/face","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

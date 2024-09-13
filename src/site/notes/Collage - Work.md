@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-work/","tags":["c/tv","c/angry","c/woman","c/arms","c/beach","c/mountain","c/work","c/2019"],"created":"2024-02-08T19:04:03.000-05:00","updated":"2024-04-15T12:04:45.644-04:00"}
+{"dg-publish":true,"permalink":"/collage-work/","tags":["c/tv","c/angry","c/woman","c/arms","c/beach","c/mountain","c/work","c/2019"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

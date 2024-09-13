@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-folklore/","tags":["c/bones","c/animal","c/skull","c/blue","c/wings","c/woman","c/faceless","c/horns","c/2022"],"created":"2024-01-16T23:17:37.000-05:00","updated":"2024-04-15T12:04:27.696-04:00"}
+{"dg-publish":true,"permalink":"/collage-folklore/","tags":["c/bones","c/animal","c/skull","c/blue","c/wings","c/woman","c/faceless","c/horns","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:27.000-04:00"}
 ---
 
 

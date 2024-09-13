@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-walk/","tags":["c/man","c/hood","c/abstract","c/dry","c/tree","c/shadow","c/red","c/flower","c/2022"],"created":"2024-01-05T11:28:51.868-05:00","updated":"2024-01-22T14:30:40.227-05:00"}
+{"dg-publish":true,"permalink":"/collage-walk/","tags":["c/man","c/hood","c/abstract","c/dry","c/tree","c/shadow","c/red","c/flower","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

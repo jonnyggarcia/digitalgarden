@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-subject/","tags":["c/question-mark","c/woman","c/tree","c/shadow","c/black","c/flat-background","c/AR","c/2023"],"created":"2024-01-22T14:17:15.000-05:00","updated":"2024-04-15T12:04:42.101-04:00"}
+{"dg-publish":true,"permalink":"/collage-subject/","tags":["c/question-mark","c/woman","c/tree","c/shadow","c/black","c/flat-background","c/AR","c/2023"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:42.000-04:00"}
 ---
 
 

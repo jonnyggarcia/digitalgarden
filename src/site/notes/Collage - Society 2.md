@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-society-2/","tags":["c/building","c/paris-collage","c/orange","c/2019"],"created":"2024-01-16T23:11:46.000-05:00","updated":"2024-04-15T12:04:41.195-04:00"}
+{"dg-publish":true,"permalink":"/collage-society-2/","tags":["c/building","c/paris-collage","c/orange","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:41.000-04:00"}
 ---
 
 

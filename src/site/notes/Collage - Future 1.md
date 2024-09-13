@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-future-1/","tags":["c/face","c/white","c/man","c/woman","c/eye","c/mouth","c/abstract","c/2022"],"created":"2024-01-22T14:43:36.000-05:00","updated":"2024-04-15T12:04:28.306-04:00"}
+{"dg-publish":true,"permalink":"/collage-future-1/","tags":["c/face","c/white","c/man","c/woman","c/eye","c/mouth","c/abstract","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:28.000-04:00"}
 ---
 
 

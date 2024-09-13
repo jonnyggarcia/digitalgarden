@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-where-is-your-home/","tags":["c/house","c/shadow","c/pink","c/sand","c/2019","c/series-immigration","c/series","c/texture"],"created":"2024-01-01T16:52:04.969-05:00","updated":"2024-02-02T10:17:11.219-05:00"}
+{"dg-publish":true,"permalink":"/collage-where-is-your-home/","tags":["c/house","c/shadow","c/pink","c/sand","c/2019","c/series-immigration","c/series","c/texture"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

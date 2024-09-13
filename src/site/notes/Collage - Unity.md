@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-unity/","tags":["c/man","c/woman","c/child","c/flower","c/grass","c/wood","c/tree","c/basket","c/plank","c/strong","c/shirtless","c/2019"],"created":"2024-01-01T15:56:41.167-05:00","updated":"2024-01-16T22:25:41.536-05:00"}
+{"dg-publish":true,"permalink":"/collage-unity/","tags":["c/man","c/woman","c/child","c/flower","c/grass","c/wood","c/tree","c/basket","c/plank","c/strong","c/shirtless","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

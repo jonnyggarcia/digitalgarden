@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-whiff/","tags":["c/yellow","c/man","c/face","c/statue","c/mask","c/catavento","c/blue","c/2022"],"created":"2024-01-04T19:29:15.315-05:00","updated":"2024-01-22T14:27:45.056-05:00"}
+{"dg-publish":true,"permalink":"/collage-whiff/","tags":["c/yellow","c/man","c/face","c/statue","c/mask","c/catavento","c/blue","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

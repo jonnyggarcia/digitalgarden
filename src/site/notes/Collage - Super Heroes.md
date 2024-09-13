@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-super-heroes/","tags":["c/green","c/red","c/cibc","c/skull","c/flat-background","c/2019","c/yellow","c/white","c/line"],"created":"2024-03-23T18:33:27.000-04:00","updated":"2024-04-15T12:04:42.170-04:00"}
+{"dg-publish":true,"permalink":"/collage-super-heroes/","tags":["c/green","c/red","c/cibc","c/skull","c/flat-background","c/2019","c/yellow","c/white","c/line"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:42.000-04:00"}
 ---
 
 

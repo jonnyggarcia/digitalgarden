@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-worth-it/","tags":["c/woman","c/clock","c/brown","c/metal-finish","c/2021"],"created":"2024-01-22T14:26:48.000-05:00","updated":"2024-04-15T12:04:45.688-04:00"}
+{"dg-publish":true,"permalink":"/collage-worth-it/","tags":["c/woman","c/clock","c/brown","c/metal-finish","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

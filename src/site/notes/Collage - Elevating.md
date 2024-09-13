@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-elevating/","tags":["c/dance","c/woman","c/circle","c/abstract","c/red","c/kanyer-art-collection","c/2020","c/dancer","c/acrobatic"],"created":"2024-01-23T21:37:11.000-05:00","updated":"2024-04-15T12:04:21.036-04:00"}
+{"dg-publish":true,"permalink":"/collage-elevating/","tags":["c/dance","c/woman","c/circle","c/abstract","c/red","c/kanyer-art-collection","c/2020","c/dancer","c/acrobatic"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:21.000-04:00"}
 ---
 
 

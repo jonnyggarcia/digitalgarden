@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-there/","tags":["c/paris-collage","c/flat-background","c/blue","c/yellow","c/beje","c/stairs","c/circle","c/2019"],"created":"2024-01-02T07:45:20.760-05:00","updated":"2024-01-16T23:40:27.407-05:00"}
+{"dg-publish":true,"permalink":"/collage-there/","tags":["c/paris-collage","c/flat-background","c/blue","c/yellow","c/beje","c/stairs","c/circle","c/2019"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:43.000-04:00"}
 ---
 
 

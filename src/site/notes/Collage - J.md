@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-j/","tags":["c/letters","c/lamp","c/circle","c/phone","c/yellow","c/red","c/series","c/flat-background","c/JA","c/2020"],"created":"2024-01-22T15:48:24.000-05:00","updated":"2024-04-15T12:04:33.144-04:00"}
+{"dg-publish":true,"permalink":"/collage-j/","tags":["c/letters","c/lamp","c/circle","c/phone","c/yellow","c/red","c/series","c/flat-background","c/JA","c/2020"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:33.000-04:00"}
 ---
 
 

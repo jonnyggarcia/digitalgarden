@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-humans/","tags":["c/paris-collage","c/glasses","c/gloves","c/boot","c/flower","c/green","c/red","c/brown","c/flat-background","c/2019"],"created":"2024-01-15T21:37:55.000-05:00","updated":"2024-04-15T12:04:31.753-04:00"}
+{"dg-publish":true,"permalink":"/collage-humans/","tags":["c/paris-collage","c/glasses","c/gloves","c/boot","c/flower","c/green","c/red","c/brown","c/flat-background","c/2019"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:31.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-white/","tags":["c/woman","c/white","c/rose","c/bw","c/hand","c/2020"],"created":"2024-01-02T09:17:41.897-05:00","updated":"2024-01-22T15:48:56.637-05:00"}
+{"dg-publish":true,"permalink":"/collage-white/","tags":["c/woman","c/white","c/rose","c/bw","c/hand","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:45.000-04:00"}
 ---
 
 

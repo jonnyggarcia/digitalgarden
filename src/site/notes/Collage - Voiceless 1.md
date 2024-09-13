@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-voiceless-1/","tags":["c/microphone","c/woman","c/AR","c/abstract","c/bw","c/flat-background","c/black","c/2023"],"created":"2024-01-09T09:06:13.354-05:00","updated":"2024-01-16T23:20:26.023-05:00"}
+{"dg-publish":true,"permalink":"/collage-voiceless-1/","tags":["c/microphone","c/woman","c/AR","c/abstract","c/bw","c/flat-background","c/black","c/2023"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-thrust/","tags":["c/gun","c/abstract","c/man","c/fall","c/blue","c/red","c/CK","c/2020"],"created":"2024-01-03T16:36:55.295-05:00","updated":"2024-01-23T21:35:59.261-05:00"}
+{"dg-publish":true,"permalink":"/collage-thrust/","tags":["c/gun","c/abstract","c/man","c/fall","c/blue","c/red","c/CK","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:43.000-04:00"}
 ---
 
 

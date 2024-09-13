@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-virus/","tags":["c/pandemic","c/plant","c/building","c/purple","c/blue","c/2020"],"created":"2024-01-02T16:04:37.164-05:00","updated":"2024-01-22T15:50:30.360-05:00"}
+{"dg-publish":true,"permalink":"/collage-virus/","tags":["c/pandemic","c/plant","c/building","c/purple","c/blue","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

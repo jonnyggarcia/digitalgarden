@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-voiceless/","tags":["c/woman","c/flat-background","c/white","c/hand","c/abstract","c/red","c/2022"],"created":"2024-01-08T14:12:50.435-05:00","updated":"2024-01-16T23:20:15.577-05:00"}
+{"dg-publish":true,"permalink":"/collage-voiceless/","tags":["c/woman","c/flat-background","c/white","c/hand","c/abstract","c/red","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
 ---
 
 

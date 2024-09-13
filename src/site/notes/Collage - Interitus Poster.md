@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-interitus-poster/","tags":["c/skull","c/horns","c/interitus","c/red","c/demon","c/2019"],"created":"2024-01-16T23:28:23.000-05:00","updated":"2024-04-15T12:04:32.792-04:00"}
+{"dg-publish":true,"permalink":"/collage-interitus-poster/","tags":["c/skull","c/horns","c/interitus","c/red","c/demon","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:32.000-04:00"}
 ---
 
 
