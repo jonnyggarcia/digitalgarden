@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dry/","tags":["c/tree","c/bw","c/man","c/scream","c/yell","c/white","c/2022"],"created":"2024-01-22T14:29:34.000-05:00","updated":"2024-04-15T12:04:18.855-04:00"}
+{"dg-publish":true,"permalink":"/collage-dry/","tags":["c/tree","c/bw","c/man","c/scream","c/yell","c/white","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:18.000-04:00"}
 ---
 
 

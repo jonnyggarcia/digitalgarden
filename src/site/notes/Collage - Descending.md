@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-descending/","tags":["c/flower","c/building","c/black","c/red","c/2022"],"created":"2024-01-17T08:59:43.000-05:00","updated":"2024-04-15T12:04:13.568-04:00"}
+{"dg-publish":true,"permalink":"/collage-descending/","tags":["c/flower","c/building","c/black","c/red","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:13.000-04:00"}
 ---
 
 

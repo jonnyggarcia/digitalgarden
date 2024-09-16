@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-drop/","tags":["c/abstract","c/ripples","c/man","c/flower","c/red","c/2021"],"created":"2024-01-22T15:00:56.000-05:00","updated":"2024-04-15T12:04:18.062-04:00"}
+{"dg-publish":true,"permalink":"/collage-drop/","tags":["c/abstract","c/ripples","c/man","c/flower","c/red","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:18.000-04:00"}
 ---
 
 
