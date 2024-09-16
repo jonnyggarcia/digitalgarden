@@ -1,30 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-curriculum-private/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-13T18:35:37.326-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-curriculum-private/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-16T15:58:27.571-04:00"}
 ---
 
 
-Review = everyone dance and instructor call the next move.
+# Module 1
 
-# Module 1 - Connection
+## 1st Class - Basic Movements
 
-## 1st Class
-
-- Connection points
-- Basic 1
+- [[Kiz - Connection Points\|Connection Points]]
+- [[Kiz - Basic 1\|Basic 1]]
 	- Hand indication
-- Basic 2
+- [[Kiz - Basic 2\|Basic 2]]
 	- Hand indication
-- Basic 3
+- [[Kiz - Side Opening\|Side Opening]]
+- [[Kiz - Reverência\|Reverência]]
+	- Giro
+
+## 2nd Class - Walks
+
+- [[Kiz - Basic 3\|Basic 3]]
+	- Weight distribution
 	- Intention
-	- Ball exercise
 	- Forearm connection
+	- Ball exercise
 	- Chest connection
-- Reverencia
-
-## 2nd Class
-
-- Side opening
-- Balance
+	- No arms connection
 - Chest dissociation
 	- Walk in circle with arm tracing the centre and the circle
 - Corridinho BWD
@@ -33,25 +33,30 @@ Review = everyone dance and instructor call the next move.
 	- Both direction
 - Corridinho change directions
 
-## 3rd Class
+## 3rd Class - Direction Change
 
+- Balance
+	- On the spot
+	- With one step
 - 1/4 turn
-- 1/4 turn variation
-- Virgula
-- Estrela L, R
+	- Variation for the lead stepping back
+- Reversed 1/4 turn
+- [[Kiz - Vírgula\|Vírgula]]
+- [[Kiz - Estrela\|Estrela]]
+	- left and right
 	- full drill
-	- back and forth
+	- Key
 
-## 4th Class
+## 4th Class - Extended Walks
 
-- Diamante
-- Box
-- Escada
+- [[Kiz - Diamante\|Diamante]]
+- [[Kiz - Quadrado\|Quadrado]]
+- [[Kiz - Escada\|Escada]]
 - Clockwise
 - Carrossel
 - Relógio
 
-## 5th Class
+## 5th Class - Contratempo
 
 - retrocesso
 	- Entry 1 (step back)
@@ -59,9 +64,9 @@ Review = everyone dance and instructor call the next move.
 	- Entry 3 (balance)
 	- 2 retrocessos in a row
 
-# Module 2 - Disconnection
+# Module 2
 
-## 1st Class
+## 1st Class - Passeio
 
 - Passeio
 	- Tigh connection
@@ -73,22 +78,22 @@ Review = everyone dance and instructor call the next move.
 	- No contratempo
 	- With contratempo
 
-## 2nd Class
+## 2nd Class - Saídas
 
 - Saída do homem
 - Saída da mulher
 - Saída da mulher com retrocesso
 - Casamento
 
-## 3rd Class
+## 3rd Class - Extended Saídas
 
+- Diagonais
 - Casamento II
 - Casamento III
 - Casamento com giro
 - Caminhada em Cruz
-- De lá para cá
 
-## 4th Class
+## 4th Class - Spins
 
 - Volta da mulher
 - 1/2 Giro da mulher
@@ -96,44 +101,56 @@ Review = everyone dance and instructor call the next move.
 - Espiral
 - Giro do homem
 
-## 5th Class
+## 5th Class - Spins with Walks
 
 - Giro e meio da mulher
-- Passarela
-- Passarela com giro
+- Passarela (giro)
 - Passarela Reversa
+- De lá para cá
 
-# Module 3 - Spins & Passadas
+# Module 3
 
-## 1st Class
+## 1st Class - Leg Movement
+
+- Cruzada atrás
+- Passeio com levantada
+- Bate e Volta
+- Reverencia do Bolero
+
+## 2nd Class - Spins
 
 - Giro e meio da mulher
-- Diagonais
-- Volta da mulher
-- Cruzada atrás
-
-## 2nd Class
-
-- Retrocesso com cruzada a frente
 - Pião
 - Ioi ioi
-- De lá para cá com giro
-
-## 3rd Class
-
+- Volta da mulher
 - Volta do homem
-- Reverencia do Bolero
+
+## 3rd Class - Leg Movement 2
+
+- Passarela Bate e Volta
 - Onde voce pensa que você vai?
 - Arremesso
+- Cruzada da saída do homem
 
-## 4th Class
+## 4th Class - Leg Movement 3
 
 - Cruzada Abre e Fecha
+- Retrocesso com cruzada a frente
+- ==Abertura 90 com levantada==
+- Tropeço do Passeio
+
+## 5th Class - Pose 1
+
 - Cadeirinha
 - Aconchego
-	- Basic and reversed
+	- Basic
+	- Reversed
+- Varal da Mulher
+	- com giro
 
-## 5th Class
+# Module 4
+
+## 1st Class - Change Role
 
 - Pedágio
 - Sombra
@@ -141,29 +158,22 @@ Review = everyone dance and instructor call the next move.
 	- Retrocesso
 	- Exit
 
-# Module 4 - Tricks
+## 2nd Class - Arrastadas
 
-## 1st Class
+- Aconchego com arrastada
+- Sombra com Arrastada
 
-- Levantada no giro de volta do passeio
-- ==Levantada no final da saída da mulher com abertura de passeio==
-- Passo junto com cruzada atrás
+## 3rd Class - Figures
 
-## 2nd Class
-
-- Varal da mulher
-- Varal da mulher com giro
-- Arrastada do aconchego
-
-## 3rd Class
-
-- Levantada do passeio com aconchego
-
-## 4th Class
-
+- Aconchego da abertura 90
 - Aranha
+- Liquidificador
+
+## 4th Class - Figures 2
+
 - Tornado
 
 ## 5th Class
 
-- Liquidificador
+- Rolo (sombra inversa)
+- Sombra com giro
