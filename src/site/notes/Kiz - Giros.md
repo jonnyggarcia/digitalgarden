@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-09-16T18:58:12.240-04:00"}
+---
+
+- Clockwise
+- [Giro para Esquerda](https://www.youtube.com/watch?v=BknGihex62M&list=PLUXnEN95C4B0Z17f2Tfzk4XRjqSoCTQEp&index=8) from break back
+	- 1/2 giro para esquerda
+- Giro para direita
+	- Exibila (cassino)
+	- ==Conduzido== (Saída de pedágio conectando no ombro)
+- Passarela (Passeio, turn to the right (6 steps))
+- [Passarela reversa](https://youtu.be/pRnQk-sV-Yg?si=j3Dl3P8qPxq2fwJB&t=811): giro para esquerda na volta
+- ==Eixo== (woman saída, open like passeio, turn on the back leg on the spot, use the right hand to help with the left turn)
+- Espiral (passeio, turn to the left, collect)
+- Pião (básico 2, abertura 90 assistida pelo puxão da camiseta da dama em giro)
+- Carrossel (giro conectado com o parceiro)
+- Tornado (levantada da perna esquerda em posição de abertura 90, giro para direita carregando a dama)
+	- Arrastada
+	- Levantada
+- Ioi ioi
+- Liquidificador
+- ==Pirulito==
+- ==Spiralada==
+- ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída)
+- ==Rotunda== (inside turn from passeio)
+- ==[Rolo](https://youtu.be/2lN9WdCBDhM?si=ssMLqeqqQMfSISn9)==
+- [Giro e Meio](https://youtu.be/2lN9WdCBDhM?si=lBwv5DovIQ3pSRIk&t=44)
+- [De la para cá com giro](https://youtu.be/M6GUf9ad3JA?si=U3ykSL6YKVgmCxUE&t=8)
