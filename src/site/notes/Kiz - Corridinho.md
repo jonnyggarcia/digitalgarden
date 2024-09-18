@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-09-16T18:19:53.101-04:00"}
+{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-09-18T13:09:58.279-04:00"}
 ---
 
 
-**Corridinho (Little Run)** is a variation of [[Kiz - Basic 3\|Basic 3]], where both the lead and follower walk together in a circle. This movement can be executed in both directions (left and right) and in both ways (forward and backward). It can be performed in closed or open positions. The open position will be discussed on [[Kiz - Passeio\|Passeio]].
+**Corridinho** (little run) is a variation of [[Kiz - Basic 3\|Basic 3]], where both the lead and follower walk together in a circle. This movement can be executed in both directions (left and right) and in both ways (forward and backward). It can be performed in closed or open positions. The open position will be discussed on [[Kiz - Passeio\|Passeio]].
 
 Corridinho Forwards refers to when the lead walks forward. Conversely, Corridinho Backwards refers to when the lead walks backward. Although this move is usually performed to the left, it can also be done to the right.
 
@@ -43,6 +43,12 @@ Practice walking forward and backward.
 - Perform the corridinho, forming a figure 8 around each object.
 
 This will allow you to practice both left and right directions, as well as changes in the middle.
+
+Practice walking forward and backward.
+
+**Progression 4: No torso connection**
+
+- Perform progression 3, but without hands
 
 Practice walking forward and backward.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-16T16:29:25.456-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-18T13:21:07.621-04:00"}
 ---
 
 **Basic 3** requires the lead to have clear intention, which is communicated through the chest. The intention is conveyed when the lead transfers their weight to their toes (walking forward) or to their heels (walking backward).
@@ -58,3 +58,11 @@ Before moving to the next step, it is important for the follower to:
 
 **Progression 4: No Arms Connection**
 - Same as progression 3, but without arm connection—only chest.
+
+*Key elements of the move*
+
+- Leads should be aware of where the follower’s weight is and be able to redirect it.
+- Leads should provide a clear intention before start walking.
+- When walking forward, the torso moves first, followed by the legs.
+- When stepping backward, the leg moves first, followed by the torso.
+- Followers should consistently look to their partner’s chest. When walking forward, it is their responsibility to move forward and maintain the connection, rather than being dragged by the lead.

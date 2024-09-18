@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-09-16T16:42:57.292-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-09-18T13:21:11.868-04:00"}
 ---
 
 
@@ -8,3 +8,6 @@
 The closing of the legs without changing weight is called a *marca* (mark the sport).
 
 When the lead moves to the left, they should use their right arm against the follower's body to indicate direction by gently pushing them. Similarly, when the lead moves to the right, they should use the tips of their fingers to pull the follower in that direction.
+
+*Key elements of the move*
+- Pushing and pulling with the right arm.

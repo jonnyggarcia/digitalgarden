@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-09-16T16:40:28.463-04:00"}
+{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-09-17T12:44:01.206-04:00"}
 ---
 
 

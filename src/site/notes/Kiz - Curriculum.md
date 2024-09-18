@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-16T19:00:44.760-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-18T13:22:43.059-04:00"}
 ---
 
+
+> [!info] Disclaimer
+Other than the basic moves, all the names presented were coined by me to help memorize and create distinction among them.
 
 # Module 1
 
@@ -36,13 +39,10 @@
 - [[Kiz - Balance\|Balance]]
 	- On the spot
 	- With one step
-- 1/4 turn
-	- Variation for the lead stepping back
+- [[Kiz - Vírgula\|1/4 turn]]
 - Reversed 1/4 turn
+- [[Kiz - Vírgula\|1/3 turn]]
 - [[Kiz - Vírgula\|Vírgula]]
-	- 1/4 turn and variation
-	- 1/3 turn
-	- 1/2 turn
 - [[Kiz - Estrela\|Estrela]]
 	- left and right
 	- full drill
@@ -53,13 +53,13 @@
 - [[Kiz - Diamante\|Diamante]]
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Quadrado\|Quadrado]]
-- Clockwise
-- Carrossel
-- Relógio
+- [[Kiz - Clockwise\|Clockwise]]
+- [[Kiz - Carrossel\|Carrossel]]
+- [[Kiz - Tic Tac\|Tic Tac]]
 
 ## 5th Class - Contratempo
 
-- Retrocesso
+- [[Kiz - Retrocesso\|Retrocesso]]
 	- Entry 1 (step back)
 	- Entry 2 (basic 2)
 	- Entry 3 (balance)
@@ -69,22 +69,22 @@
 
 ## 1st Class - Passeio
 
-- Passeio
-	- Tigh connection
+- [[Kiz - Passeio\|Passeio]]
+	- Tigh connection.
 	- Hand indication for closure and step to the side
-- Passeio with walk
-- Passeio with walk back and forth
-- Passeio with walk and tempo play
-- Passeio with corridinho
-	- No contratempo
-	- With contratempo
+- Exercises
+	- Walk back and forth.
+	- Walk with tempo play.
+	- Corridinho
+		- No contratempo
+		- With contratempo
 
 ## 2nd Class - Saídas
 
-- Saída do homem
-- Saída da mulher
-- Saída da mulher com retrocesso
-- Casamento
+- [[Kiz - Man Saída\|Man Saída]]
+- [[Kiz - Woman Saída\|Woman Saída]]
+- Woman Saída with retrocesso
+- [[Kiz - Woman Saída#Casamento\|Casamento]]
 
 ## 3rd Class - Extended Saídas
 

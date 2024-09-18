@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-18T13:00:51.154-04:00"}
+---
+
+
+**Saída** (exit) refers to moving off the track. In the Woman Saída, the follower steps out of the track and then returns.
+
+**Lead**
+
+1. The lead steps forward with the left leg but disconnects the chest. This is achieved by reducing the chest movement forward and allowing the right hand to slide to the right across the follower’s back.
+2. Intercept the follower’s movement, blocking them from continuing to step backward ([[Kiz - Balance\|Balance]]).
+3. Pivot the torso to the right while transferring weight to the right leg (without stepping). The pivot creates space for the follower to step outside the track, to the right of the lead.
+4. Step back with the left leg, keeping the torso pivoted toward the follower. At this moment, the follower should establish a thigh-to-thigh connection on the right side of the lead.
+5. Step back with the right leg and return the torso to a neutral position, indicating to the follower to reconnect.
+6. Collect the leg (marca). Ensure the deceleration of the movement to signal a marca, and make sure the weight is on your right side, so the follower doesn't transfer their weight prematurely.
+
+**Follower**
+
+1. The lead’s chest provides the intention to step backward with the right foot.
+2. The lead should stop your backward momentum and gently pull you forward ([[Kiz - Balance\|Balance]]).
+3. Your left hand, resting across the lead’s back, will be pulled in a circular motion, causing your chest to pivot to the right toward the lead. The pull from step 2 transfers your weight to the left leg (without stepping).
+4. Step forward with the right leg, positioning yourself to the right of the lead and establishing a thigh-to-thigh connection (your outer right thigh against the lead’s outer right thigh). If there isn't enough space to step forward, that is a lead issue.
+5. The lead continues the momentum, causing you to step forward with your left leg. Because your torso is pivoted, your left step will cross in front of your right leg.
+6. The lead will reduce acceleration to indicate a marca. Collect the right leg, and make sure the weight is on the left side.
+
+*Key elements of the move*
+- Leads torso pivot on steps 3 and 5.
+- Leads must ensure that on step 6, the weight remains on their right side.
+- The follower’s left hand should stay engaged so that when the lead pivots their chest, the follower’s chest follows the same movement.

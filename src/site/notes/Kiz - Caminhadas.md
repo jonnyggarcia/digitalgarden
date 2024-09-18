@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-09-16T19:02:28.592-04:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-09-18T12:39:05.257-04:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [[Kiz - Estrela\|Estrela]]
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Corridinho\|Corridinho]]
-- TicTac
+- [[Kiz - Tic Tac\|Tic Tac]]
 - Abertura
 	- Abertura (para trás) - Saudação
 	- Abertura Lateral
@@ -19,9 +19,9 @@
 # Disconnected Strides
 
 - [Saídas](https://youtu.be/GxeaaQzvdT8?si=hYJ-Fk4iawheMSRZ&t=966)
-	- Saída da Mulher
+	- [[Kiz - Woman Saída\|Woman Saída]]
 		- Saída em Cruz (saída da mulher, no 3 gira o corpo com passadas no tempo e termina com outra saída da mulher)
-	- Saída do Homen
+	- [[Kiz - Man Saída\|Man Saída]]
 	- [Saída Flutuante](https://youtu.be/fIPdbsICV-c?si=I75rbUDd4smlpImk) (o passo 1 da saída na verdade é flutuante e vai de uma lado para ouro)
 	- Saída girada (final de giro entrando em retrocesso)
 	- [Casamento](https://youtu.be/GxeaaQzvdT8?si=1n4lIMzpOniNQ5DA&t=562) (Saída do homem terminando em saída da mulher)
@@ -59,10 +59,10 @@
 
 # Strides with Spins
 
-- Retrocesso
+- [[Kiz - Retrocesso\|Retrocesso]]
 	- Indicação: passo direito para trás com curva.
 	- Entradas: básico 2, básico 3 para tráz, [balance](https://youtu.be/kdUS6reIsjw?si=Zbc6LbVpIg8W7kCB)
-- [[Kiz - Clockwise\|Kiz - Clockwise]]
+- [[Kiz - Clockwise\|Clockwise]]
 - Volta
 	- [Woman](https://youtu.be/cnfsT64e810?si=SwlWmCNrht62w-vl)
 	- Man
