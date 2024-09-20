@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-tic-tac/","created":"2024-09-17T12:54:26.952-04:00","updated":"2024-09-17T12:59:22.294-04:00"}
+{"dg-publish":true,"permalink":"/kiz-tic-tac/","created":"2024-09-17T12:54:26.952-04:00","updated":"2024-09-18T13:56:25.172-04:00"}
 ---
 
 **Tic Tac** (the sound produced by an analog clock) is a connected step where the lead keeps the weight on one leg while moving the other leg in a repetitive motion. This move is used to emphasize the music.
@@ -14,4 +14,4 @@ Note: Steps 2 and 3 can be done in any direction.
 
 *Key elements of the move*
 - Keep the weight on the same leg.
-- Leads must clearly indicate that there is no shifting of weight.
+- Leads must clearly indicate that there is no weight shifting.

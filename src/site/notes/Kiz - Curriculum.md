@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-18T13:22:43.059-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-20T10:57:34.845-04:00"}
 ---
 
 
@@ -53,6 +53,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Diamante\|Diamante]]
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Quadrado\|Quadrado]]
+- [[Kiz - Divergente\|Divergente]]
 - [[Kiz - Clockwise\|Clockwise]]
 - [[Kiz - Carrossel\|Carrossel]]
 - [[Kiz - Tic Tac\|Tic Tac]]
@@ -64,13 +65,14 @@ Other than the basic moves, all the names presented were coined by me to help me
 	- Entry 2 (basic 2)
 	- Entry 3 (balance)
 	- 2 retrocessos in a row
+	- Quadrado into Retrocesso
 
 # Module 2
 
 ## 1st Class - Passeio
 
 - [[Kiz - Passeio\|Passeio]]
-	- Tigh connection.
+	- Thigh connection.
 	- Hand indication for closure and step to the side
 - Exercises
 	- Walk back and forth.
@@ -83,16 +85,15 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 - [[Kiz - Man Saída\|Man Saída]]
 - [[Kiz - Woman Saída\|Woman Saída]]
-- Woman Saída with retrocesso
-- [[Kiz - Woman Saída#Casamento\|Casamento]]
+- [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]]
+- [[Kiz - Casamento\|Casamento]]
 
 ## 3rd Class - Extended Saídas
 
-- Diagonais
-- Casamento II
-- Casamento III
-- Casamento com giro
-- Caminhada em Cruz
+- [[Kiz - Diagonais\|Diagonais]]
+- [[Kiz - Casamento#Casamento II\|Casamento II]]
+- [[Kiz - Casamento#Casamento III\|Casamento III]]
+- [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]]
 
 ## 4th Class - Spins
 
@@ -108,73 +109,136 @@ Other than the basic moves, all the names presented were coined by me to help me
 - Passarela (giro)
 - Passarela Reversa
 - De lá para cá
+- [[Kiz - Cruz\|Cruz]]
 
 # Module 3
 
-## 1st Class - Leg Movement
+## 1st Class
 
 - Cruzada atrás
-- Passeio com levantada
-- Bate e Volta
-- Reverencia do Bolero
+- ==Tropeço do Passeio==
+- ==Passarela com levantada==
+- ==Bate e Volta==
+- Reverência do Bolero
 
-## 2nd Class - Spins
+## 2nd Class
 
 - Giro e meio da mulher
-- Pião
-- Ioi ioi
-- Volta da mulher
-- Volta do homem
+- Onde voce pensa que você vai?
+- ==Volta do homem==
+- Yoyo
 
-## 3rd Class - Leg Movement 2
+## 3rd Class
 
 - Passarela Bate e Volta
-- Onde voce pensa que você vai?
-- Arremesso
 - Cruzada da saída do homem
+- Arremesso
+- Pião
 
-## 4th Class - Leg Movement 3
+## 4th Class
 
-- Cruzada Abre e Fecha
+- ==Cruzada Abre e Fecha==
 - Retrocesso com cruzada a frente
-- ==Abertura 90 com levantada==
-- Tropeço do Passeio
+- ==Passo junto com volta==
+- ==Saída Flutuante==
 
-## 5th Class - Pose 1
+## 5th Class - Figures
 
 - Cadeirinha
+- ==Rolo==
 - Aconchego
-	- Basic
-	- Reversed
+	- ==Básico 2==
+	- ==Abertura 90==
 - Varal da Mulher
 	- com giro
 
 # Module 4
 
-## 1st Class - Change Role
+## 1st Class - on the Right Side
+
+- [[Kiz - Vírgula\|Vírgula]]
+- [[Kiz - Clockwise\|Clockwise]]
+	- with contratempo
+- [[Kiz - Retrocesso\|Retrocesso]]
+- [[Kiz - Escada\|Escada]]
+- [[Kiz - Carrossel\|Carrossel]]
+
+## 2nd Class - Change Role
 
 - Pedágio
 - Sombra
 	- Saídas
+	- Casamento
 	- Retrocesso
 	- Exit
 
-## 2nd Class - Arrastadas
+## 3rd Class
 
-- Aconchego com arrastada
-- Sombra com Arrastada
+- Aconchego
+	- Volta da Mulher
+	- ==Frontal==
+- ==Sombra com arrastada==
+- ==Pirulito==
 
-## 3rd Class - Figures
+## 4th Class*****
 
-- Aconchego da abertura 90
-- Aranha
+- Aconchego
+	- ==Paralelo==
+	- ==Passarela Reversa==
+	- ==Passarela Reversa paralelo==
+- ==Aranha==
 - Liquidificador
-
-## 4th Class - Figures 2
-
-- Tornado
+- ==Varal do homem==
 
 ## 5th Class
 
-- Rolo (sombra inversa)
-- Sombra com giro
+- Tornado
+- ==Elegancia==
+- ==Cadeirinha lateral==
+- ==Recolhida do Varal da Mulher
+
+# Modulo 5
+
+## 1st Class
+
+- ==Caranguejo==
+- ==Sombra reversa==
+- ==Levantada Aranha==
+- Aconchego Elegante
+
+## 2nd Class
+
+- ==Saudação com deslize==
+- ==Obstáculo==
+- ==Sombra com giro==
+- ==Pivots==
+
+## 3rd Class
+
+- ==Aconchego Elegante com puxada==
+- ==Passeio arrastado==
+- ==Deslize da saída do homem==
+- Elevador
+
+## 4th Class
+
+- ==Eixo==
+- ==Exibila==
+- ==Aconchego 90 com arrastada==
+- ==Deslize na passarela==
+
+## 5th Class
+
+- ==Cruzada atrás com arremesso==
+- ==Giro Conduzido==
+- ==Levantada com Chute==
+- ==Deslize parabrisa==
+
+# Module 6
+
+## 1st Class
+
+- ==Arrastada Vai e Vem==
+- ==Carrossel com Arremesso==
+- ==Aconchego com queda==
+- ==Deslize Duplo==

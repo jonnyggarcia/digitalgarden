@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-17T13:20:44.283-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-18T13:55:40.295-04:00"}
 ---
 
 
-**Retrocesso (backstep/setback)** is a connected move that utilizes syncopation. It involves the lead moving backward and performing a 180-degree turn. The turn can be in either direction, but it is more commonly performed to the left. This is a very important step used for connection.
+**Retrocesso** (backstep/setback) is a connected move that utilizes syncopation. It involves the lead moving backward and performing a 180-degree turn. The turn can be in either direction, but it is more commonly performed to the left. This is a very important step used for connection.
 
 The term for syncopation in Kizomba is **contratempo**.
 
