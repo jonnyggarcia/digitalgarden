@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-20T10:57:34.845-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T09:30:50.667-04:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Basic 1\|Basic 1]]
 - [[Kiz - Basic 2\|Basic 2]]
 - [[Kiz - Side Opening\|Side Opening]]
-- [[Kiz - Reverência\|Reverência]]
+- [[Kiz - Saudação\|Saudação]]
 	- Giro
 
 ## 2nd Class - Walks
@@ -97,11 +97,11 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 ## 4th Class - Spins
 
-- Volta da mulher
+- [[Kiz - Volta da Mulher\|Volta da Mulher]]
 - 1/2 Giro da mulher
 - Giro da mulher
 - Espiral
-- Giro do homem
+- ==Giro do homem==
 
 ## 5th Class - Spins with Walks
 
@@ -154,7 +154,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 # Module 4
 
-## 1st Class - on the Right Side
+## 1st Class
 
 - [[Kiz - Vírgula\|Vírgula]]
 - [[Kiz - Clockwise\|Clockwise]]
@@ -163,24 +163,23 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Carrossel\|Carrossel]]
 
-## 2nd Class - Change Role
+## 2nd Class
 
 - Pedágio
-- Sombra
+- Sombra do Passeio
+- Aconchego
+	- Volta da Mulher
+	- ==Frontal==
+
+## 3rd Class
+
+- Sombra da Passarela Bate e Volta
 	- Saídas
 	- Casamento
 	- Retrocesso
 	- Exit
 
-## 3rd Class
-
-- Aconchego
-	- Volta da Mulher
-	- ==Frontal==
-- ==Sombra com arrastada==
-- ==Pirulito==
-
-## 4th Class*****
+## 4th Class
 
 - Aconchego
 	- ==Paralelo==
@@ -202,7 +201,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 ## 1st Class
 
 - ==Caranguejo==
-- ==Sombra reversa==
+- Pedágio com Sombra
 - ==Levantada Aranha==
 - Aconchego Elegante
 
@@ -210,7 +209,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 - ==Saudação com deslize==
 - ==Obstáculo==
-- ==Sombra com giro==
+- ==Sombra Deslizante==
 - ==Pivots==
 
 ## 3rd Class
@@ -242,3 +241,14 @@ Other than the basic moves, all the names presented were coined by me to help me
 - ==Carrossel com Arremesso==
 - ==Aconchego com queda==
 - ==Deslize Duplo==
+
+## 2nd Class
+
+- ==[Sombra inversa](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)==
+- ==[Sombra com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)==
+
+## 3rd Class
+
+- ==Pirulito==
+- Deslize Lateral
+- Cruzada Dupla

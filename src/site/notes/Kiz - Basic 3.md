@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-18T14:08:33.550-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-20T11:07:03.754-04:00"}
 ---
 
 **Basic 3** requires the lead to have clear intention, which is communicated through the chest. The intention is conveyed when the lead transfers their weight to their toes (walking forward) or to their heels (walking backward).
@@ -55,7 +55,6 @@ Before moving to the next step, it is important for the follower to:
 - Introduce walking with curves. This should led with the pivoting of the chest.
 
 > [!info] The traditional drill of 2 steps plus marca should not be used as a reference for changes in direction. The change should be perceived by the follower, not memorized. The lead must provide clear and precise intention.
-
 
 **Progression 4: No Arms Connection**
 - Same as progression 3, but without arm connection—only chest.

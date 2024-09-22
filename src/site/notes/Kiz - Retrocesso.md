@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-18T13:55:40.295-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-20T15:22:43.714-04:00"}
 ---
 
 
@@ -19,6 +19,7 @@ There are three possible ways the lead can enter into retrocesso:
 - **Entry 1:** From the right side of closed position, the lead steps back with the left foot.
 - **Entry 2:** From the left side of closed position.
 - **Entry 3:** Step forward with the left foot, balance. This is used to perform several retrocessos in a row. This entry is similar to the key element of [[Kiz - Diamante\|Diamante]].
+- As a blending exercise, the lead can perform a [[Kiz - Quadrado\|Quadrado]] lead into Retrocesso on the right step backward during step 3.
 
 *Key elements of the move*
 - The most important element is the chest pivot on step 1.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-19T15:55:57.415-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-22T09:29:46.947-04:00"}
 ---
 
 **Saída** (exit) refers to moving off the track. In the Woman Saída, the follower steps out of the track and then returns.
@@ -24,13 +24,13 @@
 
 *Key elements of the move*
 - Leads torso pivot on steps 3 and 5.
-- Followers need to seek for a thigh-to-thigh connection step 4.
-- Leads must ensure that on step 6, the weight remains on their right side.
+- Followers need to seek for a thigh-to-thigh connection step 3.
+- Leads must ensure that on step 5, the weight remains on their right side.
 - The follower’s left hand should stay engaged so that when the lead pivots their chest, the follower’s chest follows the same movement.
 
 # Woman Saída with a Break
 
-When the follower establishes the thigh-to-thigh connection on step 4, the lead stops the momentum and performs a [[Kiz - Balance\|Balance]]. The exit can be a regular Woman Saída or an opening into [[Kiz - Passeio\|Passeio]].
+When the follower establishes the thigh-to-thigh connection on step 3, the lead stops the momentum and performs a [[Kiz - Balance\|Balance]]. The exit can be a regular Woman Saída or an opening into [[Kiz - Passeio\|Passeio]].
 
 # Woman Saída with Retrocesso
 
