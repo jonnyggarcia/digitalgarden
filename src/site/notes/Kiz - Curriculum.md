@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T13:12:44.290-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T14:05:17.098-04:00"}
 ---
 
 
@@ -92,8 +92,8 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 - [[Kiz - Diagonais\|Diagonais]]
 - [[Kiz - Casamento#Casamento II\|Casamento II]]
-- [[Kiz - Casamento#Casamento III\|Casamento III]]
 - [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]]
+- [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]]
 
 ## 4th Class - Spins
 

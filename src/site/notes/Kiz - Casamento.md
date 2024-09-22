@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-20T10:51:44.338-04:00"}
+{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-22T14:08:53.453-04:00"}
 ---
 
 
@@ -51,13 +51,6 @@ Here’s the corrected version:
 *Key elements of the move*
 - Pay attention to the chest pivots.
 
-# Casamento III
-
-**Casamento III** is the same as Casamento II, but instead of the follower walking backward, they walk forward, mirroring the lead's position. In essence, from the lead’s perspective, this move is a [[Kiz - Basic 3\|Basic 3]] forward, a 90-degree turn to the left, another Basic 3 forward, close [[Kiz - Passeio\|Passeio]] into Woman Saída. Note that none of these Basic 3 steps include a marca.
-
-*Key elements of the move*
-- Pay attention to the chest pivots.
-
 # Casamento Com Giro
 
 **Casamento com Giro** starts with Man Saída, then a 180-degree turn, and finishes with Woman Saída.
@@ -65,7 +58,7 @@ Here’s the corrected version:
 **Lead**
 
 1. Give the intention to walk forward, but step diagonally to the left.
-2. Step forward beside the follower with the right leg.
+2. Take a right step forward beside the follower.
 3. Perform the opening of [[Kiz - Passeio\|Passeio]] while crossing your left leg behind the right leg.
 4. Start closing the Passeio while taking a right step.
 5. Complete the closing of Passeio into a side-to-side position, while taking a small left step.
@@ -84,3 +77,10 @@ Here’s the corrected version:
 
 *Key elements of the move*
 - Consult [[Kiz - Passeio\|Passeio]] for more details about opening and close.
+
+# Casamento Com Giro II
+
+**Casamento Com Giro II** is the same as Casamento com Giro, but after step 3 (lead) add 2 steps forward and then continue from step 4.
+
+*Key elements of the move*
+- Pay attention to the chest pivots.
