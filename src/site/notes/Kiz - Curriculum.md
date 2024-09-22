@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T09:30:50.667-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T13:12:44.290-04:00"}
 ---
 
 
@@ -118,7 +118,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 - Cruzada atrás
 - ==Tropeço do Passeio==
 - ==Passarela com levantada==
-- ==Bate e Volta==
+- [[Kiz - Bate e Volta\|Bate e Volta]]
 - Reverência do Bolero
 
 ## 2nd Class

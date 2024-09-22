@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/zouk-vs-kizomba/","created":"2024-07-05T15:46:12.568-04:00","updated":"2024-09-16T18:59:12.259-04:00"}
+{"dg-publish":true,"permalink":"/zouk-vs-kizomba/","created":"2024-07-05T15:46:12.568-04:00","updated":"2024-09-22T13:57:12.294-04:00"}
 ---
 
+
+[Source](https://qr.ae/p245kg)
 
 ![GENEROS MUSICAIS DA KIZOMBA.jpg](/img/user/MEDIA/GENEROS%20MUSICAIS%20DA%20KIZOMBA.jpg)
 
