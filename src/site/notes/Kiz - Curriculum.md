@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-22T14:05:17.098-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-23T16:03:23.331-04:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 # Module 1
 
-## 1st Class - Basic Movements
+## 101 - Basic Movements
 
 - [[Kiz - Connection Points\|Connection Points]]
 - [[Kiz - Basic 1\|Basic 1]]
@@ -17,7 +17,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Saudação\|Saudação]]
 	- Giro
 
-## 2nd Class - Walks
+## 102 - Walks
 
 - [[Kiz - Basic 3\|Basic 3]]
 	- Weight distribution
@@ -34,7 +34,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 	- Both directions
 	- Switch directions: Figure 8
 
-## 3rd Class - Direction Change
+## 103 - Direction Change
 
 - [[Kiz - Balance\|Balance]]
 	- On the spot
@@ -48,7 +48,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 	- full drill
 	- Key
 
-## 4th Class - Extended Walks
+## 104 - Extended Walks
 
 - [[Kiz - Diamante\|Diamante]]
 - [[Kiz - Escada\|Escada]]
@@ -58,7 +58,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Carrossel\|Carrossel]]
 - [[Kiz - Tic Tac\|Tic Tac]]
 
-## 5th Class - Contratempo
+## 105 - Contratempo
 
 - [[Kiz - Retrocesso\|Retrocesso]]
 	- Entry 1 (step back)
@@ -69,7 +69,7 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 # Module 2
 
-## 1st Class - Passeio
+## 201 - Passeio
 
 - [[Kiz - Passeio\|Passeio]]
 	- Thigh connection.
@@ -81,21 +81,21 @@ Other than the basic moves, all the names presented were coined by me to help me
 		- No contratempo
 		- With contratempo
 
-## 2nd Class - Saídas
+## 202 - Saídas
 
 - [[Kiz - Man Saída\|Man Saída]]
 - [[Kiz - Woman Saída\|Woman Saída]]
 - [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]]
 - [[Kiz - Casamento\|Casamento]]
 
-## 3rd Class - Extended Saídas
+## 203 - Extended Saídas
 
 - [[Kiz - Diagonais\|Diagonais]]
 - [[Kiz - Casamento#Casamento II\|Casamento II]]
 - [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]]
 - [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]]
 
-## 4th Class - Spins
+## 204 - Spins
 
 - [[Kiz - Volta da Mulher\|Volta da Mulher]]
 - 1/2 Giro da mulher
@@ -103,58 +103,58 @@ Other than the basic moves, all the names presented were coined by me to help me
 - Espiral
 - ==Giro do homem==
 
-## 5th Class - Spins with Walks
+## 205 - Spins with Walks
 
+- [[Kiz - De Lá para Cá\|De Lá para Cá]]
 - Giro e meio da mulher
-- Passarela (giro)
-- Passarela Reversa
-- De lá para cá
+- ==Desfile==
+- [[Kiz - Bate e Volta\|Bate e Volta]]
 - [[Kiz - Cruz\|Cruz]]
 
 # Module 3
 
-## 1st Class
+## 301
 
 - Cruzada atrás
-- ==Tropeço do Passeio==
-- ==Passarela com levantada==
-- [[Kiz - Bate e Volta\|Bate e Volta]]
+- ==Tropeço==
+- De lá para cá com levantada
 - Reverência do Bolero
 
-## 2nd Class
+## 302
 
 - Giro e meio da mulher
 - Onde voce pensa que você vai?
-- ==Volta do homem==
+- Volta do homem
 - Yoyo
 
-## 3rd Class
+## 303
 
-- Passarela Bate e Volta
+- Passarela
 - Cruzada da saída do homem
 - Arremesso
 - Pião
 
-## 4th Class
+## 304
 
 - ==Cruzada Abre e Fecha==
 - Retrocesso com cruzada a frente
 - ==Passo junto com volta==
 - ==Saída Flutuante==
 
-## 5th Class - Figures
+## 305
 
 - Cadeirinha
+	- Espiral into Cadeirinha
 - ==Rolo==
 - Aconchego
 	- ==Básico 2==
-	- ==Abertura 90==
+	- ==Frontal==
 - Varal da Mulher
 	- com giro
 
 # Module 4
 
-## 1st Class
+## 401
 
 - [[Kiz - Vírgula\|Vírgula]]
 - [[Kiz - Clockwise\|Clockwise]]
@@ -163,70 +163,68 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Carrossel\|Carrossel]]
 
-## 2nd Class
+## 402
 
-- Pedágio
-- Sombra do Passeio
 - Aconchego
+	- ==Abertura 90==
 	- Volta da Mulher
-	- ==Frontal==
+- ==Linha==
+- ==Cruzada Dupla==
 
-## 3rd Class
+## 403
 
-- Sombra da Passarela Bate e Volta
+- Passarela Sombria
 	- Saídas
 	- Casamento
 	- Retrocesso
 	- Exit
 
-## 4th Class
+## 404
 
 - Aconchego
-	- ==Paralelo==
-	- ==Passarela Reversa==
-	- ==Passarela Reversa paralelo==
+	- ==Passarela==
+	- ==Passarela Paralela==
 - ==Aranha==
-- Liquidificador
+- ==Deslize Lateral==
 - ==Varal do homem==
 
-## 5th Class
+## 405
 
 - Tornado
 - ==Elegancia==
 - ==Cadeirinha lateral==
-- ==Recolhida do Varal da Mulher
+- ==Recolhida do Varal==
 
 # Modulo 5
 
-## 1st Class
+## 501
 
 - ==Caranguejo==
 - Pedágio com Sombra
 - ==Levantada Aranha==
 - Aconchego Elegante
 
-## 2nd Class
+## 502
 
 - ==Saudação com deslize==
 - ==Obstáculo==
 - ==Sombra Deslizante==
 - ==Pivots==
 
-## 3rd Class
+## 503
 
-- ==Aconchego Elegante com puxada==
+- ==Aconchego Frontal com queda==
 - ==Passeio arrastado==
 - ==Deslize da saída do homem==
 - Elevador
 
-## 4th Class
+## 504
 
 - ==Eixo==
-- ==Exibila==
 - ==Aconchego 90 com arrastada==
 - ==Deslize na passarela==
 
-## 5th Class
+## 505
 
 - ==Cruzada atrás com arremesso==
 - ==Giro Conduzido==
@@ -235,20 +233,20 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 # Module 6
 
-## 1st Class
+## 601
 
 - ==Arrastada Vai e Vem==
 - ==Carrossel com Arremesso==
-- ==Aconchego com queda==
+- ==Aconchego da Passarela com Arrastada==
 - ==Deslize Duplo==
 
-## 2nd Class
+## 602
 
 - ==[Sombra inversa](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)==
 - ==[Sombra com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)==
+- ==Aconchego Elegante com Puxada==
 
-## 3rd Class
+## 603
 
-- ==Pirulito==
-- Deslize Lateral
-- Cruzada Dupla
+- ==Pirulito
+- Liquidificador
