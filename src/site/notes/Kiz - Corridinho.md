@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-09-22T13:51:19.149-04:00"}
+{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-09-25T17:10:14.817-04:00"}
 ---
 
 
@@ -55,3 +55,9 @@ Practice walking forward and backward.
 *Key elements of the move*
 - The walk can cover any number of steps: 1/4 circle, 1/2 circle, 3/4 circle, or a full circle.
 - The lead and the follower walk together, tracing the circle. If the follower walks around the lead, who remains in place, it is not considered a Corridinho.
+
+# Catalog
+
+- Code: SC01
+- Connections: [[Kiz - Basic 3\|B05]]
+- Parent: [[Kiz - Strides\|Strides]]

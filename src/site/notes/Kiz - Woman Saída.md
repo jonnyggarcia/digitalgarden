@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-22T14:00:36.574-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-25T17:17:57.198-04:00"}
 ---
 
 **Saída** (exit) refers to moving off the track. In the Woman Saída, the follower steps out of the track and then returns.
@@ -35,3 +35,9 @@ When the follower establishes the thigh-to-thigh connection on step 3, the lead 
 # Woman Saída with Retrocesso
 
 On step 4 from the leads perspective, perform a [[Kiz - Retrocesso\|Retrocesso]].
+
+# Catalog
+
+- Code: SD03
+- Connections: [[Kiz - Balance\|SC02]], [[Kiz - Basic 3\|B05]]
+- Parent: [[Kiz - Strides\|Strides]]

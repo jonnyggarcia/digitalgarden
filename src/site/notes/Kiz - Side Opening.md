@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-side-opening/","created":"2024-09-16T15:40:55.694-04:00","updated":"2024-09-18T13:20:55.275-04:00"}
+{"dg-publish":true,"permalink":"/kiz-side-opening/","created":"2024-09-16T15:40:55.694-04:00","updated":"2024-09-25T17:07:06.578-04:00"}
 ---
 
 
@@ -9,3 +9,9 @@ The lead needs to slightly disconnect from the follower and transfer their weigh
 
 *Key elements of the move*
 - The lead must use their right arm to indicate to the follower that they are moving to their right.
+
+# Catalog
+
+- Code: B03
+- Connections: [[Kiz - Basic 2\|B02]]
+- Parent: [[Kiz - Basics\|Basic Steps]]

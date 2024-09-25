@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-09-23T14:04:51.961-04:00"}
+{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-09-25T17:09:59.840-04:00"}
 ---
 
 
@@ -20,3 +20,9 @@ The essential part of this move is the chest pivoting to the left to initiate th
 *Key elements of move*
 - The lead should emphasize the pivoting of the chest on step 1.
 - When closing the movement (Basic 2), the lead’s right hand should guide the follower to where they should move.
+
+# Catalog
+
+- Code: B06
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-09-18T13:13:22.727-04:00"}
+{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-09-25T17:16:03.064-04:00"}
 ---
 
 
@@ -31,9 +31,9 @@ To finish the move and return to the closed position, the lead needs to indicate
 - Walk back and forth
 - Play with the tempo
 - Open into [[Kiz - Corridinho\|Corridinho]]
-	- Instead of walking in a straight line, the lead will direct the walk to form a circle.  
-		- It can be done with or without **contratempo**:  
-		- **Without contratempo**: The lead and follower step at the same time with opposite legs.  
+	- Instead of walking in a straight line, the lead will direct the walk to form a circle.
+		- It can be done with or without **contratempo**:
+		- **Without contratempo**: The lead and follower step at the same time with opposite legs.
 		- **With contratempo**: The lead and follower step at the same time with the same leg.
 
 *Key elements of the move*
@@ -41,3 +41,9 @@ To finish the move and return to the closed position, the lead needs to indicate
 - The lead's right hand should give a clear indication when walking forward.
 - When walking backward, the lead's left hand should clearly indicate the movement. Also, the follower's left hand will feel the lead's chest moving backward.
 - The lead must be clear about whether to use their entire palm or just their fingers. The entire palm indicates a walk, whereas the fingers signal to the follower to pivot their chest toward the lead.
+
+# Catalog
+
+- Code: SD01
+- Connections: -
+- Parent: [[Kiz - Strides\|Strides]]

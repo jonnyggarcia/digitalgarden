@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-09-17T12:42:58.844-04:00"}
+{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-09-25T17:14:23.918-04:00"}
 ---
 
 **Clockwise** is a connected step where the lead starts by walking forward, then performs a 180-degree turn to the right or left, and finishes by walking backward. This move is commonly concluded with a [[Kiz - Balance\|Balance]]. There are two variations of this move:
@@ -25,3 +25,9 @@ This variation requires more momentum and a sharper turn.
 
 *Key elements of the move*
 - The turn is made to the right or left using the opposite leg (i.e., the left foot to turn right, and the right foot to turn left). This is for the variation 2.
+
+# Catalog
+
+- Code: SGG01
+- Connections: [[Kiz - Basic 3\|B05]]
+- Parent: [[Kiz - Spins\|Spins]]

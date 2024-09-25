@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-20T11:07:03.754-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-25T17:06:27.450-04:00"}
 ---
 
 **Basic 3** requires the lead to have clear intention, which is communicated through the chest. The intention is conveyed when the lead transfers their weight to their toes (walking forward) or to their heels (walking backward).
@@ -66,3 +66,9 @@ Before moving to the next step, it is important for the follower to:
 - When walking forward, the torso moves first, followed by the legs.
 - When stepping backward, the leg moves first, followed by the torso.
 - Followers should consistently seek connection with their partner’s chest. When walking forward, it is their responsibility to move forward and maintain the connection, rather than being dragged by the lead.
+
+# Catalog
+
+- Code: B05
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-estrela/","created":"2024-09-16T15:09:28.967-04:00","updated":"2024-09-23T14:04:51.956-04:00"}
+{"dg-publish":true,"permalink":"/kiz-estrela/","created":"2024-09-16T15:09:28.967-04:00","updated":"2024-09-25T17:13:43.954-04:00"}
 ---
 
 
@@ -16,3 +16,9 @@ From the lead's perspective, **Estrela** (star) is a forward [[Kiz - Basic 3\|Ba
 - The pivoting of the torso on step 3.
 - Practice the full drill to the left and to the right.
 - Practice the key element back to back (left, balance, right).
+
+# Catalog
+
+- Code: SC04
+- Connections: [[Kiz - Vírgula\|B06]]
+- Parent: [[Kiz - Strides\|Strides]]

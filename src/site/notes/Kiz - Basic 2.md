@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-09-18T13:21:11.868-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-09-25T17:06:11.414-04:00"}
 ---
 
 
@@ -11,3 +11,9 @@ When the lead moves to the left, they should use their right arm against the fol
 
 *Key elements of the move*
 - Pushing and pulling with the right arm.
+
+# Catalog
+
+- Code: B02
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

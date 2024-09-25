@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-09-23T14:04:51.964-04:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-09-25T17:13:32.367-04:00"}
 ---
 
 
@@ -26,5 +26,10 @@ The lead must use the connection points to indicate a stop in the motion so the 
 - The lead takes a step forward with the left leg and repeats the process.
 
 *Key Elements of the Move*
-
 - The lead should intercept and stop the follower’s movement, indicating to transfer the weight back to the previous leg.
+
+# Catalog
+
+- Code: SC02
+- Connections: -
+- Parent: [[Kiz - Strides\|Strides]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-09-20T11:12:34.629-04:00"}
+{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-09-25T17:06:19.199-04:00"}
 ---
 
 
@@ -13,3 +13,9 @@ When moving toward the partner, you can turn 180 degrees to face away from your 
 
 *Keys elements of the move*
 - The lead should give a clear intention to the follower, allowing them to step back. Then, the lead should gently pull the follower in.
+
+# Catalog
+
+- Code: B04
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-09-23T12:39:54.695-04:00"}
+{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-09-25T14:53:21.615-04:00"}
 ---
 
 
@@ -26,9 +26,7 @@
 - The lead can perform the movement disconnected from the follower or in closed hold with chest distance.
 - The lead can mark the 3rd step by stepping forward while the follower turns.
 
-
 *Key Elements of the Move*
-
 - While doing the steps, the lead constantly marks the beat by transferring their weight from side to side.
 - The lead should indicate the closing of the passeio.
 - The follower performs the pivot on the 3rd step.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-09-18T13:21:15.849-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-09-25T17:06:07.855-04:00"}
 ---
 
 
@@ -9,3 +9,9 @@ The lead should indicate the movement with their right hand, resting on the foll
 
 *Key elements of the move*
 - Hand motion of agains the followers back.
+
+# Catalog
+
+- Code: B01
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

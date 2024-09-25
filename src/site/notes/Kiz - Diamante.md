@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-09-18T13:27:57.448-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-09-25T17:13:51.621-04:00"}
 ---
 
 
@@ -13,3 +13,9 @@
 *Key elements of the move*
 - Only step 3 to balance and change direction.
 - Later on this key element will become the 3rd entry to [[Kiz - Retrocesso\|Retrocesso]]
+
+# Catalog
+
+- Code: SC06
+- Connections: [[Kiz - Basic 3\|B05]]
+- Parent: [[Kiz - Strides\|Strides]]

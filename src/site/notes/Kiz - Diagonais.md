@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-09-18T17:46:43.311-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-09-25T17:19:32.518-04:00"}
 ---
 
 
@@ -20,9 +20,14 @@
 4. Take a left step backward. Seek to establish a thigh-to-thigh connection.
 5. Repeat.
 
-
 *Key elements of the move*
 - The chest pivot is essential.
 - The lead must clearly indicate the change in direction.
 - The lead's right hand helps to stop the momentum and pull the follower.
 - The follower's left hand assists in sensing the shift in direction and intention.
+
+# Catalog
+
+- Code: SD08
+- Connections: [[Kiz - Woman Saída\|SD03]]
+- Parent: [[Kiz - Strides\|Strides]]

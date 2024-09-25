@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-22T14:08:53.453-04:00"}
+{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-25T17:18:53.203-04:00"}
 ---
 
 
@@ -84,3 +84,9 @@ Here’s the corrected version:
 
 *Key elements of the move*
 - Pay attention to the chest pivots.
+
+# Catalog
+
+- Code: SD05, SD06, SD07
+- Connections: [[Kiz - Woman Saída\|SD03]]
+- Parent: [[Kiz - Strides\|Strides]]

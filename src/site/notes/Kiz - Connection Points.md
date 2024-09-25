@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-09-18T17:49:44.595-04:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-09-25T17:06:02.449-04:00"}
 ---
 
 
@@ -16,3 +16,9 @@ The **follower’s left hand** is positioned above the lead’s right arm and sh
 The follower should support the weight of their arms without pressing them against the lead.
 
 The connection between the feet and knees will be discussed later.
+
+# Catalog
+
+- Code: B00
+- Connections: -
+- Parent: [[Kiz - Basics\|Basic Steps]]

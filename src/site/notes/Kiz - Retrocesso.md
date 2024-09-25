@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-22T13:53:00.207-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-25T17:15:27.873-04:00"}
 ---
 
 
@@ -24,3 +24,9 @@ There are three possible ways the lead can enter into retrocesso:
 *Key elements of the move*
 - The most important element is the chest pivot on step 1.
 - The lead must keep the follower close and not lose their right hand; otherwise, the follower won't notice the chest pivoting.
+
+# Catalog
+
+- Code: SG03
+- Connections: -
+- Parent: [[Kiz - Spins\|Spins]]

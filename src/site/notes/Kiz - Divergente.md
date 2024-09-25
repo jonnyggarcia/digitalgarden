@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-09-18T18:05:27.452-04:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-09-25T17:13:54.951-04:00"}
 ---
 
 **Divergente** (divergent, as in a diverging lens shape) is a sequence of 4 [[Kiz - Corridinho\|Corridinho]]s in a row, alternating between forward and backward movements.
@@ -13,3 +13,9 @@
 - The lead should aim to maintain the shape of the Corridinhos.
 - This move emphasizes the change in direction along a curve, similar to [[Kiz - Diamante\|Diamante]].
 - Practice starting in both directions.
+
+# Catalog
+
+- Code: SC07
+- Connections: [[Kiz - Corridinho\|SC01]]
+- Parent: [[Kiz - Strides\|Strides]]

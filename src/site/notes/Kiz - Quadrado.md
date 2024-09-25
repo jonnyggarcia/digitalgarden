@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-09-17T12:43:57.126-04:00"}
+{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-09-25T17:13:48.225-04:00"}
 ---
 
 
@@ -16,6 +16,11 @@
    - Use the arm to guide the follower.
 
 *Key elements of the move*
-
 - Use of a [[Kiz - Escada\|Degrau]] move followed by a step backwards.
 - Sequence: Left, Right, side step, Back Left, Right, Basic 2 to the left.
+
+# Catalog
+
+- Code: SC05
+- Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Basic 2\|B02]]
+- Parent: [[Kiz - Strides\|Strides]]

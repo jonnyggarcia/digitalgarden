@@ -1,32 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-23T16:03:23.331-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-25T17:20:54.372-04:00"}
 ---
 
 
 > [!info] Disclaimer
 Other than the basic moves, all the names presented were coined by me to help memorize and create distinction among them.
 
-# Module 1
+# Module 1 - Basics
 
-## 101 - Basic Movements
+## 101 - Basics
 
-- [[Kiz - Connection Points\|Connection Points]]
-- [[Kiz - Basic 1\|Basic 1]]
-- [[Kiz - Basic 2\|Basic 2]]
-- [[Kiz - Side Opening\|Side Opening]]
-- [[Kiz - Saudação\|Saudação]]
+- [[Kiz - Connection Points\|Connection Points]] (B00)
+- [[Kiz - Basic 1\|Basic 1]] (B01)
+- [[Kiz - Basic 2\|Basic 2]] (B02)
+- [[Kiz - Side Opening\|Side Opening]] (B03)
+- [[Kiz - Saudação\|Saudação]] (B04)
 	- Giro
 
 ## 102 - Walks
 
-- [[Kiz - Basic 3\|Basic 3]]
+- [[Kiz - Basic 3\|Basic 3]] (B05)
 	- Weight distribution
 	- Intention
 	- Forearm connection
 	- Ball exercise
 	- Chest connection
 	- No arms connection
-- [[Kiz - Corridinho\|Corridinho]]
+- [[Kiz - Corridinho\|Corridinho]] (SC01)
 	- Chest dissociation
 		- Walk in circle with arm tracing the centre and the circle.
 	- Walking forward
@@ -36,42 +36,42 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 ## 103 - Direction Change
 
-- [[Kiz - Balance\|Balance]]
+- [[Kiz - Balance\|Balance]] (SC02)
 	- On the spot
 	- With one step
-- [[Kiz - Vírgula\|1/4 turn]]
-- Reversed 1/4 turn
-- [[Kiz - Vírgula\|1/3 turn]]
-- [[Kiz - Vírgula\|Vírgula]]
-- [[Kiz - Estrela\|Estrela]]
-	- left and right
-	- full drill
-	- Key
+- [[Kiz - Vírgula\|1/4 turn]] (B06)
+- Reversed 1/4 turn (B06)
+- [[Kiz - Vírgula\|1/3 turn]] (B06)
+- [[Kiz - Vírgula\|Vírgula]] (B06)
+- [[Kiz - Escada\|Escada]] (SC03)
 
 ## 104 - Extended Walks
 
-- [[Kiz - Diamante\|Diamante]]
-- [[Kiz - Escada\|Escada]]
-- [[Kiz - Quadrado\|Quadrado]]
-- [[Kiz - Divergente\|Divergente]]
-- [[Kiz - Clockwise\|Clockwise]]
-- [[Kiz - Carrossel\|Carrossel]]
-- [[Kiz - Tic Tac\|Tic Tac]]
+- [[Kiz - Estrela\|Estrela]] (SC04)
+	- left and right
+	- full drill
+	- Key
+- [[Kiz - Quadrado\|Quadrado]] (SC05)
+- [[Kiz - Diamante\|Diamante]] (SC06)
+- [[Kiz - Divergente\|Divergente]] (SC07)
+- [[Kiz - Tic Tac\|Tic Tac]] (SC08)
+- [[Kiz - Clockwise\|Clockwise]] (SGG01)
+- [[Kiz - Carrossel\|Carrossel]] (SG02)
 
 ## 105 - Contratempo
 
-- [[Kiz - Retrocesso\|Retrocesso]]
+- [[Kiz - Retrocesso\|Retrocesso]] (SG03)
 	- Entry 1 (step back)
 	- Entry 2 (basic 2)
 	- Entry 3 (balance)
 	- 2 retrocessos in a row
 	- Quadrado into Retrocesso
 
-# Module 2
+# Module 2 - Strides and Spins
 
 ## 201 - Passeio
 
-- [[Kiz - Passeio\|Passeio]]
+- [[Kiz - Passeio\|Passeio]] (SD01)
 	- Thigh connection.
 	- Hand indication for closure and step to the side
 - Exercises
@@ -83,78 +83,183 @@ Other than the basic moves, all the names presented were coined by me to help me
 
 ## 202 - Saídas
 
-- [[Kiz - Man Saída\|Man Saída]]
-- [[Kiz - Woman Saída\|Woman Saída]]
-- [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]]
-- [[Kiz - Casamento\|Casamento]]
+- [[Kiz - Man Saída\|Man Saída]] (SD02)
+- [[Kiz - Woman Saída\|Woman Saída]] (SD03)
+- [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]] (SD03)
+- [[Kiz - Casamento\|Casamento (SD04)]]
 
 ## 203 - Extended Saídas
 
-- [[Kiz - Diagonais\|Diagonais]]
-- [[Kiz - Casamento#Casamento II\|Casamento II]]
-- [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]]
-- [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]]
+- [[Kiz - Casamento#Casamento II\|Casamento II]] (SD05)
+- [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]] (SD06)
+- [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]] (SD07)
+- [[Kiz - Diagonais\|Diagonais]] (SD08)
 
 ## 204 - Spins
 
-- [[Kiz - Volta da Mulher\|Volta da Mulher]]
-- 1/2 Giro da mulher
-- Giro da mulher
-- Espiral
-- ==Giro do homem==
+- Meio Giro da mulher (SG04)
+- Giro da mulher (SG05)
+- Espiral (SG06)
+- [[Kiz - Volta da Mulher\|Volta da Mulher]] (SG07)
+	- ==Volta Bate e Volta== (SG08)
+- Giro do homem (SG09)
 
 ## 205 - Spins with Walks
 
-- [[Kiz - De Lá para Cá\|De Lá para Cá]]
-- Giro e meio da mulher
-- ==Desfile==
-- [[Kiz - Bate e Volta\|Bate e Volta]]
-- [[Kiz - Cruz\|Cruz]]
+- [[Kiz - Regra de 3\|Regra de 3]] (SD10)
+- [[Kiz - Linha\|Linha]] (SD11)
+- Giro e meio da mulher (SG10)
+- Desfile (SG11)
+- Pião (SG12)
+- Passarela (SG13)
 
 # Module 3
 
 ## 301
 
-- Cruzada atrás
-- ==Tropeço==
-- De lá para cá com levantada
-- Reverência do Bolero
+- [[Kiz - Cruz\|Cruz]] (SD12)
+	- Forward Walking
+	- Backward Walking
+	- Alternated
+- [[Kiz - De Lá para Cá\|De Lá para Cá]] (SD13)
+- Cruzada atrás (CR01)
+- Levantada Cruzada (LC01)
+- Tropeço (LT01)
+- Regra de 3 com Levantada (LI01)
+- Reverência do Bolero (FG01)
 
 ## 302
 
-- Giro e meio da mulher
-- Onde voce pensa que você vai?
-- Volta do homem
-- Yoyo
+- [[Kiz - Bate e Volta\|Bate e Volta]] (SG14)
+- Passarela Bate e Volta (SG15)
+- Onde voce pensa que você vai? (SD14)
+- Volta do homem (SG16)
 
 ## 303
 
-- Passarela
-- Cruzada da saída do homem
-- Arremesso
-- Pião
+- Levantada Extendida (LC02)
+- Cruzada da saída do homem (CR02)
+	- ==Tic Tac==
+	- ==Com Estilo==
+- Arremesso (LE01)
+- Yoyo (SG17)
 
 ## 304
 
-- ==Cruzada Abre e Fecha==
-- Retrocesso com cruzada a frente
-- ==Passo junto com volta==
-- ==Saída Flutuante==
+- Cruzada Abre e Fecha (CR03)
+- Retrocesso com cruzada a frente (SG03 + CR02)
+- Passo junto com volta (SD15)
+- Cadeirinha (FG02)
 
 ## 305
 
-- Cadeirinha
-	- Espiral into Cadeirinha
-- ==Rolo==
-- Aconchego
-	- ==Básico 2==
-	- ==Frontal==
-- Varal da Mulher
+- ==Caranguejo== (CR03)
+	- ==Com Tropeço== (CR03 + LT01)
+- Aconchego Regular
+	- Volta da Mulher (FG04.01)
+	- Passarela (with and without stride) (FG04.02)
+- Varal da Mulher (FG07)
 	- com giro
+- ==Passarela com Cadeirinha== (SG13 + FG02)
 
 # Module 4
 
 ## 401
+
+- Aconchego Paralelo
+	- Passarela (with and without stride) (FG05.01)
+	- Elegante (FG05.02)
+- ==Levantada Extendida== (LC02)
+- ==Levantada com Chute== (LI02)
+- ==Deslize Lateral== (SL01)
+
+## 402
+
+- Passeio Sombrio (SH01)
+- Aconchego Frontal
+	- Entrada do Básico 2 (FG06.01)
+	- Entrada da abertura 90 (FG06.02)
+	- ==Entrada invertida ==(FG06.03)
+
+## 403
+
+- Passarela Sombria (SH02)
+	- Exit
+- Pedágio (SD16)
+- Pedágio Sombrio (SH03)
+
+Practice the following in shadow position:
+
+- Saídas
+- Casamento
+- Retrocesso
+
+## 404
+
+- Aconchego Elegante (FG05.02)
+	- ==Leg Styling==
+- ==Passarela com Abraço== (SG18)
+- ==Yoyo de la para cá== (SG19)
+- ==Pivots== (SG20)
+
+## 405
+
+- Rolo (SG21)
+	- ==simple exit==
+	- Spinning exit
+- ==Saudação com deslize== (SL02)
+- Aconchego Frontal com Rasteira (FG06R)
+- ==Sombra Cruzada== (SH04)
+
+# Modulo 5
+
+## 501
+
+- ==Obstáculo== (SL03)
+- ==Giro Conduzido== (SG22)
+- Aconchego com Arrastada (FG04A)
+	- Volta da mulher (FG04.01)
+	- Passarela (FG04.02)
+- Aconchego Paralelo com Arrastada (FG05A)
+	- Passarela (FG05.01)
+	- Elegante (FG05.02)
+
+## 502
+
+- Deslize da Saída do Homem (SL04)
+- ==Carrossel com Arremesso== (SG02 + LE01)
+- ==Basic 2 com Rasteira== (DR01)
+- Aconchego Elegante com Puxada (FG05.02/FG05P)
+
+## 503
+
+- Aconchego com Puxada
+	- Volta da mulher (FG04.01/FG04P)
+	- Passarela (FG04.02/FG04P)
+- Aconchego Paralelo com Puxada
+	- Passarela (FG05.01/FG05P)
+	- Elegante (FG05.02/FG05P)
+- ==Passeio com rasteira== (DR02)
+- ==Tropeço com Pivot== (LT01 + SG20)
+
+## 504
+
+- ==Eixo== (SG24
+- ==Deslize Para-Brisa== (SL06)
+- ==Deslize na passarela== (SL06)
+- ==Sombra com Giro== (SH05)
+
+## 505
+
+- ==Aconchego Girado== (SG20 + FG06)
+- ==Rasteira Vai e Vem== (DR03)
+- ==Deslize Duplo== (SL05)
+
+# Module 6
+
+## 601
+
+Perform the following on the other side
 
 - [[Kiz - Vírgula\|Vírgula]]
 - [[Kiz - Clockwise\|Clockwise]]
@@ -163,90 +268,18 @@ Other than the basic moves, all the names presented were coined by me to help me
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Carrossel\|Carrossel]]
 
-## 402
-
-- Aconchego
-	- ==Abertura 90==
-	- Volta da Mulher
-- ==Linha==
-- ==Cruzada Dupla==
-
-## 403
-
-- Passarela Sombria
-	- Saídas
-	- Casamento
-	- Retrocesso
-	- Exit
-
-## 404
-
-- Aconchego
-	- ==Passarela==
-	- ==Passarela Paralela==
-- ==Aranha==
-- ==Deslize Lateral==
-- ==Varal do homem==
-
-## 405
-
-- Tornado
-- ==Elegancia==
-- ==Cadeirinha lateral==
-- ==Recolhida do Varal==
-
-# Modulo 5
-
-## 501
-
-- ==Caranguejo==
-- Pedágio com Sombra
-- ==Levantada Aranha==
-- Aconchego Elegante
-
-## 502
-
-- ==Saudação com deslize==
-- ==Obstáculo==
-- ==Sombra Deslizante==
-- ==Pivots==
-
-## 503
-
-- ==Aconchego Frontal com queda==
-- ==Passeio arrastado==
-- ==Deslize da saída do homem==
-- Elevador
-
-## 504
-
-- ==Eixo==
-- ==Aconchego 90 com arrastada==
-- ==Deslize na passarela==
-
-## 505
-
-- ==Cruzada atrás com arremesso==
-- ==Giro Conduzido==
-- ==Levantada com Chute==
-- ==Deslize parabrisa==
-
-# Module 6
-
-## 601
-
-- ==Arrastada Vai e Vem==
-- ==Carrossel com Arremesso==
-- ==Aconchego da Passarela com Arrastada==
-- ==Deslize Duplo==
-
 ## 602
 
-- ==[Sombra inversa](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)==
-- ==[Sombra com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)==
-- ==Aconchego Elegante com Puxada==
+- Tornado (SL01)
+- Liquidificador (SL02)
+- Aranha (FA01)
+- ==Recolhida do Varal== (FG08)
 
 ## 603
 
-- ==Pirulito
-- Liquidificador
+- Carrossel Aberto
+- ==Elegancia==
+- ==Joelhadas==
+- ==Levantada Traseira==
+- ==Pirulito==
+==Cruzada atrás com arremesso==
