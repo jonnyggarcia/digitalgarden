@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-09-25T17:19:32.518-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-09-26T12:07:58.020-04:00"}
 ---
 
 
@@ -28,6 +28,6 @@
 
 # Catalog
 
-- Code: SD08
-- Connections: [[Kiz - Woman Saída\|SD03]]
-- Parent: [[Kiz - Strides\|Strides]]
+- Code: CD08
+- Connections: [[Kiz - Woman Saída\|CD03]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

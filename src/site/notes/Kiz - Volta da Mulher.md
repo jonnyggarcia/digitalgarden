@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-volta-da-mulher/","created":"2024-09-20T11:07:38.862-04:00","updated":"2024-09-25T17:20:09.709-04:00"}
+{"dg-publish":true,"permalink":"/kiz-volta-da-mulher/","created":"2024-09-20T11:07:38.862-04:00","updated":"2024-09-26T12:08:58.072-04:00"}
 ---
 
 **Volta da Mulher** (follower going around something, in this case, the lead). This is a disconnected step where the lead stays in the same spot while the follower walks around them.
@@ -27,7 +27,7 @@ Instead of starting the move from the Saudação, the lead can initiate it from 
 
 # Catalog
 
-- Code: SG07
+- Code: GC07
 - Connections: -
-- Parent: [[Kiz - Spins\|Spins]]
+- Parent: [[Kiz - Giros\|Giros]]
 

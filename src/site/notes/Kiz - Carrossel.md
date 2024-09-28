@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-09-25T17:15:17.499-04:00"}
+{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-09-26T12:09:01.304-04:00"}
 ---
 
 
@@ -19,6 +19,6 @@ The **Carrossel (carousel)** starts with a clockwise turn but ends with a contin
 
 # Catalog
 
-- Code: SG01
-- Connections: [[Kiz - Clockwise\|SG01]]
-- Parent: [[Kiz - Spins\|Spins]]
+- Code: GC02
+- Connections: [[Kiz - Clockwise\|GC01]]
+- Parent: [[Kiz - Giros\|Giros]]

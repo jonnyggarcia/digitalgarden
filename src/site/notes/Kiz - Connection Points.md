@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-09-25T17:06:02.449-04:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-09-26T11:38:54.136-04:00"}
 ---
 
 
@@ -21,4 +21,4 @@ The connection between the feet and knees will be discussed later.
 
 - Code: B00
 - Connections: -
-- Parent: [[Kiz - Basics\|Basic Steps]]
+- Parent: [[Kiz - Basicos\|Basic Steps]]

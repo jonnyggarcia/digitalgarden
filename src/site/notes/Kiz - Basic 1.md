@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-09-25T17:06:07.855-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-09-26T11:38:54.125-04:00"}
 ---
 
 
@@ -14,4 +14,4 @@ The lead should indicate the movement with their right hand, resting on the foll
 
 - Code: B01
 - Connections: -
-- Parent: [[Kiz - Basics\|Basic Steps]]
+- Parent: [[Kiz - Basicos\|Basic Steps]]

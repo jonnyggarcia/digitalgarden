@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-09-25T17:22:17.507-04:00"}
+{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-09-26T12:08:06.364-04:00"}
 ---
 
 
@@ -26,6 +26,6 @@
 
 # Catalog
 
-- Code: SD11
-- Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Regra de 3\|SD10]]
-- Parent: [[Kiz - Strides\|Strides]]
+- Code: CD11
+- Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Regra de 3\|CD10]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-09-25T14:53:21.615-04:00"}
+{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-09-26T12:07:54.736-04:00"}
 ---
 
 
@@ -31,3 +31,9 @@
 - The lead should indicate the closing of the passeio.
 - The follower performs the pivot on the 3rd step.
 - This move will lead into [[Kiz - Cruz\|Cruz]].
+
+# Catalog
+
+- Code: CD13
+- Connections: [[Kiz - Regra de 3\|CD10]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

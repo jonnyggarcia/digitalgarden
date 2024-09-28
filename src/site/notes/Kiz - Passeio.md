@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-09-25T17:16:03.064-04:00"}
+{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-09-26T12:01:23.918-04:00"}
 ---
 
 
@@ -44,6 +44,6 @@ To finish the move and return to the closed position, the lead needs to indicate
 
 # Catalog
 
-- Code: SD01
+- Code: CD01
 - Connections: -
-- Parent: [[Kiz - Strides\|Strides]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

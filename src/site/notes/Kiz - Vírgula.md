@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-09-25T17:09:59.840-04:00"}
+{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-09-26T11:38:54.143-04:00"}
 ---
 
 
@@ -25,4 +25,4 @@ The essential part of this move is the chest pivoting to the left to initiate th
 
 - Code: B06
 - Connections: -
-- Parent: [[Kiz - Basics\|Basic Steps]]
+- Parent: [[Kiz - Basicos\|Basic Steps]]

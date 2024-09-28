@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-09-25T17:13:32.367-04:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-09-26T12:07:36.150-04:00"}
 ---
 
 
@@ -30,6 +30,6 @@ The lead must use the connection points to indicate a stop in the motion so the 
 
 # Catalog
 
-- Code: SC02
+- Code: CC02
 - Connections: -
-- Parent: [[Kiz - Strides\|Strides]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

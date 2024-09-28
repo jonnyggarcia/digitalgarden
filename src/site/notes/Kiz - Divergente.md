@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-09-25T17:13:54.951-04:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-09-26T12:08:00.975-04:00"}
 ---
 
 **Divergente** (divergent, as in a diverging lens shape) is a sequence of 4 [[Kiz - Corridinho\|Corridinho]]s in a row, alternating between forward and backward movements.
@@ -16,6 +16,6 @@
 
 # Catalog
 
-- Code: SC07
-- Connections: [[Kiz - Corridinho\|SC01]]
-- Parent: [[Kiz - Strides\|Strides]]
+- Code: CC07
+- Connections: [[Kiz - Corridinho\|CC01]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

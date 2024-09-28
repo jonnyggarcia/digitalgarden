@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-man-saida/","created":"2024-09-18T12:25:58.894-04:00","updated":"2024-09-25T17:17:13.978-04:00"}
+{"dg-publish":true,"permalink":"/kiz-man-saida/","created":"2024-09-18T12:25:58.894-04:00","updated":"2024-09-26T12:01:40.190-04:00"}
 ---
 
 **Saída** (exit) refers to moving off the track. In the Man Saída, the lead steps out of the track and then returns.
@@ -21,6 +21,6 @@ When the couple is walking side by side, their torsos are slightly pivot towards
 
 # Catalog
 
-- Code: SD02
+- Code: CD02
 - Connections: [[Kiz - Basic 3\|B05]]
-- Parent: [[Kiz - Strides\|Strides]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

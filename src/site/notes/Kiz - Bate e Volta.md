@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","created":"2024-09-22T13:12:45.835-04:00","updated":"2024-09-25T14:22:50.777-04:00"}
+{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","created":"2024-09-22T13:12:45.835-04:00","updated":"2024-09-26T12:08:54.795-04:00"}
 ---
 
 
@@ -28,6 +28,11 @@
 9. Close with a [[Kiz - Basic 2\|Basic 2]] to the left or a [[Kiz - Woman Saída\|Woman Saída]].
 
 *Key elements of the move*
-
 - The lead needs to provide enough momentum for the follower to spin and step back.
 - When the lead intercepts the follower’s back, they need to stop the momentum and then send the follower in the opposite direction.
+
+# Catalog
+
+- Code: GC14
+- Connections: -
+- Parent: [[Kiz - Giros\|Giros]]

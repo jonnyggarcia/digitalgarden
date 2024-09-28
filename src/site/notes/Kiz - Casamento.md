@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-25T17:18:53.203-04:00"}
+{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-26T12:07:40.769-04:00"}
 ---
 
 
-# Casamento
+# Casamento - CD04
 
 Here’s the corrected version:
 
@@ -24,7 +24,7 @@ Here’s the corrected version:
 *Key elements of the move*
 - Consult [[Kiz - Man Saída\|Man Saída]] and [[Kiz - Woman Saída\|Woman Saída]]
 
-# Casamento II
+# Casamento II - CD05
 
 **Casamento II** add 3 steps to casamento. It starts a Man Saída, forward basic 3, Woman Saída. In essence, from the lead’s perspective, this move is a [[Kiz - Basic 3\|Basic 3]] forward, a 90-degree turn to the right, another Basic 3 forward, a 90-degree turn to the left, followed by a Basic 3 backward. Note that none of these Basic 3 steps include a marca.
 
@@ -51,7 +51,7 @@ Here’s the corrected version:
 *Key elements of the move*
 - Pay attention to the chest pivots.
 
-# Casamento Com Giro
+# Casamento Com Giro - CD06
 
 **Casamento com Giro** starts with Man Saída, then a 180-degree turn, and finishes with Woman Saída.
 
@@ -78,7 +78,7 @@ Here’s the corrected version:
 *Key elements of the move*
 - Consult [[Kiz - Passeio\|Passeio]] for more details about opening and close.
 
-# Casamento Com Giro II
+# Casamento Com Giro II - CD07
 
 **Casamento Com Giro II** is the same as Casamento com Giro, but after step 3 (lead) add 2 steps forward and then continue from step 4.
 
@@ -87,6 +87,6 @@ Here’s the corrected version:
 
 # Catalog
 
-- Code: SD05, SD06, SD07
-- Connections: [[Kiz - Woman Saída\|SD03]]
-- Parent: [[Kiz - Strides\|Strides]]
+- Code: CD04, CD05, CD06, CD07
+- Connections: [[Kiz - Woman Saída\|CD03]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]]

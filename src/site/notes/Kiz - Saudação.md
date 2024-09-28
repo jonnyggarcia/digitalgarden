@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-09-25T17:06:19.199-04:00"}
+{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-09-26T11:38:54.140-04:00"}
 ---
 
 
@@ -18,4 +18,4 @@ When moving toward the partner, you can turn 180 degrees to face away from your 
 
 - Code: B04
 - Connections: -
-- Parent: [[Kiz - Basics\|Basic Steps]]
+- Parent: [[Kiz - Basicos\|Basic Steps]]
