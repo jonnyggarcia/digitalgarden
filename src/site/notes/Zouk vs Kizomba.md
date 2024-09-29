@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zouk-vs-kizomba/","created":"2024-07-05T15:46:12.568-04:00","updated":"2024-09-22T13:57:12.294-04:00"}
+{"dg-publish":true,"permalink":"/zouk-vs-kizomba/","created":"2024-07-05T15:46:12.568-04:00","updated":"2024-09-26T16:12:07.243-04:00"}
 ---
 
 
@@ -67,9 +67,9 @@ Now, for **Brazilian Zouk**.
 - Sometimes, the dancers stay in place, but it's usually not the way they would dance a whole song…
 - Nowadays, some Brazilian Zoukers mix up their dance and add kizomba and Zouk element in their dance, which can add to the confusion.
 
-Here's an example of [Brazilian Zouk](https://www.youtube.com/watch?v=dKopE_lMXWU).
+Here's an example of [Brazilian Zouk](https://www.youtube.com/watch?v=dKopE_lMXWU)
 
-And an example of [lambada Zouk](https://www.youtube.com/watch?v=JnVOs1ruqCc)…
+And an example of [lambada Zouk](https://www.youtube.com/watch?v=JnVOs1ruqCc)
 
 You can definitely see there that the energy between both is totally different but there are some similarities in the way the girl turns a lot… which almost never happens in Zouk or Kizomba.
 
