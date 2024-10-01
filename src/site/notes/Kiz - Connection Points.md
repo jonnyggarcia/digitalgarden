@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-09-26T11:38:54.136-04:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-10-01T00:29:43.419-04:00"}
 ---
 
 
-Kizomba is a dance led using the chest, hands, feet, and knees. 
+![](https://youtu.be/nWC_JVnaeoQ?si=be5pzx9huWRWSuLp)
+
+Kizomba is a dance led using the chest, hands, feet, and knees.
 
 The **primary point** of contact is chest-to-chest, with space maintained between the partners in the pelvic area.
 
