@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-09-26T12:08:18.922-04:00"}
+{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-10-01T10:49:32.181-04:00"}
 ---
 
+
+[Video](https://youtu.be/xy0lMdrg-d8)
 
 **Escada or Degrau (Stairs, Step)** is a forward walk from the lead’s perspective with a side step to the right.
 

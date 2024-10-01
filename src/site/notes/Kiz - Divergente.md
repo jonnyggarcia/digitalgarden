@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-09-26T12:08:00.975-04:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-10-01T11:00:32.518-04:00"}
 ---
+
+
+Video
 
 **Divergente** (divergent, as in a diverging lens shape) is a sequence of 4 [[Kiz - Corridinho\|Corridinho]]s in a row, alternating between forward and backward movements.
 

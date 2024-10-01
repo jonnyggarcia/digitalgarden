@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-09-26T11:38:54.143-04:00"}
+{"dg-publish":true,"permalink":"/kiz-virgula/","created":"2024-09-16T15:22:12.617-04:00","updated":"2024-10-01T10:59:05.076-04:00"}
 ---
 
+
+[Video](https://youtu.be/NFsmIsiHMDM)
 
 **Vírgula** (comma) is a change in direction to the left (most common) or right and can be performed with different degrees of rotation:
 

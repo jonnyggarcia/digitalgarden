@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-09-26T12:09:01.304-04:00"}
+{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-10-01T11:49:23.992-04:00"}
 ---
 
 
-The **Carrossel (carousel)** starts with a clockwise turn but ends with a continuous rotation.
+Video
+
+The **Carrossel** (merry-go-round) starts with a clockwise turn but ends with a continuous rotation.
 
 1. The lead steps forward with the left foot; the follower steps backward with the right foot.
 2. The lead steps with the right foot, turning 45 degrees to the right.

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-09-26T12:08:16.566-04:00"}
+{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-10-01T11:00:16.589-04:00"}
 ---
 
 
-**[Quadrado Video](https://youtu.be/E_8VW6Xhlfs?si=uM6srmUh8u9xgCyZ&t=368)**
+[Video](https://youtu.be/A-U6t7W2fuA)
 
 **Quadrado (Box)** involves walking forward and backward with a side step before moving back. This move demonstrates a change in direction without using a marca.
 
@@ -22,5 +22,5 @@
 # Catalog
 
 - Code: CC05
-- Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Basic 2\|B02]]
+- Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Escada\|CC03]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]]

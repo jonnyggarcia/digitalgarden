@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-10-01T00:30:53.535-04:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-10-01T00:37:00.852-04:00"}
 ---
 
 
-![](https://youtu.be/nWC_JVnaeoQ?si=be5pzx9huWRWSuLp)
+[Connection Points - Video](https://youtu.be/nWC_JVnaeoQ?si=be5pzx9huWRWSuLp)
 
 Kizomba is a partner dance led by the chest, hands, feet, and knees.
 

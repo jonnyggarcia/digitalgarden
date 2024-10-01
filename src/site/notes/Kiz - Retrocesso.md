@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-09-26T16:05:23.803-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-01T12:50:13.966-04:00"}
 ---
 
+
+[Video](https://youtu.be/uxaAVK91mzA)
 
 **Retrocesso** (setback/regression, the opposite of progression) is a connected move that utilizes syncopation. It involves the lead moving backward and performing a 180-degree turn. The turn can be in either direction, but it is more commonly performed to the left. This is a very important step used for connection.
 

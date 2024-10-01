@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-09-26T11:38:54.132-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-2/","created":"2024-09-16T15:36:24.231-04:00","updated":"2024-10-01T10:51:11.020-04:00"}
 ---
 
+
+[Video](https://youtu.be/ugkL_Ft7UgE)
 
 **Basic 2** is a side-to-side step where each step follows the beat of the music. Traditionally, by convention, the lead always steps to the left and the follower to the right. After stepping, the lead closes their right leg. Then, with the same leg (right), the lead steps to the right.
 

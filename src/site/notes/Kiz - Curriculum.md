@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-09-26T15:58:39.279-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-01T10:51:37.259-04:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [[Kiz - Connection Points\|Connection Points]] (B00)
 - [[Kiz - Basic 1\|Basic 1]] (B01)
 - [[Kiz - Basic 2\|Basic 2]] (B02)
-- [[Kiz - Side Opening\|Side Opening]] (B03)
+- [[Kiz - Abertura Lateral\|Side Opening]] (B03)
 - [[Kiz - Saudação\|Saudação]] (B04)
 	- Giro
 

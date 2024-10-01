@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-09-26T12:07:44.843-04:00"}
+{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-10-01T10:58:01.626-04:00"}
 ---
 
+
+[Video](https://youtu.be/Vb-1hWD__no)
 
 **Corridinho** (little run) is a variation of [[Kiz - Basic 3\|Basic 3]], where both the lead and follower walk together in a circle. This movement can be executed in both directions (left and right) and in both ways (forward and backward). It can be performed in closed or open positions. The open position will be discussed on [[Kiz - Passeio\|Passeio]].
 

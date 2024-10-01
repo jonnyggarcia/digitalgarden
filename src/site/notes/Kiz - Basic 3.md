@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-09-26T11:38:54.134-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-10-01T10:57:40.074-04:00"}
 ---
+
+
+[Video](https://youtu.be/M6sBSMrF4Sc)
 
 **Basic 3** requires the lead to have clear intention, which is communicated through the chest. The intention is conveyed when the lead transfers their weight to their toes (walking forward) or to their heels (walking backward).
 

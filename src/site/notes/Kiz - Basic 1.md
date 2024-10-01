@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-09-26T11:38:54.125-04:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-1/","created":"2024-09-16T15:32:26.583-04:00","updated":"2024-10-01T10:50:43.002-04:00"}
 ---
 
+
+[Video](https://youtu.be/zRWbFeUZw6w)
 
 **Basic 1** consists of weight transfers from side to side. This move is typically performed over 2 beats of music and is often used when there is no strong beat.
 

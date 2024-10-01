@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-09-26T12:08:29.336-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-10-01T10:49:12.737-04:00"}
 ---
 
+
+[Video](https://youtu.be/p3CUwosKolc)
 
 **Diamante** (diamond) is a variation of [[Kiz - Basic 3\|Basic 3]] where the lead walks diagonally. After 3 steps, the lead reversed the direction in the opposite diagonal. Upon completion of 4 diagonal walks, the couple have walked in the shape of a diamond.
 

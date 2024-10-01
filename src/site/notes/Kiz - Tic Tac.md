@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-tic-tac/","created":"2024-09-17T12:54:26.952-04:00","updated":"2024-09-26T12:08:10.809-04:00"}
+{"dg-publish":true,"permalink":"/kiz-tic-tac/","created":"2024-09-17T12:54:26.952-04:00","updated":"2024-10-01T11:25:37.151-04:00"}
 ---
+
+
+[Video](https://youtu.be/OHP5SaJivrU)
 
 **Tic Tac** (the sound produced by an analog clock) is a connected step where the lead keeps the weight on one leg while moving the other leg in a repetitive motion. This move is used to emphasize the music.
 

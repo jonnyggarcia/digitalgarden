@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-09-26T12:07:36.150-04:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-10-01T10:58:15.779-04:00"}
 ---
 
+
+[Video](https://youtu.be/pXfTn4LCuKw)
 
 **Balance (Balanced Scale)** is a rocking step. It can be performed on the spot, without moving the legs, by only transferring the weight. It can also be performed with one step forward, followed by a balance, then a step backward, another balance, and so on.
 

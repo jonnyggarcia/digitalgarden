@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-09-26T11:38:54.140-04:00"}
+{"dg-publish":true,"permalink":"/kiz-saudacao/","created":"2024-09-16T15:48:23.346-04:00","updated":"2024-10-01T10:57:03.489-04:00"}
 ---
 
+
+[Video](https://youtu.be/VK2sUl-EPbA)
 
 **Saudação** (salute) is a mirrored move where the lead and the follower move backwards, perform a marca (closing the legs), and then move forward using the same leg.
 
