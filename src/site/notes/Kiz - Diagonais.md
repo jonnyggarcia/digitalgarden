@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-09-26T12:07:58.020-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-10-03T09:44:52.108-04:00"}
 ---
 
 
@@ -28,6 +28,6 @@
 
 # Catalog
 
-- Code: CD08
+- Code: CD02
 - Connections: [[Kiz - Woman Saída\|CD03]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]]

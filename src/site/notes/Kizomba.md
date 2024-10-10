@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-09-27T10:47:16.711-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-04T16:16:00.053-04:00"}
 ---
 
 
@@ -42,22 +42,7 @@ Another code presented is FC04*P*
 
 At the bottom of each page, you will find the catalog information:
 
-- Movement Code
-- Connections: Other steps that are required to perform the step in question
-- Parent: The category to which the movement belongs
+- Movement Code.
+- Connections: Other steps that are required to perform the step in question.
+- Parent: The category to which the movement belongs.
 
----
-
-[[Kiz - People\|People]]
-
-[[Kiz - Classes\|Classes]]
-
-[[Zouk vs Kizomba\|Zouk vs Kizomba]]
-
-[[Kizomba Musicality\|Kizomba Musicality]]
-
-[[How to improve certainty as a follower\|How to improve certainty as a follower]]
-
-[[Kiz - Videos\|Videos]]
-
-[[History of Kizomba\|History of Kizomba]]

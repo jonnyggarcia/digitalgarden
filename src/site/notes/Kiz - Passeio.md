@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-09-26T12:01:23.918-04:00"}
+{"dg-publish":true,"permalink":"/kiz-passeio/","created":"2024-09-17T13:34:32.098-04:00","updated":"2024-10-01T20:03:48.316-04:00"}
 ---
 
+
+[Video](https://youtu.be/jMjsn09iR5U)
 
 **Passeio** (go for a walk) is a disconnection step where both the lead and follower open 90 degrees, then walk and close back to closed position.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-10-01T11:00:16.589-04:00"}
+{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-10-01T22:37:41.331-04:00"}
 ---
 
 
@@ -16,7 +16,7 @@
    - Use the arm to guide the follower.
 
 *Key elements of the move*
-- Use of a [[Kiz - Escada\|Degrau]] move followed by a step backwards.
+- Use of a [[Kiz - Escada\|Escada]] move followed by a step backwards.
 - Sequence: Left, Right, side step, Back Left, Right, Basic 2 to the left.
 
 # Catalog

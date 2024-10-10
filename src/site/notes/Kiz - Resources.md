@@ -1,7 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-09-29T03:52:04.545-04:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-10T11:54:41.234-04:00"}
 ---
 
+
+# Notes
+
+[[Kiz - People\|People]]
+
+[[Kiz - Progression\|Kiz - Progression]]
+
+[[Kiz - Classes\|Classes]]
+
+[[Zouk vs Kizomba\|Zouk vs Kizomba]]
+
+[[Kizomba Musicality\|Kizomba Musicality]]
+
+[[How to improve certainty as a follower\|How to improve certainty as a follower]]
+
+[[Kiz - Videos\|Videos]]
+
+[[History of Kizomba\|History of Kizomba]]
 
 # Basic Moves
 
@@ -13,6 +31,18 @@
 [Levantada 90](https://youtu.be/PMx9iNE6pgI?si=siZaIGZ6xnEQYgf8&t=389)
 
 [Passeio](https://youtu.be/PMx9iNE6pgI?si=tN7wmiEcdB6DLcUf&t=714)
+
+- ☑ [Cruzada Atrás](https://youtu.be/OYtkgTlX3LA?si=ymM00OalLDV3zyXW) (CR01)
+- ☑ Cruzada a frente (CR02)
+	- Saída do Homem
+	- ☑ com estilo
+- ☑ [Cruzada Abre e Fecha](https://youtu.be/2lN9WdCBDhM?si=WdigK08fj9Yr4UR_&t=119) (CR03)
+- ☑ [Caranguejo](https://youtu.be/xULxFEtKis8?si=wY81KJZTsXTXySQG&t=60) (CR03)
+	- [variation](https://youtu.be/1CSYFfFPHVs?si=PQMya-_1K4T0h514)
+	- Com estilo
+	- Sombria
+- ☑ ==Cruzada atrás com arremesso==
+
 
 # Resources
 
@@ -53,11 +83,18 @@
 		- [Drill 4](https://youtu.be/qzsj4ShqJXM?si=JbN_jInK8FF13gi3&t=456): Lead fwd while follower bwd
 		- Drill 5: drill 3, change to drill 4
 - ☑ [Pedágio](https://youtu.be/aprZyUIE72o?si=WG1148bXqXeTycBj) (CD16)
+- 
+
+
+- Regra de 3 trocada (CD17)
+- ☑ Passo Junto com Volta (CD18)
+- [Caranguejo](https://youtu.be/lTSwYZBqSow?si=zA2EvmEJ_8ptHMVz&t=54)(CD19)
+
 - ☑ [Passeio Sombrio](https://youtu.be/EL2LZ5hcWRc?si=9W7qgro4RZKfxkMz) (CS01)
 - ☑ [Passarela Sombria](https://youtu.be/7TVNeoGtltU?si=dgUn0uIzqrpoEuM1&t=7) (CS02)
 - ☑ Pedágio Sombrio (CS03)
-- ☑ [Sombra Cruzada](https://youtu.be/V88h5Dibl3s?si=4WYFqS7MoH1TlBgg) (CS04)
-- ☑ ==[Sombra com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)== (CS05)
+- ☑ [Fila Cruzada](https://youtu.be/V88h5Dibl3s?si=4WYFqS7MoH1TlBgg) (CS04)
+- ☑ ==[Fila com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)== (CS05)
 - ☑ ==[Rolo](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)== (GC21)
 
 # Strides with Spins
@@ -71,7 +108,7 @@
 - ☑ [[Kiz - Clockwise\|Clockwise]] (GC01)
 - ☑ [[Kiz - Carrossel\|Carrossel]] (GC02)
 - ☑ [[Kiz - Retrocesso\|Retrocesso]] (GC03)
-- ☑ Meio Giro da Mulher (GC04)
+- ☑ Meio Giro (GC04)
 - ☑ Giro da Mulher (GC05)
 - ☑ Espiral (GC06)
 - ☑ [[Kiz - Volta da Mulher\|Volta da Mulher]] (GC07)
@@ -81,7 +118,7 @@
 - ☑ Desfile (GC11)
 - ☑ Pião (GC12)
 - ☑ Passarela (GC13)
-- ☑ [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
+- ☑ [Bate e Volta](https://youtu.be/Pl_cgRpcfeE?si=FyGcMcSu37mQsjtq) (GC14)
 - ☑ Passarela Bate e Volta (GC15)
 - ☑ Volta da Homem (GC16)
 - ☑ Yoyo (GC17)
@@ -107,14 +144,23 @@
 
 ## Deslizes (DD)
 
-- ☑ ==[Deslize Lateral](https://youtu.be/icttHOiKwys?si=Ndb6qWmYttEcVxkk&t=179)== (DD01)
-- ☑ [Saudação com Deslize](https://youtu.be/qyEfa7v5RYo?si=bqTjzjq1D3LZ_XcF) (DD02)
-- ☑ ==[Obstáculo](https://youtu.be/2lN9WdCBDhM?si=N64FeZ18Mr2JqI66&t=56)== (DD03)
-- ☑ ==[Deslize na saída do homem](https://youtu.be/tvwLmZELo-k?si=ZKzoQk3SsKZj88Gq&t=188)== (DD04)
-	- long slide and come back from regular step
-- ☑ [Para-brisa](https://youtu.be/tvwLmZELo-k?si=Vll2cSKhHvJcL15r&t=576) (DD05)
-- ☑ ==[Deslize na passarela](https://youtu.be/icttHOiKwys?si=cMD0DJMI4sReeBWv&t=526)== (DD06)
-- ☑ ==[DeslizeDuplo](https://youtu.be/icttHOiKwys?si=w2zaswtNJD4hV7Xl&t=320)== (DD07)
+- ☑ Cruzada Atrás (DD01) 301
+- ☑ Cruzada a Frente (DD02) 301
+	- Man Saída to the right
+	- Knees or [Feet](https://youtu.be/tvwLmZELo-k?si=ZKzoQk3SsKZj88Gq&t=188)
+	- ☑ With Styling (feet)
+- ☑ [Para-brisa](https://youtu.be/tvwLmZELo-k?si=Vll2cSKhHvJcL15r&t=576) (DD03) 303
+- ☑ [Cruzada Lateral](https://youtu.be/icttHOiKwys?si=Ndb6qWmYttEcVxkk&t=179) (DD04) 304
+	- Man Saída to the left
+- ☑ [Saudação Cruzada](https://youtu.be/qyEfa7v5RYo?si=bqTjzjq1D3LZ_XcF) (DD05) 305
+- ☑ Cruzada Abre e Fecha (DD06) 401
+- ☑ Caranguejo (DD07) 405
+	- Variation
+	- With Styling
+	- Sombria
+- ☑ ==[Obstáculo](https://youtu.be/2lN9WdCBDhM?si=N64FeZ18Mr2JqI66&t=56)==  501
+	- Perform a DD03 and the follower skips over the lead's leg.
+- ☑ ==[Deslize Duplo](https://youtu.be/icttHOiKwys?si=w2zaswtNJD4hV7Xl&t=320)== (DD08) 502
 
 ## Rasteiras (DR)
 
@@ -143,17 +189,25 @@
 
 **Conjunta (LC)**
 - ☑ Cruzada (Aconchego elegante) (LC01)
+	- Right arm signal
+	- Right leg fishing 
 - ☑ [Extendida](https://youtu.be/CapnLZvqKTI?si=J_NfIJeNWO_auR8Z&t=636) (LC02)
 - ☑ [Joelhadas](https://youtu.be/CapnLZvqKTI?si=SYKzFli8xF60cjpy&t=630) (LC03)
 
 **Tropeço (LT)**
-- ☑ Tropeço (Cruzada a frente) (LT01)
-- ☑ [Caranguejo](https://youtu.be/xULxFEtKis8?si=7NYLd5OsFowSPPUc) (LT02)
-- ☑ Tropeço com Pivot (LT03)
+- ☑ Tropeço da Regra de 3 (LT01)
+	- [Variation 1: on Step 3](https://youtu.be/gcVuqG7Z0uQ?si=r_RlCmrJrPW-mWv1&t=59)
+	- [Variation 2: with heels](https://youtu.be/gcVuqG7Z0uQ?si=T2HEIzqZ_E652zBo&t=147)
+- ☑ Tropeço da Cruzada a frente (LT02)
+- ☑ Tropeço de costas (LT03)
+- ☑ [Caranguejo](https://youtu.be/lTSwYZBqSow?si=zA2EvmEJ_8ptHMVz&t=54) (LT04)
+- [Tropeço com Giro](https://youtu.be/xUpCX6tw1KQ?si=Dhdb_gF7jVDz-WYy&t=32) (LT05)
 
 **Interna (perda de dentro) (LI)**
 - ☑ Regra de 3 (LI01)
 - ☑ Chute (LI02)
+- ☑ Deslize Traseiro (LI03)
+	- [Saída do homem](https://youtu.be/lTSwYZBqSow?si=k8cqQODDR6b2-Urh&t=89)
 
 **Externa (perna de fora) (LE)**
 - ☑ Arremesso (LE01)
@@ -171,7 +225,6 @@
 - ☑ [Cadeirinha](https://youtu.be/Ql9c9NFI4_8?si=QhDFvUF4UPcMSpcS) (FG02)
 - ☑ Cadeirinha Lateral (FG03)
 - Cadeirinha Flutuante (FGxx)
-
 
 *Aconchego*
 - ☑ Regular (FG04)

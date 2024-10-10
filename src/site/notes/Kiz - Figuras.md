@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-09-26T15:45:12.034-04:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-10-10T12:44:25.651-04:00"}
 ---
 
 
@@ -8,12 +8,12 @@
 - ☑ Reverência do Bolero (FC01)
 - ☑ Cadeirinha (FC02)
 - ☑ Cadeirinha Lateral (FC03)
-- Cadeirinha Flutuante (FCxx)
+- ☑ Cadeirinha Flutuante (FC04)
 
 *Aconchego*
 - ☑ Regular (FC04)
 	- Entradas:
-		- ☑ Volta da Mulher (FC04.01)
+		- ☑ Volta da Homem (FC04.01)
 		- ☑ Passarela (FC04.02)
 	- Truques
 		- ☑ Puxada (FC04P)
@@ -24,23 +24,25 @@
 		- ☑ Elegante (FC05.02)
 			- (Babs)
 			- ☑ Leg Styling
-		- Levantada traseira (FC05.03)
+		- ==Levantada traseira== (FC05.03)
 	- Truques
 		- Puxada (FC05P)
 		- Arrastada (FC05A)
 - ☑ Frontal (FC06)
 	- Entrada
 		- ☑ Básico 2 (FC06.01)
-		- ☑ Abertura 90 (FC06.02)
+		- ☑ ==Abertura 90== (FC06.02)
 		- ☑ ==Invertida (FC06.03)==
 		- ☑ Pivot (FC06.04)
 	- Truques
 		- ☑ Com rasteira (FC06R)
 - ☑ Varal da Mulher (FC07)
-- ☑ Recolhida do Varal (FC08)
-- ==☑ Varal do Homem (FC07)==
+	- Truques
+		- Com Puxada FC07P)
+- ==Varal do Homem (FC07)==
 
 # Aerial Figures (FA)
 
 - Aranha (FA01)
 - Elevador (FA02)
+- ==Elegancia==

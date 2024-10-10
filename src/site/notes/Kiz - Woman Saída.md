@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-09-26T12:08:14.080-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-10-07T10:50:14.599-04:00"}
 ---
+
+
+[Video](https://youtu.be/0SaskvMWQHk)
 
 **Saída** (exit) refers to moving off the track. In the Woman Saída, the follower steps out of the track and then returns.
 
 # Woman Saída
 
 **Lead**
-
 1. The lead steps forward with the left leg but disconnects the chest. This is achieved by reducing the chest movement forward and allowing the right hand to slide to the right across the follower’s back.
 2. Intercept the follower’s movement, blocking them from continuing to step backward ([[Kiz - Balance\|Balance]]). Pivot the torso to the right while transferring weight to the right leg (without stepping). The pivot creates space for the follower to step outside the track, to the right of the lead.
 3. Take a left step back, keeping the torso pivoted toward the follower. At this moment, the follower should establish a thigh-to-thigh connection on the right side of the lead.
@@ -15,7 +17,6 @@
 5. Collect the leg (marca). Ensure the deceleration of the movement to signal a marca, and make sure the weight is on your right side, so the follower doesn't transfer their weight prematurely.
 
 **Follower**
-
 1. The lead’s chest provides the intention to step backward with the right foot.
 2. The lead should stop your backward momentum and gently pull you forward ([[Kiz - Balance\|Balance]]). Your left hand, resting across the lead’s back, will be pulled in a circular motion, causing your chest to pivot to the right toward the lead. The pull from step 2 transfers your weight to the left leg (without stepping).
 3. Take a right step forward, positioning yourself to the right of the lead and establishing a thigh-to-thigh connection (your outer right thigh against the lead’s outer right thigh). If there isn't enough space to step forward, that is a lead issue.
@@ -34,10 +35,11 @@ When the follower establishes the thigh-to-thigh connection on step 3, the lead 
 
 # Woman Saída with Retrocesso
 
-On step 4 from the leads perspective, perform a [[Kiz - Retrocesso\|Retrocesso]].
+1. On step 4 from the lead's perspective, perform a [[Kiz - Retrocesso\|Retrocesso]].
+2. On step 3, the block, the lead steps forward into a [[Kiz - Retrocesso\|Retrocesso]]
 
 # Catalog
 
-- Code: CD03
-- Connections: [[Kiz - Balance\|CC02]], [[Kiz - Basic 3\|B05]]
+- Code: CD03, CD09
+- Connections: [[Kiz - Balance\|CC02]], [[Kiz - Basic 3\|B05]], [[Kiz - Retrocesso\|GC03]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]]

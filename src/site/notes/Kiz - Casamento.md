@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-09-26T12:07:40.769-04:00"}
+{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-10-03T09:44:17.679-04:00"}
 ---
 
 
-# Casamento - CD04
-
-Here’s the corrected version:
+# Casamento - CD05
 
 **Casamento** (wedding) is a combination of [[Kiz - Man Saída\|Man Saída]] plus [[Kiz - Woman Saída\|Woman Saída]].
 
@@ -24,13 +22,11 @@ Here’s the corrected version:
 *Key elements of the move*
 - Consult [[Kiz - Man Saída\|Man Saída]] and [[Kiz - Woman Saída\|Woman Saída]]
 
-# Casamento II - CD05
+# Casamento II - CD06
 
 **Casamento II** add 3 steps to casamento. It starts a Man Saída, forward basic 3, Woman Saída. In essence, from the lead’s perspective, this move is a [[Kiz - Basic 3\|Basic 3]] forward, a 90-degree turn to the right, another Basic 3 forward, a 90-degree turn to the left, followed by a Basic 3 backward. Note that none of these Basic 3 steps include a marca.
 
 **Lead**
-Here’s the corrected version:
-
 1. Give the intention to walk forward, but step diagonally to the left.
 2. Take a right step forward beside the follower.
 3. Take a left step forward, intercepting the follower’s movement and blocking them from continuing to step backward ([[Kiz - Balance\|Balance]]). Pivot the torso to the right. The follower will be outside of the track to the left side of the lead.
@@ -51,12 +47,11 @@ Here’s the corrected version:
 *Key elements of the move*
 - Pay attention to the chest pivots.
 
-# Casamento Com Giro - CD06
+# Casamento Com Giro - CD07
 
 **Casamento com Giro** starts with Man Saída, then a 180-degree turn, and finishes with Woman Saída.
 
 **Lead**
-
 1. Give the intention to walk forward, but step diagonally to the left.
 2. Take a right step forward beside the follower.
 3. Perform the opening of [[Kiz - Passeio\|Passeio]] while crossing your left leg behind the right leg.
@@ -67,7 +62,6 @@ Here’s the corrected version:
 8. Collect the right leg (marca).
 
 **Follower**
-
 1. Take a right step backward. Make sure the lead's intention is clear.
 2. Take a left step backward.
 3. Take a right step backward. At this point you should in opening of [[Kiz - Passeio\|Passeio]].
@@ -78,7 +72,7 @@ Here’s the corrected version:
 *Key elements of the move*
 - Consult [[Kiz - Passeio\|Passeio]] for more details about opening and close.
 
-# Casamento Com Giro II - CD07
+# Casamento Com Giro II - CD08
 
 **Casamento Com Giro II** is the same as Casamento com Giro, but after step 3 (lead) add 2 steps forward and then continue from step 4.
 
@@ -87,6 +81,6 @@ Here’s the corrected version:
 
 # Catalog
 
-- Code: CD04, CD05, CD06, CD07
+- Code: CD05, CD06, CD07, CD08
 - Connections: [[Kiz - Woman Saída\|CD03]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]]

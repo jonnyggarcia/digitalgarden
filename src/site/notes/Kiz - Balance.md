@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-10-01T10:58:15.779-04:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-10-03T13:49:01.094-04:00"}
 ---
 
 
