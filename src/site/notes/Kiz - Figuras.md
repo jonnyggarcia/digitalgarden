@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-10-10T12:44:25.651-04:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-10-12T17:54:55.681-04:00"}
 ---
 
 
@@ -31,9 +31,10 @@
 - ☑ Frontal (FC06)
 	- Entrada
 		- ☑ Básico 2 (FC06.01)
-		- ☑ ==Abertura 90== (FC06.02)
-		- ☑ ==Invertida (FC06.03)==
-		- ☑ Pivot (FC06.04)
+		- ☑ Abertura 90 (FC06.02)
+		- ☑ De lá para Cá (FC06.03)
+		- ☑ Woman Saída (FC06.04)
+		- ☑ Pivot (FC06.05)
 	- Truques
 		- ☑ Com rasteira (FC06R)
 - ☑ Varal da Mulher (FC07)

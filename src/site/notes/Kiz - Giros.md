@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-10-10T12:45:37.308-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-10-16T10:48:39.092-04:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 - ☑ [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
 - ☑ Passarela Bate e Volta (GC15)
 - ☑ Yoyo (GC17)
-- ☑ ==Passarela com Abraço== (GC18)
+- ☑ Passarela com Abraço (GC18)
 - ☑ ==Yoyo de Lá para Cá== (GC19)
 	- Left Hand leading
 	- Desfile leading

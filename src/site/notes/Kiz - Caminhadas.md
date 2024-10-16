@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-10-10T12:46:08.897-04:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-10-10T12:52:44.114-04:00"}
 ---
 
 
@@ -32,6 +32,9 @@
 	- ☑ [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída com Retrocesso]] (CD09)
 	- Saída Flutuante
 - ☑ [[Kiz - Regra de 3\|Regra de 3]] (CD10)
+	- Walking
+	- On the Spot
+	- Leads reversed
 - ☑ [[Kiz - Linha\|Linha]] (CD11)
 - ☑ [[Kiz - Cruz\|Cruz]] (CD12)
 - ☑ [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)

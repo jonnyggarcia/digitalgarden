@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-movement-dictionary/","created":"2024-09-09T10:45:48.919-04:00","updated":"2024-10-10T12:38:47.089-04:00"}
+{"dg-publish":true,"permalink":"/kiz-movement-dictionary/","created":"2024-09-09T10:45:48.919-04:00","updated":"2024-10-16T10:32:06.325-04:00"}
 ---
 
 

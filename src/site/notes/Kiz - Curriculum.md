@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-10T12:48:16.858-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-16T10:48:00.678-04:00"}
 ---
 
 
@@ -107,6 +107,9 @@
 ## 205 - Spins with Walks
 
 - [[Kiz - Regra de 3\|Regra de 3]] (CD10)
+	- Walking
+	- On the Spot
+	- Leads reversed
 - [[Kiz - Linha\|Linha]] (CD11)
 - [[Kiz - Giro e Meio da Mulher\|Giro e Meio da Mulher]] (GC10)
 - [[Kiz - Desfile\|Desfile]] (GC11)
@@ -145,7 +148,7 @@
 - Para-Brisa (DD03)
 - Tropeço da Regra de 3 (DL03)
 - Regra de 3 Trocada (CD21)
-- Arremesso (DL04)
+- Volta da Mulher Reversa (CD15)
 
 ## 304
 
@@ -181,8 +184,9 @@
 - Passeio em Fila (CF01)
 - Aconchego Frontal
 	- Entrada do Básico 2 (FC06.01)
-	- Entrada da ==abertura 90 ==(FC06.02)
-	- ==Entrada invertida ==(FC06.03)
+	- Entrada da abertura 90 (FC06.02)
+	- Entrada da De lá para Cá (FC06.03)
+	- Woman Saída (FC06.04)
 
 ## 403
 
@@ -248,7 +252,7 @@ Practice the following in shadow position:
 
 - ==Eixo== (GC24)
 - Passo Junto com Volta (CD22)
-- Volta da Mulher Reversa (CD15)
+- Arremesso (DL04)
 - ====Fila com Giro== (CF05)
 
 ## 505

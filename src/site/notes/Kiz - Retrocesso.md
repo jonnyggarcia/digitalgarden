@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-03T13:50:26.035-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-10T14:52:07.589-04:00"}
 ---
 
 
@@ -21,8 +21,6 @@ There are three possible ways the lead can enter into retrocesso:
 - **GC03.01** - Back step: From the right side of closed position, the lead steps back with the left foot.
 - **GC03.02** - Basic 2: From the left side of closed position.
 - **GC03.03** - Balance: Step forward with the left foot, balance. This is used to perform several retrocessos in a row. This entry is similar to the key element of [[Kiz - Diamante\|Diamante]].
-- As a blending exercise, the lead can perform a [[Kiz - Quadrado\|Quadrado]] lead into Retrocesso on the right step backward during step 3.
-- Also practice 2 retrocesso in a row.
 
 **Follower**
 1. Take a left step forward turning to the left. The turning comes from the lead's chest movement.
@@ -30,6 +28,14 @@ There are three possible ways the lead can enter into retrocesso:
 3. Collect the left step off beat (contratempo) and transfer the weight.
 4. Take right step back turning to the left. The turning comes from the lead's chest movement.
 5. Perform a basic 2 to the left, as in a Basic 2 (marca).
+
+# Drills
+
+1. Quadrado, Retrocesso 1st entry.
+2. Retrocesso 1st entry, Retrocesso 3rd entry.
+3. [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída]] entry, Retrocesso 1st entry.
+4. Woman Saída block, Retrocesso 3rd entry.
+5. Espiral, Retrocesso 2nd entry.
 
 *Key elements of the move*
 - The most important element is the chest pivot on step 1.
