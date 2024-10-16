@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-16T10:32:02.013-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-16T13:32:06.141-04:00"}
 ---
 
 
@@ -10,6 +10,10 @@
 # [[Principles of Kizomba\|Principles of Kizomba]]
 
 # [[Kizomba Exercises\|Kizomba Exercises]]
+
+# [[Kizomba Musicality\|Kizomba Musicality]]
+
+---
 
 [Spotify Playlist](https://open.spotify.com/playlist/4vCODB1vWVWzpaxpPJGLvW?si=fc8d06aac8ec4d39)
 

@@ -1,74 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-exercises/","created":"2024-10-16T08:49:19.964-04:00","updated":"2024-10-16T10:32:28.619-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-exercises/","created":"2024-10-16T08:49:19.964-04:00","updated":"2024-10-16T13:16:36.288-04:00"}
 ---
 
 
 # Acknowledgement Exercise
 
-This exercise is based on the Japanese method called [**Shisa Kanko**](https://en.wikipedia.org/wiki/Pointing_and_calling) (pointing and calling). The goal of this exercise is to increase the follower’s awareness of what is happening in their body. There are 10 stages in this exercise. The couple should only move to the next step after several repetitions without any doubts.
-
-**Stage 1 - Perception**
-
-- The follower stands with their feet in a natural position.
-- Using only their index finger, the lead will touch the follower's body.
-- The follower will then announce where they have been touched.
-
-**Stage 2 - Different Touch Signals**
-
-- Same as stage 1, but now the lead can use:
-	- One finger.
-	- One finger on each hand.
-	- Multiple fingers.
-	- The whole hand.
-	- The base of their hand.
-- Now the follower needs to vocalize where they have been touched and with what kind of touch.
-
-**Stage 3 - Intensity**
-
-- Using the same types of touch, the lead will vary the intensity of the touch.
-- The follower must indicate, in comparison to the previous touch, whether the current one is less, more, or the same intensity.
-
-**Stage 4 - Intention**
-
-- The lead will now provide a slight push or pull when touching the follower. This can be in the following directions:
-	- Up
-	- Down
-	- Left
-	- Right
-	- Forward
-	- Backward
-	- Diagonal forward
-	- Diagonal backward
-- The follower should not take any steps and should comment on the direction of the touch.
-
-**Stage 5 - Following**
-
-- Now the follower does not need to vocalize what they are feeling. Instead, they will take a single step in the direction of the signal received.
-	- The intensity of the touch should dictate the size of the step.
-- The location of the touch will communicate different ideas to the follower:
-	- A touch in the middle of the back signals a straight walk.
-	- A touch on the edge of the torso or arms will indicate a turn.
-	- A diagonal touch will indicate a crossing step.
-	- A downward intention indicates a stop.
-	- An upward intention indicates a leg lift.
-- Reset to a neutral position before starting again.
-
-**Stage 6 - Step**
-
-- Now, instead of taking a single step, the follower will keep walking according to the signal received.
-- Reset to a neutral position before starting again.
-
-**Stage 7 - Stop**
-
-- At any moment while the follower is walking, the lead will provide a signal in the opposite direction or with a downward intention to stop the follower.
-- The timing of the stop signal is crucial. The lead should only signal to stop when the follower is grounded with both feet and before taking another step.
-- The follower should stop without taking any additional steps.
-- Reset and restart.
-
-**Stage 8 - Signal Change**
-
-- Same as stage 7, but instead of a stop signal, the lead will offer a new signal.
-- The follower should abandon their current way of walking and follow the new signal.
+[[How to improve certainty as a follower\|How to improve certainty as a follower]]
 
 # Placement Exercise
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-10T11:54:41.234-04:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-16T13:19:56.810-04:00"}
 ---
 
 
@@ -11,15 +11,7 @@
 
 [[Kiz - Classes\|Classes]]
 
-[[Zouk vs Kizomba\|Zouk vs Kizomba]]
-
-[[Kizomba Musicality\|Kizomba Musicality]]
-
-[[How to improve certainty as a follower\|How to improve certainty as a follower]]
-
 [[Kiz - Videos\|Videos]]
-
-[[History of Kizomba\|History of Kizomba]]
 
 # Basic Moves
 
