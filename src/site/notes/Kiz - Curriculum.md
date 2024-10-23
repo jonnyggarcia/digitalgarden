@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-16T10:48:00.678-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-23T12:08:19.442-04:00"}
 ---
 
+
+[[Kizomba Curriculum\|Kizomba Curriculum]]
 
 # Module 1 - Basics
 
@@ -107,9 +109,10 @@
 ## 205 - Spins with Walks
 
 - [[Kiz - Regra de 3\|Regra de 3]] (CD10)
-	- Walking
-	- On the Spot
-	- Leads reversed
+	- Forward
+	- Backward
+	- Reversed
+	- Leads on the spot
 - [[Kiz - Linha\|Linha]] (CD11)
 - [[Kiz - Giro e Meio da Mulher\|Giro e Meio da Mulher]] (GC10)
 - [[Kiz - Desfile\|Desfile]] (GC11)
@@ -126,15 +129,15 @@
 	- Alternated
 - [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD17)
 - Cruzada atrás (DD01)
-- Levantada Cruzada (DL01)
+- Levantada Conjunta (DL01)
 - Cruzada a Frente (DD02)
 	- Using Knee, Feet
 	- Styling
 
 ## 302
 
-- [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
-- Passarela Bate e Volta (GC15)
+- [[Kiz - Bate e Volta\|Bate e Volta]] (GC14.01)
+- Passarela Bate e Volta (GC14.02)
 - Regra de 3 com Levantada (DL02)
 - Volta do homem (CD16)
 - Reverência do Bolero (FC01)
@@ -142,17 +145,17 @@
 ## 303
 
 - Onde você pensa que vai? (CD18)
-	- Flick
-	- Agachada
-	- Giro do Homem
-- Para-Brisa (DD03)
+	- Flick (CD18.01)
+	- Agachada (CD18.02)
+	- Giro do Homem (CD18.03)
+- Deslize Lateral (DD03)
 - Tropeço da Regra de 3 (DL03)
-- Regra de 3 Trocada (CD21)
+- Regra de 3 com troca do homem (CD21)
 - Volta da Mulher Reversa (CD15)
 
 ## 304
 
-- Cruzada Lateral (DD04)
+- Para-Brisa (DD04)
 - Retrocesso com cruzada a frente (GC03 + DD02)
 - Passo junto com balance (CD19)
 - Cadeirinha (FC02)
@@ -176,7 +179,7 @@
 	- Passarela (with and without stride) (FC05.01)
 	- Elegante (FC05.02)
 	- Girado (FC05.03)
-- ==Levantada com Chute== (DL06)
+- Levantada com Chute (DL06)
 - Cruzada Abre e Fecha (DD06)
 
 ## 402
@@ -190,9 +193,9 @@
 
 ## 403
 
-- Passarela em Fila (CF02)
 - Pedágio (CD20)
-- Pedágio com Fila (CF03)
+- Fila Cruzada (CF02)
+- Passarela em Fila (CF03)
 
 Practice the following in shadow position:
 
@@ -204,25 +207,25 @@ Practice the following in shadow position:
 
 - Aconchego Elegante (FC05.02)
 	- ==Leg Styling==
-- Passarela com Abraço (GC18)
-- Yoyo (GC17)
-- ==Pivots== (GC20)
+- Passarela com Abraço (GC17)
+- Yoyo (GC18)
+- ====Desfile com Volta== (GC19)
 
 ## 405
 
-- ==Rolo== (GC21)
-	- Simple exit
-	- Spinning exit
-- Caranguejo (DD07)
+- ==Giro Refinado== (GC20)
+- ==Caranguejo== (DD07)
 - Aconchego Frontal com Rasteira (FC06R)
-- ==Fila Cruzada== (CF04)
+- Pedágio com Fila (CF04)
 
 # Modulo 5
 
 ## 501
 
-- Yoyo de la para cá (GC19)
-- ==Giro Conduzido== (GC22)
+- ==Rolo== (GC22)
+	- Simple exit
+	- Spinning exit
+- ==Giro Conduzido== (GC21)
 - Aconchego com Arrastada (FC04A)
 	- Volta da mulher (FC04.01)
 	- Passarela (FC04.02)
@@ -232,8 +235,8 @@ Practice the following in shadow position:
 
 ## 502
 
-- Deslize Duplo (DD08)
-- Yoyo (GC17)
+- ==Deslize Duplo== (DD08)
+- ==Giro do da Cruzada== (GC23)
 - Basic 2 com Rasteira (DR01)
 - Aconchego Elegante com Puxada (FC05.02/FG05P)
 
@@ -260,7 +263,7 @@ Practice the following in shadow position:
 - ==Rasteira Vai e Vem== (DR03)
 - Cadeirinha Flutuante (FC04)
 - Tornado (GA01)
-- Aranha (FA01)
+- Astronauta (FA01)
 
 ---
 
