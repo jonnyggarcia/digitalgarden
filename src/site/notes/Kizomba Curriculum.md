@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-10-23T13:56:40.125-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-10-24T15:32:32.952-04:00"}
 ---
 
 
@@ -32,7 +32,7 @@ Sometimes you will find a code like this: FC04.*01*
 
 - This indicates move FC04: Grounded Figure number 4, with the first entry.
 
-Another code presented is FC04*P*
+Another code presented is FC04-*P*
 
 - This indicates move FC04: Grounded Figure number 4, with trick P (puxada).
 
