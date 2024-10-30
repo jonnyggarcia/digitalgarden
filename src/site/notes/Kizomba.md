@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-24T15:36:27.843-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-30T08:47:47.880-04:00"}
 ---
 
 
@@ -17,5 +17,6 @@
 
 - [[Principles of Kizomba\|Principles of Kizomba]]
 - [[Model vs. Developmental System\|Model vs. Developmental System]]
+- [[Kizomba Disciplines\|Kizomba Disciplines]]
 - [[Learning how to Dance\|Learning how to Dance]]
 - [[Kizomba Exercises\|Kizomba Exercises]]
