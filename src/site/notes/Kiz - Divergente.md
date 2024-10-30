@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-10-01T11:00:32.518-04:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-10-25T15:48:48.092-04:00"}
 ---
 
 
@@ -21,4 +21,4 @@ Video
 
 - Code: CC07
 - Connections: [[Kiz - Corridinho\|CC01]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

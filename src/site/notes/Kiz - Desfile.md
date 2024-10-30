@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-desfile/","created":"2024-10-03T13:46:16.902-04:00","updated":"2024-10-16T10:19:03.344-04:00"}
+{"dg-publish":true,"permalink":"/kiz-desfile/","created":"2024-10-03T13:46:16.902-04:00","updated":"2024-10-25T15:53:27.787-04:00"}
 ---
 
 
@@ -28,4 +28,4 @@ Video
 
 - Code: GC11
 - Connections: [[Kiz - Passeio\|CD01]]
-- Parent: [[Kiz - Giros\|Giros]], Spins
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

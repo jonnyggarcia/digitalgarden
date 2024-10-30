@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-10-01T10:49:12.737-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diamante/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-10-25T15:48:44.765-04:00"}
 ---
 
 
@@ -20,4 +20,4 @@
 
 - Code: CC06
 - Connections: [[Kiz - Basic 3\|B05]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

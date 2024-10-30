@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-10-01T22:37:54.972-04:00"}
+{"dg-publish":true,"permalink":"/kiz-escada/","created":"2024-09-16T15:14:53.065-04:00","updated":"2024-10-25T15:48:32.197-04:00"}
 ---
 
 
@@ -19,4 +19,4 @@
 
 - Code: CC03
 - Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Basic 2\|B02]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

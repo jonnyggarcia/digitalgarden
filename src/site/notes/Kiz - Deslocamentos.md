@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-10-10T12:37:50.836-04:00"}
+{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-10-24T15:25:25.816-04:00"}
 ---
 
 
@@ -12,47 +12,48 @@
 
 # Deslizes (DD)
 
-- ☑ Cruzada Atrás (DD01)
-- ☑ Cruzada a Frente (DD02)
+- ☑ Cruzada Atrás (DD01) - 301
+- ☑ Cruzada a Frente (DD02) - 301
 	- Man Saída to the right
 	- Knees or Feet
 	- Freeze
 	- ☑ With Styling (feet)
-- ☑ Para-brisa (DD03)
-- ☑ Cruzada Lateral (DD04)
+- ☑ Deslize Lateral (DD03) - 303
 	- Man Saída to the left
-- ☑ Saudação Cruzada (DD05)
-- ☑ Cruzada Abre e Fecha (DD06)
+- ☑ Para-brisa (DD04 = DD01 + DD03) - 603
+- ☑ Saudação Cruzada (DD05) - 305
+- ☑ Cruzada Abre e Fecha (DD06) - 401
 - ☑ Caranguejo (DD07)
-	- Variation
-	- With Styling
-	- Sombria
+	- Entrada
+		- Regra de 3 (DD07.01)
+		- 3 passos (DD07.02)
+- ☑ Caranguejo Vai e Vem (DD08)
 - ==Obstáculo==
 	- Perform a DD03 and the follower skips over the lead's leg.
-- ☑ ==Deslize Duplo== (DD08)
-- ☑ Deslize Traseiro (DD09)
+- ☑ ==Deslize Duplo== (DD09) - 502
+- ☑ ==Deslize Traseiro== (DD10)
 	- Saída do homem
 
 # Levantadas (DL)
 
-- ☑ Levantada Cruzada (DL01) - 301
+- ☑ Levantada Conjunta (DL01) - 301
 - ☑ Regra de 3 com Levantada (DL02) - 302
 - ☑ Tropeço da Regra de 3 (DL03) - 303
-- ☑ Arremesso (DL04) - 303
+- ☑ Arremesso (DL04) - 504
 - ☑ Tropeço da Cruzada a Frente (DL05) - 304
-- ☑ Levantada com Chute (DL06) - 401
+- ☑ Levantada com Chute (DL06) - 604
 - ==Levantada Extendida== (DL07)
-- Lavantada Traseira (DL08)
-- Basico 3 (DL09)
-- ==Joelhadas== (DL10)
-- Carrossel com Arremesso (ver o mesmo em giros) (DL11)
+- ==Lavantada Traseira== (DL08)
+- ==Joelhadas== (DL09)
 
 # Rasteiras (DR)
 
-- ☑ Básico 2 (DR01)
-- ☑ Passeio (DR02)
-- ==Vai e Vem== (DR03)
-- Sombra (DR04)
+- ☑ Rasteira do Básico 2 (DR01)
+- ☑ Rasteira do Básico 2 parada
+- ☑ Rasteira do Passeio (DR02)
+- ☑ Aconchego Frontal com Rasteira (ver [[Kiz - Figuras\|Figuras]] - FC06R)
+- ☑ Cadeirinha com Rasteira (ver [[Kiz - Figuras\|Figuras]] - FC02R)
+- ☑ ==Rasteira Vai e Vem== (DR03)
 
 # Puxadas (DP)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-meio-giro/","created":"2024-10-02T11:55:05.126-04:00","updated":"2024-10-03T10:28:06.258-04:00"}
+{"dg-publish":true,"permalink":"/kiz-meio-giro/","created":"2024-10-02T11:55:05.126-04:00","updated":"2024-10-25T15:51:27.086-04:00"}
 ---
 
 
@@ -32,4 +32,4 @@ Video
 
 - Code: GC04
 - Connections: [[Kiz - Saudação\|B04]], [[Kiz - Basic 2\|B02]]
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

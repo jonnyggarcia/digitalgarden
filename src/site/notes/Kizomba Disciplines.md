@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-disciplines/","created":"2024-10-30T08:47:49.294-04:00","updated":"2024-10-30T09:56:12.677-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-disciplines/","created":"2024-10-30T08:47:49.294-04:00","updated":"2024-10-30T10:05:50.762-04:00"}
 ---
 
 
@@ -63,7 +63,7 @@ Teaching the footwork first often means Followers are learning a set sequence of
 
 Instead of learning fixed step sequences, Followers should be trained to respond to signals with singular reactions, each based on the Lead’s cues. This approach encourages adaptability and reduces dependence on memorized patterns. More on this in the article [[Model vs. Developmental System\|Model vs. Developmental System]].
 
-**Entrusting the Guidance** is not about letting go and being submissive; it’s about fully embracing the Follower’s role by practicing physical listening with precision and a quick response time. In my opinion, this role can be more challenging than Leading, as Followers must be fully engaged and ready to respond seamlessly.
+**Entrusting the Guidance** is not about letting go and being submissive; it’s about fully embracing the Follower’s role by practicing physical listening with precision and a quick response time. In my opinion, this role can be more challenging than leading, as Followers must be fully engaged and ready to respond seamlessly.
 
 For some Followers, especially those with prior dance experience, the idea of allowing the Lead to move them may feel unfamiliar. One of the key challenges in physical listening is learning to avoid resisting and to cooperate without second-guessing oneself. It’s natural to feel resistant or to hold one’s ground, especially in new situations—many of us naturally resist sudden changes. But Followers must learn to let the Lead move their bodies. If the Lead moves forward, for instance, the Follower should allow themselves to be moved backward, assisting by moving backward as well.
 
@@ -94,7 +94,7 @@ While the traditional approach to learning footwork is an essential step in the 
 
 In other dances, like Salsa, both Leads and Followers often learn footwork individually before partnering. Therefore, a Lead with prior dance experience may assume that the Follower will simply know what to do next—but this shouldn’t be the mindset. As the Lead, it’s your responsibility to offer clear signals so that the Follower understands each step and what’s coming next.
 
-While the following is learning Physical Listening, the lead is supposed to learn Physical Awareness. That means the lead needs to learn how to be aware of what is necessary to make the follower to take a specific step. If you want a follower to perform a step forward, how do you communicate that only using your body?
+While the following is learning Physical Listening, the lead is supposed to learn Physical Awareness. That means the Lead needs to learn how to be aware of what is necessary to make the follower to take a specific step. If you want a follower to perform a step forward, how do you communicate that only using your body?
 
 > [!info] How can I provide clear instructions so the Follower knows what to do?​
 
@@ -136,7 +136,7 @@ Followers may get confused by this change because they are accustomed to followi
 
 # Strategies
 
-The best way to improve is to dance, but more often than not, social dancing is not the ideal environment for enhancement. To truly get better, focused practice is essential. While social dancing is our ultimate goal, you don’t want to repeat the same move over and over with the same partner until both of you have mastered it. At social events, the objective is to dance and have fun. For leads, it’s best to stick to the moves you are most familiar with.
+The best way to improve is to dance, but more often than not, social dancing is not the ideal environment for enhancement. To truly get better, focused practice is essential. While social dancing is our ultimate goal, you don’t want to repeat the same move over and over with the same partner until both of you have mastered it. At social events, the objective is to dance and have fun. For Leads, it’s best to stick to the moves you are most familiar with.
 
 Find a dance partner! Try to find someone you can practice with regularly, at least once a week. The time spent with that person outside of social settings is an opportunity to refine your movements and develop better body coordination and awareness. When you practice, have a specific goal in mind. Discuss with your partner and select three to five moves to focus on. Repeat each move until you feel confident.
 
@@ -154,8 +154,8 @@ After that, attempt the same move with new partners. Once you successfully execu
 
 > [!info] Prioritize small progress over big ones.
 
-Leads, remember that a good dance is not about executing all the moves you know. It’s about establishing a connection with your partner and embodying musicality. If the follower leaves the dance feeling like they could follow your lead with ease, they are likely to want to dance with you again. If they notice that you are executing steps in sync with the music, they will perceive you as a good lead.
+Leads, remember that a good dance is not about executing all the moves you know. It’s about establishing a connection with your partner and embodying musicality. If the follower leaves the dance feeling like they could follow your lead with ease, they are likely to want to dance with you again. If they notice that you are executing steps in sync with the music, they will perceive you as a good Lead.
 
-On the other hand, if you perform flashy moves, such as dips or leg fishing, while the follower feels completely lost, they are probably not going to be interested in dancing with you again. They may think they are a bad follower (which is the worst-case scenario) or conclude that you are not a good lead (the better-case scenario). Either way, you want to create a positive dancing experience. Stick to what you know, and occasionally introduce something new to keep things interesting.
+On the other hand, if you perform flashy moves, such as dips or leg fishing, while the follower feels completely lost, they are probably not going to be interested in dancing with you again. They may think they are a bad follower (which is the worst-case scenario) or conclude that you are not a good Lead (the better-case scenario). Either way, you want to create a positive dancing experience. Stick to what you know, and occasionally introduce something new to keep things interesting.
 
 > [!info] A good dance is about connection with your partner and musicality.

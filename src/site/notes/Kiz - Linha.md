@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-10-03T13:53:09.785-04:00"}
+{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-10-25T15:53:12.834-04:00"}
 ---
 
 
@@ -29,4 +29,4 @@
 
 - Code: CD11
 - Connections: [[Kiz - Regra de 3\|CD10]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

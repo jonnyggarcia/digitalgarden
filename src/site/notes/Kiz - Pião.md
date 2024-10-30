@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-piao/","created":"2024-10-03T13:46:40.160-04:00","updated":"2024-10-16T10:24:24.931-04:00"}
+{"dg-publish":true,"permalink":"/kiz-piao/","created":"2024-10-03T13:46:40.160-04:00","updated":"2024-10-25T15:53:33.230-04:00"}
 ---
 
 
@@ -28,4 +28,4 @@ Video
 
 - Code: GC12
 - Connections: [[Kiz - Desfile\|GC11]]
-- Parent: [[Kiz - Giros\|Giros]], Spins
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

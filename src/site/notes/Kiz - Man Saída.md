@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-man-saida/","created":"2024-09-18T12:25:58.894-04:00","updated":"2024-10-03T09:40:03.161-04:00"}
+{"dg-publish":true,"permalink":"/kiz-man-saida/","created":"2024-09-18T12:25:58.894-04:00","updated":"2024-10-25T15:49:28.373-04:00"}
 ---
 
 
@@ -26,4 +26,4 @@ When the couple is walking side by side, their torsos are slightly pivot towards
 
 - Code: CD02
 - Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Escada\|CC03]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

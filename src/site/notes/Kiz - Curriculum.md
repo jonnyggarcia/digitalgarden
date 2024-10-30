@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-23T12:08:19.442-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-25T15:51:58.955-04:00"}
 ---
 
 
@@ -133,6 +133,7 @@
 - Cruzada a Frente (DD02)
 	- Using Knee, Feet
 	- Styling
+- Retrocesso com cruzada a frente (GC03 + DD02)
 
 ## 302
 
@@ -149,27 +150,30 @@
 	- Agachada (CD18.02)
 	- Giro do Homem (CD18.03)
 - Deslize Lateral (DD03)
-- Tropeço da Regra de 3 (DL03)
-- Regra de 3 com troca do homem (CD21)
-- Volta da Mulher Reversa (CD15)
+- ==Tropeço da Regra de 3== (DL03)
+- ==Regra de 3 com troca do homem== (CD21)
+- ==Passo junto com balance== (CD19.balance)
 
 ## 304
 
-- Para-Brisa (DD04)
-- Retrocesso com cruzada a frente (GC03 + DD02)
-- Passo junto com balance (CD19)
+- Volta da Mulher Reversa (CD15)
+- ==Passo Junto com Tic Tac== (CD19.tic-tac) - 304
 - Cadeirinha (FC02)
-- Tropeço da Cruzada a Frente (DL05)
+- ==Tropeço da Cruzada a Frente== (DL05)
+- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the left (CD07)
+- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the right (CD07)
+- ==Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides
 
 ## 305
 
+- ==Woman Saída com Abertura + Woman Saída== (CD03 + CD01 + CD03)
 - ==Saudação Cruzada== (DD05)
 - Aconchego Regular
 	- Volta da Mulher (FC04.01)
 	- Passarela (with and without stride) (FC04.02)
 - Varal da Mulher (FC07)
-	- com giro
-- Passarela com Cadeirinha (GC13 + FG02)
+- ==Espiral com Cadeirinha== (GC06 + FG02)
+- ==Regresso== (CD23)
 
 # Module 4
 
@@ -179,13 +183,13 @@
 	- Passarela (with and without stride) (FC05.01)
 	- Elegante (FC05.02)
 	- Girado (FC05.03)
-- Levantada com Chute (DL06)
 - Cruzada Abre e Fecha (DD06)
+- ==Passo Junto com Abertura Lateral== (CD19.lateral)
 
 ## 402
 
-- Passeio em Fila (CF01)
-- Aconchego Frontal
+- ==Passeio em Fila== (CF01)
+- ==Aconchego Frontal==
 	- Entrada do Básico 2 (FC06.01)
 	- Entrada da abertura 90 (FC06.02)
 	- Entrada da De lá para Cá (FC06.03)
@@ -193,21 +197,22 @@
 
 ## 403
 
-- Pedágio (CD20)
-- Fila Cruzada (CF02)
-- Passarela em Fila (CF03)
+- ==Pedágio== (CD20)
+- ==Fila Cruzada== (CF02)
+- ==Passarela em Fila== (CF03)
 
 Practice the following in shadow position:
 
-- Saídas
-- Casamento
-- Retrocesso
+- ==Saídas==
+- ==Casamento==
+- ==Cama
+- ==Retrocesso==
 
 ## 404
 
 - Aconchego Elegante (FC05.02)
-	- ==Leg Styling==
-- Passarela com Abraço (GC17)
+	- Leg Styling
+- ==Passarela com Abraço== (GC17)
 - Yoyo (GC18)
 - ====Desfile com Volta== (GC19)
 
@@ -215,8 +220,9 @@ Practice the following in shadow position:
 
 - ==Giro Refinado== (GC20)
 - ==Caranguejo== (DD07)
-- Aconchego Frontal com Rasteira (FC06R)
-- Pedágio com Fila (CF04)
+- ==Caranguejo Vai e Volta== (DD08)
+- Aconchego Frontal com Rasteira (FC06-R)
+- ==Pedágio com Fila== (CF04)
 
 # Modulo 5
 
@@ -226,46 +232,46 @@ Practice the following in shadow position:
 	- Simple exit
 	- Spinning exit
 - ==Giro Conduzido== (GC21)
-- Aconchego com Arrastada (FC04A)
+- ==Aconchego com Arrastada== (FC04A)
 	- Volta da mulher (FC04.01)
 	- Passarela (FC04.02)
-- Aconchego Paralelo com Arrastada (FC05A)
+- ==Aconchego Paralelo com Arrastada== (FC05A)
 	- Passarela (FC05.01)
 	- Elegante (FC05.02)
 
 ## 502
 
-- ==Deslize Duplo== (DD08)
-- ==Giro do da Cruzada== (GC23)
-- Basic 2 com Rasteira (DR01)
-- Aconchego Elegante com Puxada (FC05.02/FG05P)
+- ==Passo Junto com Volta== (CD19.volta)
+- ==Diagonal Girada== (CD22)
+- ==Basic 2 com Rasteira== (DR01)
+	- Rasteira do Básico 2 parada
+- ==Aconchego Elegante com Puxada== (FC05.02-P)
 
 ## 503
 
-- Aconchego com Puxada
-	- Volta da mulher (FC04.01/FG04P)
-	- Passarela (FC04.02/FG04P)
-- Aconchego Paralelo com Puxada
-	- Passarela (FC05.01/FG05P)
-	- Elegante (FC05.02/FG05P)
-- Passeio com rasteira (DR02)
+- ==Aconchego com Puxada==
+	- Volta da mulher (FC04.01-P)
+	- Passarela (FC04.02-P)
+- ==Aconchego Paralelo com Puxada==
+	- Passarela (FC05.01-P)
+	- Elegante (FC05.02-P)
+- ==Passeio com rasteira== (DR02)
 - ==Tropeço com Pivot== (LT02 + SG20)
 
 ## 504
 
-- ==Eixo== (GC24)
-- Passo Junto com Volta (CD22)
+- ==Woman Saída com Arrastada== (CD03-A)
+- ==Passo Junto com Troca== (CD19.troca)
+- ==Passo Junto com Aconchego== (CD19.aconchego)
 - Arremesso (DL04)
-- ====Fila com Giro== (CF05)
+- ==Fila com Giro== (CF05)
 
 ## 505
 
 - ==Rasteira Vai e Vem== (DR03)
-- Cadeirinha Flutuante (FC04)
-- Tornado (GA01)
-- Astronauta (FA01)
-
----
+- ==Cadeirinha Flutuante do Passeio== (FA02.01)
+- ==Tornado== (GA01)
+- ==Astronauta== (FA01)
 
 # Module 6
 
@@ -279,3 +285,42 @@ Perform the following on the other side
 - [[Kiz - Retrocesso\|Retrocesso]]
 - [[Kiz - Escada\|Escada]]
 - [[Kiz - Carrossel\|Carrossel]]
+- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]]
+
+## 602
+
+- ==Cadeirinha Flutuante da Levantada com mão== (FA02.02)
+- ==Aconchego Frontal Girado== (FC06.05)
+- ==Fila da Volta do Homem== (CF06)
+- ==Deslize Traseiro== (DD10)
+- ==Passo Junto com Passarela== (CD19.passarela)
+
+## 603
+
+- ==Cadeirinha Flutuante da Levanta com pé ==(FA02.03)
+- ==Defile em Fila== (FC07)
+- ==Para-Brisa== (DD04)
+- ==Passo Junto Vai e Vem== (CD19.vai-vem)
+
+## 604
+
+- ==Cadeirinha Flutuante do Chute== (FA02.04)
+- ==Aconchego Frontal com levantada de Pé== (FC06.07)
+- ==Fila da Saudação Reversa== (CF08)
+- Levantada com Chute (DL06)
+
+## 605
+
+- ==Cadeirinha Flutuante Cruzada== (FA02.05)
+- Elevador (FA03)
+- ==Cruzada Atrás na Fila== (CF09)
+- ==Deslize Duplo== (DD09)
+
+# Module 7
+
+## 701
+
+- ==Cadeirinha com Rasteira== (FC02-R)
+- ==Rasteira Vai e Vem== (DR03)
+- Liquidificador (GA02)
+- ==Pirulito== (GA03)

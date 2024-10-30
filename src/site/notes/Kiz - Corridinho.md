@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-10-01T10:58:01.626-04:00"}
+{"dg-publish":true,"permalink":"/kiz-corridinho/","created":"2024-09-16T17:56:50.779-04:00","updated":"2024-10-25T15:48:06.566-04:00"}
 ---
 
 
@@ -62,4 +62,4 @@ Practice walking forward and backward.
 
 - Code: CC01
 - Connections: [[Kiz - Basic 3\|B05]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

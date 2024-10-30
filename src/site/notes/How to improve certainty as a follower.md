@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-improve-certainty-as-a-follower/","created":"2024-09-26T10:28:29.194-04:00","updated":"2024-10-16T13:32:27.900-04:00"}
+{"dg-publish":true,"permalink":"/how-to-improve-certainty-as-a-follower/","created":"2024-09-26T10:28:29.194-04:00","updated":"2024-10-30T08:49:04.870-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-10-03T09:44:17.679-04:00"}
+{"dg-publish":true,"permalink":"/kiz-casamento/","created":"2024-09-18T14:14:12.404-04:00","updated":"2024-10-25T15:51:18.508-04:00"}
 ---
 
 
@@ -83,4 +83,4 @@ Here’s the corrected version:
 
 - Code: CD05, CD06, CD07, CD08
 - Connections: [[Kiz - Woman Saída\|CD03]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-10-01T11:49:23.992-04:00"}
+{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-10-25T15:49:10.158-04:00"}
 ---
 
 
@@ -23,4 +23,4 @@ The **Carrossel** (merry-go-round) starts with a clockwise turn but ends with a 
 
 - Code: GC02
 - Connections: [[Kiz - Clockwise\|GC01]]
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

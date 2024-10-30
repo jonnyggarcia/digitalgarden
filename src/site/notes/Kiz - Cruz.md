@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-cruz/","created":"2024-09-20T11:43:50.541-04:00","updated":"2024-10-16T11:20:00.158-04:00"}
+{"dg-publish":true,"permalink":"/kiz-cruz/","created":"2024-09-20T11:43:50.541-04:00","updated":"2024-10-25T15:53:40.156-04:00"}
 ---
 
 
@@ -54,4 +54,4 @@ Video
 
 - Code: CD12
 - Connections: [[Kiz - Regra de 3\|CD10]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-09-26T12:07:54.736-04:00"}
+{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-10-25T15:53:43.937-04:00"}
 ---
 
 
-**De lá para cá** (from here to there) is a disconnected step where the follower walks 3 steps forward, performs a pivot on the 3rd step (180-degree turn), and then walks 3 more steps forward.
+**De lá para cá** (from here to there) is a disconnected step where the follower walks 3 steps forward, performs a pivot on the 3rd step (180-degree turn), and then walks 3 more steps forward. This is very similar to a [[Kiz - Regra de 3\|Rule of 3]] but disconnected.
 
 **Lead**
 1. Perform the opening of the [[Kiz - Passeio\|Passeio]] (90 degrees).
@@ -36,4 +36,4 @@
 
 - Code: CD13
 - Connections: [[Kiz - Regra de 3\|CD10]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

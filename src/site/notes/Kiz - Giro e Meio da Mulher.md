@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giro-e-meio-da-mulher/","created":"2024-10-03T13:33:29.962-04:00","updated":"2024-10-04T16:05:52.478-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giro-e-meio-da-mulher/","created":"2024-10-03T13:33:29.962-04:00","updated":"2024-10-25T15:53:19.970-04:00"}
 ---
 
 
@@ -29,4 +29,4 @@ Video
 
 - Code: GC10
 - Connections: [[Kiz - Giro da Mulher\|GC05]], [[Kiz - Meio Giro\|GC04]]
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

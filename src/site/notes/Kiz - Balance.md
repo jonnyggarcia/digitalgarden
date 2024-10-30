@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-10-03T13:49:01.094-04:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","created":"2024-09-16T18:24:25.536-04:00","updated":"2024-10-25T15:48:14.888-04:00"}
 ---
 
 
@@ -34,4 +34,4 @@ The lead must use the connection points to indicate a stop in the motion so the 
 
 - Code: CC02
 - Connections: -
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

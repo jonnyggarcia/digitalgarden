@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-regra-de-3/","created":"2024-09-25T14:53:22.421-04:00","updated":"2024-10-03T13:02:49.385-04:00"}
+{"dg-publish":true,"permalink":"/kiz-regra-de-3/","created":"2024-09-25T14:53:22.421-04:00","updated":"2024-10-25T15:53:06.311-04:00"}
 ---
 
 
@@ -41,4 +41,4 @@ The **Regra de 3** (Rule of 3) is performed in a distant closed position, where 
 
 - Code: CD10
 - Connections: [[Kiz - Passeio\|CD01]], [[Kiz - Basic 3\|B05]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

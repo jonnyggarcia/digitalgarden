@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-estrela/","created":"2024-09-16T15:09:28.967-04:00","updated":"2024-10-03T13:49:10.279-04:00"}
+{"dg-publish":true,"permalink":"/kiz-estrela/","created":"2024-09-16T15:09:28.967-04:00","updated":"2024-10-25T15:48:37.842-04:00"}
 ---
 
 
@@ -23,4 +23,4 @@ From the lead's perspective, **Estrela** (star) is a forward [[Kiz - Basic 3\|Ba
 
 - Code: CC04
 - Connections: [[Kiz - Vírgula\|B06]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

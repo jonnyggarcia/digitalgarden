@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-10T14:52:07.589-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-25T15:49:18.334-04:00"}
 ---
 
 
@@ -45,4 +45,4 @@ There are three possible ways the lead can enter into retrocesso:
 
 - Code: GC03
 - Connections: -
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

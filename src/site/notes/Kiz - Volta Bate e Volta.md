@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-volta-bate-e-volta/","created":"2024-10-02T13:09:37.345-04:00","updated":"2024-10-10T11:06:19.645-04:00"}
+{"dg-publish":true,"permalink":"/kiz-volta-bate-e-volta/","created":"2024-10-02T13:09:37.345-04:00","updated":"2024-10-25T15:52:13.372-04:00"}
 ---
 
 
@@ -39,4 +39,4 @@ Video
 
 - Code: CD14
 - Connections: [[Kiz - Volta da Mulher\|CD13]]
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

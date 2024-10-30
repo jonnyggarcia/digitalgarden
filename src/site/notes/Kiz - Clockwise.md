@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-10-03T13:50:16.090-04:00"}
+{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-10-25T15:49:01.305-04:00"}
 ---
 
 
@@ -33,4 +33,4 @@ This variation requires more momentum and a sharper turn.
 
 - Code: GC01
 - Connections: [[Kiz - Basic 3\|B05]]
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

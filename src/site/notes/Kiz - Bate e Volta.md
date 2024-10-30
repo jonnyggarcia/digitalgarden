@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","created":"2024-09-22T13:12:45.835-04:00","updated":"2024-10-03T13:51:12.613-04:00"}
+{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","created":"2024-09-22T13:12:45.835-04:00","updated":"2024-10-25T15:53:49.069-04:00"}
 ---
 
 
@@ -35,4 +35,4 @@
 
 - Code: GC14
 - Connections: -
-- Parent: [[Kiz - Giros\|Giros]]
+- Parent: [[Kiz - Giros\|Giros]] (Spins)

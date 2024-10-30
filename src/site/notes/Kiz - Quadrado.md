@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-10-01T22:37:41.331-04:00"}
+{"dg-publish":true,"permalink":"/kiz-quadrado/","created":"2024-09-16T14:58:58.805-04:00","updated":"2024-10-25T15:48:40.597-04:00"}
 ---
 
 
@@ -23,4 +23,4 @@
 
 - Code: CC05
 - Connections: [[Kiz - Basic 3\|B05]], [[Kiz - Escada\|CC03]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

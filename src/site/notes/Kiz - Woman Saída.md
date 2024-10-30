@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-10-07T10:50:14.599-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-10-25T15:49:32.461-04:00"}
 ---
 
 
@@ -42,4 +42,4 @@ When the follower establishes the thigh-to-thigh connection on step 3, the lead 
 
 - Code: CD03, CD09
 - Connections: [[Kiz - Balance\|CC02]], [[Kiz - Basic 3\|B05]], [[Kiz - Retrocesso\|GC03]]
-- Parent: [[Kiz - Caminhadas\|Caminhadas]]
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

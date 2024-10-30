@@ -1,41 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-10-16T10:48:39.092-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-10-25T13:13:00.291-04:00"}
 ---
 
 
 # Grounded Spins (GC)
 
-- ☑ [[Kiz - Clockwise\|Clockwise]] (GC01)
-- ☑ [[Kiz - Carrossel\|Carrossel]] (GC02)
-- ☑ [[Kiz - Retrocesso\|Retrocesso]] (GC03)
-- ☑ [[Kiz - Meio Giro\|Meio Giro]] (GC04)
-- ☑ [[Kiz - Giro da Mulher\|Giro da Mulher]] (GC05)
-- ☑ [[Kiz - Espiral\|Espiral]] (GC06)
-- ☑ [[Kiz - Giro do Homem\|Giro do Homem]] (GC09)
-- ☑ [[Kiz - Giro e Meio da Mulher\|Giro e Meio da Mulher]] (GC10)
-- ☑ [[Kiz - Desfile\|Desfile]] (GC11)
-- ☑ [[Kiz - Pião\|Pião]] (GC12)
-- ☑ [[Kiz - Passarela\|Passarela]] (GC13)
-- ☑ [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
-- ☑ Passarela Bate e Volta (GC15)
-- ☑ Yoyo (GC17)
-- ☑ Passarela com Abraço (GC18)
-- ☑ ==Yoyo de Lá para Cá== (GC19)
+- ☑ [[Kiz - Clockwise\|Clockwise]] (GC01) - 104
+- ☑ [[Kiz - Carrossel\|Carrossel]] (GC02) - 104
+- ☑ [[Kiz - Retrocesso\|Retrocesso]] (GC03) - 105
+- ☑ [[Kiz - Meio Giro\|Meio Giro]] (GC04) - 204
+- ☑ [[Kiz - Giro da Mulher\|Giro da Mulher]] (GC05) - 204
+- ☑ [[Kiz - Espiral\|Espiral]] (GC06) - 204
+- ☑ [[Kiz - Giro do Homem\|Giro do Homem]] (GC09) - 204
+- ☑ [[Kiz - Giro e Meio da Mulher\|Giro e Meio da Mulher]] (GC10) - 205
+- ☑ [[Kiz - Desfile\|Desfile]] (GC11) - 205
+- ☑ [[Kiz - Pião\|Pião]] (GC12) - 205
+- ☑ [[Kiz - Passarela\|Passarela]] (GC13) - 205
+- ☑ [[Kiz - Bate e Volta\|Bate e Volta]] (GC14.01) - 302
+	- ☑ Passarela Bate e Volta (GC14.02) - 302
+- ☑ Passarela com Abraço (GC17) - 404
+- ☑ Yoyo (GC18) - 404
+- ☑ ==Desfile com Volta== (GC19) - 404
 	- Left Hand leading
 	- Desfile leading
-- ☑ ==Pivots== (GC20)
-- ☑ Rolo (GC21)
-- ☑ ==Giro Conduzido== (GC22)
-- Giro do Quadril (GC23)
-- ☑ ==Eixo== (GC24) vai e vem
-- ==Carrossel Aberto== (GC25)
-- ==Carrossel com Arremesso== (GC26)
+- ☑ Giro Refinado (GC20) - 405
+- ☑ ==Giro Conduzido== (GC21) - 501
+- ☑ ==Rolo== (GC22) - 501
+	- Simple exit
+	- Spinning exit
+- ==Eixo== (GC23)
+- ==Carrossel Aberto==
+- ==Carrossel com Arremesso==
 
 # Air Spins (GA)
 
-- ☑ Tornado (GA01)
+- ☑ Tornado (GA01) - 505
 	- Arrastada
 	- Levantada
-- Liquidificador (GA02)
-- ==Pirulito== (GA03)
+- ☑ Liquidificador (GA02) - 701
+- ☑ ==Pirulito== (GA03) - 701
 - ==Ciclone== (GA04)
