@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-disciplines/","created":"2024-10-30T08:47:49.294-04:00","updated":"2024-10-30T10:05:50.762-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-disciplines/","created":"2024-10-30T08:47:49.294-04:00","updated":"2024-10-31T13:19:58.336-04:00"}
 ---
 
 
@@ -86,7 +86,7 @@ Kizomba Leads have more tasks to manage compared to Followers, but this doesn’
 
 Leads are responsible for deciding the next step, so the more steps a Lead knows, the more options they have. However, a larger repertoire doesn’t necessarily make for a better dancer. Leads must always complete one step before starting another. This doesn’t mean performing an entire Woman Saída before moving into a Retrocesso—these moves can be broken down and combined in various ways. However, the Lead must finish each step by fully committing their weight before transitioning to the next. Rushing into the next move often happens when Leads are trying to keep up with the tempo.
 
-**Guide de follower**
+**Guide the follower**
 
 From the Lead’s perspective, it’s crucial to master two things: the footwork itself and how to lead it. If the Lead is uncertain of the steps, the Follower won’t know what to do either. For example, when performing a Man Saída, the Lead takes three steps forward and one step to the right, followed by a Marca. These steps must be executed with confidence, assertiveness, and no hesitation.
 
@@ -94,7 +94,7 @@ While the traditional approach to learning footwork is an essential step in the 
 
 In other dances, like Salsa, both Leads and Followers often learn footwork individually before partnering. Therefore, a Lead with prior dance experience may assume that the Follower will simply know what to do next—but this shouldn’t be the mindset. As the Lead, it’s your responsibility to offer clear signals so that the Follower understands each step and what’s coming next.
 
-While the following is learning Physical Listening, the lead is supposed to learn Physical Awareness. That means the Lead needs to learn how to be aware of what is necessary to make the follower to take a specific step. If you want a follower to perform a step forward, how do you communicate that only using your body?
+While the following is learning Physical Listening, the lead is supposed to learn Physical Awareness. That means the Lead needs to learn how to be aware of what is necessary to make the follower take a specific step. If you want a follower to perform a step forward, how do you communicate that only using your body?
 
 > [!info] How can I provide clear instructions so the Follower knows what to do?​
 
@@ -112,7 +112,9 @@ The Lead needs to learn all the possible signals they can provide, which are typ
 
 At the beginning, finding the beat can be challenging, especially if the Lead is not familiar with the music being played. Kizomba encompasses various genres, some of which make it easier to find the beat (like Ghetto Zouk), while others (such as Coladeira) can be more complex.
 
-The best remedy for this is to listen to Kizomba songs as much as possible. The more attentive you are while listening to the music, the better. If you’re listening to songs while doing something else, your focus won’t be fully on the music. To improve, you need to dedicate your full attention to each song. Start by trying to find the beat; listen for a sound that consistently repeats at regular intervals—this is likely your tempo. Additionally, pay attention to when your body naturally moves in response to the music; this can help you identify the sounds that indicate the beat.
+The best remedy for this is to listen to Kizomba songs as much as possible. The more attentive you are while listening to the music, the better. If you’re listening to songs while doing something else, your focus won’t be fully on the music. To improve, you need to dedicate your full attention to each song.
+
+Start by trying to find the beat; listen for a sound that consistently repeats at regular intervals—this is likely your tempo. Additionally, pay attention to when your body naturally moves in response to the music; this can help you identify the sounds that indicate the beat.
 
 **Musicality**
 

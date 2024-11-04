@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-10-25T15:49:32.461-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-11-03T18:07:39.133-05:00"}
 ---
 
 
@@ -35,11 +35,13 @@ When the follower establishes the thigh-to-thigh connection on step 3, the lead 
 
 # Woman Saída with Retrocesso
 
+code: CD05
+
 1. On step 4 from the lead's perspective, perform a [[Kiz - Retrocesso\|Retrocesso]].
 2. On step 3, the block, the lead steps forward into a [[Kiz - Retrocesso\|Retrocesso]]
 
 # Catalog
 
-- Code: CD03, CD09
+- Code: CD03, CD05
 - Connections: [[Kiz - Balance\|CC02]], [[Kiz - Basic 3\|B05]], [[Kiz - Retrocesso\|GC03]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

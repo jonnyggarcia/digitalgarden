@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-10-25T15:51:58.955-04:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-09-13T18:07:38.246-04:00","updated":"2024-11-03T18:03:31.001-05:00"}
 ---
 
 
@@ -52,7 +52,7 @@
 	- full drill
 	- Key
 - [[Kiz - Quadrado\|Quadrado]] (CC05)
-- [[Kiz - Diamante\|Diamante]] (CC06)
+- [[Kiz - Triângulo\|Triângulo]] (CC06)
 - [[Kiz - Divergente\|Divergente]] (CC07)
 - [[Kiz - Tic Tac\|Tic Tac]] (CC08)
 - [[Kiz - Clockwise\|Clockwise]] (GC01)
@@ -88,14 +88,14 @@
 - [[Kiz - Man Saída\|Man Saída]] (CD02)
 - [[Kiz - Woman Saída\|Woman Saída]] (CD03)
 - [[Kiz - Diagonais\|Diagonais]] (CD04)
-- [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]] (CD09)
+- [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída with Retrocesso]] (CD05)
 
 ## 203 - Extended Saídas
 
-- [[Kiz - Casamento\|Casamento]] (CD05)
-- [[Kiz - Casamento#Casamento II\|Casamento II]] (CD06)
-- [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]] (CD07)
-- [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]] (CD08)
+- [[Kiz - Casamento\|Casamento]] (CD06)
+- [[Kiz - Casamento#Casamento II\|Casamento II]] (CD07)
+- [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]] (CD08)
+- [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]] (CD09)
 
 ## 204 - Spins
 
@@ -166,7 +166,7 @@
 
 ## 305
 
-- ==Woman Saída com Abertura + Woman Saída== (CD03 + CD01 + CD03)
+- ==Bambolê==: Woman Saída com Abertura + Woman Saída (CD03 + CD01 + CD03)
 - ==Saudação Cruzada== (DD05)
 - Aconchego Regular
 	- Volta da Mulher (FC04.01)

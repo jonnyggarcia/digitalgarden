@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-10-25T15:48:48.092-04:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-11-03T16:30:59.112-05:00"}
 ---
 
 
@@ -14,11 +14,11 @@ Video
 
 *Key elements of the move*
 - The lead should aim to maintain the shape of the Corridinhos.
-- This move emphasizes the change in direction along a curve, similar to [[Kiz - Diamante\|Diamante]].
+- This move emphasizes the change in direction along a curve, similar to [[Kiz - Triângulo\|Triângulo]].
 - Practice starting in both directions.
 
 # Catalog
 
 - Code: CC07
-- Connections: [[Kiz - Corridinho\|CC01]]
+- Connections: [[Kiz - Corridinho\|CC01]], [[Kiz - Balance\|CC02]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

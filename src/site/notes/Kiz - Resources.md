@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-25T11:36:06.394-04:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-31T13:04:07.749-04:00"}
 ---
 
 
@@ -12,6 +12,14 @@
 [[Kiz - Classes\|Classes]]
 
 [[Kiz - Videos\|Videos]]
+
+[[Kiz - Fundamental\|Kiz - Fundamental]]
+
+# Articles
+
+[[Clippings/Kizomba, It’s Not On 1 Or On 2, It’s On You!\|Kizomba, It’s Not On 1 Or On 2, It’s On You!]]
+
+[[Clippings/Honing different dance skills Part I Kizomba – The Perfect Follow\|Honing different dance skills Part I Kizomba – The Perfect Follow]]
 
 # Basic Moves
 
@@ -85,7 +93,7 @@
 
 # Strides with Spins
 
-- ==[Woman Saída com Abertura + Woman Saída](https://www.youtube.com/watch?v=eNN3tjgi5yU&list=PLwK81NqKJka0fy__-SP-TY-Hdcndorn6X)==
+- Bambole: ==[Woman Saída com Abertura + Woman Saída](https://www.youtube.com/watch?v=eNN3tjgi5yU&list=PLwK81NqKJka0fy__-SP-TY-Hdcndorn6X)==
 
 # Giros
 

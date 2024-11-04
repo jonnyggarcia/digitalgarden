@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-10-25T13:20:46.925-04:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-04T12:42:05.591-05:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - ☑ [[Kiz - Estrela\|Estrela]] (CC04)
 	- Estrela com saída e estilo (kiki)
 - ☑ [[Kiz - Quadrado\|Quadrado]] (CC05)
-- ☑ [[Kiz - Diamante\|Diamante]] (CC06)
+- ☑ [[Kiz - Triângulo\|Triângulo]] (CC06)
 - ☑ [[Kiz - Divergente\|Divergente]] (CC07)
 - ☑ [[Kiz - Tic Tac\|Tic Tac]] (CC08)
 
@@ -29,11 +29,11 @@
 	- ☑ [[Kiz - Diagonais\|Diagonais]] (CD04)
 		- Man facing the other way (Kiki)
 		- Girada
-	- ☑ [[Kiz - Casamento\|Casamento]] (CD05)
-	- ☑ [[Kiz - Casamento#Casamento II\|Casamento II]] (CD06)
-	- ☑ [[Kiz - Casamento#Casamento Com Giro\|Casamento com giro]] (CD07)
-	- ☑ [[Kiz - Casamento#Casamento Com Giro II\|Casamento com giro II]] (CD08)
-	- ☑ [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída com Retrocesso]] (CD09)
+	- ☑ [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída com Retrocesso]] (CD05)
+	- ☑ [[Kiz - Casamento\|Casamento]] (CD06)
+	- ☑ [[Kiz - Casamento#Casamento Com Giro - CD08\|Casamento II]] (CD07)
+	- ☑ [[Kiz - Casamento#Casamento Com Giro - CD08\|Kiz - Casamento#Casamento Com Giro - CD08]] (CD08)
+	- ☑ [[Kiz - Casamento#Casamento Com Giro II - CD09\|Casamento com giro II]] (CD09)
 	- Saída Flutuante
 - ☑ [[Kiz - Regra de 3\|Regra de 3]] (CD10)
 	- Walking

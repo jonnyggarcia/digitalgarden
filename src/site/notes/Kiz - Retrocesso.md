@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-10-25T15:49:18.334-04:00"}
+{"dg-publish":true,"permalink":"/kiz-retrocesso/","created":"2024-09-17T13:01:09.536-04:00","updated":"2024-11-03T16:31:02.527-05:00"}
 ---
 
 
@@ -20,7 +20,7 @@ There are three possible ways the lead can enter into retrocesso:
 
 - **GC03.01** - Back step: From the right side of closed position, the lead steps back with the left foot.
 - **GC03.02** - Basic 2: From the left side of closed position.
-- **GC03.03** - Balance: Step forward with the left foot, balance. This is used to perform several retrocessos in a row. This entry is similar to the key element of [[Kiz - Diamante\|Diamante]].
+- **GC03.03** - Balance: Step forward with the left foot, balance. This is used to perform several retrocessos in a row. This entry is similar to the key element of [[Kiz - Triângulo\|Triângulo]].
 
 **Follower**
 1. Take a left step forward turning to the left. The turning comes from the lead's chest movement.
