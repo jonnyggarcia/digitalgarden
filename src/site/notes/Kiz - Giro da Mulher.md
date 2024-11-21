@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giro-da-mulher/","created":"2024-10-02T12:18:42.766-04:00","updated":"2024-10-25T15:51:36.979-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giro-da-mulher/","created":"2024-10-02T12:18:42.766-04:00","updated":"2024-11-19T12:56:16.705-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/wA3I5vrF8MI)
 
 **Giro da Mulher** (full spin for the lady) is a left turn for the follower. It is very similar to the [[Kiz - Meio Giro\|Meio Giro]] but with an additional rotation.
 

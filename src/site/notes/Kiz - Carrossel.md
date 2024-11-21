@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-10-25T15:49:10.158-04:00"}
+{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-11-20T23:13:34.917-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/m36WA5CWFZs)
 
 The **Carrossel** (merry-go-round) starts with a clockwise turn but ends with a continuous rotation.
 

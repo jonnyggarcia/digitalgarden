@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-volta-da-mulher/","created":"2024-09-20T11:07:38.862-04:00","updated":"2024-10-25T15:51:52.450-04:00"}
+{"dg-publish":true,"permalink":"/kiz-volta-da-mulher/","created":"2024-09-20T11:07:38.862-04:00","updated":"2024-11-19T12:56:16.755-05:00"}
 ---
+
+
+[Video](https://youtu.be/gP7jrtMapNQ)
 
 **Volta da Mulher** (follower going around something, in this case, the lead). This is a disconnected step where the lead stays in the same spot while the follower walks around them.
 
@@ -30,4 +33,3 @@ Instead of starting the move from the Saudação, the lead can initiate it from 
 - Code: CD13
 - Connections: -
 - Parent: [[Kiz - Giros\|Giros]] (Spins)
-

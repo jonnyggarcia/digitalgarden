@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-10-24T15:25:25.816-04:00"}
+{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-11-20T16:49:50.024-05:00"}
 ---
 
 
@@ -9,6 +9,7 @@
 - *Arrastada* means to push the follower forward.
 - *Puxadas* means to pull the follower in.
 - *Rasteiras* means to perform a quick traverse move while the follower is in the air.
+- *Bloqueio* means the woman is stopped and remain in place until the lead provide a new signal.
 
 # Deslizes (DD)
 
@@ -59,3 +60,12 @@
 
 - ☑ Aconchego (DR01)
 - ☑ Recolhida do Varal (DR02)
+
+# Bloqueios (DB)
+
+- Balance com bloqueio (DB01)
+
+# Drills
+
+- Cruzada a frente com passeio
+- Cruzada a frente dupla

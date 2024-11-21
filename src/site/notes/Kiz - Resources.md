@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-10-31T13:04:07.749-04:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-11-20T13:02:46.897-05:00"}
 ---
 
 
@@ -14,6 +14,8 @@
 [[Kiz - Videos\|Videos]]
 
 [[Kiz - Fundamental\|Kiz - Fundamental]]
+
+[[Kiz in the Six - 2024\|Kiz in the Six - 2024]]
 
 # Articles
 

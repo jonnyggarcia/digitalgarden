@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/principles-of-kizomba/","created":"2024-10-16T08:49:05.029-04:00","updated":"2024-10-16T15:16:39.907-04:00"}
+{"dg-publish":true,"permalink":"/principles-of-kizomba/","created":"2024-10-16T08:49:05.029-04:00","updated":"2024-11-20T12:57:45.143-05:00"}
 ---
 
 
@@ -66,3 +66,9 @@ Whoever is moving forward should seek connection, especially with the thigh when
 *Followers should continue following the last signal until it changes.*
 
 The follower should keep following the last signal given and only stop when a new signal is provided. They will then follow the new signal until another is given. This is especially important for moves like "**[[Kiz - Volta da Mulher\|Volta da Mulher]]**" or "**Onde Você Pensa que Vai?**".
+
+## Always Take a step unless You can’t
+
+*Followers should only go for a dip when they cannot take a step.*
+
+A dip should only happen when the follower has no alternative. If the follower can naturally follow the direction of the move and take a step, that is the correct action to take. A dip occurs only when the lead blocks the follower from taking a step.

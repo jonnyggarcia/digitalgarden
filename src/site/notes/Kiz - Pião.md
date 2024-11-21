@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-piao/","created":"2024-10-03T13:46:40.160-04:00","updated":"2024-10-25T15:53:33.230-04:00"}
+{"dg-publish":true,"permalink":"/kiz-piao/","created":"2024-10-03T13:46:40.160-04:00","updated":"2024-11-19T12:56:16.733-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/8YWCewj7w4M)
 
 **Pião** (spinning top) is a follower’s turn to the right that utilizes the momentum from the Passeio’s opening to execute the turn.
 

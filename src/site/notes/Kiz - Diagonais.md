@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-10-25T15:50:58.830-04:00"}
+{"dg-publish":true,"permalink":"/kiz-diagonais/","created":"2024-09-18T17:37:39.879-04:00","updated":"2024-11-19T12:56:16.648-05:00"}
 ---
 
+
+[Video](https://youtu.be/rSuad7JP56w)
 
 **Diagonais** (diagonals) is a repetition back and forth of the first 3 steps of [[Kiz - Woman Saída\|Woman Saída]] while alternating sides.
 

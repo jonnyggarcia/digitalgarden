@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-04T12:42:05.591-05:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-20T16:54:34.529-05:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 - ☑ [[Kiz - Corridinho\|Corridinho]] (CC01)
 - ☑ [[Kiz - Balance\|Balance]] (CC02)
 	- Contratempo
+	- Estilo
 - ☑ [[Kiz - Escada\|Escada]] (CC03)
 - ☑ [[Kiz - Estrela\|Estrela]] (CC04)
 	- Estrela com saída e estilo (kiki)
@@ -26,6 +27,9 @@
 		- ☑ ==Woman Saída com Abertura== (CD03 + CD01)
 			- ☑ ==Woman Saída com Abertura + Woman Saída== (CD03 + CD01 + CD03)
 		- ☑ Woman Saída com Arrastada (CD03-A) - 504
+		- Woman Saída cruzada (CD03.01)
+		- Woman Saída com contratempo (CD03-C)
+	- Woman Saída com Troca (CD27)
 	- ☑ [[Kiz - Diagonais\|Diagonais]] (CD04)
 		- Man facing the other way (Kiki)
 		- Girada
@@ -67,8 +71,10 @@
 - ☑ ==Diagonal Girada== (CD22) - 502
 - ☑ ==Regresso== (CD23)
 - ==Regresso== Frontal (CD24)
-- ==Finta== (CD25)
-
+- Twist (CD25)
+- ==Finta== (CD26)
+CD27 usado
+- Passo Lento (CD28)
 # Caminhadas Em Fila (CF)
 
 **Entries**
@@ -97,3 +103,16 @@ The following steps can be performed in the fila position
 - [[Kiz - Casamento\|Casamento]]
 - [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]]
 - [[Kiz - Clockwise\|Clockwise]]
+- [[Kiz - Diagonais\|Diagonais]]
+
+# Drills
+
+- Regra de 3, contra vírgula
+- Regra de 3, retrocesso
+- Regra de 3 com troca, passeio
+- Regresso Reverso
+- Retrocesso, troca, onde se vai?
+- Saída da mulher, cruzada do homem a frente
+-  Woman saída, contratempo, man saída
+- Caranguejo com Bloqueio
+- Estrela (L), woman saída

@@ -1,16 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-10-30T08:47:47.880-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-11-19T12:56:58.623-05:00"}
 ---
 
 
 # Curriculum
 
-- [[Kiz - Curriculum\|Curriculum]]
+- [[Kiz - Follower's Curriculum\|Followers' Curriculum]]
+- [[Kiz - Lead's Curriculum\|Leads' Curriculum]]
 - [[Kiz - Movement Dictionary\|Movement Dictionary]]
 
 # Musicality
 
-- [Spotify Playlist](https://open.spotify.com/playlist/4vCODB1vWVWzpaxpPJGLvW?si=fc8d06aac8ec4d39)
+- [Kizomba all - Playlist](https://open.spotify.com/playlist/4vCODB1vWVWzpaxpPJGLvW?si=fc8d06aac8ec4d39)
+- [Kizomba - Must - Playlist](https://open.spotify.com/playlist/2pB08ZLCTiAryZuWD5elrw?si=749eb484d520464e)
+- [Coladeira - Must - Playlist](https://open.spotify.com/playlist/2ebdz15cTiSyyIjHtctiFF?si=e93f4dc5c19f4620)
+- [GZouk - Must - Playlist](https://open.spotify.com/playlist/5jvDupodQSMoN84RMfEwgD?si=9c21c2fdb17147f0)
 - [[Kizomba Musicality\|Kizomba Musicality]]
 
 # Reflections

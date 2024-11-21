@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-desfile/","created":"2024-10-03T13:46:16.902-04:00","updated":"2024-10-25T15:53:27.787-04:00"}
+{"dg-publish":true,"permalink":"/kiz-desfile/","created":"2024-10-03T13:46:16.902-04:00","updated":"2024-11-19T12:56:16.629-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/n0ucei3twWw)
 
 **Desfile** (parade or fashion show) is the follower’s turn to the right, which requires a flick of the follower’s left arm.
 

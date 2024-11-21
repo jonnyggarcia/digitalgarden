@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-triangulo/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-11-03T17:43:23.408-05:00"}
+{"dg-publish":true,"permalink":"/kiz-triangulo/","created":"2024-09-16T14:47:26.825-04:00","updated":"2024-11-20T23:12:18.140-05:00"}
 ---
 
 
-[Video](https://youtu.be/p3CUwosKolc)
+[Video](https://youtu.be/JJZyN1G9Hgc)
 
 **Triângulo** (triangle) is a variation of [[Kiz - Basic 3\|Basic 3]] where the lead walks diagonally. After 3 steps, the lead reversed the direction in the opposite diagonal. Upon completion of 4 diagonal walks, the couple have walked in the shape of a diamond.
 

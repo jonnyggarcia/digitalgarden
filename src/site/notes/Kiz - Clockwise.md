@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-10-25T15:49:01.305-04:00"}
+{"dg-publish":true,"permalink":"/kiz-clockwise/","created":"2024-09-16T19:01:04.754-04:00","updated":"2024-11-20T23:13:08.653-05:00"}
 ---
 
 
-[Video](https://youtu.be/uNSWxg6X3ps)
+[Video](https://youtu.be/uxjsAPittJc)
 
 **Clockwise** is a connected step where the lead starts by walking forward, then performs a 180-degree turn to the right or left, and finishes by walking backward. This move is commonly concluded with a [[Kiz - Balance\|Balance]]. There are two variations of this move:
 

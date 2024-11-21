@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-10-01T00:37:00.852-04:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-11-20T11:57:39.841-05:00"}
 ---
 
 
@@ -15,9 +15,11 @@ The **third point** of contact is the lead’s left hand, which holds the follow
 
 The **follower’s left hand** is positioned above the lead’s right arm and should rest lightly on the lead’s upper back.
 
-The follower should support the weight of their arms without pressing them against the lead.
+The **dancer’s right foot** should be placed between their partner’s feet.
 
-The connection between the feet and knees will be discussed later.
+The **weight is placed on the balls of the feet**. This positioning allows both partners to gently lean against each other, creating space in the pelvic area.
+
+The follower should support the weight of their arms without pressing them against the lead.
 
 # Catalog
 

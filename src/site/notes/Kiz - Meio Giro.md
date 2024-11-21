@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-meio-giro/","created":"2024-10-02T11:55:05.126-04:00","updated":"2024-10-25T15:51:27.086-04:00"}
+{"dg-publish":true,"permalink":"/kiz-meio-giro/","created":"2024-10-02T11:55:05.126-04:00","updated":"2024-11-19T12:56:16.723-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/sBbftDBCZG4)
 
 **Meio Giro** (half spin) consists of a half spin for both the lead and the follower.
 

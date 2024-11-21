@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-volta-bate-e-volta/","created":"2024-10-02T13:09:37.345-04:00","updated":"2024-10-25T15:52:13.372-04:00"}
+{"dg-publish":true,"permalink":"/kiz-volta-bate-e-volta/","created":"2024-10-02T13:09:37.345-04:00","updated":"2024-11-19T12:56:16.752-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/psDYbR4b2TQ)
 
 **Volta Bate e Volta** (lap, collide, lap) is a variation of the [[Kiz - Volta da Mulher\|Volta da Mulher]] with a break. During this move, the follower walks around the lead until the lead blocks their way, sending them back. The lead then blocks the follower’s path one more time, and the follower finishes the volta.
 

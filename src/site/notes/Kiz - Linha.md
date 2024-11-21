@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-10-25T15:53:12.834-04:00"}
+{"dg-publish":true,"permalink":"/kiz-linha/","created":"2024-09-25T16:36:09.413-04:00","updated":"2024-11-19T12:56:16.718-05:00"}
 ---
 
+
+[Video](https://youtu.be/MnR-vE5S_eM)
 
 **Linha** (line) is a movement performed in a parallel position where the follower alternates direction—walking forward, then backward—every three steps. This is similar to a [[Kiz - Regra de 3\|Regra de 3]] but the couple move only in one direction.
 

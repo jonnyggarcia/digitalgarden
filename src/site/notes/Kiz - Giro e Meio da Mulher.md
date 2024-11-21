@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giro-e-meio-da-mulher/","created":"2024-10-03T13:33:29.962-04:00","updated":"2024-10-25T15:53:19.970-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giro-e-meio-da-mulher/","created":"2024-10-03T13:33:29.962-04:00","updated":"2024-11-19T12:56:16.713-05:00"}
 ---
 
 
-Video
+[Video](https://youtu.be/-J8PvLnFr_Q)
 
 **Giro e Meio da Mulher** (1 and 1/2 spin for the lady). This is a combination of the [[Kiz - Giro da Mulher\|Giro da Mulher]] and the [[Kiz - Meio Giro\|Meio Giro]].
 

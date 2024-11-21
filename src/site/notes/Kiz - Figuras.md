@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-10-25T13:18:48.903-04:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-11-20T16:53:08.277-05:00"}
 ---
 
 
@@ -7,14 +7,18 @@
 
 - ☑ Reverência do Bolero (FC01)
 - ☑ Cadeirinha (FC02)
-	- ☑ Cadeirinha com Rasteira (FC02-R) - 701
+	- ☑ ==Cadeirinha com Rasteira== (FC02-R) - 701
 - ☑ ==Cadeirinha Lateral== (FC03)
+- Cadeirinha Elegante (FC04)
 
 *Aconchego*
 - ☑ Regular (FC04)
 	- Entradas:
 		- ☑ Volta da Homem (FC04.01)
 		- ☑ Passarela (FC04.02)
+		- Saída da Mulher (FC04.03)
+		- Cruzado: Saída da Mulher Perna Cruzada (FC04.04)
+		- Bloqueio: Saída da mulher com Bloqueio (FC04.05)
 	- Truques
 		- ☑ Puxada (FC04P)
 		- ☑ Arrastada (FC04A)
@@ -56,3 +60,9 @@
 		- ☑ Chute (FA02.04) - 604
 		- ☑ Cruzada (FA02.05) - 605
 - ☑ Elevador (FA03) - 605
+
+# Drills
+
+- Giro da Mulher, Retrocesso
+- Passarela, Cadeirinha
+- Woman Saída, block 1st leg

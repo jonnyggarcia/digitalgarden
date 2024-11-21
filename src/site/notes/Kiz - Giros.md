@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-10-25T13:13:00.291-04:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-11-19T12:56:16.716-05:00"}
 ---
 
 
