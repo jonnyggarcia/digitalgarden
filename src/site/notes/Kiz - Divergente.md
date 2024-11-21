@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-11-20T23:12:41.007-05:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-11-21T10:24:30.234-05:00"}
 ---
 
 
@@ -19,6 +19,6 @@
 
 # Catalog
 
-- Code: CC07
+- Code: D04
 - Connections: [[Kiz - Corridinho\|CC01]], [[Kiz - Balance\|CC02]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)

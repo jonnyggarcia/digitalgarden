@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-20T16:54:34.529-05:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-21T10:23:48.232-05:00"}
 ---
 
 
@@ -14,8 +14,7 @@
 	- Estrela com saída e estilo (kiki)
 - ☑ [[Kiz - Quadrado\|Quadrado]] (CC05)
 - ☑ [[Kiz - Triângulo\|Triângulo]] (CC06)
-- ☑ [[Kiz - Divergente\|Divergente]] (CC07)
-- ☑ [[Kiz - Tic Tac\|Tic Tac]] (CC08)
+- ☑ [[Kiz - Tic Tac\|Tic Tac]] (CC07)
 
 # Disconnected Strides (CD)
 
@@ -45,8 +44,6 @@
 	- Alternating
 	- On the Spot
 	- Leads reversed
-- ☑ [[Kiz - Linha\|Linha]] (CD11)
-- ☑ [[Kiz - Cruz\|Cruz]] (CD12)
 - ☑ [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)
 - ☑ [[Kiz - Volta Bate e Volta\|Volta Bate Volta]] (CD14)
 - ☑ Volta da Mulher Reversa (CD15)
@@ -73,8 +70,10 @@
 - ==Regresso== Frontal (CD24)
 - Twist (CD25)
 - ==Finta== (CD26)
-CD27 usado
 - Passo Lento (CD28)
+
+free cd11/12
+
 # Caminhadas Em Fila (CF)
 
 **Entries**
@@ -113,6 +112,6 @@ The following steps can be performed in the fila position
 - Regresso Reverso
 - Retrocesso, troca, onde se vai?
 - Saída da mulher, cruzada do homem a frente
--  Woman saída, contratempo, man saída
+- Woman saída, contratempo, man saída
 - Caranguejo com Bloqueio
 - Estrela (L), woman saída

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-11-20T13:02:46.897-05:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-11-21T12:52:05.113-05:00"}
 ---
 
 
@@ -16,6 +16,12 @@
 [[Kiz - Fundamental\|Kiz - Fundamental]]
 
 [[Kiz in the Six - 2024\|Kiz in the Six - 2024]]
+
+[[Kiz - Follower's Curriculum\|Follower's Curriculum]]
+
+**Dancing on the voice x beat**
+
+![[KIZOMBA - EDDY VENTS - DANCING ON THE VOICE.mp4]]
 
 # Articles
 
@@ -65,7 +71,7 @@
 - [Casamento com giro](https://youtu.be/GxeaaQzvdT8?si=CEjIQqlz4jBRgySx&t=781)
 - [Diagonais](https://youtu.be/XBJxKKIzOFc?si=lbAoHJsz6hGhOs-h)
 - [Saída Flutuante](<https://youtu.be/fIPdbsICV-c?si=I75rbUDd4smlpImk>) (o passo 1 da saída na verdade é flutuante e vai de uma lado para ouro)
-- [[Kiz - Cruz\|Cruz]] (CD12)
+- [[Kiz - Cruz\|Cruz]]
 	- [Forward Walk](https://youtu.be/qzsj4ShqJXM?si=Sh9lTHmfaHHitev2&t=672)
 	- [Backward Walk](https://youtu.be/qzsj4ShqJXM?si=iNomQspFgmZKTHi2&t=687)
 - ☑ [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD13)
