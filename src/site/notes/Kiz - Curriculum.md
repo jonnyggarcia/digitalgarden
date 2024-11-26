@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2024-11-21T12:47:55.297-05:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2024-11-26T11:48:42.657-05:00"}
 ---
 
 
@@ -43,9 +43,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 104 - Extended Walks
 
-- [[Kiz - Escada\|Escada]] (CC03)
 - [[Kiz - Estrela\|Estrela]] (CC04)
 - [[Kiz - Quadrado\|Quadrado]] (CC05)
+- [[Kiz - Triângulo\|Triângulo]] (CC06)
 
 *Drill: Cruz (D05)*
 
@@ -53,7 +53,6 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 105 - Extended Walks
 
-- [[Kiz - Triângulo\|Triângulo]] (CC06)
 - [[Kiz - Tic Tac\|Tic Tac]] (CC07)
 - [[Kiz - Clockwise\|Clockwise]] (GC01)
 - [[Kiz - Carrossel\|Carrossel]] (GC02)
@@ -76,10 +75,6 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 *Drill: Clockwise, Retrocesso (D10)*
 
-# Module 2
-
-## 201 - Connection Drills
-
 *Drill: Retrocesso, Basic 3 (D11)*
 
 *Drill: Retrocesso, Estrela (D12)*
@@ -90,48 +85,71 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 *Drill: Retrocesso, Corridinho FWD (D15)*
 
-## 203 - Disconnection
+# Module 2
 
-- Passeio (CD01)
+## 201
 
-*Drill: Passeio, Walk FWD, Close (D16)*
+- [[Kiz - Passeio\|Passeio]] (CD01)
 
-*Drill: Passeio, Walk FWD, Walk BWD, Close (D17)*
+*Drill: Passeio, Walk FWD, Walk BWD, Close Basic 2 (D21)*
 
-*Drill: Passeio, Walk with tempo play, Close (D18)*
+*Drill: Passeio, Walk FWD, Close (D20)*
 
-## 204 - Saídas
+*Drill: Passeio, Walk with tempo play, Close (D22)*
+
+## 202
 
 - [[Kiz - Man Saída\|Man Saída]] (CD02)
 - [[Kiz - Woman Saída\|Woman Saída]] (CD03)
+
+*Drill: Man Saída, Woman Saída (D23)*
+
+*Drill: Woman Saída, Man Saída (D24)*
+
+*Drill: Woman Saída, Contratempo, Man Saída (D25)*
+
+*Drill: Woman Saída, Retrocesso (D26/CD05)*
+
+*Drill: Woman Saída, Block, Passeio (D27)*
+
+*Drill: Woman Saída, Block, Woman Saída Rotation (D28)*
+
+## 203
+
+- Woman Saída com Abertura ()
 - [[Kiz - Diagonais\|Diagonais]] (CD04)
 
-*Drill: Man Saída, Woman Saída (D19)*
+*Drill: Basic 2 (no marca), Basic 3 FWD (D16)*
 
-*Drill: Woman Saída, Man Saída (D20)*
+*Drill: Basic 2 (no marca), Basic 3 BWD (D17)*
 
-*Drill: Woman Saída, Contratempo, Man Saída (D21)*
+*Drill: Basic 2 (no marca), Clockwise (D18)*
 
-*Drill: Woman Saída, Retrocesso (D22/CD05)*
+*Drill: Basic 2 (no marca), Retrocesso (D19)*
 
-*Drill: Woman Saída, Block, Passeio (D20)*
+*Drill: Woman Saída com abertura, Retrocesso (DXX)*
 
-*Drill: Woman Saída, Block, Woman Saída Rotation (D21)*
-
-## 205 - Extended Saídas
+## 204
 
 - [[Kiz - Casamento\|Casamento]] (CD06)
 - [[Kiz - Casamento#Casamento II\|Casamento II]] (CD07)
+
+*Drill: Retrocesso, Man Saída (D29)*
+
+*Drill: Retrocesso, Woman Saída (D30)*
+
+*Drill: Retrocesso, Casamento/2/giro/giro 2 (D31)*
+
+## 205 - Extended Saídas
+
 - [[Kiz - Casamento#Casamento Com Giro\|Casamento Com Giro]] (CD08)
 - [[Kiz - Casamento#Casamento Com Giro II\|Casamento Com Giro II]] (CD09)
 
-*Drill: Retrocesso, Man Saída (D22)*
+*Drill: Retrocesso, Casamento/2/giro/giro 2 (D31)*
 
-*Drill: Retrocesso, Woman Saída (D23)*
+*Drill: Woman Saída, Block, Contra Vírgula(D32)*
 
-*Drill: Retrocesso, Casamento/2/giro/giro 2 (D24)*
-
-*Drill: Woman Saída, Block, Contra Vírgula(D25)*
+*Drill: Estrela Left, Woman Saída (DXX)*
 
 # Module 3
 
@@ -141,9 +159,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)
 - [[Kiz - Espiral\|Espiral]] (GC06)
 
-*Drill: Woman Saída, Volta da Mulher (D26)*
+*Drill: Woman Saída, Volta da Mulher (D33)*
 
-*Drill: Volta da Mulher, Passeio (D27)*
+*Drill: Volta da Mulher, Passeio (D34)*
 
 ## 302 - Turns
 
@@ -151,9 +169,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - [[Kiz - Volta Bate e Volta\|Volta Bate e Volta]] (CD14)
 - [[Kiz - Giro do Homem\|Giro do Homem]] (GC09)
 
-*Drills: Giro da Mulher, Retrocesso (D28)*
+*Drills: Giro da Mulher, Retrocesso (D35)*
 
-*Drills: Giro da Homem, Balance (D29)*
+*Drills: Giro da Homem, Balance (D36)*
 
 ## 303 - Regra de 3
 
@@ -161,7 +179,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- FWD, BWD, Reversed, Lead on the spot, Switch
 - Regresso (CD23)
 
-*Drill: Compass Rose (D30)*
+*Drill: Compass Rose (D37)*
 - Regra de 3 em cruz
 
 ## 304 - Turns
@@ -170,16 +188,16 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - [[Kiz - Desfile\|Desfile]] (GC11)
 - [[Kiz - Passarela\|Passarela]] (GC13)
 
-*Drills: Double Passarela (D31)*
+*Drills: Double Passarela (D38)*
 
-*Drills: Passarela no stride (D32)*
+*Drills: Passarela no stride (D39)*
 
 ## 305 - Passadas
 
 - [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the left (CD07)
 - [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the right (CD07)
 
-*Drill: Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides (D33)*
+*Drill: Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides (D40)*
 
 # Module 4
 
@@ -189,7 +207,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - [[Kiz - Pião\|Pião]] (GC12)
 - [[Kiz - Bate e Volta\|Bate e Volta]] (GC14.01)
 
-*Drill: Passarela bate e volta (D34/GC14.02)*
+*Drill: Passarela bate e volta (D41/GC14.02)*
 
 ## 402
 
@@ -198,11 +216,11 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Knee, Feet
 	- Styling
 
-*Drill: De Lá para Cá, Volta da Mulher (D35)*
+*Drill: De Lá para Cá, Volta da Mulher (D42)*
 
-*Drill: Cruzada Atrás, Cruzada Atrás (D36)*
+*Drill: Cruzada Atrás, Cruzada Atrás (D43)*
 
-*Drill: Retrocesso, Cruzada a Frente (D37)*
+*Drill: Retrocesso, Cruzada a Frente (D44)*
 
 ## 403
 
@@ -211,7 +229,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - Volta do homem (CD16)
 - Reverência do Bolero (FC01)
 
-*Drill: Regra de 3, Levantada Conjunta (D38)*
+*Drill: Regra de 3, Levantada Conjunta (D45)*
 
 ## 404
 
@@ -222,9 +240,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Giro do Homem (CD18.03)
 - Deslize Lateral (DD03)
 
-*Drill: Deslize Lateral, Regra de 3 (D39)*
+*Drill: Deslize Lateral, Regra de 3 (D46)*
 
-*Drill: Retrocesso, Deslize Lateral (D40)*
+*Drill: Retrocesso, Deslize Lateral (D47)*
 
 ## 405
 
@@ -232,11 +250,11 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - Regra de 3 com troca do homem (CD21)
 - Passo junto com balance (CD19.balance)
 
-*Drill: Woman Saída, Passeio, Tropeço da Regra de 3 (D41)*
+*Drill: Woman Saída, Passeio, Tropeço da Regra de 3 (D48)*
 
-*Drill: Woman Saída, Passeio, Regra de 3, Troca da homem (D42)*
+*Drill: Woman Saída, Passeio, Regra de 3, Troca da homem (D49)*
 
-*Drill: Passo Junto, Abertura Lateral (D48/CD19.lateral)*
+*Drill: Passo Junto, Abertura Lateral (D50/CD19.lateral)*
 
 # Modulo 5
 
@@ -246,19 +264,21 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - Caranguejo Vai e Volta (DD08)
 - Cadeirinha (FC02)
 
-*Drill: Caranguejo, Corridinho (D43)*
+*Drill: Caranguejo, Corridinho (D51)*
 
-*Drill: Espiral, Cadeirinha (D44)*
+*Drill: Espiral, Cadeirinha (D52)*
+
+*Drill: Passarela, Cadeirinha (DXX)*
 
 ## 502
 
 - Volta da Mulher Reversa (CD15)
 - Passo Junto com Tic Tac (CD19.tic-tac)
 
-*Drill: Bambolê (D45)*
+*Drill: Bambolê (D53)*
 - Woman Saída, Passeio, Woman Saída (CD03 + CD01 + CD03)
 
-*Drill: Volta da Mulher Reversa, Balance (D46)*
+*Drill: Volta da Mulher Reversa, Balance (D54)*
 
 ## 503
 
@@ -266,11 +286,11 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - ==Saudação Cruzada== (DD05)
 - Aconchego Regular
 
-*Drill: Retrocesso, Tropeço da Cruzada a Frente (D47)*
+*Drill: Retrocesso, Tropeço da Cruzada a Frente (D55)*
 
-*Drill: Volta da Mulher, Aconchego Regular (D48/FC04.01)*
+*Drill: Volta da Mulher, Aconchego Regular (D56/FC04.01)*
 
-*Drill: Passarela, Aconchego Regular (D49/FC04.02)*
+*Drill: Passarela, Aconchego Regular (D57/FC04.02)*
 
 ## 504
 
@@ -279,9 +299,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Passarela (with and without stride) (FC05.01)
 - Cruzada Abre e Fecha (DD06)
 
-*Drill: Retrocesso, Cruzada Abre e Fecha (D50)*
+*Drill: Retrocesso, Cruzada Abre e Fecha (D58)*
 
-*Drill: Basic 3 FWD, Balance with steps, Varal (D51)*
+*Drill: Basic 3 FWD, Balance with steps, Varal (D59)*
 
 ## 505
 
@@ -292,7 +312,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Entrada do De lá para Cá (FC06.03)
 	- Woman Saída (FC06.04)
 
-*Drill: Volta do Homem, Fila (D52)*
+*Drill: Volta do Homem, Fila (D60)*
 
 # Module 6
 
@@ -303,11 +323,13 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - ==Fila Cruzada== (CF02)
 - ==Passarela em Fila== (CF03)
 
-*Drill: Saída em Fila (D53)*
+*Drill: Saída em Fila (D61)*
 
-*Drill: Casamento em Fila (D54)*
+*Drill: Casamento em Fila (D62)*
 
-*Drill: Retrocesso em Fila (D55)*
+*Drill: Retrocesso em Fila (D63)*
+
+*Drill: Diagonal em Fila (DXX)*
 
 ## 602
 
@@ -317,13 +339,13 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - Passarela com Abraço (GC17)
 - Yoyo (GC18)
 
-*Drill: Regra de 3, Aconchego Elegante (D56)*
+*Drill: Regra de 3, Aconchego Elegante (D64)*
 
-*Drill: Regra de 3, Aconchego Elegante Girado (D57)*
+*Drill: Regra de 3, Aconchego Elegante Girado (D65)*
 
-*Drill: Passarela com Abraço, Basic 3/Estrela (D58)*
+*Drill: Passarela com Abraço, Basic 3/Estrela (D66)*
 
-*Drill: Regra de 3, Yoyo (D59)*
+*Drill: Regra de 3, Yoyo (D67)*
 
 ## 603
 
@@ -331,18 +353,18 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - Giro Refinado (GC20)
 - Aconchego Frontal com Rasteira (FC06-R)
 
-*Drill: Desfile com Volta, Retrocesso (D60)*
+*Drill: Desfile com Volta, Retrocesso (D68)*
 
-*Drill: Giro Refinado, Woman Saída, Retrocesso (D61)*
+*Drill: Giro Refinado, Woman Saída, Retrocesso (D69)*
 
 ## 604
 
-- ==Rolo== (GC22)
+- ==Rolo== (GC21)
 	- Simple exit
 	- Spinning exit
 - ==Giro Conduzido== (GC21)
 
-*Drill: Regra de 3, Giro Conduzido (D62)*
+*Drill: Regra de 3, Giro Conduzido (D70)*
 
 ## 605
 
@@ -354,7 +376,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Passarela (FC05.01)
 	- Elegante (FC05.02)
 
-*Drill: Casamento, Passo Junto com Volta (D62)*
+*Drill: Casamento, Passo Junto com Volta (D71)*
 
 # Module 7
 
@@ -365,9 +387,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Rasteira do Básico 2 parada
 - Aconchego Elegante com Puxada (FC05.02-P)
 
-*Drill: Casamento, Diagonal Girada (D63)*
+*Drill: Casamento, Diagonal Girada (D72)*
 
-*Drill: Regra de 3, Básico 2 com Rasteira (D64)*
+*Drill: Regra de 3, Básico 2 com Rasteira (D73)*
 
 ## 702
 
@@ -379,7 +401,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 	- Elegante (FC05.02-P)
 - ==Passeio com Rasteira== (DR02)
 
-*Drill: Regra de 3, Passeio com Rasteira (D65)*
+*Drill: Regra de 3, Passeio com Rasteira (D74)*
 
 ## 703
 
@@ -393,7 +415,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - ==Fila com Giro== (CF05)
 - ==Rasteira Vai e Vem== (DR03)
 
-*Drill: Casamento, Arremesso (D66)*
+*Drill: Casamento, Arremesso (D75)*
 
 ## 705
 
@@ -401,7 +423,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - ==Tornado== (GA01)
 - ==Astronauta== (FA01)
 
-*Drill: Astronauta em Fila (D67)*
+*Drill: Astronauta em Fila (D76)*
 
 # Module 8
 
@@ -427,7 +449,7 @@ Perform the following on the other side
 
 - ==Deslize Traseiro== (DD10)
 - ==Passo Junto com Passarela== (CD19.passarela)
-- ==Cadeirinha Flutuante da Levanta com pé ==(FA02.03)
+- ==Cadeirinha Flutuante da Levanta com pé== (FA02.03)
 
 ## 804
 

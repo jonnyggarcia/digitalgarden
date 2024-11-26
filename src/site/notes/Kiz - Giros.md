@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-11-19T12:56:16.716-05:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2024-11-25T13:25:39.889-05:00"}
 ---
 
 
@@ -14,21 +14,22 @@
 - ☑ [[Kiz - Giro do Homem\|Giro do Homem]] (GC09) - 204
 - ☑ [[Kiz - Giro e Meio da Mulher\|Giro e Meio da Mulher]] (GC10) - 205
 - ☑ [[Kiz - Desfile\|Desfile]] (GC11) - 205
+	- Conduzido (GC11-Z)
 - ☑ [[Kiz - Pião\|Pião]] (GC12) - 205
 - ☑ [[Kiz - Passarela\|Passarela]] (GC13) - 205
+	- Conduzida (GC13-Z)
 - ☑ [[Kiz - Bate e Volta\|Bate e Volta]] (GC14.01) - 302
 	- ☑ Passarela Bate e Volta (GC14.02) - 302
 - ☑ Passarela com Abraço (GC17) - 404
 - ☑ Yoyo (GC18) - 404
-- ☑ ==Desfile com Volta== (GC19) - 404
+- ☑ Desfile com Volta (GC19) - 404
 	- Left Hand leading
 	- Desfile leading
 - ☑ Giro Refinado (GC20) - 405
-- ☑ ==Giro Conduzido== (GC21) - 501
-- ☑ ==Rolo== (GC22) - 501
+- ☑ ==Rolo== (GC21) - 501
 	- Simple exit
 	- Spinning exit
-- ==Eixo== (GC23)
+- ==Eixo==
 - ==Carrossel Aberto==
 - ==Carrossel com Arremesso==
 

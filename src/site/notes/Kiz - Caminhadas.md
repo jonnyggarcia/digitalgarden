@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-21T10:23:48.232-05:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-25T13:23:14.280-05:00"}
 ---
 
 
@@ -49,6 +49,7 @@
 - ☑ Volta da Mulher Reversa (CD15)
 - ☑ Volta do Homem (CD16)
 	- ==Volta do Homem com Cruzada== (CD16 + DD01)
+	- Conduzido (CD16-Z)
 - ☑ [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD17)
 - ☑ Onde você pensa que vai? (CD18)
 	- Flick (CD18.01)
@@ -89,6 +90,7 @@ free cd11/12
 	- Exit with Spin
 - ☑ ==Fila da Saudação Reversa== (CF08) - 604
 - ☑ Cruzada Atrás na Fila (CF09) - 605
+- ☑ Diagonal em Fila (CF10)
 
 The following steps can be performed in the fila position
 
@@ -106,12 +108,11 @@ The following steps can be performed in the fila position
 
 # Drills
 
-- Regra de 3, contra vírgula
+- Woman Saída com Abertura, Retrocesso
 - Regra de 3, retrocesso
 - Regra de 3 com troca, passeio
 - Regresso Reverso
 - Retrocesso, troca, onde se vai?
 - Saída da mulher, cruzada do homem a frente
 - Woman saída, contratempo, man saída
-- Caranguejo com Bloqueio
 - Estrela (L), woman saída

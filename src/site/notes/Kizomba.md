@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-11-21T12:47:29.837-05:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-11-26T11:43:53.731-05:00"}
 ---
 
 
 # Curriculum
 
-- [[Kiz - Curriculum\|Leads' Curriculum]]
+- [[Kiz - Curriculum\|Curriculum]]
 - [[Kiz - Movement Dictionary\|Movement Dictionary]]
 - [[Kiz - Drills\|Drills]]
 

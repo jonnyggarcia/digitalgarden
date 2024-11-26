@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-11-21T12:48:33.071-05:00"}
+{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-11-25T13:41:27.938-05:00"}
 ---
 
 
 # Curriculum
 
-The [[Kiz - Curriculum\|Curriculum]] is divided into modules, each containing 5 classes.
+The [[Kiz - Curriculum\|Curriculum]] is divided into modules, each containing 5 classes. The steps are organized to introduce fundamental concepts first, which form the foundation for more advanced techniques. The curriculum is designed with leads in mind, as followers are not required to memorize any footwork.
 
 Every step presented in the Curriculum has a Portuguese name. Aside from the basic steps, all the names presented were coined by me to aid in memorization and to create distinctions among them. I have also divided all the moves into five broad categories. In the [[Kiz - Movement Dictionary\|Movement Dictionary]], you can find all moves categorized.
 

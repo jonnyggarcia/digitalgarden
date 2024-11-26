@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-11-20T16:49:50.024-05:00"}
+{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2024-11-25T13:13:50.576-05:00"}
 ---
 
 
@@ -34,6 +34,7 @@
 - ☑ ==Deslize Duplo== (DD09) - 502
 - ☑ ==Deslize Traseiro== (DD10)
 	- Saída do homem
+- Cruzada Dupla (DD11)
 
 # Levantadas (DL)
 
@@ -43,9 +44,10 @@
 - ☑ Arremesso (DL04) - 504
 - ☑ Tropeço da Cruzada a Frente (DL05) - 304
 - ☑ Levantada com Chute (DL06) - 604
-- ==Levantada Extendida== (DL07)
-- ==Lavantada Traseira== (DL08)
-- ==Joelhadas== (DL09)
+- ☑ Levantada Dupla (DL07)
+- ==Levantada Extendida== (DL08)
+- ==Lavantada Traseira== (DL09)
+- ==Joelhadas== (DL10)
 
 # Rasteiras (DR)
 
@@ -63,7 +65,9 @@
 
 # Bloqueios (DB)
 
-- Balance com bloqueio (DB01)
+- Balance Bloqueado (DB01)
+- Bloquei com Deslize (DB02)
+- Woman Saída com bloqueio da perna (DB03)
 
 # Drills
 

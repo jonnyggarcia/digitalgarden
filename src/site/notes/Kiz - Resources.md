@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-11-21T12:52:05.113-05:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2024-11-25T13:20:44.674-05:00"}
 ---
 
 
@@ -101,8 +101,7 @@
 
 # Strides with Spins
 
-- Bambole: ==[Woman Saída com Abertura + Woman Saída](https://www.youtube.com/watch?v=eNN3tjgi5yU&list=PLwK81NqKJka0fy__-SP-TY-Hdcndorn6X)==
-
+- ==[Bambole](https://youtu.be/eNN3tjgi5yU?si=PW7utef7TZ_qO-qj)==: Woman Saída com Abertura + Woman Saída]
 # Giros
 
 - ☑ [Bate e Volta](https://youtu.be/Pl_cgRpcfeE?si=FyGcMcSu37mQsjtq) (GC14)
@@ -111,7 +110,7 @@
 	- [video](https://youtu.be/hD5dBWb4q-k?si=m_BjX0HT_A98slja)
 - ☑ Rolo (GC21)
 	- [video](https://youtu.be/2lN9WdCBDhM?si=ssMLqeqqQMfSISn9)
-- ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída) (GC23)
+- ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída)
 
 # Deslocamentos
 
@@ -171,3 +170,12 @@
 - ==Morceguinho==
 - ==Super==
 - Titanique
+
+
+# Bloqueios
+
+Bloquei com Deslize (DB02) (Dasmara)
+- Woman Saída
+- Abertura
+- Bloqueia a perna de trás da senhora contra si mesma
+- Deslize da perna da frente
