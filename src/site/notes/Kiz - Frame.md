@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-frame/","created":"2024-11-20T11:57:57.460-05:00","updated":"2024-11-20T12:46:31.117-05:00"}
+{"dg-publish":true,"permalink":"/kiz-frame/","created":"2024-11-20T11:57:57.460-05:00","updated":"2024-11-28T15:10:10.784-05:00"}
 ---
 
 

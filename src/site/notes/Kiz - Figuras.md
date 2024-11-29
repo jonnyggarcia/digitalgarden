@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-11-25T12:02:34.246-05:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-11-29T12:35:28.117-05:00"}
 ---
 
 
@@ -67,3 +67,4 @@
 - ☑ Espiral com Cadeirinha
 - ☑ Passarela, Cadeirinha
 - Woman Saída, block 1st leg
+- ==Cadeirinha Bloqueada==

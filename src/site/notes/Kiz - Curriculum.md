@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2024-11-26T11:48:42.657-05:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2024-11-28T15:10:27.886-05:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - [[Kiz - Connection Points\|Connection Points]] (B00)
 - [[Kiz - Basic 1\|Basic 1]] (B01)
 - [[Kiz - Basic 2\|Basic 2]] (B02)
-- [[Kiz - Abertura Lateral\|Side Opening]] (B03)
+- [[Kiz - Abertura Lateral\|Side Opening]] (B)
 - [[Kiz - Saudação\|Saudação]] (B04)
 
 ## 102 - Variations
@@ -116,8 +116,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 203
 
-- Woman Saída com Abertura ()
-- [[Kiz - Diagonais\|Diagonais]] (CD04)
+- [[Kiz - Woman Saída#Woman Saída with Opening\|Woman Saída com Abertura]] (CD29)
+- [[Kiz - Diagonais\|Diagonais]] (CD02)
 
 *Drill: Basic 2 (no marca), Basic 3 FWD (D16)*
 
@@ -157,7 +157,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 - [[Kiz - Meio Giro\|Meio Giro]] (GC04)
 - [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)
-- [[Kiz - Espiral\|Espiral]] (GC06)
+- [[Kiz - Giro da Mulher\|Giro da Mulher]] (GC05)
 
 *Drill: Woman Saída, Volta da Mulher (D33)*
 
@@ -165,9 +165,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 302 - Turns
 
-- [[Kiz - Giro da Mulher\|Giro da Mulher]] (GC05)
-- [[Kiz - Volta Bate e Volta\|Volta Bate e Volta]] (CD14)
-- [[Kiz - Giro do Homem\|Giro do Homem]] (GC09)
+- [[Kiz - Espiral\|Espiral]] (GC06)
+- [[Kiz - Volta Bate Volta\|Volta Bate Volta]] (CD14)
+- [[Kiz - Giro do Homem\|Giro do Homem]] (CG09)
 
 *Drills: Giro da Mulher, Retrocesso (D35)*
 
@@ -177,7 +177,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 - [[Kiz - Regra de 3\|Regra de 3]] (CD10)
 	- FWD, BWD, Reversed, Lead on the spot, Switch
-- Regresso (CD23)
+- [[Kiz - Regresso\|Regresso]] (CD23)
 
 *Drill: Compass Rose (D37)*
 - Regra de 3 em cruz
@@ -194,8 +194,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 305 - Passadas
 
-- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the left (CD07)
-- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the right (CD07)
+- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the left (CD08)
+- [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] on the right (CD08)
 
 *Drill: Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides (D40)*
 
@@ -203,16 +203,16 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 401
 
-- [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD17)
+- [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD13)
 - [[Kiz - Pião\|Pião]] (GC12)
-- [[Kiz - Bate e Volta\|Bate e Volta]] (GC14.01)
+- [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
 
 *Drill: Passarela bate e volta (D41/GC14.02)*
 
 ## 402
 
-- Cruzada Atrás (DD01)
-- Cruzada a Frente (DD02)
+- [[Kiz - Cruzada a Atrás\|Cruzada a Atrás]] (DD01)
+- [[Kiz - Cruzada a Frente\|Cruzada a Frente]] (DD02)
 	- Knee, Feet
 	- Styling
 
@@ -224,9 +224,9 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 403
 
-- Levantada Conjunta
+- [[Kiz - Levantada Conjunta\|Levantada Conjunta]] (DL01)
 	- Ribs/Thigh, Knee
-- Volta do homem (CD16)
+- [[Kiz - Volta do Homem\|Volta do Homem]] (CD16)
 - Reverência do Bolero (FC01)
 
 *Drill: Regra de 3, Levantada Conjunta (D45)*
