@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-01-02T23:19:17.000-05:00"}
+{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-12-28T17:31:22.883-05:00"}
 ---
 
 
@@ -37,3 +37,6 @@ Below you can find a list of some the games I made. More details can be found on
 - My Life
 - The Circus
 
+# Gamebooks
+
+[[Draegeni - O Início da Jornada\|Draegeni - O Início da Jornada]]
