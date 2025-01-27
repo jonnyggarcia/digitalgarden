@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2024-11-28T15:10:27.886-05:00"}
+{"dg-publish":true,"permalink":"/kiz-curriculum/","created":"2024-11-18T12:12:03.917-05:00","updated":"2025-01-27T15:33:43.355-05:00"}
 ---
 
 
@@ -9,10 +9,11 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 101 - Fundamentals
 
+- [[Kiz - Frame\|Frame]] (B00)
 - [[Kiz - Connection Points\|Connection Points]] (B00)
 - [[Kiz - Basic 1\|Basic 1]] (B01)
 - [[Kiz - Basic 2\|Basic 2]] (B02)
-- [[Kiz - Abertura Lateral\|Side Opening]] (B)
+- [[Kiz - Abertura Lateral\|Side Opening]] (B03)
 - [[Kiz - Saudação\|Saudação]] (B04)
 
 ## 102 - Variations
@@ -65,6 +66,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
  - Triângulo, Marca, Triângulo
  - Triângulo, Triângulo, Marca
 
+*Drill: Corridinho BWD into Clockwise*
+
 ## 106 - Contratempo
 
 - [[Kiz - Retrocesso\|Retrocesso]] (GC03)
@@ -96,6 +99,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 *Drill: Passeio, Walk FWD, Close (D20)*
 
 *Drill: Passeio, Walk with tempo play, Close (D22)*
+
+*Drill: Retrocesso, Retrocesso, Passeio (D23). ***
 
 ## 202
 
@@ -157,6 +162,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 - [[Kiz - Meio Giro\|Meio Giro]] (GC04)
 - [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)
+	- [[Kiz - De Lá para Cá\|De Lá para Cá]]
 - [[Kiz - Giro da Mulher\|Giro da Mulher]] (GC05)
 
 *Drill: Woman Saída, Volta da Mulher (D33)*
@@ -177,7 +183,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 - [[Kiz - Regra de 3\|Regra de 3]] (CD10)
 	- FWD, BWD, Reversed, Lead on the spot, Switch
-- [[Kiz - Regresso\|Regresso]] (CD23)
+- [[Kiz - Regresso\|Regresso]] (CD21)
 
 *Drill: Compass Rose (D37)*
 - Regra de 3 em cruz
@@ -203,7 +209,6 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 401
 
-- [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD13)
 - [[Kiz - Pião\|Pião]] (GC12)
 - [[Kiz - Bate e Volta\|Bate e Volta]] (GC14)
 
@@ -246,8 +251,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 405
 
-- ==Tropeço da Regra de 3== (DL03)
-- Regra de 3 com troca do homem (CD21)
+- Tropeço da Regra de 3 (DL03)
+- Regra de 3 com troca do homem (CD11)
 - Passo junto com balance (CD19.balance)
 
 *Drill: Woman Saída, Passeio, Tropeço da Regra de 3 (D48)*
@@ -272,7 +277,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 502
 
-- Volta da Mulher Reversa (CD15)
+- Volta da Mulher Reversa (CD13.reversa)
 - Passo Junto com Tic Tac (CD19.tic-tac)
 
 *Drill: Bambolê (D53)*
@@ -282,8 +287,8 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 503
 
-- ==Tropeço da Cruzada a Frente== (DL05)
-- ==Saudação Cruzada== (DD05)
+- Tropeço da Cruzada a Frente (DL05)
+- Saudação Cruzada (DD05)
 - Aconchego Regular
 
 *Drill: Retrocesso, Tropeço da Cruzada a Frente (D55)*
@@ -306,10 +311,11 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 ## 505
 
 - ==Passeio em Fila== (CF01)
+	- Basic 3
 - ==Aconchego Frontal==
 	- Entrada do Básico 2 (FC06.01)
 	- Entrada da abertura 90 (FC06.02)
-	- Entrada do De lá para Cá (FC06.03)
+	- Entrada do De lá para Cá (FC06.03) ==??????==
 	- Woman Saída (FC06.04)
 
 *Drill: Volta do Homem, Fila (D60)*
@@ -362,7 +368,7 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 - ==Rolo== (GC21)
 	- Simple exit
 	- Spinning exit
-- ==Giro Conduzido== (GC21)
+- Felipe: Giro Confuzido
 
 *Drill: Regra de 3, Giro Conduzido (D70)*
 
@@ -382,12 +388,10 @@ Read more about the [[Kizomba Curriculum\|Kizomba Curriculum]].
 
 ## 701
 
-- ==Diagonal Girada== (CD22)
+- Felipe
 - ==Basic 2 com Rasteira== (DR01)
 	- Rasteira do Básico 2 parada
 - Aconchego Elegante com Puxada (FC05.02-P)
-
-*Drill: Casamento, Diagonal Girada (D72)*
 
 *Drill: Regra de 3, Básico 2 com Rasteira (D73)*
 
@@ -453,7 +457,8 @@ Perform the following on the other side
 
 ## 804
 
-- ==Defile em Fila== (FC07)
+- ==Defile em Fila== (CF
+- 07)
 - ==Para-Brisa== (DD04)
 - ==Passo Junto Vai e Vem== (CD19.vai-vem)
 
