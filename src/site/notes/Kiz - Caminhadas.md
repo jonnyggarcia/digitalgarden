@@ -1,96 +1,73 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2024-11-25T13:23:14.280-05:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2025-01-27T14:46:05.278-05:00"}
 ---
 
 
 # Connected Strides (CC)
 
-- ☑ [[Kiz - Corridinho\|Corridinho]] (CC01)
-- ☑ [[Kiz - Balance\|Balance]] (CC02)
-	- Contratempo
-	- Estilo
-- ☑ [[Kiz - Escada\|Escada]] (CC03)
-- ☑ [[Kiz - Estrela\|Estrela]] (CC04)
-	- Estrela com saída e estilo (kiki)
-- ☑ [[Kiz - Quadrado\|Quadrado]] (CC05)
-- ☑ [[Kiz - Triângulo\|Triângulo]] (CC06)
-- ☑ [[Kiz - Tic Tac\|Tic Tac]] (CC07)
+| STEP                             | CODE | LESSON |
+| -------------------------------- | ---- | ------ |
+| [[Kiz - Corridinho\|Corridinho]] | CC01 | 102    |
+| [[Kiz - Balance\|Balance]]       | CC02 | 103    |
+| [[Kiz - Escada\|Escada]]         | CC03 | 103    |
+| [[Kiz - Estrela\|Estrela]]       | CC04 | 104    |
+| [[Kiz - Quadrado\|Quadrado]]     | CC05 | 104    |
+| [[Kiz - Triângulo\|Triângulo]]   | CC06 | 104    |
+| [[Kiz - Tic Tac\|Tic Tac]]       | CC07 | 105    |
 
 # Disconnected Strides (CD)
 
-- ☑ [[Kiz - Passeio\|Passeio]] (CD01)
-- *Saídas*
-	- ☑ [[Kiz - Man Saída\|Man Saída]] (CD02)
-		- Estilo com contratempo
-	- ☑ [[Kiz - Woman Saída\|Woman Saída]] (CD03)
-		- ☑ ==Woman Saída com Abertura== (CD03 + CD01)
-			- ☑ ==Woman Saída com Abertura + Woman Saída== (CD03 + CD01 + CD03)
-		- ☑ Woman Saída com Arrastada (CD03-A) - 504
-		- Woman Saída cruzada (CD03.01)
-		- Woman Saída com contratempo (CD03-C)
-	- Woman Saída com Troca (CD27)
-	- ☑ [[Kiz - Diagonais\|Diagonais]] (CD04)
-		- Man facing the other way (Kiki)
-		- Girada
-	- ☑ [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída com Retrocesso]] (CD05)
-	- ☑ [[Kiz - Casamento\|Casamento]] (CD06)
-	- ☑ [[Kiz - Casamento#Casamento Com Giro - CD08\|Casamento II]] (CD07)
-	- ☑ [[Kiz - Casamento#Casamento Com Giro - CD08\|Kiz - Casamento#Casamento Com Giro - CD08]] (CD08)
-	- ☑ [[Kiz - Casamento#Casamento Com Giro II - CD09\|Casamento com giro II]] (CD09)
-	- Saída Flutuante
-- ☑ [[Kiz - Regra de 3\|Regra de 3]] (CD10)
-	- Walking
-	- Walking Reversed
-	- Alternating
-	- On the Spot
-	- Leads reversed
-- ☑ [[Kiz - Volta da Mulher\|Volta da Mulher]] (CD13)
-- ☑ [[Kiz - Volta Bate e Volta\|Volta Bate Volta]] (CD14)
-- ☑ Volta da Mulher Reversa (CD15)
-- ☑ Volta do Homem (CD16)
-	- ==Volta do Homem com Cruzada== (CD16 + DD01)
-	- Conduzido (CD16-Z)
-- ☑ [[Kiz - De Lá para Cá\|De Lá para Cá]] (CD17)
-- ☑ Onde você pensa que vai? (CD18)
-	- Flick (CD18.01)
-	- Agachada (CD18.02)
-	- Giro do homem com agachada (CD18.03)
-- ☑ Passo Junto (CD19)
-	- Com Balance (CD19.balance) - 303
-	- Com Tic Tac (CD19.tic-tac) - 304
-	- Com Abertura Lateral (CD19.lateral) - 401
-	- Com Volta (CD19.volta) - 502
-	- Com Troca (CD19.troca) - 504
-	- Com Aconchego (CD19.aconchego) - 504
-	- ==Passo Junto com Passarela== (CD19.passarela) - 602
-	- Vai e Vem (CD19.vei-vem) - 603
-- ☑ Pedágio (CD20)
-- ☑ Regra de 3 com troca do homem (CD21)
-- ☑ ==Diagonal Girada== (CD22) - 502
-- ☑ ==Regresso== (CD23)
-- ==Regresso== Frontal (CD24)
-- Twist (CD25)
-- ==Finta== (CD26)
-- Passo Lento (CD28)
+| STEP                                                                          | CODE           | LESSON |
+| ----------------------------------------------------------------------------- | -------------- | ------ |
+| [[Kiz - Passeio\|Passeio]]                                                    | CD01           | 201    |
+| [[Kiz - Man Saída\|Man Saída]]                                                | CD02           | 202    |
+| [[Kiz - Woman Saída\|Woman Saída]]                                            | CD03           | 202    |
+| [[Kiz - Woman Saída#Woman Saída with Opening\|Woman Saída com Abertura]]      | CD29           | 203    |
+| [[Kiz - Woman Saída\|Woman Saída]] com troca                                  | CD27           |        |
+| [[Kiz - Woman Saída#Woman Saída with Retrocesso\|Woman Saída com Retrocesso]] | CD05           |        |
+| [[Kiz - Diagonais\|Diagonais]]                                                | CD04           | 203    |
+| [[Kiz - Casamento\|Casamento]]                                                | CD06           | 204    |
+| [[Kiz - Casamento#Casamento II - CD07\|Casamento 2]]                          | CD07           | 204    |
+| [[Kiz - Casamento#Casamento Com Giro - CD08\|Casamento com Giro]]             | CD08           | 205    |
+| [[Kiz - Casamento#Casamento Com Giro II - CD09\|Casamento com Giro 2]]        | CD09           | 205    |
+| [[Kiz - Regra de 3\|Regra de 3]]                                              | CD10           | 303    |
+| [[Kiz - Regra de 3\|Regra de 3]] com troca                                    | CD11           | 405    |
+| [[Kiz - Volta da Mulher\|Volta da Mulher]]                                    | CD13           | 301    |
+| [[Kiz - Volta Bate Volta\|Volta Bate e Volta]]                                | CD14           | 302    |
+| Volta ao Mundo                                                                | CD15           |        |
+| [[Kiz - Volta do Homem\|Volta do Homem]]                                      | CD16           | 403    |
+| [[Onde Você Pensa que Vai?\|Onde Você Pensa que Vai?]]                                                  | CD18           | 404    |
+| [[Passo Junto\|Passo Junto]] com balance                                                   | CD19           | 405    |
+| [[Passo Junto\|Passo Junto]] com Tic Tac                                                   | CD19.tic-tac   | 502    |
+| [[Passo Junto\|Passo Junto]] com Abertura Lateral                                          | CD19.lateral   | 405    |
+| [[Passo Junto\|Passo Junto]] com Volta                                                     | CD19.volta     | 605    |
+| [[Passo Junto\|Passo Junto]] com Troca                                                     | CD19.troca     | 703    |
+| [[Passo Junto\|Passo Junto]] com Aconchego                                                 | CD19.aconchego | 703    |
+| ==[[Passo Junto\|Passo Junto]] com Passarela==                                             | CD19.passarela | 803    |
+| [[Passo Junto\|Passo Junto]] com Vai e Vem                                                 | CD19.vei-vem   |        |
+| Pedágio                                                                       | CD20           | 601    |
+| [[Regresso\|Regresso]]                                                                  | CD21           | 303    |
+| ==Passo Lento==                                                               | CD22           |        |
+| ==Twist==                                                                     | CD23           |        |
+| ==Finta==                                                                     | CD24           |        |
 
-free cd11/12
+free CD12, CD17
 
 # Caminhadas Em Fila (CF)
 
-**Entries**
-- ☑ Passeio em Fila (CF01) - 402
-- ☑ Fila Cruzada (CF02) - 403
-- ☑ Passarela em Fila (CF03) - 403
-- ☑ Pedágio com Fila (CF04) - 405
-- ☑ ==Fila com Giro== (CF05) - 504
-- ☑ Fila da Volta do Homem (CF06) - 602
-- ☑ Defile em Fila (FC07) - 603
-- ☑ ==Rolo== (GC21) - 501
-	- Exit with Side Opening
-	- Exit with Spin
-- ☑ ==Fila da Saudação Reversa== (CF08) - 604
-- ☑ Cruzada Atrás na Fila (CF09) - 605
-- ☑ Diagonal em Fila (CF10)
+| STEP                     | CODE | LESSON |
+| ------------------------ | ---- | ------ |
+| Passeio em Fila          | CF01 | 505    |
+| Fila Cruzada             | CF02 | 601    |
+| Passarela em Fila        | CF03 | 601    |
+| Pedágio em Fila          | CF04 | 601    |
+| Fila com Giro            | CF05 | 704    |
+| Fila da Volta do Homem   | CF06 | 802    |
+| Desfile em fila          | CF07 | 804    |
+| [[Rolo\|Rolo]]                 | GC21 | 604    |
+| Fila da Saudação Reversa | CF08 | 805    |
+| Cruzada Atrás na Fila    | CF09 | 901    |
+| Diagonal em Fila         | CF10 |        |
 
 The following steps can be performed in the fila position
 
