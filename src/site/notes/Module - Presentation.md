@@ -18,9 +18,9 @@ Identify six images that represent different areas of your practice:
 - Making
 ![Mystery, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/Mystery,%202021,%20Jonny%20Garcia.jpg)
 - Finishing
-![Bler - 2021 - Jonny Garcia.jpg|200](/img/user/MEDIA/Bler%20-%202021%20-%20Jonny%20Garcia.jpg)
+![ART COLLAGE - Bler, 2021, digital, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20COLLAGE%20-%20Bler,%202021,%20digital,%20Jonny%20Garcia.jpg)
 - Diffusion
-![Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|200](/img/user/MEDIA/Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 - Impact & Engagement
 ![Hollow, 2022, Jonny Garcia.jpg|200](/img/user/MEDIA/Hollow,%202022,%20Jonny%20Garcia.jpg)
 

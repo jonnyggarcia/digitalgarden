@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-language/","tags":["c/2024","c/series","c/series-emigration","c/man","c/hand","c/faceless","c/abstract","c/yellow","c/red","c/X","c/hood"],"created":"2024-03-23T13:30:41.000-04:00","updated":"2024-04-15T12:04:33.854-04:00"}
+{"dg-publish":true,"permalink":"/collage-language/","tags":["c/2024","c/series","c/series-emigration","c/man","c/hand","c/faceless","c/abstract","c/yellow","c/red","c/X","c/hood"],"created":"2024-06-28T12:55:28.000-04:00","updated":"2024-04-15T12:04:33.000-04:00"}
 ---
 
 

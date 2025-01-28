@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/travessia-pelos-ossos/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T15:31:01.617-05:00","updated":"2024-12-23T15:59:14.473-05:00"}
+{"dg-publish":true,"permalink":"/travessia-pelos-ossos/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T15:31:01.617-05:00","updated":"2025-01-08T16:14:25.598-05:00"}
 ---
 
 
-Apesar da dificuldade você atravessa o terreno. Cerca de dez metros depois, você se depara contra um paredão e gelo. Neste momento você nota que não há mais ossos pelo chão. Você para um segundo para recobrar o fôlego, então que nota pares de luzes vermelhasse formando no caminho por onde veio, onde os ossos estavam.
+Apesar da dificuldade, você consegue atravessar o terreno, seus passos cuidadosos e sua mente alerta. Cerca de dez metros depois, você se depara com um imenso paredão de gelo, sólido e impenetrável, que bloqueia seu caminho. A caverna parece ter chegado ao fim, e por um momento, você sente o peso do silêncio ao seu redor. Nesta área não há mais ossos pelo chão.
+
+Você para por um instante, recupera o fôlego, e é nesse momento que algo estranho chama sua atenção. Com um arrepio, você observa, à distância, pares de luzes vermelhas começando a se formar no caminho por onde você havia vindo, exatamente onde os ossos estavam espalhados. As luzes brilham com uma intensidade sinistra, parecendo observar seus movimentos
 
 O que deseja fazer?
 
-- Caso queira sacar sua arma e preparar-se para o combate, vá para [[Luzes na Escuridão\|Luzes na Escuridão]].
-- Caso queira procurar por uma saída, vá para [[Vasculhar Caverna de Gelo\|Vasculhar Caverna de Gelo]].
+- Se decidir sacar sua arma e se preparar para o combate, vá para [[Luzes na Escuridão\|Luzes na Escuridão]].
+- Se preferir procurar por uma saída, vasculhando a caverna em busca de uma rota de fuga, vá para [[Vasculhar Caverna de Gelo\|Vasculhar Caverna de Gelo]].

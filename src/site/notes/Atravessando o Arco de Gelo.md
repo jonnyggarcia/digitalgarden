@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atravessando-o-arco-de-gelo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-27T15:52:09.025-05:00","updated":"2024-12-27T16:00:41.995-05:00"}
+{"dg-publish":true,"permalink":"/atravessando-o-arco-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T15:52:09.025-05:00","updated":"2025-01-08T16:14:25.669-05:00"}
 ---
 
 

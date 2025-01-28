@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-icarus-illusion/","tags":["c/wings","c/ghost","c/church","c/building","c/mountain","c/moon","c/brown","c/beje","c/green","c/2021"],"created":"2024-01-22T14:53:41.000-05:00","updated":"2024-04-15T12:04:31.951-04:00"}
+{"dg-publish":true,"permalink":"/collage-icarus-illusion/","tags":["c/wings","c/ghost","c/church","c/building","c/mountain","c/moon","c/brown","c/beje","c/green","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:31.000-04:00"}
 ---
 
 

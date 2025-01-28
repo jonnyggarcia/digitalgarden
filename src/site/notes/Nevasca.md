@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/nevasca/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-20T11:03:36.562-05:00","updated":"2024-12-24T17:13:00.439-05:00"}
+{"dg-publish":true,"permalink":"/nevasca/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-20T11:03:36.562-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 
-Você é forçada a esperar a nevasca passar, o que lhe consome várias horas. Somente durante o meio da madrugada que a neve da trégua. Pela manhã o volume de neve é imenso e caminhada será muito difícil, além do mais que o rastro da trilha está quase imperceptível.
+Você passa o restante da noite esperando que a nevasca passe, o que lhe consome um tempo precioso e força a esperar até a madrugada. Durante esse tempo, a temperatura cai ainda mais, e a paisagem ao redor se torna irreconhecível, coberta por uma espessa camada de neve.
 
-*Gaste suprimentos* para se preparar para a jornada. Caso não tenha suprimentos de viagem disponível, receba desvantagem continua até que seja informado o oposto.
+Quando a nevasca finalmente dá uma trégua, você acorda para perceber o estrago: a neve é espessa e densa, cobrindo qualquer vestígio da trilha e tornando a caminhada um verdadeiro desafio.
 
-Faça um *teste de INTELECTUAL + ESPERTAMENTE* para tentar encontrar seu caminho.
+*Gaste suprimentos* para se preparar adequadamente para a jornada. Caso você não tenha suprimentos de viagem disponíveis, receba desvantagem contínua.
 
-- Caso falhe, vá [[Perdida em Ichor Tor\|Perdida em Ichor Tor]].
-- Caso contrário, vá para [[Final do Terceiro dia\|Final do Terceiro dia]].
+Faça um teste de *INTELECTUAL + ESPERTAMENTE* para tentar encontrar o caminho correto e recuperar a direção.
+
+- Caso o teste falhe, vá para [[Perdida em Ichor Tor\|Perdida em Ichor Tor]].
+- Caso tenha sucesso, vá para [[Esperanças Renovadas\|Esperanças Renovadas]].
 
 *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*

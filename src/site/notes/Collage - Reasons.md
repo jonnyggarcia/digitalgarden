@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reasons/","tags":["c/2024","c/series-emigration","c/series","c/mask","c/chair","c/card","c/flat-background","c/white","c/yellow","c/red","c/blue"],"created":"2024-03-23T13:30:37.000-04:00","updated":"2024-04-15T12:04:38.578-04:00"}
+{"dg-publish":true,"permalink":"/collage-reasons/","tags":["c/2024","c/series-emigration","c/series","c/mask","c/chair","c/card","c/flat-background","c/white","c/yellow","c/red","c/blue"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:38.000-04:00"}
 ---
 
 

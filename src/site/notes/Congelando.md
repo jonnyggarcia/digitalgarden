@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/congelando/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T11:56:55.724-05:00","updated":"2024-12-27T15:55:18.114-05:00"}
+{"dg-publish":true,"permalink":"/congelando/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T11:56:55.724-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 
@@ -9,4 +9,4 @@ Você sente sua consciência se desvanecer, o frio em seu corpo substituindo tod
 
 O vazio toma conta de sua mente, e a escuridão se espalha, engolindo tudo.
 
-**Sua aventura termina aqui.**
+**Sua jornada termina aqui.**

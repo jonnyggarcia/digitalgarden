@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-kung-fu/","tags":["c/kungfu","c/sun","c/man","c/chest","c/road","c/crowd","c/orange","c/sunset","c/strong","c/2019"],"created":"2024-01-23T21:53:41.000-05:00","updated":"2024-04-15T12:04:33.633-04:00"}
+{"dg-publish":true,"permalink":"/collage-kung-fu/","tags":["c/kungfu","c/sun","c/man","c/chest","c/road","c/crowd","c/orange","c/sunset","c/strong","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:33.000-04:00"}
 ---
 
 

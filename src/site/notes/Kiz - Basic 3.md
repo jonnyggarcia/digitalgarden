@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-11-20T12:35:44.254-05:00"}
+{"dg-publish":true,"permalink":"/kiz-basic-3/","created":"2024-09-16T14:15:15.915-04:00","updated":"2024-11-20T12:35:44.000-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-11-20T11:57:39.841-05:00"}
+{"dg-publish":true,"permalink":"/kiz-connection-points/","created":"2024-09-16T15:54:59.385-04:00","updated":"2024-11-20T11:57:39.000-05:00"}
 ---
 
 

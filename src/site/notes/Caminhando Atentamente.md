@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caminhando-atentamente/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T19:04:40.827-05:00","updated":"2024-12-26T20:07:48.348-05:00"}
+{"dg-publish":true,"permalink":"/caminhando-atentamente/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T19:04:40.827-05:00","updated":"2025-01-08T16:14:25.669-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-occupant/","tags":["c/paris-collage","c/dress","c/red","c/child","c/suit","c/green","c/2019"],"created":"2024-01-16T23:03:02.000-05:00","updated":"2024-04-15T12:04:36.776-04:00"}
+{"dg-publish":true,"permalink":"/collage-occupant/","tags":["c/paris-collage","c/dress","c/red","c/child","c/suit","c/green","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:36.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-mother/","tags":["c/woman","c/geometric","c/purple","c/letters","c/rose","c/CG","c/2019","c/printed"],"created":"2024-01-22T14:51:51.000-05:00","updated":"2024-04-15T12:04:36.215-04:00"}
+{"dg-publish":true,"permalink":"/collage-mother/","tags":["c/woman","c/geometric","c/purple","c/letters","c/rose","c/CG","c/2019","c/printed"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:36.000-04:00"}
 ---
 
 

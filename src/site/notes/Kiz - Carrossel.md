@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-11-20T23:13:34.917-05:00"}
+{"dg-publish":true,"permalink":"/kiz-carrossel/","created":"2024-09-17T12:42:12.401-04:00","updated":"2024-11-20T23:13:34.000-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-projection/","tags":["c/woman","c/face","c/magnifying-glass","c/flat-background","c/blue"],"created":"2024-01-10T10:03:13.000-05:00","updated":"2024-04-15T12:04:38.122-04:00"}
+{"dg-publish":true,"permalink":"/collage-projection/","tags":["c/woman","c/face","c/magnifying-glass","c/flat-background","c/blue"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:38.000-04:00"}
 ---
 
 

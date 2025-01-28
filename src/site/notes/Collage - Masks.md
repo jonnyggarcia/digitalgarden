@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-masks/","tags":["c/cibc","c/red","c/woman","c/face","c/mask","c/flat-background","c/2019","c/yellow","c/line","c/white"],"created":"2024-03-23T18:32:17.000-04:00","updated":"2024-04-15T12:04:35.570-04:00"}
+{"dg-publish":true,"permalink":"/collage-masks/","tags":["c/cibc","c/red","c/woman","c/face","c/mask","c/flat-background","c/2019","c/yellow","c/line","c/white"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:35.000-04:00"}
 ---
 
 

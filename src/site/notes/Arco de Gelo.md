@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arco-de-gelo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-27T15:46:21.975-05:00","updated":"2024-12-27T15:51:07.890-05:00"}
+{"dg-publish":true,"permalink":"/arco-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T15:46:21.975-05:00","updated":"2025-01-08T16:14:25.650-05:00"}
 ---
 
 

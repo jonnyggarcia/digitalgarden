@@ -1,19 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/acampando-em-ichor-tor/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-18T13:03:21.564-05:00","updated":"2024-12-24T17:08:29.968-05:00"}
+{"dg-publish":true,"permalink":"/acampando-em-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T13:03:21.564-05:00","updated":"2025-01-08T16:14:25.649-05:00"}
 ---
 
 
-*Gaste suprimentos e rações* para montar acampamento e alimentar-se. ([[Regras#Consumindo Rações\|alimentando-se]])
+Gaste rações e suprimentos para montar acampamento e alimentar-se. Então você se acomoda da melhor forma possível, utilizando o abrigo e os recursos disponíveis para se aquecer e se proteger do frio.
 
-Da melhor forma que consegue, você se aconchega para dormir.
+Caso você possua as palavras chaves **ANIMAL SELVAGEM** ou **LOBO**, receba vantagem no teste a seguir.
 
-- Caso tenha marcado ANIMAL SELVAGEM ou LOBO em sua ficha. Receba vantagem no teste a seguir.
-- Caso tenha montado acampamento receba vantagem no teste a seguir.
-- Caso não tenha montado acampamento receba desvantagem no teste a seguir.
+Caso não tenha montado acampamento, receba desvantagem no teste a seguir.
 
-Faça um *teste de INTELECTUAL + INTENSAMENTE*.
+Faça um teste de *INTELECTUAL + INTENSAMENTE*.
 
-- Caso seja bem sucedida, vá para [[Despertando durante a noite\|Despertando durante a noite]].
-- Caso fracasse, vá para [[Surpreendida durante a noite\|Surpreendida durante a noite]]
+- Caso seja bem-sucedida, vá para [[Despertando durante a noite\|Despertando durante a noite]].
+- Caso fracasse, vá para [[Surpreendida durante a noite\|Surpreendida durante a noite]].
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+*Se tiver dúvidas, consulte as [[Regras\|Regras]].*

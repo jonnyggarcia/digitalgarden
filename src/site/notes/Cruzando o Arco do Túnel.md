@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cruzando-o-arco-do-tunel/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T12:06:29.294-05:00","updated":"2024-12-26T12:10:29.564-05:00"}
+{"dg-publish":true,"permalink":"/cruzando-o-arco-do-tunel/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T12:06:29.294-05:00","updated":"2025-01-08T16:14:25.689-05:00"}
 ---
 
 

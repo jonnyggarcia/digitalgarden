@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-espiral/","created":"2024-10-03T13:47:50.224-04:00","updated":"2024-11-19T12:56:16.686-05:00"}
+{"dg-publish":true,"permalink":"/kiz-espiral/","created":"2024-10-03T13:47:50.224-04:00","updated":"2024-11-19T12:56:16.000-05:00"}
 ---
 
 

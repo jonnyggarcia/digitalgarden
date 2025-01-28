@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/surpresa-na-cabana/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-09T15:58:10.230-05:00","updated":"2024-12-27T16:51:55.593-05:00"}
+{"dg-publish":true,"permalink":"/surpresa-na-cabana/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-09T15:58:10.230-05:00","updated":"2025-01-08T16:14:25.676-05:00"}
 ---
 
 
@@ -11,5 +11,5 @@ A ameaça do frio cortante contra sua pele é palpável, e a situação agora ex
 
 O que deseja fazer?
 
-- Caso obedeça, vá pará [[Cercada\|Cercada]]
+- Caso obedeça, vá pará [[Cercada\|Cercada]].
 - Caso deseje tentar escapar da lamina contra seu pescoço, vá para [[Reação Perigosa\|Reação Perigosa]].

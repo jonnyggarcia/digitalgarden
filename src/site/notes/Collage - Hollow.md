@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-hollow/","tags":["c/man","c/coin","c/number","c/body","c/black","c/bw","c/ripples","c/2022"],"created":"2024-01-22T14:45:22.000-05:00","updated":"2024-04-15T12:04:30.939-04:00"}
+{"dg-publish":true,"permalink":"/collage-hollow/","tags":["c/man","c/coin","c/number","c/body","c/black","c/bw","c/ripples","c/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:30.000-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-patience/","tags":["c/pocket-watch","c/hand","c/rose","c/flower","c/green","c/yellow","c/abstract","c/2021"],"created":"2024-02-21T21:02:12.000-05:00","updated":"2024-04-15T12:04:37.578-04:00"}
+{"dg-publish":true,"permalink":"/collage-patience/","tags":["c/pocket-watch","c/hand","c/rose","c/flower","c/green","c/yellow","c/abstract","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:37.000-04:00"}
 ---
 
 

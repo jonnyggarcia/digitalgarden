@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-shame-funarte/","tags":["c/religion","c/line","c/red","c/statue","c/christ","c/flat-background","c/2020"],"created":"2024-01-22T15:47:01.000-05:00","updated":"2024-04-15T12:04:40.482-04:00"}
+{"dg-publish":true,"permalink":"/collage-shame-funarte/","tags":["c/religion","c/line","c/red","c/statue","c/christ","c/flat-background","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:40.000-04:00"}
 ---
 
 
