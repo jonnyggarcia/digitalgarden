@@ -1,70 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2024-11-29T12:35:28.117-05:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2025-01-29T15:18:58.366-05:00"}
 ---
 
 
 # Grounded Figures (FC)
 
-- ☑ Reverência do Bolero (FC01)
-- ☑ Cadeirinha (FC02)
-	- ☑ ==Cadeirinha com Rasteira== (FC02-R) - 701
-- ☑ ==Cadeirinha Lateral== (FC03)
-- Cadeirinha Elegante (FC04)
-
-*Aconchego*
-- ☑ Regular (FC04)
-	- Entradas:
-		- ☑ Volta da Homem (FC04.01)
-		- ☑ Passarela (FC04.02)
-		- Saída da Mulher (FC04.03)
-		- Cruzado: Saída da Mulher Perna Cruzada (FC04.04)
-		- Bloqueio: Saída da mulher com Bloqueio (FC04.05)
-	- Truques
-		- ☑ Puxada (FC04P)
-		- ☑ Arrastada (FC04A)
-- ☑ Paralelo (FC05)
-	- Entrada
-		- ☑ Passarela (FC05.01)
-		- ☑ Elegante (FC05.02)
-			- Leg Styling
-		- ==Levantada traseira== (FC05.03)
-	- Truques
-		- Puxada (FC05-P)
-		- Arrastada (FC05-A)
-- ☑ Frontal (FC06)
-	- Entrada
-		- ☑ Básico 2 (FC06.01)
-		- ☑ Abertura 90 (FC06.02)
-		- ☑ De lá para Cá (FC06.03)
-		- ☑ Woman Saída (FC06.04)
-		- ☑ Girado (FC06.05)
-		- ☑ Passo Junto (FC06.06)
-		- ☑ Com levantada de Pé (FC06.07)
-	- Truques
-		- ☑ Com rasteira (FC06-R)
-- ☑ Varal da Mulher (FC07)
-	- Truques
-		- Com Puxada (FC07-P)
-- ==Varal do Homem (FC08)==
-- Titanique (FC09)
-- Agachada (FC10)
+| STEP                                               | CODE | LESSON |
+| -------------------------------------------------- | ---- | ------ |
+| [[Kiz - Reverência Bolero\|Reverência Bolero]]     | FC01 | 403    |
+| [[Kiz - Cadeirinha\|Cadeirinha]]                   | FC02 | 501    |
+| [[Kiz - Cadeirinha Elegante\|Cadeirinha Elegante]] | FC03 |        |
+| [[Kiz - Cadeirinha Lateral\|Cadeirinha Lateral]]   | FC04 |        |
+| [[Kiz - Aconchego Regular\|Aconchego Regular]]     | FC05 | 503    |
+| [[Kiz - Aconchego Paralelo\|Aconchego Paralelo]]   | FC06 | 504    |
+| [[Kiz - Aconchego Frontal\|Aconchego Frontal]]     | FC07 | 504    |
+| [[Kiz - Varal da Mulher\|Varal da Mulher]]         | FC08 | 504    |
+| [[Kiz - Varal do Homem\|Varal do Homem]]           | FC09 |        |
+| [[Kiz - Monumento\|Monumento]]                     | FC10 |        |
+| ==[[Kiz - Titanique\|Titanique]]==                 | FC11 |        |
+| ==[[Kiz - Agachada\|Agachada]]==                   | FC12 |        |
 
 # Aerial Figures (FA)
 
-- ☑ ==Astronauta== (FA01)
-- ==Cadeirinha Flutuante== (FA02)
-	- Entradas
-		- ☑ Passeio (FA02.01) - 505
-		- ☑ Levantada com mão (FA02.02) - 602
-		- ☑ Levanta com pé (FA02.03) - 603
-		- ☑ Chute (FA02.04) - 604
-		- ☑ Cruzada (FA02.05) - 605
-- ☑ Elevador (FA03) - 605
-
-# Drills
-
-- Giro da Mulher, Retrocesso
-- ☑ Espiral com Cadeirinha
-- ☑ Passarela, Cadeirinha
-- Woman Saída, block 1st leg
-- ==Cadeirinha Bloqueada==
+| STEP                                                 | CODE | LESSON |
+| ---------------------------------------------------- | ---- | ------ |
+| [[Kiz - Astronauta\|Astronauta]]                     | FA01 | 403    |
+| [[Kiz - Cadeirinha Flutuante\|Cadeirinha Flutuante]] | FA02 | 702    |
+| [[Kiz - Elevador\|Elevador]]                         | FA03 | 901    |
