@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atravessando-a-galeria-de-gelo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T23:51:05.749-05:00","updated":"2024-12-26T19:36:57.121-05:00"}
+{"dg-publish":true,"permalink":"/atravessando-a-galeria-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T23:51:05.749-05:00","updated":"2025-01-26T17:43:03.754-05:00"}
 ---
 
 
-Você acelera o passo tentando-se manter afrente das criaturas, mas elas estão em todos os lugares, sofra estresse (ameaça: 8).
+Você acelera o passo, tentando se manter à frente das criaturas. Faça um teste de *MOBILIDADE + AGILIDADE*. Caso fracasse, sofra estresse (*dano +1*).
 
-Prossiga para [[Combate contra Aranhas de Gelo\|Combate contra Aranhas de Gelo]].
+Prossiga para [[Combate Contra Criaturas do Gelo\|Combate Contra Criaturas do Gelo]].
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+*Se tiver dúvidas, consulte as [[Regras\|Regras]].*

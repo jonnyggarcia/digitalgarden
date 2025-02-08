@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-roots/","tags":["c/2024","c/series","c/series-emigration","c/stairs","c/man","c/face","c/flat-background","c/white","c/red","c/yellow","c/metal-finish","c/window"],"created":"2024-03-23T13:30:40.000-04:00","updated":"2024-04-15T12:04:39.566-04:00"}
+{"dg-publish":true,"permalink":"/collage-roots/","tags":["c/2024","c/series","c/series-emigration","c/stairs","c/man","c/face","c/flat-background","c/white","c/red","c/yellow","c/metal-finish","c/window"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:39.000-04:00"}
 ---
 
 

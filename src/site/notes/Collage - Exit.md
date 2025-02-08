@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-exit/","tags":["c/woman","c/man","c/acrobatic","c/letters","c/exit","c/purple","c/red","c/pattern","c/2021"],"created":"2024-01-22T15:05:00.000-05:00","updated":"2024-04-15T12:04:24.834-04:00"}
+{"dg-publish":true,"permalink":"/collage-exit/","tags":["c/woman","c/man","c/acrobatic","c/letters","c/exit","c/purple","c/red","c/pattern","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:24.000-04:00"}
 ---
 
 

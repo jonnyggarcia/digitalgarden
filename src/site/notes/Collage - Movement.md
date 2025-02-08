@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-movement/","tags":["c/bw","c/line","c/acrobatic","c/people","c/motion","c/series","c/2021"],"created":"2024-01-22T15:06:44.000-05:00","updated":"2024-04-15T12:04:36.260-04:00"}
+{"dg-publish":true,"permalink":"/collage-movement/","tags":["c/bw","c/line","c/acrobatic","c/people","c/motion","c/series","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:36.000-04:00"}
 ---
 
 

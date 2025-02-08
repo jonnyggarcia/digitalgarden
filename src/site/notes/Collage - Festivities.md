@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-festivities/","tags":["c/2024","c/series","c/cake","c/compass-rose","c/falling-to-pieces","c/red","c/yellow","c/face","c/man","c/series-emigration"],"created":"2024-03-23T13:30:31.000-04:00","updated":"2024-04-15T12:04:26.692-04:00"}
+{"dg-publish":true,"permalink":"/collage-festivities/","tags":["c/2024","c/series","c/cake","c/compass-rose","c/falling-to-pieces","c/red","c/yellow","c/face","c/man","c/series-emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:26.000-04:00"}
 ---
 
 

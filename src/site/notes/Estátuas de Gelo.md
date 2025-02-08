@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estatuas-de-gelo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T18:20:47.916-05:00","updated":"2024-12-26T18:25:08.770-05:00"}
+{"dg-publish":true,"permalink":"/estatuas-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T18:20:47.916-05:00","updated":"2025-01-08T16:14:25.689-05:00"}
 ---
 
 

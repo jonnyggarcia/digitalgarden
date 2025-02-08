@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-queen/","tags":["c/paris-collage","c/child","c/flower","c/rose","c/red","c/purple","c/blue","c/yellow","c/flat-background","c/2019"],"created":"2024-01-16T22:25:31.000-05:00","updated":"2024-04-15T12:04:38.361-04:00"}
+{"dg-publish":true,"permalink":"/collage-queen/","tags":["c/paris-collage","c/child","c/flower","c/rose","c/red","c/purple","c/blue","c/yellow","c/flat-background","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:38.000-04:00"}
 ---
 
 

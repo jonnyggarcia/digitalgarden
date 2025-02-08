@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-modern-life/","tags":["c/clock","c/computer","c/laptop","c/money","c/pop","c/coke","c/medicine","c/phone","c/ring","c/tetris","c/2019"],"created":"2024-01-23T21:47:16.000-05:00","updated":"2024-04-15T12:04:35.912-04:00"}
+{"dg-publish":true,"permalink":"/collage-modern-life/","tags":["c/clock","c/computer","c/laptop","c/money","c/pop","c/coke","c/medicine","c/phone","c/ring","c/tetris","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:35.000-04:00"}
 ---
 
 

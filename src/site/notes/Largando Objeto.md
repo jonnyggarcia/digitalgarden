@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/largando-objeto/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T11:49:27.518-05:00","updated":"2024-12-26T12:02:23.091-05:00"}
+{"dg-publish":true,"permalink":"/largando-objeto/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T11:49:27.518-05:00","updated":"2025-01-08T16:14:25.665-05:00"}
 ---
 
 

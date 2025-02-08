@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ghost-face/","tags":["c/woman","c/faceless","c/spiral","c/abstract","c/black","c/red","c/plant","c/2022"],"created":"2024-01-23T21:13:25.000-05:00","updated":"2024-04-15T12:04:29.123-04:00"}
+{"dg-publish":true,"permalink":"/collage-ghost-face/","tags":["c/woman","c/faceless","c/spiral","c/abstract","c/black","c/red","c/plant","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:29.000-04:00"}
 ---
 
 

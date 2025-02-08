@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/procurar-por-abrigo-em-ichor-tor/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-18T12:47:47.772-05:00","updated":"2024-12-18T16:55:08.358-05:00"}
+{"dg-publish":true,"permalink":"/procurar-por-abrigo-em-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T12:47:47.772-05:00","updated":"2025-01-08T16:14:25.650-05:00"}
 ---
 
 
-Faça um *teste de INTELECTUAL + ESPERTAMENTE*. *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+Você continua sua jornada buscando por abrigo, os olhos atentos ao terreno em busca de proteção contra o vento e o frio que se aproxima. Após algum tempo, você encontra uma pequena abertura entre as rochas, que oferece cobertura adequada para a noite.
 
-- Caso seja bem sucedida, vá [[Abrigo em Ichor Tor\|Abrigo em Ichor Tor]].
-- Caso tenha falhado, você infelizmente não encontra nenhum lugar apropriado para se abrigar forçando você a montar acampamento. Vá para, [[Acampando em Ichor Tor\|Acampando em Ichor Tor]].
+Faça um teste de *INTELECTUAL + ESPERTAMENTE*.
+
+- Caso seja bem-sucedida, vá para [[Abrigo em Ichor Tor\|Abrigo em Ichor Tor]].
+- Caso fracasse, você não encontra um abrigo adequado e precisa montar acampamento. Vá para [[Acampando em Ichor Tor\|Acampando em Ichor Tor]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/obsidian/","tags":["todo"],"created":"2024-06-28T12:58:10.000-04:00","updated":"2024-01-11T14:56:08.000-05:00"}
+{"dg-publish":true,"permalink":"/obsidian/","created":"2024-06-28T12:58:10.000-04:00","updated":"2025-01-12T11:43:15.320-05:00"}
 ---
 
 

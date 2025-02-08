@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-mystery/","tags":["c/jonny","c/glasses","c/flower","c/abstract","c/purple","c/faceless","c/2021"],"created":"2024-01-22T15:00:00.000-05:00","updated":"2024-04-15T12:04:36.304-04:00"}
+{"dg-publish":true,"permalink":"/collage-mystery/","tags":["c/jonny","c/glasses","c/flower","c/abstract","c/purple","c/faceless","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:36.000-04:00"}
 ---
 
 

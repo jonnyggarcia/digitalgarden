@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noite-solitaria/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-16T14:15:17.580-05:00","updated":"2024-12-27T17:07:53.325-05:00"}
+{"dg-publish":true,"permalink":"/noite-solitaria/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-16T14:15:17.580-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-regra-de-3/","created":"2024-09-25T14:53:22.421-04:00","updated":"2024-11-19T12:56:16.738-05:00"}
+{"dg-publish":true,"permalink":"/kiz-regra-de-3/","tags":["kizomba/step"],"created":"2024-09-25T14:53:22.421-04:00","updated":"2025-01-28T12:17:54.829-05:00"}
 ---
 
 
@@ -33,6 +33,15 @@ The **Regra de 3** (Rule of 3) is performed in a distant closed position, where 
 - After that, you can perform a regular Regra de 3, but the follower will walk backward instead of forward.
 - The pivot is initiated by the lead’s chest.
 - The follower’s left hand needs to slide across the lead’s back when they are pivoting to the left, otherwise, they will prevent the lead from initiating the pivot.
+
+**Variations**
+- Walking
+- Walking Reversed
+- Alternating
+- On the Spot
+- Leads reversed
+- Circular
+- Floreio em Cruz
 
 *Key elements of the move*
 - The lead must perform the pivot and provide intention to the follower so they know they need to walk.

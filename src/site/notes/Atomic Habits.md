@@ -270,13 +270,13 @@ Who do you want to be? What do those people do that you can do right now? Once y
 
 When I visited Tokyo in 2019, I attended a Collage Exhibition called the Miracle of Silence by Toshiko Okanoue. As soon as I got back to my hotel room, I pulled out my iPad and started collaging. A collagist does collage, so I did one. For the next several months, I did collages about any ideas I had. I was not caring about the results; I wanted to do it! I was obsessed with exploring all the possibilities. Eventually, people started to compliment my art, and that made me confident about what I do. For your amusement, here's my first work and the work I consider my best.
 
-![Work - 2019 - Jonny Garcia.png|400](/img/user/MEDIA/Work%20-%202019%20-%20Jonny%20Garcia.png)
+![ART - COLLAGE - Work, digital, 2019, Jonny Garcia.png|400](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Work,%20digital,%202019,%20Jonny%20Garcia.png)
 
 ```
 Work, 2019, Jonny Garcia
 ```
 
-![Bler - 2021 - Jonny Garcia.jpg|400](/img/user/MEDIA/Bler%20-%202021%20-%20Jonny%20Garcia.jpg)
+![ART COLLAGE - Bler, 2021, digital, Jonny Garcia.jpg|400](/img/user/MEDIA/ART%20COLLAGE%20-%20Bler,%202021,%20digital,%20Jonny%20Garcia.jpg)
 
 ```
 Bler, 2021, Jonny Garcia

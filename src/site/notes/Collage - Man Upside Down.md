@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-man-upside-down/","tags":["c/man","c/suit","c/bw","c/city","c/black","c/water","c/2020","c/upsidedown"],"created":"2024-01-22T15:48:51.000-05:00","updated":"2024-04-15T12:04:35.397-04:00"}
+{"dg-publish":true,"permalink":"/collage-man-upside-down/","tags":["c/man","c/suit","c/bw","c/city","c/black","c/water","c/2020","c/upsidedown"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:35.000-04:00"}
 ---
 
 

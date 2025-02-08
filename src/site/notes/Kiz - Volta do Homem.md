@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-volta-do-homem/","created":"2024-11-28T14:57:32.364-05:00","updated":"2024-11-28T15:10:10.784-05:00"}
+{"dg-publish":true,"permalink":"/kiz-volta-do-homem/","tags":["kizomba/step","todo"],"created":"2024-11-28T14:57:32.364-05:00","updated":"2025-01-29T14:40:55.858-05:00"}
 ---
 
 
@@ -9,11 +9,14 @@ Video
 
 **Followers**
 
+**Variations**
+- ==Volta do Homem com Cruzada== (CD16 + DD01)
+- Conduzido (CD16-Z)
+
 *Key elements of the move*
-- 
 
 # Catalog
 
-- Code: 
-- Connections: 
-- Parent: 
+- Code: CD16
+- Connections:
+- Parent: [[Kiz - Caminhadas\|Caminhadas]] - Strides

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resistindo-a-neve/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-27T16:01:04.030-05:00","updated":"2024-12-27T16:03:17.033-05:00"}
+{"dg-publish":true,"permalink":"/resistindo-a-neve/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T16:01:04.030-05:00","updated":"2025-01-08T16:14:25.647-05:00"}
 ---
 
 

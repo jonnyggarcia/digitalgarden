@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/longa-escalada/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-19T14:00:29.727-05:00","updated":"2024-12-19T14:05:10.696-05:00"}
+{"dg-publish":true,"permalink":"/longa-escalada/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T14:00:29.727-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 
-Você é obrigada a escalar lateralmente enquanto procura uma forma de ascender. Após quase 8 metros para a direita, você avista um caminho, porém você precisa realizar um salto antes que possa ascender. Seus braços estão latejando intensamente, **receba desvantagem constante até que atinja o topo.**
+- [ ] Caso essa caixa não esteja marcada, marque-a e continue lendo. Caso contrário, prossiga para [[Escalada Negativa\|Escalada Negativa]].
 
-O salto é arriscado, e caso falhe será uma grande, mas ainda suportada pela corda. O que você deseja fazer?
+Você é forçada a escalar lateralmente enquanto procura uma forma de ascender. Após quase 8 metros para a direita, seus olhos captam uma rota à frente. No entanto, você precisa fazer um salto para alcançar a área seguinte, o que representa um risco considerável, especialmente considerando a exaustão nos seus braços; receba desvantagem constante até alcançar o topo.
 
-- Voltar e tentar realizar a [[Escalada Negativa\|Escalada Negativa]]?
-- Ou tentar realizar o salto? Vá para [[Salto no paredão de gelo\|Salto no paredão de gelo]].
+O salto é perigoso, mas caso falhe, ainda há a possibilidade de ser segurada pela corda, embora a queda possa ser dolorosa. 
+
+O que você deseja fazer?
+
+- Voltar e tentar realizar a [[Escalada Negativa\|Escalada Negativa]].
+- Ou tentar realizar o salto? Vá para [[Salto no paredão de gelo\|Salto no Paredão de Gelo]].
 
 *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-expectation/","tags":["c/clock","c/jonny","c/faceless","c/woman","c/abstract","c/blue","c/purple","c/2021","c/man"],"created":"2024-01-24T19:52:09.000-05:00","updated":"2024-04-15T12:04:24.926-04:00"}
+{"dg-publish":true,"permalink":"/collage-expectation/","tags":["c/clock","c/jonny","c/faceless","c/woman","c/abstract","c/blue","c/purple","c/2021","c/man"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:24.000-04:00"}
 ---
 
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/aranhas-de-gelo-derrotadas/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T23:19:04.067-05:00","updated":"2024-12-23T23:31:49.027-05:00"}
+{"dg-publish":true,"permalink":"/aranhas-de-gelo-derrotadas/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T23:19:04.067-05:00","updated":"2025-01-08T16:14:25.650-05:00"}
 ---
 
 
-As aranhas eram extremamente frágeis. Cada golpe de sua espada as faz estilhar em milhares de cacos de vidro, porém isso não as fez menos desafiadoras.
+As aranhas, embora frágilmente construídas de gelo, se quebram em milhares de cacos a cada golpe de sua arma. No entanto, sua fragilidade não as torna menos desafiadoras. Sua agilidade é impressionante e mais aranhas avançam na sua direção vindo de todas as direções
 
-Você nota que outras aranhas estão se aproximando. Você aperta o passo caminhando para fim da galeria. Prossiga para [[Do outro lado da galeria\|Do outro lado da galeria]].
+Com a ameaça crescente e o som de mais aranhas se aproximando, você decide não arriscar mais. Acelerando o passo, você avança com determinação em direção ao fim da galeria.
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+Prossiga para [[Do outro lado da galeria\|Do outro lado da galeria]].

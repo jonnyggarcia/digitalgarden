@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-11-25T13:41:27.938-05:00"}
+{"dg-publish":true,"permalink":"/kizomba-curriculum/","created":"2024-10-23T12:08:12.575-04:00","updated":"2024-11-21T12:48:33.000-05:00"}
 ---
 
 

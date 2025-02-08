@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-k6/","tags":["c/2024","c/white","c/flat-background","c/man","c/woman","c/uncollage","c/purple","c/orange","c/dance","c/hug"],"created":"2024-11-12T17:17:14.214-05:00","updated":"2024-11-12T17:23:31.666-05:00"}
+{"dg-publish":true,"permalink":"/collage-k6/","tags":["c/2024","c/white","c/flat-background","c/man","c/woman","c/uncollage","c/purple","c/orange","c/dance","c/hug","c/kizomba"],"created":"2024-11-12T17:17:14.214-05:00","updated":"2025-02-01T12:19:56.166-05:00"}
 ---
 
 

@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/longo-corredor/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T18:56:19.454-05:00","updated":"2024-12-26T19:03:47.157-05:00"}
+{"dg-publish":true,"permalink":"/longo-corredor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T18:56:19.454-05:00","updated":"2025-01-08T16:14:25.649-05:00"}
 ---
 
 
-Você para por alguns momentos para recuperar suas forças. Respirando fundo você levanta sua tocha para ver o que há afrente. Um corredor amplo com pilares de ambos os lados. O pé direito está para além da visibilidade de sua tocha. Claramente este local não é uma construção natural.
+Você para por alguns momentos para recuperar suas forças. Talvez esse um bom local para montar acampamento. Faça um teste de *INTELECTUAL + CUIDADOSAMENTE* para analisar o local.
 
-Seguindo o único caminho que lhe apresenta você nota que o chão é extremamente escorregadio. O que lhe força a andar lentamente. Caso deseje, *gaste suprimentos* para equipar ganchos em suas botas e andar normalmente.
+- Caso seja bem sucedida, você acredita que é possível montar um acampamento. Caso o faça, *gaste suprimentos e rações*; algumas horas depois você prossegue viagem.
+- Caso fracasse, o risco é muito grande. Você decide por prosseguir.
 
-Prossiga para [[Caminhada pelo longo corredor\|Caminhada pelo longo corredor]].
+Prossiga para [[Continuando a Jornada\|Continuando a Jornada]].

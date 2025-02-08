@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/caminhada-pelo-longo-corredor/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T19:00:33.479-05:00","updated":"2024-12-26T20:14:06.918-05:00"}
+{"dg-publish":true,"permalink":"/caminhada-pelo-longo-corredor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T19:00:33.479-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 

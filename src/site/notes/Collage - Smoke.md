@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-smoke/","tags":["c/child","c/woman","c/acrobatic","c/circle","c/black","c/bw","c/smoke","c/2021"],"created":"2024-01-22T15:04:52.000-05:00","updated":"2024-04-15T12:04:40.925-04:00"}
+{"dg-publish":true,"permalink":"/collage-smoke/","tags":["c/child","c/woman","c/acrobatic","c/circle","c/black","c/bw","c/smoke","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:40.000-04:00"}
 ---
 
 

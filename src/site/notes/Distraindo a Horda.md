@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/distraindo-a-horda/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-24T16:42:53.012-05:00","updated":"2024-12-24T16:48:43.255-05:00"}
+{"dg-publish":true,"permalink":"/distraindo-a-horda/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T16:42:53.012-05:00","updated":"2025-01-26T17:57:20.447-05:00"}
 ---
 
 
-Você necessita de luz para que consiga desviar dos ataques, logo só há uma maneira de criar uma distração. Você arremessa sua tocha no lado oposto de onde pretende passar. Os esqueletos, ao ouvirem o barulho da tocha, viram-se para a tocha abrindo uma brecha para você passar.
+Você precisa de luz para desviar dos ataques, mas também de uma distração. Sem alternativas, você arremessa a tocha para o lado oposto de onde pretende passar. O som da tocha ao atingir o chão ecoa pela sala, atraindo a atenção da horda de esqueletos. Eles giram suas cabeças ocas em direção ao barulho, abrindo uma brecha para você.
 
-Faça um *teste de MOBILIDADE + QUIETAMENTE*.
+Faça um teste de *MOBILIDADE + QUIETAMENTE*.
 
 - Caso fracasse, vá para [[Cercada por Esqueletos\|Cercada por Esqueletos]].
-- Caso seja bem sucedida, vá para [[Passagem Aberta\|Passagem Aberta]].
+- Caso seja bem-sucedida, vá para [[Passagem Aberta\|Passagem Aberta]].
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+*Se precisar de mais informações, consulte as [[Regras\|Regras]].*

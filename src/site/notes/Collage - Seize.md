@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-seize/","tags":["c/hand","c/brown","c/clock","c/abstract","c/2021"],"created":"2024-01-22T15:05:38.000-05:00","updated":"2024-04-15T12:04:40.133-04:00"}
+{"dg-publish":true,"permalink":"/collage-seize/","tags":["c/hand","c/brown","c/clock","c/abstract","c/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:40.000-04:00"}
 ---
 
 

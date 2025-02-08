@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2024-11-26T11:43:53.731-05:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-02-07T14:03:43.544-05:00"}
 ---
 
 
@@ -16,6 +16,10 @@
 - [Coladeira - Must - Playlist](https://open.spotify.com/playlist/2ebdz15cTiSyyIjHtctiFF?si=e93f4dc5c19f4620)
 - [GZouk - Must - Playlist](https://open.spotify.com/playlist/5jvDupodQSMoN84RMfEwgD?si=9c21c2fdb17147f0)
 - [[Kizomba Musicality\|Kizomba Musicality]]
+- [[Clippings/Discovering Kizomba - Tarraxo vs Tarraxinha\|Discovering Kizomba - Tarraxo vs Tarraxinha]]
+- [[Clippings/Discovering Kizomba - Ghetto Zouk\|Discovering Kizomba - Ghetto Zouk]]
+- [[Eddy Vents\|Eddy Vents]]
+- [[Clippings/Coladeira - Wikipedia\|Coladeira - Wikipedia]]
 
 # Reflections
 
@@ -24,3 +28,4 @@
 - [[Kizomba Disciplines\|Kizomba Disciplines]]
 - [[Learning how to Dance\|Learning how to Dance]]
 - [[Kizomba Exercises\|Kizomba Exercises]]
+- [[Kizomba Classes\|Kizomba Classes]]

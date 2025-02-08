@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-reach/","tags":["c/pandemic","c/building","c/hand","c/purple","c/blue","c/2020"],"created":"2024-01-22T15:50:45.000-05:00","updated":"2024-04-15T12:04:38.490-04:00"}
+{"dg-publish":true,"permalink":"/collage-reach/","tags":["c/pandemic","c/building","c/hand","c/purple","c/blue","c/2020"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:38.000-04:00"}
 ---
 
 

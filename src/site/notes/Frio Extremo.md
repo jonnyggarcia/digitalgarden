@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/frio-extremo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T14:59:35.638-05:00","updated":"2024-12-24T16:29:54.662-05:00"}
+{"dg-publish":true,"permalink":"/frio-extremo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T14:59:35.638-05:00","updated":"2025-01-26T17:53:27.356-05:00"}
 ---
 
 
-Exausta, mas a salvo. Apesar da escuridão você encontra terra firme. Saindo da água seu corpo treme por completo; o frio é insuportável. Olhando em sua mochila você nota que parte dos seus suprimentos estragaram e outros se perderam na água. Reduza a categoria de dado de seus Suprimentos.
+Exausta, mas finalmente a salvo, você sente o alívio momentâneo ao encontrar terra firme. Seu corpo, encharcado e estremecendo, sente o impacto do frio, cortante e implacável. A cada respiração, você sente a dor congelando seus pulmões, e a tremedeira toma conta de você, intensificando a sensação de desespero.
 
-Caso não se aqueça imediatamente, seu fim será prematura. *Gaste suprimentos* para ascender uma fogueira.
+Ao abrir sua mochila, a realidade se impõe — parte dos suprimentos foram destruídos pela água, e outros se perderam no abismo gelado. Você observa com pesar a perda. Reduza a categoria do dado de seus suprimentos.
 
-Caso não tenha suprimentos disponíveis, faça um *teste de CORPORAL + INTENSAMENTE*. Caso fracasse: Recebe 2 penalidades constantes.
+O frio é insuportável, e sem aquecimento, o fim é inevitável. Você precisa agir rapidamente. *Gaste suprimentos* para ascender uma fogueira e combater o gelado que ameaça te consumir.
 
-- Caso não tenha ascendido uma fogueira, vá para [[Prosseguindo a cegas\|Prosseguindo a cegas]].
-- Caso contrário, você ascende uma tocha e prossegue para para a [[Caverna Congelada\|Caverna Congelada]].
+Caso não possua suprimentos, sua única esperança é a força de sua resistência. Faça um teste de *CORPORAL + INTENSAMENTE*.
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+- Se for bem-sucedida, receba uma penalidade constante.
+- Se falhar, o frio se torna demais para suportar, e você recebe 2 penalidades constantes.
+
+Caso tenha gasto suprimentos, você ascende uma tocha e avança, vá para [[Caverna Congelada\|Caverna Congelada]]. Caso contrário, vá para [[Prosseguindo às Cegas\|Prosseguindo às Cegas]].
