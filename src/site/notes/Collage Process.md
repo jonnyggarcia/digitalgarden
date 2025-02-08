@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-process/","created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:46.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-process/","created":"2024-06-28T12:56:47.000-04:00","updated":"2025-02-08T11:21:04.794-05:00"}
 ---
 
 
@@ -173,6 +173,8 @@ Exagerado by Cazuza, 2022, Songs, Jonny Garcia
 
 ### Corporeal Gestures
 
+![ART - COLLAGE - CORPOREAL GESTURES - BOOK COVER.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20CORPOREAL%20GESTURES%20-%20BOOK%20COVER.jpg)
+
 [Book](https://kolajmagazine.com/books/corporeal-gestures)
 
 [Exhibition](https://www.pdx.edu/architecture/events/corporeal-gestures#:~:text=Corporeal%20Gestures%2C%20organized%20by%20School,resisting%20the%20earth's%20pull%2C%20communicating) April 4 through 29, 2022
@@ -207,8 +209,6 @@ Discharging Waste, 2019, Corporeal Gestures, Jonny Garcia
 digital vs analog
 ```
 
----
-
 ### Willian Talbot Collage Book
 
 In the year 2021, I acquired a captivating [book](https://www.abebooks.com/first-edition/William-Fox-Talbot-Inventor-Negative-Positive-Process/30248628448/bd) titled "William H Fox Talbot - Inventor of the Negative-Positive Process Photography Men and Movements."
@@ -228,6 +228,12 @@ Around January, I curate a selection of 20 to 25 collages, culminating in the pr
 [Video - Collage Book 2021](https://www.instagram.com/p/CaAKncNj1xe/)
 
 [Video - Collage Book 2022](https://www.instagram.com/p/Cm1uBZXhQXQ/)
+
+### Em.i.gra.tion
+
+After a decade of calling Canada home, I am proud to have finally obtained my citizenship—a milestone that marks years of resilience, adaptation, and personal growth. To honor this transformative journey, I created 10 collages, to register my experiences, challenges, and triumphs as an immigrant. Through these pieces, I celebrate the moments that shaped me and the path that led to this new chapter.
+
+![ART - COLLAGE - em.i.gra.tion series.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20em.i.gra.tion%20series.jpg)
 
 ## Praxis
 
