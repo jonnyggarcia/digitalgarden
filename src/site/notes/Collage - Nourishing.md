@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-nourishing/","tags":["c/corporeal-gestures","c/series","c/shape","c/statue","c/brown","c/yellow","c/red","c/2019"],"created":"2024-01-23T21:41:20.000-05:00","updated":"2024-04-15T12:04:36.433-04:00"}
+{"dg-publish":true,"permalink":"/collage-nourishing/","tags":["c/corporeal-gestures","c/series","c/shape","c/statue","c/brown","c/yellow","c/red","c/2019"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:36.000-04:00"}
 ---
 
 

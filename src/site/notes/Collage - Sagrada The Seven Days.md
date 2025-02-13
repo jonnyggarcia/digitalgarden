@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sagrada-the-seven-days/","tags":["c/tree","c/person","c/pregnant","c/couple","c/green","c/uncollage","c/genesis","c/sagrada","c/religion","c/series","c/2019"],"created":"2024-01-24T20:03:25.000-05:00","updated":"2024-04-15T12:04:39.895-04:00"}
+{"dg-publish":true,"permalink":"/collage-sagrada-the-seven-days/","tags":["c/tree","c/person","c/pregnant","c/couple","c/green","c/uncollage","c/genesis","c/sagrada","c/religion","c/series","c/2019"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:39.000-04:00"}
 ---
 
 

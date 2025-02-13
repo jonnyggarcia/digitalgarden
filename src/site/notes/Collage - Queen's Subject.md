@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-queen-s-subject/","tags":["c/LK","c/woman","c/faceless","c/light-house","c/blue","c/black","c/red","c/flat-background","c/2022"],"created":"2024-01-22T14:45:30.000-05:00","updated":"2024-04-15T12:04:38.317-04:00"}
+{"dg-publish":true,"permalink":"/collage-queen-s-subject/","tags":["c/LK","c/woman","c/faceless","c/light-house","c/blue","c/black","c/red","c/flat-background","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:38.000-04:00"}
 ---
 
 
