@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2025-01-29T14:56:55.132-05:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2025-02-23T18:09:17.068-05:00"}
 ---
 
 
@@ -27,6 +27,9 @@
 | [[Kiz - Rodopio\|Rodopio]]                             | GC18 |        |
 | [[Kiz - Lasso\|Lasso]]                                 | GC19 |        |
 | ==[[Kiz - Rodada\|Rodada]]==                           | GC20 |        |
+| ==[[Kiz - Giro de Braço\|Giro de Braço]]==             |      |        |
+| ==[[Kiz - Cachecol\|Cachecol]]==                       |      |        |
+| ==[[Kiz - Eixo\|Eixo]]==                               |      |        |
 
 # Air Spins (GA)
 

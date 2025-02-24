@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-drills/","created":"2024-11-20T15:30:18.882-05:00","updated":"2024-11-24T12:36:11.534-05:00"}
+{"dg-publish":true,"permalink":"/kiz-drills/","created":"2024-11-20T15:30:18.882-05:00","updated":"2025-01-28T15:33:07.890-05:00"}
 ---
 
 
-# Curriculum
 
-*Drill: Corridinho FWD, Corridinho BWD (D01)*
+*Corridinho FWD, Corridinho BWD (D01)*
 
 *Box (D02)*
 - Basic 3 FWD, 1/4 turn, 1/4 turn, Basic 3 FWD, 1/4 turn, 1/4 turn
@@ -13,8 +12,6 @@
 
 *Circle (D03)*
 - Corridinho FWD, Vírgula, Corridinho BWD, Vírgula
-
-*[[Kiz - Linha\|Linha]] (D03)* ???
 
 *Divergente (D04)*
 
@@ -29,134 +26,145 @@
 *Diamond (D07)*
  - Triângulo, Marca, Triângulo
  - Triângulo, Triângulo, Marca
+ - Triângulo, contra, Triângulo
 
-*Retrocesso, Retrocesso (D08)*
+*Retrocesso, Retrocesso (D09)*
 
-*Quadrado, Retrocesso (D09)*
+*Quadrado, Retrocesso (D10)*
 
-*Clockwise, Retrocesso (D10)*
+*Clockwise, Retrocesso (D11)*
 
-*Retrocesso, Basic 3 (D11)*
+*Retrocesso, Basic 3 (D12)*
 
-*Retrocesso, Estrela (D12)*
+*Retrocesso, Estrela (D13)*
 
-*Retrocesso, Balance (D13)*
+*Retrocesso, Balance (D14)*
 
-*Retrocesso, Vírgula (D14)*
+*Retrocesso, Vírgula (D15)*
 
-*Retrocesso, Corridinho FWD (D15)*
+*Retrocesso, Corridinho FWD (D16)*
 
-*Basic 2 (no marca), Basic 3 FWD (D16)*
+- ***Basic 2 (no marca), Basic 3 FWD (D17)***
+- ***Basic 2 (no marca), Basic 3 BWD (D18)***
+- ***Basic 2 (no marca), Clockwise (D19)***
+- ***Basic 2 (no marca), Retrocesso (D20)***
 
-*Basic 2 (no marca), Basic 3 BWD (D17)*
+*Passeio, Walk FWD, Walk BWD, Close Basic 2 (D21)*
 
-*Basic 2 (no marca), Clockwise (D18)*
+*Passeio, Walk FWD, Close (D22)*
 
-*Basic 2 (no marca), Retrocesso (D19)*
+*Passeio, Walk with tempo play, Close (D23)*
 
-*Passeio, Walk FWD, Walk BWD, Close Basic 2 (D20)*
+*Drill: Retrocesso, Passeio (D24).*
 
-*Passeio, Walk FWD, Close (D21)*
+*Man Saída, Woman Saída (D25)*
 
-*Passeio, Walk with tempo play, Close (D22)*
+*Woman Saída, Man Saída (D26)*
 
-*Man Saída, Woman Saída (D23)*
+*Woman Saída, Contratempo, Man Saída (D27)*
 
-*Woman Saída, Man Saída (D24)*
+*Woman Saída, Retrocesso (D28/CD05)*
 
-*Woman Saída, Contratempo, Man Saída (D25)*
+*Woman Saída, Block, Passeio (D29)*
 
-*Woman Saída, Retrocesso (D26/CD05)*
+*Woman Saída, Block, Woman Saída Rotation (D30)*
 
-*Woman Saída, Block, Passeio (D27)*
+*Diagonal, Retrocesso (D31)*
 
-*Woman Saída, Block, Woman Saída Rotation (D28)*
+*Retrocesso, Man Saída (D32)*
 
-*Retrocesso, Man Saída (D29)*
+*Retrocesso, Woman Saída (D33)*
 
-*Retrocesso, Woman Saída (D30)*
+*[[Kiz - Linha\|Linha]] (D03)* ???
 
-*Retrocesso, Casamento/2/giro/giro 2 (D31)*
+*Retrocesso, Casamento/2/giro/giro 2 (D35)*
 
-*Woman Saída Block, Contra Vírgula(D32)*
+*Woman Saída Block, Contra Vírgula(D36)*
 
-*Woman Saída, Volta da Mulher (D33)*
+*Estrela Left, Woman Saída (D37)*
 
-*Volta da Mulher, Passeio (D34)*
+*Woman Saída, Volta da Mulher (D38)*
 
-*Giro da Mulher, Retrocesso (D35)*
+*Volta da Mulher, Passeio (D39)*
 
-*Giro da Homem, Balance (D36)*
+*Giro da Mulher, Retrocesso (D40)*
 
-*Compass Rose (D37)*
+*Giro da Homem, Balance (D41)*
+
+*Compass Rose (D42)*
 - Follow starts by moving backward
 - Lead does not change body position
 
-*Double Passarela (D38)*
+*Double Passarela (D43)*
 
-*Passarela no stride (D39)*
+*Passarela no stride (D44)*
 
-*Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides (D40)*
+*Merge [[Kiz - Casamento#Casamento Com Giro - CD07\|Casamento Com Giro]] both sides (D45)*
 
-*Passarela bate e volta (D41/GC14.02)*
+*Passarela bate e volta (D46/GC14.02)*
 
-*De Lá para Cá, Volta da Mulher (D42)*
+*De Lá para Cá, Volta da Mulher (D47)*
 
-*Cruzcollagem2020
-ada Atrás, Cruzada Atrás (D43)*
+*Cruzada Atrás, Cruzada Atrás (D48)*
 
-*Retrocesso, Cruzada a Frente (D44)*
+*Retrocesso, Cruzada a Frente (D49)*
 
-*Regra de 3, Levantada Conjunta (D45)*
+*Regra de 3, Levantada Conjunta (D50)*
 
-*Deslize Lateral, Regra de 3 (D46)*
+*Deslize Lateral, Regra de 3 (D51)*
 
-*Retrocesso, Deslize Lateral (D47)*
+*Retrocesso, Deslize Lateral (D52)*
 
-*Woman Saída, Passeio, Tropeço da Regra de 3 (D48)*
+*Woman Saída, Passeio, Tropeço da Regra de 3 (D53)*
 
-*Woman Saída, Passeio, Regra de 3, Troca da homem (D49)*
+*Woman Saída, Passeio, Regra de 3, Troca da homem (D54)*
 
-*Passo Junto, Abertura Lateral (D50/CD19.lateral)*
+*Passo Junto, Abertura Lateral (D55/CD19.lateral)*
 
-*Caranguejo, Corridinho (D51)*
+*Caranguejo, Corridinho (D56)*
 
-*Espiral, Cadeirinha (D52)*
+*Espiral, Cadeirinha (D57)*
 
-*Bambolê (D53)*
+*Drill: Passarela, Cadeirinha (D58)*
+
+*Bambolê (D59)*
 - Woman Saída, Passeio, Woman Saída (CD03 + CD01 + CD03)
 
-*Volta da Mulher Reversa, Balance (D54)*
+*Volta da Mulher Reversa, Balance (D60)*
 
-*Retrocesso, Tropeço da Cruzada a Frente (D55)*
+*Retrocesso, Tropeço da Cruzada a Frente (D61)*
 
-*Volta da Mulher, Aconchego Regular (D56/FC04.01)*
+*Volta da Mulher, Aconchego Regular (D62/FC04.01)*
 
-*Passarela, Aconchego Regular (D57/FC04.02)*
+*Passarela, Aconchego Regular (D63/FC04.02)*
 
-*Retrocesso, Cruzada Abre e Fecha (D58)*
+*Retrocesso, Cruzada Abre e Fecha (D64)*
 
-*Basic 3 FWD, Balance (step), Varal (D59)*
+*Basic 3 FWD, Balance (step), Varal (D65)*
 
-*Volta do Homem, Fila (D60)*
+*Volta do Homem, Fila (D66)*
 
-*Saída em Fila (D61)*
+*Saída em Fila (D67)*
 
-*Casamento em Fila (D62)*
+*Casamento em Fila (D68)*
 
-*Retrocesso em Fila (D63)*
+*Retrocesso em Fila (D69)*
 
-*Regra de 3, Aconchego Elegante (D64)*
+*Diagonal em Fila (D70)*
 
-*Regra de 3, Aconchego Elegante Girado (D65)*
+*Regra de 3, Aconchego Elegante (D71)*
 
-*Passarela com Abraço, Basic 3/Estrela (D66)*
+*Regra de 3, Aconchego Elegante Girado (D72)*
 
-*Regra de 3, Yoyo (D67)*
+*Passarela com Abraço, Basic 3/Estrela (D73)*
 
-*Desfile com Volta, Retrocesso (D68)*
+*Regra de 3, Yoyo (D74)*
 
-*Giro Refinado, Woman Saída, Retrocesso (D69)*
+*Desfile com Volta, Retrocesso D75D68)*
+
+*Giro Refinado, Woman Saída, Retrocesso (D76)*
+
+*Regra de 3, Giro Conduzido (D77)* JONNY
 
 *Regra de 3, Giro Conduzido (D70)*
 
