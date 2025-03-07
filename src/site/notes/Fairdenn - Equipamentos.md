@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fairdenn-equipamentos/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-06T14:18:51.339-05:00","updated":"2024-12-27T16:32:49.727-05:00"}
+{"dg-publish":true,"permalink":"/fairdenn-equipamentos/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-06T14:18:51.339-05:00","updated":"2025-01-08T16:14:25.683-05:00"}
 ---
 
 

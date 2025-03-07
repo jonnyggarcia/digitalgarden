@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/raios-estelares/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-24T17:54:47.212-05:00","updated":"2024-12-26T12:12:44.593-05:00"}
+{"dg-publish":true,"permalink":"/raios-estelares/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T17:54:47.212-05:00","updated":"2025-01-08T16:14:25.689-05:00"}
 ---
 
 

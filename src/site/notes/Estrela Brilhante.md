@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estrela-brilhante/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T18:35:30.578-05:00","updated":"2024-12-26T18:44:07.756-05:00"}
+{"dg-publish":true,"permalink":"/estrela-brilhante/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T18:35:30.578-05:00","updated":"2025-01-08T16:14:25.683-05:00"}
 ---
 
 

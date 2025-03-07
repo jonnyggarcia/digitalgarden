@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/estatua-gigante/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-27T15:29:33.808-05:00","updated":"2024-12-27T18:49:25.337-05:00"}
+{"dg-publish":true,"permalink":"/estatua-gigante/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T15:29:33.808-05:00","updated":"2025-01-12T13:00:23.899-05:00"}
 ---
 
 
@@ -9,11 +9,11 @@ Sua cabeça é adornada por uma vasta e selvagem juba que se estende até os omb
 
 Ao se aproximar você escuta um zunido familiar ao da sala da estrela. Antes que possa mudar de idéia a passagem por onde veio se fecha e imensa estátua começa a brilhar.
 
-**Guardião (Ameaça: 6, Estresse 18)**
-- Caso role 20: Sofra o dobro de estresse.
-- Caso role 19: Seu dano é anulado
-- Caso role 18: Sua espada sai voando.
-	- Faça um teste de MOBILIDADE + AGILMENTE para recuperá-la. Sofra estresse como se fosse um ataque.
+**Guardião (Ameaça: -2, Estresse 18)**
+- Caso role 20: Sofra +4 pontos de estresse.
+- Caso role 19: Seu dano é anulado.
+- Caso role 18: Sua arma sai voando.
+	- Faça um teste de *MOBILIDADE + AGILMENTE* para recuperá-la. Sofra retribuição e não cause dano.
 
 Caso sobreviva, vá para [[Derrotando o Guardião\|Derrotando o Guardião]].
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/visao-da-janela/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-09T15:52:18.655-05:00","updated":"2024-12-27T16:44:02.849-05:00"}
+{"dg-publish":true,"permalink":"/visao-da-janela/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-09T15:52:18.655-05:00","updated":"2025-01-08T16:14:25.643-05:00"}
 ---
 
 
@@ -11,5 +11,5 @@ A atmosfera ao redor da fogueira parece tranquila, mas a presença da figura enc
 
 O que deseja fazer?
 
-- Caso queira bater na porta, vá para: [[Visita a cabana durante a noite\|Visita a cabana durante a noite]]
-- Caso queira seguir viagem, vá para: [[Rumo a Ichor Tor\|Rumo a Ichor Tor]]
+- Caso queira bater na porta, vá para: [[Visita à cabana durante a noite\|Visita à cabana durante a noite]].
+- Caso queira seguir viagem, vá para: [[Rumo a Ichor Tor\|Rumo a Ichor Tor]].

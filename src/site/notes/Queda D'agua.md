@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/queda-d-agua/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T14:57:36.570-05:00","updated":"2024-12-23T14:59:13.653-05:00"}
+{"dg-publish":true,"permalink":"/queda-d-agua/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T14:57:36.570-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 
-Você nada com todas as suas forças, mas a mãe natureza lhe sobrepuja sem esforço algum. Desesperadamente você procura algo para se agarrar, mas não há nada.
+Você nada com todas as suas forças, a água gelada e turbulenta puxando você com uma força implacável. Cada movimento parece inútil contra o poder da correnteza. O cansaço é insuportável, mas você continua a lutar, tentando encontrar algo — qualquer coisa — para se agarrar, algo que te dê esperança. Mas a escuridão é absoluta e não há nada ao seu alcance. A correnteza, implacável, continua a te arrastar, e você despenca para a escuridão, caindo por vários metros, como uma folha ao vento.
 
-Você colide contra um pedra e depois despenca vários metros abaixo.
-
-Sua aventura termina aqui.
+**Sua jornada termina aqui.**

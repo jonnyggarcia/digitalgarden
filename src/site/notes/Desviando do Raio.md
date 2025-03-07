@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/desviando-do-raio/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T18:44:09.724-05:00","updated":"2024-12-26T18:47:59.856-05:00"}
+{"dg-publish":true,"permalink":"/desviando-do-raio/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T18:44:09.724-05:00","updated":"2025-01-08T16:14:25.615-05:00"}
 ---
 
 

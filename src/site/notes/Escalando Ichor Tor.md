@@ -1,25 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/escalando-ichor-tor/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-18T12:42:51.818-05:00","updated":"2024-12-26T19:41:07.271-05:00"}
+{"dg-publish":true,"permalink":"/escalando-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T12:42:51.818-05:00","updated":"2025-01-12T12:45:24.167-05:00"}
 ---
 
 
-O paredão tem muitos e muitos metros de altura. Será uma subida difícil, porém irá lhe garantir uma vantagem.
+O paredão diante de você é colossal, uma parede de rocha que se ergue por muitos metros, desafiando qualquer um a tentar sua escalada. A subida será exaustiva, mas, se bem-sucedida, lhe dará uma vantagem significativa sobre o terreno abaixo. Cada movimento precisa ser calculado com precisão.
 
-*Gaste suprimentos*. Caso você não tenha suprimentos disponíveis a subida é muito arriscada e pode levar a morte, vá para [[Trilha por Ichor Tor\|Trilha por Ichor Tor]].
+*Gaste suprimentos*. Caso você não tenha suprimentos disponíveis, a escalada se torna extremamente arriscada e pode levar à morte fazendo você mudar de planos. Prossiga para [[Trilha por Ichor Tor\|Trilha por Ichor Tor]].
 
-Tendo preparado os machados de escalada no gelo, a corda ao redor da cintura e os ganchos de suas botas, você inicia a ascensão. Faça *um teste de CORPORAL + CUIDADOSAMENTE*.
+Você prepara cuidadosamente os machados de escalada no gelo, ajusta a corda ao redor de sua cintura e fixa os ganchos em suas botas com firmeza. O ar rarefeito e frio da montanha faz sua respiração pesar, mas sua determinação é maior. Você inicia a ascensão, colocando um pé após o outro na parede íngreme, tentando encontrar uma rotina que torne o esforço mais suportável.
 
-Você sobre o primeiro trecho da escalada, mais de quinze metros de altura. Uma leve olhada para baixo já lhe causa certo receio. Você ainda tem mais trechos a subir.
+Faça um teste de *CORPORAL + CUIDADOSAMENTE*.
 
-- Caso tenha falhado no teste anterior, seus braços estão começando a ficar cansados. Faça o **próximo** teste com **desvantagem**.
+Com habilidade, você supera o primeiro trecho da escalada, subindo mais de quinze metros de altura. A vista lá de cima é impressionante, mas ao olhar para baixo, uma sensação de vertigem ameaça tomar conta de você. A montanha abaixo é uma imensa paisagem distante. Você respira fundo e se concentra — ainda há muitos metros pela frente.
 
-Faça *outro teste de CORPORAL + CUIDADOSAMENTE*, para avançar a próxima parte.
+- Caso tenha falhado no teste anterior, seus braços começam a ceder ao cansaço. Faça o **próximo** teste com **desvantagem**.
 
-- Caso você tenha falhado, seus antebraços estão latejando e você tem dificuldade de segurar firmemente os machados de gelo. Sofra estresse penetrante (ameaça: 12) e **receba desvantagem constante até alcançar o topo**.
+Faça outro teste de *CORPORAL + CUIDADOSAMENTE* para continuar a ascensão.
 
-Determinada a completar a íngreme subida você investe ainda mais energia. Quase vinte metros acima, 35 metros do chão, percebe que há uma escalada negativa, a chance de queda é ainda maior. Alternativamente você pode tentar contornar indo para a direita, porém isso irá demorar mais tempo.
+- Caso você tenha falhado, seus antebraços estão doloridos e latejando. Cada movimento parece mais difícil, e você tem dificuldades para segurar firmemente os machados de escalada. *Sofra estresse penetrante (dano: +2)* e **receba desvantagem constante até alcançar o topo**.
 
-- Caso queira realizar a escalada negativa, vá para [[Escalada Negativa\|Escalada Negativa]].
-- Caso queira contornar, vá para [[Longa Escalada\|Longa Escalada]].
+Determinado a conquistar a montanha, você reúne o que lhe resta de energia. Quase vinte metros acima, a aproximadamente 35 metros do chão, você percebe que o caminho à frente começa a apresentar uma escalada negativa, um trecho onde o risco de queda é muito maior. Você pondera suas opções: enfrentar a dificuldade e arriscar a escalada negativa ou tentar contornar o obstáculo, embora isso possa custar mais tempo.
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+- Caso queira tentar a escalada negativa, vá para [[Escalada Negativa\|Escalada Negativa]].
+- Caso queira contornar pela direita, vá para [[Longa Escalada\|Longa Escalada]].
+
+*Se tiver dúvidas, consulte as [[Regras\|Regras]].*

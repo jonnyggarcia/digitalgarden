@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resistindo-ao-frio/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T12:12:49.778-05:00","updated":"2024-12-26T12:16:38.704-05:00"}
+{"dg-publish":true,"permalink":"/resistindo-ao-frio/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T12:12:49.778-05:00","updated":"2025-01-08T16:14:25.606-05:00"}
 ---
 
 

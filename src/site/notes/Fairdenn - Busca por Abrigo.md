@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/fairdenn-busca-por-abrigo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-06T15:06:11.638-05:00","updated":"2024-12-27T16:35:21.068-05:00"}
+{"dg-publish":true,"permalink":"/fairdenn-busca-por-abrigo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-06T15:06:11.638-05:00","updated":"2025-01-08T16:14:25.689-05:00"}
 ---
 
 
 Enquanto anda pelo assentamento em busca de um local para dormir, você percebe que não há nenhum estabelecimento comercial visível, como uma estalagem ou uma taverna que ofereça abrigo. As casas são simples e parecem ser residências privadas, e a atmosfera ao redor está vazia, com poucas pessoas circulando pelas ruas.
 
-A falta de opções de hospedagem torna a situação mais difícil, e você começa a se perguntar onde poderá descansar para a noite. Talvez um dos moradores locais tenha alguma sugestão ou possa oferecer abrigo temporário.
+A falta de opções de hospedagem torna a situação mais difícil, e você começa a se perguntar onde poderá descansar para a noite. Talvez um dos moradores locais possa oferecer abrigo durante a noite.
 
 O que deseja fazer?
 

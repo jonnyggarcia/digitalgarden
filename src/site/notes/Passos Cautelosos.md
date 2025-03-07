@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/passos-cautelosos/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-23T23:01:47.302-05:00","updated":"2024-12-26T19:58:01.152-05:00"}
+{"dg-publish":true,"permalink":"/passos-cautelosos/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-23T23:01:47.302-05:00","updated":"2025-01-08T16:14:25.668-05:00"}
 ---
 
 
-Sem pressa, você caminha passo a passo certificando-se dos arredores. Um ataque surpresa é última coisa que você precisa nesse momento. Apesar da lentidão, sua perspicácia valeu a pena. Faça um *teste de INTELECTUAL + CUIDADOSAMENTE* com vantagem. Preserve o resultado.
+Sem pressa, você avança cuidadosamente, cada passo dado com a máxima atenção aos arredores. Um ataque surpresa seria a última coisa que você precisaria neste momento. Embora a lentidão possa ser frustrante, sua perspicácia começa a mostrar resultados, e a sensação de estar no controle cresce.
 
-- Caso tenha sido bem sucedida, vá para [[Presença Alheia\|Presença Alheia]].
-- Caso tenha fracassado, vá para [[Tarde de Mais\|Tarde de Mais]].
+Faça um teste de *INTELECTUAL + CUIDADOSAMENTE* com vantagem. Preserve o resultado.
+
+- Caso seja bem-sucedida, vá para [[Presença Alheia\|Presença Alheia]].
+- Caso fracasse, vá para [[Tarde de Mais\|Tarde de Mais]].
 
 *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*

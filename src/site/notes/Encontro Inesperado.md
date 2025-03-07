@@ -1,26 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/encontro-inesperado/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-19T15:51:13.139-05:00","updated":"2024-12-24T17:13:48.879-05:00"}
+{"dg-publish":true,"permalink":"/encontro-inesperado/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T15:51:13.139-05:00","updated":"2025-01-08T16:14:25.665-05:00"}
 ---
 
 
-Falta cerca de três horas para o entardecer, quando você nota manchas de sangue no caminho. A brancura da neve as deixa muito evidentes. Parando um segundo para prestar atenção, você não ouve ou avista algo suspeito.
+Faltando poucas horas para o entardecer, você percebe manchas de sangue na neve, que se destacam contra o fundo branco. Cada mancha é visivelmente fresca, o que faz com que seu instinto de precaução se afie. Parando para observar mais atentamente, você não nota nenhum som ou movimento ao redor, apenas o silêncio cortante das montanhas.
 
-Furtivamente você segue as manchas de sangue. Poucos metros a frente há um espaço com um alcova a na montanha. Você avista quatro pessoas deitadas no chão. Parecer ser um acampamento.
+Após alguns metros, você encontra uma alcova na montanha. Lá, você avista quatro corpos caídos no chão e os vestígios de um confronto recente.
 
-Investigando o acampamento, e confirmando suas suspeitas, os copos estão mortos. Lhe parece que houve um confronto com algum tipo de animal. Vasculhando o equipamento você encontra os seguinte items.
+Você se aproxima dos corpos, mantendo a vigilância, e confirma suas suspeitas. Não há sinais de vida, apenas o peso de uma luta perdida. Vasculhando os corpos e o local você encontra os seguintes items:
 
-- Rações para Viagem (consumível, IC: d6/2)
-- Suprimentos (consumível, IC: d6/2)
-- Arco e Flecha (2-mãos, distância)
-- Adaga (1-mão, dificuldade -1, dano+1)
-- Machado (1/2-mãos, 2-mão: dano+2)
-- Espada Longa (1-mão)
-- Caso sua categoria de moeda de ouro seja d4, aumente para d6.
+- **Rações para Viagem** (consumível, IC: 2): Avance a categoria do dado, máximo d8.
+- **Suprimentos** (consumível, IC: 2): Avance a categoria do dado, máximo d6.
+- **Moedas** (consumível): Avance a categoria do dado, máximo d6.
+- **Arco e Flecha** (2-mãos, distância).
+- **Adaga** (1-mão, penalidade, dano+1).
+- **Machado** (1/2-mãos, 2-mão: dano+2).
+- **Espada Longa** (1-mão).
 
-Colete os itens que desejar mas não se esqueça dos limites.
+Após recolher os itens, você sente o peso da situação. Em respeito aos falecidos e conforme os costumes, você amontoa os corpos e ateia fogo neles. O fogo purificador é uma tradição oferecendo aos mortos a chance de deixar o mundo material para trás.
 
-Em solidariedade aos falecidos, você amontoa os corpos e ateia fogo, pois aqueles que não tem seus corpos purificados pelo fogo ficam presos ao mundo material. Ao menos é que os costumes dizem.
-
-Vá para, [[Final do Terceiro dia\|Final do Terceiro dia]].
+Com os corpos agora consumidos pelas chamas, você recolhe suas coisas e segue em frente. Prossiga para [[Esperanças Renovadas\|Esperanças Renovadas]].
 
 *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criacao-de-personagens/","tags":["RPG/livro-jogo/Draegeni/rules"],"created":"2024-12-06T13:19:37.745-05:00","updated":"2024-12-26T19:16:06.810-05:00"}
+{"dg-publish":true,"permalink":"/criacao-de-personagens/","tags":["RPG/livro-jogo/Aasthar/rules"],"created":"2024-12-06T13:19:37.745-05:00","updated":"2025-01-08T16:14:25.644-05:00"}
 ---
 
 
@@ -26,7 +26,7 @@ Todos os atributos começar com o valor 4. Distribua 10 pontos adicionais entre 
 
 # Estresse
 
-Estresse é sua capacidade de receber dano. O valor total de estresse é equivalente a soma dos Atributos Corporal e Agressivamente mais 10.
+Estresse é sua capacidade de receber dano. O valor total de estresse é equivalente a soma dos Atributos Corporal, Mobilidade e Intensamente mais 10.
 
 # Potenciais
 

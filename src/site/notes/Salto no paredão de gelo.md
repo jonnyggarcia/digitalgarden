@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/salto-no-paredao-de-gelo/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-19T14:05:39.389-05:00","updated":"2024-12-26T19:55:49.430-05:00"}
+{"dg-publish":true,"permalink":"/salto-no-paredao-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T14:05:39.389-05:00","updated":"2025-01-12T12:56:25.406-05:00"}
 ---
 
 
-Reafirmando os ganchos de sua bota e os machados na parede, você toma alguns minutos para aliviar as tensões de seus braços. Observando o seu destino você se prepara mentalmente.
+Reafirmando os ganchos de suas botas, você prende firmemente os machados na parede de gelo. Respira fundo, fecha os olhos por um momento e sacode os braços, um de cada vez, para aliviar as tensões acumuladas. Cada movimento agora exige concentração total. A perspectiva do destino final à frente reforça sua determinação. Você observa a distância, calculando mentalmente cada movimento necessário para completar o percurso.
 
-Faça um *teste de MOBILIDADE + INTENSAMENTE* (lembre-se de aplicar as desvantagens caso possua)
+Faça um teste de *MOBILIDADE + INTENSAMENTE* (lembre-se de aplicar as desvantagens caso possua).
 
-- Caso tenha falhado, você sofre uma queda e colide contra a parede algumas vezes. Sofra estresse penetrante (ameaça: 8). O encontrão contra a parede fez o gancho próximo ao salto se desvencilhar. O único caminho que resta é realizar a [[Escalada Negativa\|Escalada Negativa]].
+- Caso tenha falhado, você sofre uma queda, colidindo contra a parede de gelo com violência. *Sofra estresse (dano: -2)* com o impacto da queda. Durante a queda, o gancho mais próximo ao salto se desvencilha, tornando impossível seguir esse caminho. O único caminho que resta agora é realizar a [[Escalada Negativa\|Escalada Negativa]].
 
-Finalmente do outro lado, o final está em seu campo de visão. Subindo mais oito metros você finalmente consegue repousar. Vá para [[Platô de Gelo\|Platô de Gelo]].
+Superando o obstáculo, você enxerga o fim do desafio se aproximando. Com esforço renovado, sobe mais oito metros até alcançar um ponto seguro. Prossiga para [[Platô de Gelo\|Platô de Gelo]].
 
 *Caso tenha dúvidas, consulte as [[Regras\|Regras]].*

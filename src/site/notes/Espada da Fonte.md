@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/espada-da-fonte/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-24T17:36:02.186-05:00","updated":"2024-12-26T11:53:31.845-05:00"}
+{"dg-publish":true,"permalink":"/espada-da-fonte/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T17:36:02.186-05:00","updated":"2025-01-26T19:04:28.457-05:00"}
 ---
 
 
-Você pega no cabo da espada. Ao retirá-la da água você ouve um zunido vindo da estrela acima do túnel. Suas pontas começam a brilhar. Então o brilho percorre a estrela até seu centro brilhando intensamente. Uma raio dispara contra sua direção. Faça um *teste de MOBILIDADE + AGILMENTE* para desviar.
+Com cuidado, você agarra o cabo da espada. Assim que a retira da água, um som agudo e estranho preenche a galeria, como um zunido vindo do centro da enorme estrela acima do túnel. As pontas da estrela começam a brilhar, em um brilho crescente que se espalha por suas extremidades até atingir o centro da figura esculpida no gelo. Em um piscar de olhos, a estrela brilha intensamente, e um raio de pura luz dispara em sua direção. Com a espada ainda em suas mãos, você não tem muito tempo para reagir. Faça um teste de *MOBILIDADE + AGILMENTE* para desviar.
 
-- Caso seja bem sucedida, vá para [[Raios Estelares\|Raios Estelares]].
+- Caso seja bem-sucedida, vá para [[Raios Estelares\|Raios Estelares]].
 - Caso fracasse, vá para [[Raio Brilhante\|Raio Brilhante]].
 
-*Caso tenha dúvidas, consulte as [[Regras\|Regras]].*
+*Se precisar de mais informações, consulte as [[Regras\|Regras]].*

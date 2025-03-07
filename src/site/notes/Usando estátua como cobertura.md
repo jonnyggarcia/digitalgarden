@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/usando-estatua-como-cobertura/","tags":["RPG/livro-jogo/Draegeni/story-points"],"created":"2024-12-26T18:49:07.593-05:00","updated":"2024-12-26T18:53:54.676-05:00"}
+{"dg-publish":true,"permalink":"/usando-estatua-como-cobertura/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T18:49:07.593-05:00","updated":"2025-01-08T16:14:25.683-05:00"}
 ---
 
 
