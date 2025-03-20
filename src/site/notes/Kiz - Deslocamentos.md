@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2025-01-29T15:51:17.816-05:00"}
+{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2025-03-01T12:50:15.034-05:00"}
 ---
 
 
@@ -27,6 +27,7 @@
 | [[Kiz - Deslize Cego\|Deslize Cego]]                 | DD08        | 803    |
 | [[Kiz - Cruzada Dupla\|Cruzada Dupla]]               | DD09        |        |
 | ==[[Kiz - Cuzada Vai e Vem\|Cuzada Vai e Vem]]==     | DD10        |        |
+|                                                      |             |        |
 
 # Levantadas (DL)
 

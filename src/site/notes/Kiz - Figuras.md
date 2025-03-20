@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2025-02-23T18:04:43.420-05:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2025-03-06T13:13:45.627-05:00"}
 ---
 
 
@@ -22,7 +22,8 @@
 | ==[[Kiz - Titanique\|Titanique]]==                     | FC11 |        |
 | ==[[Kiz - Agachada\|Agachada]]==                       | FC12 |        |
 | ==[[Kiz - Chave de Perna\|Chave de Perna]]==           |      |        |
-| ==[[Kiz - Estrela Cadente\|Estrela Cadente]]==         |      |        |
+| ==[[Kiz - Estátua\|Estátua]]==                         |      |        |
+|                                                        |      |        |
 
 # Aerial Figures (FA)
 

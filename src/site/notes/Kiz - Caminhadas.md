@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2025-02-23T18:15:40.590-05:00"}
+{"dg-publish":true,"permalink":"/kiz-caminhadas/","created":"2024-09-16T14:08:44.986-04:00","updated":"2025-03-14T14:20:35.524-04:00"}
 ---
 
 
@@ -32,6 +32,7 @@
 | [[Kiz - Casamento#Casamento Com Giro II - CD09\|Casamento com Giro 2]]        | CD09           | 205    |
 | [[Kiz - Regra de 3\|Regra de 3]]                                              | CD10           | 303    |
 | [[Kiz - Regra de 3 com Troca\|Regra de 3 com Troca]]                          | CD11           | 405    |
+| [[Kiz - Órbita\|Órbita]]                                                      | CD12           |        |
 | [[Kiz - Volta da Mulher\|Volta da Mulher]]                                    | CD13           | 301    |
 | [[Kiz - Volta Bate Volta\|Volta Bate e Volta]]                                | CD14           | 302    |
 | [[Kiz - Volta ao Mundo\|Volta ao Mundo]]                                      | CD15           |        |
@@ -48,14 +49,13 @@
 | [[Kiz - Pedágio\|Pedágio]]                                                    | CD20           | 601    |
 | [[Kiz - Regresso\|Regresso]]                                                  | CD21           | 303    |
 | ==[[Kiz - Sanga Sussa\|Sanga Sussa]]==                                        | CD22           |        |
-| ==[[Kiz - Passo Lento\|Passo Lento]]==                                        | CD22           |        |
-| ==[[Kiz - Twist\|Twist]]==                                                    | CD23           |        |
-| ==[[Kiz - Finta\|Finta]]==                                                    | CD24           |        |
+| ==[[Kiz - Passo Lento\|Passo Lento]]==                                        | CD23           |        |
+| ==[[Kiz - Twist\|Twist]]==                                                    | CD24           |        |
+| ==[[Kiz - Finta\|Finta]]==                                                    | CD25           |        |
 | ==[[Kiz - Pare e Arranca\|Pare e Arranca]]==                                  |                |        |
-| ==[[Kiz - Zig Zag\|Zig Zag]]==                                                |                |        |
 | ==[[Kiz - Jackson\|Jackson]]==                                                |                |        |
 
-free CD12, CD17
+free CD17
 
 # Caminhadas Em Fila (CF)
 

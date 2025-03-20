@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","created":"2024-09-22T13:12:45.835-04:00","updated":"2024-11-19T12:56:16.588-05:00"}
+{"dg-publish":true,"permalink":"/kiz-bate-e-volta/","tags":["kizomba/step","todo"],"created":"2024-09-22T13:12:45.835-04:00","updated":"2025-01-29T14:52:44.961-05:00"}
 ---
 
+
+Video
 
 **Bate e Volta** (bumper car) is a disconnected movement where the follower turns back and forth.
 
@@ -26,6 +28,9 @@
 7. Repeat from step 3.
 8. When performing step 3, the lead will provide extra energy to exit the move.
 9. Close with a [[Kiz - Basic 2\|Basic 2]] to the left or a [[Kiz - Woman Saída\|Woman Saída]].
+
+**Variation**
+- Passarela Bate e Volta (GC14.02)
 
 *Key elements of the move*
 - The lead needs to provide enough momentum for the follower to spin and step back.

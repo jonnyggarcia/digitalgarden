@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","created":"2024-09-18T12:34:54.067-04:00","updated":"2024-11-19T12:56:16.778-05:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","tags":["kizomba/step"],"created":"2024-09-18T12:34:54.067-04:00","updated":"2025-01-29T14:39:37.234-05:00"}
 ---
 
 
@@ -35,11 +35,25 @@ When the follower establishes the thigh-to-thigh connection on step 3, the lead 
 
 # Woman Saída with Retrocesso
 
-[Vídeo](https://youtu.be/xv1JwHr1C3E) 
-code: CD05
+Code: CD05
+
+[Vídeo](https://youtu.be/xv1JwHr1C3E)
 
 1. On step 4 from the lead's perspective, perform a [[Kiz - Retrocesso\|Retrocesso]].
 2. On step 3, the block, the lead steps forward into a [[Kiz - Retrocesso\|Retrocesso]]
+
+# Woman Saída with Opening
+
+Code: CD29
+#todo
+
+# Variation
+
+- ☑ ==Woman Saída com Abertura== → woman saída + passeio
+	- ☑ ==Woman Saída com Abertura + Woman Saída== (CD03 + CD01 + CD03)
+- ☑ Woman Saída com Arrastada (CD03-A) - 504
+- Woman Saída cruzada (CD03.01)
+- Woman Saída com contratempo (CD03-C)
 
 # Catalog
 

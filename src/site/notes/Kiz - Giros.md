@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2025-02-23T18:09:17.068-05:00"}
+{"dg-publish":true,"permalink":"/kiz-giros/","created":"2024-09-16T14:13:38.773-04:00","updated":"2025-03-06T13:13:14.411-05:00"}
 ---
 
 
@@ -30,6 +30,7 @@
 | ==[[Kiz - Giro de Braço\|Giro de Braço]]==             |      |        |
 | ==[[Kiz - Cachecol\|Cachecol]]==                       |      |        |
 | ==[[Kiz - Eixo\|Eixo]]==                               |      |        |
+| ==[[Kiz - Estrela Cadente\|Estrela Cadente]]==         |      |        |
 
 # Air Spins (GA)
 

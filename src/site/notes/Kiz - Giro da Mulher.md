@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-giro-da-mulher/","created":"2024-10-02T12:18:42.766-04:00","updated":"2024-11-19T12:56:16.705-05:00"}
+{"dg-publish":true,"permalink":"/kiz-giro-da-mulher/","tags":["kizomba/step"],"created":"2024-10-02T12:18:42.766-04:00","updated":"2025-01-28T12:17:25.072-05:00"}
 ---
 
 

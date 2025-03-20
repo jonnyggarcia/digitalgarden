@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-piao/","created":"2024-10-03T13:46:40.160-04:00","updated":"2024-11-19T12:56:16.733-05:00"}
+{"dg-publish":true,"permalink":"/kiz-piao/","tags":["kizomba/step"],"created":"2024-10-03T13:46:40.160-04:00","updated":"2025-01-28T12:18:50.934-05:00"}
 ---
 
 

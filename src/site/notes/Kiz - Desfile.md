@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-desfile/","created":"2024-10-03T13:46:16.902-04:00","updated":"2024-11-19T12:56:16.629-05:00"}
+{"dg-publish":true,"permalink":"/kiz-desfile/","tags":["kizomba/step"],"created":"2024-10-03T13:46:16.902-04:00","updated":"2025-01-28T12:18:27.990-05:00"}
 ---
 
 
@@ -18,6 +18,9 @@
 2. Take a left step forward, passing through the lead’s arm while executing a 90-degree turn to the right. At this moment, you will be facing the same direction as the lead.
 3. The lead will signal you to come back with a gentle pull of their right hand. Perform a 90-degree turn to the right while taking a right step forward toward the lead.
 4. Perform a Basic 2 to the left.
+
+**Variations**
+- Conduzido (GC11-Z)
 
 *Key elements of the move*
 - Followers need to walk through the turn instead of spinning on the axis.

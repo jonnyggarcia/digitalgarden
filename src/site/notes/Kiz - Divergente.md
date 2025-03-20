@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-divergente/","created":"2024-09-18T17:58:20.960-04:00","updated":"2024-11-21T10:24:30.234-05:00"}
+{"dg-publish":true,"permalink":"/kiz-divergente/","tags":["kizomba/step"],"created":"2024-09-18T17:58:20.960-04:00","updated":"2025-01-28T12:27:34.776-05:00"}
 ---
 
 

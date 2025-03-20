@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","created":"2024-09-23T11:58:24.698-04:00","updated":"2024-11-19T12:56:16.624-05:00"}
+{"dg-publish":true,"permalink":"/kiz-de-la-para-ca/","tags":["kizomba/step"],"created":"2024-09-23T11:58:24.698-04:00","updated":"2025-01-28T12:17:18.093-05:00"}
 ---
 
 
-**De lá para cá** (from here to there) is a disconnected step where the follower walks 3 steps forward, performs a pivot on the 3rd step (180-degree turn), and then walks 3 more steps forward. This is very similar to a [[Kiz - Regra de 3\|Rule of 3]] but disconnected.
+**De lá para cá** (from here to there) is a variation of [[Kiz - Volta da Mulher\|Volta da Mulher]] where the follower only perform 3 steps in front of the lead.
 
 **Lead**
 1. Perform the opening of the [[Kiz - Passeio\|Passeio]] (90 degrees).
@@ -27,13 +27,12 @@
 - The lead can mark the 3rd step by stepping forward while the follower turns.
 
 *Key Elements of the Move*
-- While doing the steps, the lead constantly marks the beat by transferring their weight from side to side.
-- The lead should indicate the closing of the passeio.
+- While doing the steps, the lead constantly marks the beat by stepping in place transferring the weight.
 - The follower performs the pivot on the 3rd step.
 - This move will lead into [[Kiz - Cruz\|Cruz]].
 
 # Catalog
 
-- Code: CD13
-- Connections: [[Kiz - Regra de 3\|CD10]]
+- Code:
+- Connections: [[Kiz - Volta da Mulher\|CD13]]
 - Parent: [[Kiz - Caminhadas\|Caminhadas]] (Strides)
