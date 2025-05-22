@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-21T20:27:06.786-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-22T09:52:41.343-04:00"}
 ---
 
 
@@ -165,3 +165,11 @@ What was difficult for me was the timing and how the situation was handled—it 
 ---
 
 ![Pasted image 20250521202422.png](/img/user/MEDIA/Pasted%20image%2020250521202422.png)
+
+---
+
+# May 22, 2025
+
+![Pasted image 20250522095140.png](/img/user/MEDIA/Pasted%20image%2020250522095140.png)
+
+![Pasted image 20250522095200.png](/img/user/MEDIA/Pasted%20image%2020250522095200.png)
