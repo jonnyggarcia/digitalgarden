@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-21T20:03:36.154-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-21T20:10:40.748-04:00"}
 ---
 
 
@@ -117,9 +117,15 @@ If we talk about the classes, that’s about 4 more hours across a month. But ev
 
 I also played music at Studio G events two to three times a month, each session lasting about four hours. Let’s round it down to 10 hours per month. I did that for nearly a year.
 
+I taught three classes before the Saturday night socials, and it was actually Melanie who asked me to do it. For the following two months, I continued offering the class because she mentioned wanting to have something in place before the social.
+
+Once again, I did it with the goal of helping people learn. Before my first class, I even reached out to several community members to ask what challenges they were facing, so I could tailor the class to meet their needs.
+
 Melanie said that my compensation was “exposure.” But honestly, she was the one getting exposure—Studio G socials ran smoothly because I took charge and handled everything without asking for anything in return.
 
 And let’s not forget Julz’s workshop—I paid for that out of my own pocket.
+
+The moment I made a post that didn’t align with Melanie’s preferences, I was cut off. Coincidence?
 
 ![Pasted image 20250521194240.png](/img/user/MEDIA/Pasted%20image%2020250521194240.png)
 
