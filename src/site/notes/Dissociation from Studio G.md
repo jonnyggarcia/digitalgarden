@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-21T20:10:40.748-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-21T20:27:06.786-04:00"}
 ---
 
 
@@ -105,8 +105,6 @@ The vast majority of people just danced with me, and I never once brought up cla
 
 ![Pasted image 20250521192545.png](/img/user/MEDIA/Pasted%20image%2020250521192545.png)
 
-What free classes are you referring to?
-
 I came to support the Kizomba community and help create a positive atmosphere for your classes. There were multiple occasions where I stayed for the entire class without participating because there were more leads than followers. I always tried to make sure people had a chance to dance and enjoy the experience. I did pay for the initial sessions.
 
 In your last term before your vacation, I didn’t attend because there weren’t enough followers. But I still came to the last class to play music so people could practice.
@@ -163,3 +161,7 @@ My class was originally intended (and remember, I’ve cancelled it) to run on S
 I understand that Melanie doesn’t want me to be part of it anymore, and she’s absolutely within her rights to make that decision.
 
 What was difficult for me was the timing and how the situation was handled—it felt really hurtful. We could have easily worked together on a smooth transition for you to take over.
+
+---
+
+![Pasted image 20250521202422.png](/img/user/MEDIA/Pasted%20image%2020250521202422.png)
