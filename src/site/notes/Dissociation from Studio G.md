@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-22T09:52:41.343-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-24T11:49:04.927-04:00"}
 ---
 
 
@@ -10,6 +10,8 @@ He said he was fine with it and even encouraged me to go ahead.
 After that, I approached Melanie to inquire about renting the space, but she refused.
 
 So, both of them knew this situation was likely to happen.
+
+![Pasted image 20250521202422.png](/img/user/MEDIA/Pasted%20image%2020250521202422.png)
 
 ---
 
@@ -164,12 +166,24 @@ What was difficult for me was the timing and how the situation was handled—it 
 
 ---
 
-![Pasted image 20250521202422.png](/img/user/MEDIA/Pasted%20image%2020250521202422.png)
-
----
-
 # May 22, 2025
 
 ![Pasted image 20250522095140.png](/img/user/MEDIA/Pasted%20image%2020250522095140.png)
 
 ![Pasted image 20250522095200.png](/img/user/MEDIA/Pasted%20image%2020250522095200.png)
+
+# About the Group Classes
+
+At first, I had decided to cancel the group classes. However, after speaking with several people, I’ve had a change of heart. I’d like to share the reasoning behind my initial decision.
+
+The Studio G used to be a hub for Kizomba in Hamilton, regularly hosting three socials per month. Occasionally, we also had the Salsa Soul events, which included a dedicated Kizomba room. With Studio G’s recent decision to reduce the number of socials to just once a month, opportunities for practice have become much more limited.
+
+While classes are essential for learning, that one hour of instruction often isn’t enough—not only to absorb the steps but also to gain the confidence to use them. Socials provide the crucial space where students can practice and apply what they’ve learned. That’s why I designed my classes to include 30 minutes of guided practice after instruction.
+
+With only one social per month, students might go through 3 to 4 classes before getting the chance to dance socially, and much of the context may be lost. No matter how many classes someone takes, improvement is difficult without regular practice. For many, socials are the most accessible and motivating way to reinforce their learning.
+
+My concern was that, with fewer socials, offering classes would become less effective—like trying to dry ice. I also heard some feedback that my efforts were being perceived as opportunistic, which was discouraging.
+
+However, some heartfelt conversations with a few of you helped me see things differently. Your encouragement—and your belief in what these classes mean—reminded me why I do this in the first place: because I truly love it.
+
+So, I’ve decided to move forward with the classes. Thank you to those who took the time to share your thoughts with me. Your support means a great deal.
