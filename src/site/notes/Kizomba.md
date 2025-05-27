@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-02-21T13:45:48.504-05:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-05-27T16:02:05.516-04:00"}
 ---
 
 
@@ -29,3 +29,4 @@
 - [[Learning how to Dance\|Learning how to Dance]]
 - [[Kizomba Exercises\|Kizomba Exercises]]
 - [[Kizomba Classes\|Kizomba Classes]]
+- [[Kizomba Framework\|Kizomba Framework]]
