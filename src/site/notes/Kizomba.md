@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-05-27T16:02:05.516-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-06-02T22:54:58.345-04:00"}
 ---
 
 
@@ -30,3 +30,4 @@
 - [[Kizomba Exercises\|Kizomba Exercises]]
 - [[Kizomba Classes\|Kizomba Classes]]
 - [[Kizomba Framework\|Kizomba Framework]]
+- [[Artist Mentality\|Artist Mentality]]
