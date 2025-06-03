@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-05-24T11:49:04.927-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-06-03T00:05:35.890-04:00"}
 ---
 
 
@@ -164,8 +164,6 @@ I understand that Melanie doesn’t want me to be part of it anymore, and she’
 
 What was difficult for me was the timing and how the situation was handled—it felt really hurtful. We could have easily worked together on a smooth transition for you to take over.
 
----
-
 # May 22, 2025
 
 ![Pasted image 20250522095140.png](/img/user/MEDIA/Pasted%20image%2020250522095140.png)
@@ -187,3 +185,66 @@ My concern was that, with fewer socials, offering classes would become less effe
 However, some heartfelt conversations with a few of you helped me see things differently. Your encouragement—and your belief in what these classes mean—reminded me why I do this in the first place: because I truly love it.
 
 So, I’ve decided to move forward with the classes. Thank you to those who took the time to share your thoughts with me. Your support means a great deal.
+
+# May 27, 2025
+
+I went to Mississauga for a Urban Kiz class, and someone asked me when the next Kizomba event in Hamilton would be. I explained that I was no longer associated with Studio G, so I wasn’t sure. They asked me what happened, and before I could go into detail, they mentioned that they were friends with David. I responded by saying that nothing I was about to share was a secret; everything had already been made public so that people could draw their own conclusions.
+
+They began by saying that David spoke highly of me and acknowledged how much I was learning and progressing quickly.
+
+I explained what happened to the best of my ability. They listened attentively and respectfully. They also asked thoughtful and important questions, such as:
+
+- “Do you feel ready to teach Kizomba?”
+
+I addressed their questions by explaining that this all started because David was often absent from the scene, and people began approaching me for help. Over time, others started requesting private lessons, which led me to pursue a teaching training program. Naturally, I wanted to put that training into practice.
+
+I also shared that I have a long background in movement, including circus, gymnastics, mime, Contact Improvisation, and professional dance—some of which I’ve also taught. I explained that I genuinely believe I can help people learn the fundamentals of Kizomba.
+
+Lastly, I mentioned that during an informal conversation at a bar, David once told me he didn’t have much more to teach beyond a few tricks. I also acknowledged that I wasn’t sure if he would remember saying that.
+
+- “Is there space for two teachers in Hamilton, considering the scene is still quite small?”
+
+I simply explained that people were coming to me asking for help, and I felt there was a genuine demand, so I decided to set up classes, but I made sure to inform both Melanie and David beforehand.
+
+They also mentioned that, in the past, there was a similar situation before where some people were unhappy, but the argument at the time was that it’s a free market.
+
+They commented that, regardless of how prepared I am, the fact that I’m doing something that brings new people into the dance scene is a good thing.
+
+Lastly, he mentioned that he intended to talk to David and would share any feedback with me the next time we meet.
+
+The next day, I spoke with them over the phone, and they shared the points they had discussed with David.
+
+- David, as an employee of Studio G, was acting on their behalf and carrying out their requests.
+- David acknowledged that he told me he didn’t have much else to teach me, but clarified that this doesn’t mean there isn’t more to learn about Kizomba.
+- David had no issues with me teaching.
+- David believed that I benefited from Studio G just as much as Studio G benefited from me.
+
+They advised me not to burn bridges with David, especially since they didn’t believe he has any personal issues with me. I explained that my main issue was that David spoke to me in a very condescending manner.
+
+I want to thank them for listening to my side of the story and for going out of their way to speak with David as well. I believe everyone deserves to hear both sides of the story.
+
+# June 2, 2025
+
+![Pasted image 20250602234937.png](/img/user/MEDIA/Pasted%20image%2020250602234937.png)
+
+Today, Studio G announced a dedicated Kizomba social event on the main floor.
+
+What I’m about to say is speculative, based on everything that has happened.
+
+When I spoke with David on the phone, he mentioned that he and Melanie had discussed ways to grow the community, and that he suggested bringing in other teachers and DJs. Shortly after that, David went on vacation.
+
+To me, it seems like they had plans to grow the community, and I simply wasn’t part of those plans. I have no issue with bringing in a well-known DJ from our local scene. That could attract a different crowd and hopefully lead to better attendance at events. I just thought I would be included in that process.
+
+David advised me to learn to navigate situations like this more effectively. But I also believe that if their plan was to bring in professional DJs as part of a strategy to grow the community, they could have communicated that with me. They could’ve said something like, “Hey, we’re shifting directions and bringing in DJs for future socials, so there won’t be a need for you to play music.” They could’ve even let me DJ one last time and made a smooth transition.
+
+Instead, as soon as I announced my classes, I was cut off—something I only discovered because I reached out to Melanie myself. She didn’t even extend the courtesy of a phone call to explain the situation. To me, that feels like retaliation for becoming the competition.
+
+I do believe that bringing in professional DJs is a good move to help grow the community. I’m just saddened by the way I was excluded from the process. As I mentioned to two different organizers who inquired about my DJ rates, I told them that I am a dancer first, and if they are looking for a live DJ, I’m not interested.
+
+To me, the saddest part is that I no longer feel welcome at Studio G, and, unfortunately, others have been affected by what happened as well. I also lost the only local place where I could go to dance. What could have been a space to bring people together has now become a source of division.
+
+As I’ve told some people, no one should feel obligated to boycott Studio G because of this situation. If they enjoy being there, they should go and have fun.
+
+![Pasted image 20250603000511.png](/img/user/MEDIA/Pasted%20image%2020250603000511.png)
+
+![Pasted image 20250603000533.png](/img/user/MEDIA/Pasted%20image%2020250603000533.png)
