@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artist-mentality/","tags":["plena","dance","kizomba","bachata","creativity"],"created":"2025-06-02T22:55:00.699-04:00","updated":"2025-06-02T23:24:25.061-04:00"}
+{"dg-publish":true,"permalink":"/artist-mentality/","tags":["plena","dance","kizomba","bachata","creativity"],"created":"2025-06-02T22:55:00.699-04:00","updated":"2025-06-12T17:28:12.696-04:00"}
 ---
 
 
@@ -41,7 +41,7 @@ There’s a quote from John Lennon that I came across in the book *Show Your Wor
 
 > Show Your Work! (p. 16). Austin Kleon.
 
-![Pasted image 20250602231156.png](/img/user/MEDIA/Pasted%20image%2020250602231156.png)
+![ART - Show Your Work - Austin Kleon - TUBA.png](/img/user/MEDIA/ART%20-%20Show%20Your%20Work%20-%20Austin%20Kleon%20-%20TUBA.png)
 
 > Show Your Work! (p. 18). Austin Kleon.
 

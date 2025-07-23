@@ -1,7 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2024-04-23T12:15:44.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-07-23T09:16:22.328-04:00"}
 ---
 
+
+# Feel
+
+![ART - COLLAGE - SERIES - FEEL - TABLE.png](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20SERIES%20-%20FEEL%20-%20TABLE.png)
+
+**Reds**
+- [[Collage - Enraged\|Collage - Enraged]]
+- [[Collage - Terrified\|Collage - Terrified]]
+- [[Collage - Panicked\|Collage - Panicked]]
+- [[Collage - Shocked\|Collage - Shocked]]
+- [[Collage - Impassioned\|Collage - Impassioned]]
+- [[Collage - Hyper\|Collage - Hyper]]
+- [[Collage - Livid\|Collage - Livid]]
+- [[Collage - Irate\|Collage - Irate]]
+- [[Collage - Overwhelmed\|Collage - Overwhelmed]]
+- [[Collage - Stressed\|Collage - Stressed]]
+
+**Blues**
+- [[Collage - Forlorn\|Collage - Forlorn]]
+- [[Collage - Apathetic\|Collage - Apathetic]]
 
 # Emigration
 
@@ -21,6 +41,7 @@
 
 # Self
 
+- [[Collage - 2JUN5\|Collage - 2JUN5]]
 - [[Collage - 2APR4\|Collage - 2APR4]]
 - [[Collage - 2MAR4-2\|Collage - 2MAR4-2]]
 - [[Collage - 2MAR4-1\|Collage - 2MAR4-1]]
@@ -73,6 +94,7 @@
 - [[Collage - Águas de Março\|Collage - Águas de Março]]
 - [[Collage - Ashes\|Collage - Ashes]]
 - [[Collage - Amei Te Ver\|Collage - Amei Te Ver]]
+- [[Collage - Bem Querer\|Collage - Bem Querer]]
 
 # Portraits
 

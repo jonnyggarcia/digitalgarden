@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-and-fear/","created":"2024-06-28T12:58:11.000-04:00","updated":"2024-05-20T12:34:24.000-04:00"}
+{"dg-publish":true,"permalink":"/art-and-fear/","created":"2024-06-28T12:58:11.000-04:00","updated":"2025-04-20T21:04:25.419-04:00"}
 ---
 
 

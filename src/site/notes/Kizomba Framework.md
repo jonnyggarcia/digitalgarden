@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-05-28T16:53:59.301-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-07-23T14:51:52.526-04:00"}
 ---
 
 
-[[Kizomba Framework - Diagrans.canvas|Kizomba Framework - Diagrams]]
+[[Kizomba Framework - Diagram.canvas|Kizomba Framework - Diagrams]]
 
 # Framework
 
@@ -21,7 +21,7 @@ In general, Kizomba is a circular dance. However, many steps are executed in sho
 
 # Position
 
-![ART - DANCE - KIZOMBA - POSITION.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20POSITION.png)
+![ART - DANCE - KIZOMBA - FRAMEWORK - POSITION.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20FRAMEWORK%20-%20POSITION.png)
 
 The basic position in Kizomba is the **embrace**, where the lead and follower face each other in a friendly, close hold. They can also be positioned **side by side**, facing the same direction or facing opposite directions.
 
@@ -33,7 +33,7 @@ Finally, there are a few movements in which the lead and follower are **almost e
 
 # Locomotion
 
-![ART - DANCE - KIZOMBA - LOCOMOTION.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20LOCOMOTION.png)
+![ART - DANCE - KIZOMBA - FRAMEWORK - LOCOMOTION.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20FRAMEWORK%20-%20LOCOMOTION.png)
 
 Kizomba is known as a walking dance. In this framework, movement—or the absence of it—is referred to as **locomotion**.
 
@@ -41,168 +41,104 @@ From the lead’s perspective, movement can occur **forward and backward** (alon
 
 Lastly, the **absence of movement** is also part of this framework. **Stops**, such as in the movement **Marca**, are often used to **change direction** or to **establish connection** with the partner.
 
-# Body Tools
+# Angle Step
 
-The lead communicates with the follower primarily through touch, using different parts of the body. Below is a list of the body parts used to communicate, roughly in order of importance. Some of these parts share equal relevance depending on the context. This should not be confused with the **connection points** between the lead and the follower.
+![ART - DANCE - KIZOMBA - FRAMEWORK - ANGLE.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20FRAMEWORK%20-%20ANGLE.png)
 
-1. Chest
-2. Right Hand
-3. Right Arm
-4. Thighs
-5. Eyes
-6. Knee
-7. Left hand
-8. Feet
-9. Head
+The angle step causes one of the partners to change direction. It can be performed connected with a partner, as in Vírgula, or disconnected as in the Rule of 3 or Woman Saída with opening.
 
-Each body tool can perform different **actions**, each producing different results. The same action, when executed with a different body part, can lead to a completely different outcome. Below is a list of the actions used in the leading process.
+Since an angle step creates a new Cartesian plane for movement, there are three possible directions that can be taken after the angle step: forward, backward, and sideways.
 
-- Angle
-- Crossing
-- Disconnection
-- Elevation (upward and downward)
-- Locomotion (horizontal and vertical)
-- Observe
-- Pressure
-- Pull
-- Steadiness
-- Stepping
+When leads perform an angled step, it can shift the follower either forward, backward or sideways. A 90-degree Vírgula results in a backward angled step for the follower, whereas a 90-degree Estrela creates a forward angled step.
 
-The following diagrams present each of the **body tools** (in green), the possible **actions** (in yellow), and the resulting effect from the **follower’s perspective** (in red).
+From the lead’s perspective, a left forward angle—like in a 90-degree vírgula—is performed by pivoting the chest and stepping forward with the left leg. A backward left angle is similarly executed by stepping back with the left leg while pivoting the chest. However, there is a second way to perform a forward left angle, which involves stepping forward with the right foot. Due to the body’s configuration, it is not possible to perform a backward left angle while stepping with the right leg.
 
-## Chest
+**Connected Backward Angle (follower)**
 
-![ART - DANCE - KIZOMBA - BODY TOOL - CHEST.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20CHEST.png)
+In order for the lead to perform a forward angled step from his perspective—like a vírgula, which results in a backward angled step for the follower—he needs to pivot his chest. This pivot creates pressure against the follower’s chest, prompting her to pivot as well. The steadiness of the right arm is essential for the follower to perceive the angled step, as it creates lateral pressure against her left ribs.
 
-**Horizontal locomotion** (horizontal locomotion) causes the follower to also move horizontally (side step), as they are actively engaging with the lead’s chest.
+**Connected Forward Angle (follower)**
 
-**Pressure**
-- **Backward Locomotion**: When the lead moves forward, the chest applies gentle pressure against the follower’s chest. This creates a signal for the follower to step backward, maintaining the chest-to-chest connection.
-- **Stop**: When the lead walks backward and stops (marca), the follower’s forward momentum causes their torso to press against the lead’s chest. This increased chest pressure serves as a signal to the follower to stop their movement.
+A forward angled step for the follower is a backward angled step for the lead. The Estrela is one of the fundamental movements that uses this angle. Because the angle is to the right, the lead needs to use their right fingers to apply pressure against the follower’s body. Combined with a steady right arm, this allows the follower to perceive the angled step when the lead pivots their chest. Since the angled step is backward from the lead’s perspective, it creates a slight chest disconnection, which is mitigated by the steadiness of the right arm. This arm pressure also helps draw the follower forward.
 
-**Angle**
-- **Dissociation**: The follower’s hips remain aligned forward while the chest angles toward the lead, creating a twist in the upper body. This prepares the follower for redirection without immediately moving the base.
-- **Pivot**: Because the follower is actively connected to the lead’s chest, when the lead pivots, it causes the follower to pivot as well. This is commonly used to initiate turns or transitions between planes.
-- **Circular Motion**: Maintaining a slight, sustained angle while moving can lead the follower into a circular trajectory, as seen in patterns like Corridinho.
+**Disconnected Forward Angle (follower)**
 
-**Disconnection**: When the lead moves away from the follower, it creates a moment of disconnection. However, because the follower is actively “chasing” the lead’s chest, they will move forward to reestablish connection.
+This angle can be seen when leads perform the Passeio. It is created by applying finger pressure with the lead’s right hand against the follower’s right ribs, combined with an opening of the right arm. Alternatively, it can also be accomplished by pressing against the left side of the follower’s body using the base of the lead’s right arm in a hinge-like motion.
 
-**Elevation**: the upward or downward movement of the torso—causes a corresponding movement in the follower’s body.
+Another interesting way to perform this angled step is through the use of the lead’s thigh. This can be seen in the Rule of 3, where the lead stays in place, or when performing the Woman Saída with an opening. Instead of using the hands, the lead uses their thigh against the follower’s thigh to create a redirection in movement by applying pressure.
 
-## Right Hand
+**Disconnected Backward Angle (follower)**
 
-![ART - DANCE - KIZOMBA - BODY TOOL - RIGHT HAND.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20RIGHT%20HAND.png)
+This pivot is less organic because we don’t naturally tend to walk backward. You can see this in the Rule of 3, starting with the follower walking backward. The angled step is caused by the lead opening their right arm and moving their hand toward their own chest. This can be enhanced by adding pressure with the right fingers. This motion causes the lead’s right arm to apply pressure to the follower’s chest, which helps indicate the direction. The same effect can be achieved by using the base of the right hand to push against the follower’s ribs.
 
-The right hand is divides in three parts: **Fingers**, **Palm**, and **Base**. Each part, through the application of pressure, can lead to distinct follower responses.
+# Modules
 
-**Fingers**
+## [[Kizomba Framework - Fundamentals\|Fundamentals]]
 
-When the fingers apply **pressure**, they can trigger a variety of follower responses:
+The module Fundamentals focus on teaching how to walk together with a partner in a smooth, connected manner. There is an intense focus on the follower’s physical listening skills. The techniques of this module include:
 
-- **Vertical locomotion**: prompting the follower to step forward or backward when applied against the follower’s ribs from a side-to-side position.
-- **Horizontal locomotion**: encouraging side-to-side movement.
-- **Stop**: signalling a pause, a hold in movement, or a change in direction.
-- **Unbalance**: momentarily disrupting the follower’s equilibrium, often used to initiate dips or dynamic transitions.
+- Chest leading
+- Thigh leading
+- Frame
+- Intensity of motion
+- Right arm leading
 
-**Palm**
+With these techniques, the following motions should be achieved:
 
-When pressure is applied using the **palm**, it tends to produce:
+- Horizonta locomotion
+- Vertical locomotion
+- Circular locomotion
+- Reverse direction
+- Angled steps
 
-- **Forward locomotion**: inviting the follower to step forward.
-- **Stop**: signalling a halt in motion.
+## Strides
 
-**Base**
+Once walking together effortlessly is mastered, the Strides module teaches how to perform various connected walking patterns as well as disconnected walks. The techniques covered in this module include:
 
-The **base** of the hand (closer to the wrist) communicates through pressure to generate:
+- Contratempo
+- Disconnected angles
+- Entries
+- Exits
+- Transition Steps
 
-- **Angle**: introducing a directional change, often used to open the follower 90 degrees.
-- **Horizontal locomotion**: side-to-side movement, similar to the fingers but often used with a broader contact.
+With these techniques, the following motions should be achieved:
 
-## Right Arm
+- Side Opening
+- Salute
+- Tic Tac
+- Retrocessos
+- Rules of 3
+- Diagonals
+- Entradas
+- Saídas
 
-![ART - DANCE - KIZOMBA - BODY TOOKS - RIGHT ARM.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOKS%20-%20RIGHT%20ARM.png)
+## Turns
 
-**Pressure**
+## Displacement
 
-When the right arm applies **pressure**, it can lead to:
-
-- **Stop**: communicates a pause, a hold in movement, or a change in direction.
-- **Forward locomotion** – encourages the follower to walk forward.
-- **Horizontal locomotion** – prompts side-to-side movement.
-- **Syncopation** – introduces rhythmic variation, often used to lead musical accents or off-beat steps.
-
-**Steadiness**
-
-By maintaining a consistent and steady position, the right arm helps establish and reinforce **Chest connection**, creating a strong point of contact between the partners’ upper bodies, which enhances responsiveness and control.
-
-**Elevation**
-
-When the right arm slightly **lifts**, it can lead to **Leg raises**. The follower to lift a leg, typically used in stylized movements or embellishments.
-
-## Thigh
-
-![ART - DANCE - KIZOMBA - BODY TOOL - THIGH.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20THIGH.png)
-
-**Pressure**
-
-When the lead uses the **thigh to apply pressure**, it can prompt the following follower actions:
-
-- **Backward locomotion**: the follower steps back, initiated through forward thigh pressure.
-- **Horizontal locomotion** – a side-to-side step triggered by lateral thigh contact.
-- **Stop**: halts movement, used to signal a pause or reset.
-
-**Elevation**
-
-When the right arm slightly **lifts**, it can lead to **Leg raises**. The follower to lift a leg, typically used in stylized movements or embellishments.
-
-## Eyes
-
-![ART - DANCE - KIZOMBA - BODY TOOLS - EYES.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOLS%20-%20EYES.png)
-
-By observing their partner, they can synchronize their movements. For the follower in particular, **visual observation** is essential to mirror the lead’s chest and respond accordingly, especially when physical contact is minimal or the connection point shifts.
-
-## Knee
-
-![ART - DANCE - KIZOMBA - BODY TOOL - KNEE.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20KNEE.png)
-
-Leads can use their knee to create elevation by lifting the follower’s leg.
-
-## Left Hand
-
-![ART - DANCE - KIZOMBA - BODY TOOL - LEFT HAND.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20LEFT%20HAND.png)
-
-**Crossing The Body**
-
-- When the lead's **left hand crosses the follower’s body**, it usually signals a **rotation in the frame**, often leading to a **turn** for the follower.
-
-**Pressure**
-
-- **Stop**: A firm or anchored pressure communicates a pause, halting movement or preparing for a change in direction.
-- **Locomotion**: Can guide the follower into horizontal (side step) or vertical (forward/backward) movement.
-
-**Pull**
-
-- **Forward locomotion**: A subtle pull with the left hand encourages the follower to step forward.
-- **Horizontal locomotion**: A sideward pull indicates a lateral movement, inviting the follower to step to the side.
-
-## Feet
-
-![ART - DANCE - KIZOMBA - BODY TOOL - FEET.png](/img/user/MEDIA/ART%20-%20DANCE%20-%20KIZOMBA%20-%20BODY%20TOOL%20-%20FEET.png)
-
-**Stepping**
-
-- When the **lead steps**, it initiates a **weight transfer**, prompting the follower to shift their weight in response. This is the foundational mechanism for initiating movement and timing in Kizomba.
-
-**Pressure**
-
-- **Horizontal locomotion**: The lead’s feet can subtly guide or nudge the follower’s feet from side to side, influencing lateral steps.
-- **Stop**: A firm or anchored pressure communicates a pause, halting movement or preparing for a change in direction.
+## Figures
 
 # Steps
 
 Traditionally, dance is taught using fundamental steps that embed various techniques within them. While effective, this approach can lead to the memorization of steps as rigid structures. The goal here is to **identify the technical components** behind each movement, so dancers can understand what causes a desired effect. This awareness can lead to **clearer, more intentional, and creative leading**, allowing dancers to break free from pre-established patterns.
 
 A single dance step involves multiple techniques executed simultaneously through different body tools. By understanding the specific effects each body tool has on the follower, leads can enhance the clarity of their signals—making the dance more enjoyable, fluid, and easier for followers to interpret.
+
+## Summary
+
+- Estrela 90: FWD, Counter right angle backwards, BWD
+- Estrela 180:
+- Entrada Backwards
+- Entrada Forwards
+- Entrada Bloqueio
+- Saída da Mulher
+- Saída do Homem
+- Retrocesso
+- Retrocesso Forward
+- Diagonais
+- Regra de 3
+- Espiral
+- Passarela
 
 ## Basic 2
 
@@ -259,7 +195,7 @@ A single dance step involves multiple techniques executed simultaneously through
 *Moving Forward*: Same as Basic 3 moving forwards.
 
 *Pivoting*:
-- *Chest - Angle:* When the lead pivot's it causes the follower to also pivot.
+- *Chest - Angle (counter right backward angle):* When the lead pivot's it causes the follower to also pivot.
 - *Right Arm - Steadiness:* Keeping the leads right hand in place will cause the followers to also pivot and maintain the chest connection.
 
 *Moving back*: Same as Basic 3 moving backwards.
@@ -274,7 +210,7 @@ A single dance step involves multiple techniques executed simultaneously through
 **Body Tools Involved**
 
 *Pivoting*:
-- *Chest - Angle:* When the lead pivot's it causes the follower to also pivot.
+- *Chest - Angle (forward left angle):* When the lead pivot's it causes the follower to also pivot.
 - *Right Arm - Steadiness:* Keeping the leads right hand in place will cause the followers to also pivot and maintain the chest connection.
 
 *Closing*: Same as Basic 2 moving to the right.
@@ -284,14 +220,14 @@ A single dance step involves multiple techniques executed simultaneously through
 **Step Overview**
 
 - **Position:** Embrace
-- **Locomotion:** Backward, Rotation, Rightward
+- **Locomotion:** Angle, Horizontal locomotion with contratempo
 
 **Body Tools Involved**
 
 Consider the weight is already on the leads left leg.
 
 *Pivoting*
-- *Chest - Angle:* When the lead pivot's it causes the follower to also pivot.
+- *Chest - Angle (counter backward right angle):* When the lead pivot's it causes the follower to also pivot.
 - *Right Arm - Steadiness:* Keeping the leads right hand in place will cause the followers to also pivot and maintain the chest connection.
 
 *Contratempo*
