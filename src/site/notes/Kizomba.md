@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-06-17T15:25:35.941-04:00"}
+{"dg-publish":true,"permalink":"/kizomba/","created":"2024-06-28T12:55:26.000-04:00","updated":"2025-07-23T16:45:21.529-04:00"}
 ---
 
 
-Kizomba is a partner dance and music genre that originated in Angola in the 1980s, blending traditional Angolan rhythms like Semba with Caribbean influences such as Zouk. Known for its smooth, organic movements and close connection between partners, Kizomba is often referred to as a “walking dance” that prioritizes musicality and creativity, making it both expressive and emotionally engaging.
+# Blurb
 
-Jonny Garcia is a multidisciplinary artist engaged in various mediums such as visual arts, dance, mime, hypnosis, and circus. In his home country, he was a professional Hip Hop dancer and spent several years exploring Contact Improv dance. Nowadays, he dedicates his time to learning and teaching Kizomba while fostering a strong sense of community around it.
+Kizomba is a partner dance and music genre that originated in Angola in the 1980s, blending traditional Angolan rhythms like Semba with Caribbean influences such as Zouk. Known for its smooth, organic movements and close connection between partners, Kizomba is often referred to as a “walking dance” that prioritizes musicality and creativity, making it both expressive and emotionally engaging.
 
 # Curriculum
 
@@ -32,6 +32,5 @@ Jonny Garcia is a multidisciplinary artist engaged in various mediums such as vi
 - [[Kizomba Disciplines\|Kizomba Disciplines]]
 - [[Learning how to Dance\|Learning how to Dance]]
 - [[Kizomba Exercises\|Kizomba Exercises]]
-- [[Kizomba Classes\|Kizomba Classes]]
 - [[Kizomba Framework\|Kizomba Framework]]
 - [[Artist Mentality\|Artist Mentality]]
