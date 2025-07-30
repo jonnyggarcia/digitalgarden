@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-chocolat/","tags":["c/2025","c/dance","c/kizomba","c/tarraxinha","c/woman","c/body","c/hand","c/red","c/purple","c/abstract"],"created":"2025-02-01T12:17:09.895-05:00","updated":"2025-02-01T12:20:22.894-05:00"}
+{"dg-publish":true,"permalink":"/collage-chocolat/","tags":["c/2025","c/dance","c/kizomba","c/tarraxinha","c/woman","c/body","c/hand","c/red","c/purple","c/abstract"],"created":"2025-02-01T12:17:09.895-05:00","updated":"2025-05-30T18:19:29.424-04:00"}
 ---
 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5DlEHbXTtsbmbRjcrv4xL8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Context: New forms of connection while dancing. Tarraxinha.
 

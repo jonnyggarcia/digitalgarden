@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-meio-giro/","tags":["kizomba/step"],"created":"2024-10-02T11:55:05.126-04:00","updated":"2025-01-28T12:16:46.277-05:00"}
+{"dg-publish":true,"permalink":"/kiz-meio-giro/","tags":["kizomba/step"],"created":"2024-10-02T11:55:05.126-04:00","updated":"2025-06-05T09:17:11.218-04:00"}
 ---
 
 

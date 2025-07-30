@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-triangulo/","tags":["kizomba/step"],"created":"2024-09-16T14:47:26.825-04:00","updated":"2025-01-28T12:14:58.124-05:00"}
+{"dg-publish":true,"permalink":"/kiz-triangulo/","tags":["kizomba/step"],"created":"2024-09-16T14:47:26.825-04:00","updated":"2025-06-05T09:17:11.463-04:00"}
 ---
 
 

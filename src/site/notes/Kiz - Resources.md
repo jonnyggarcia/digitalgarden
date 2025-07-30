@@ -1,31 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2025-01-24T11:58:33.327-05:00"}
+{"dg-publish":true,"permalink":"/kiz-resources/","created":"2024-09-16T18:52:41.084-04:00","updated":"2025-07-25T16:12:13.217-04:00"}
 ---
 
 
 # Notes
 
-- [[Kiz - People\|People]]
+- [[Students\|Students]]
 - [[Kiz - Progression\|Progression]]
 - [[Kiz - Classes\|Classes]]
 - [[Kiz - Group Class\|Kiz - Group Class]]
 - [[Kiz - Videos\|Videos]]
-- [[Kiz - Fundamental\|Kiz - Fundamental]]
 - [[Kiz in the Six - 2024\|Kiz in the Six - 2024]]
+- [[Kizo fest - 2025\|Kizo fest - 2025]]
 - [[Kiz - Follower's Curriculum\|Follower's Curriculum]]
-- [[Article - Desiring Connection\|Article - Desiring Connection]]
-
-**Dancing on the voice x beat**
-
-![[KIZOMBA - EDDY VENTS - DANCING ON THE VOICE.mp4]]
+- [[Kizomba Teaching Program\|Kizomba Teaching Program]]
+- [[Helio Santos - Origins of Kizomba\|Helio Santos - Origins of Kizomba]]
+- [[Eddy Vents\|Eddy Vents]]
 
 # Articles
 
-[[Clippings/Kizomba, It’s Not On 1 Or On 2, It’s On You!\|Kizomba, It’s Not On 1 Or On 2, It’s On You!]]
-
-[[Clippings/Honing different dance skills Part I Kizomba\|Honing different dance skills Part I Kizomba]]
-
-[[Article - Desiring Connection\|Article - Desiring Connection]]
+- [[Clippings/Kizomba, It’s Not On 1 Or On 2, It’s On You!\|Kizomba, It’s Not On 1 Or On 2, It’s On You!]]
+- [[Clippings/Honing different dance skills Part I Kizomba\|Honing different dance skills Part I Kizomba]]
+- [[Article - Desiring Connection\|Article - Desiring Connection]]
 
 # Steps
 
@@ -38,6 +34,13 @@
 
 # Caminhadas
 
+- V
+	- Position: left side to side opposite
+	- Locomotion:
+		- Diagonally FWD
+		- 200 turn to the left
+		- Diagonally *FWD*
+		- It comes from diamond
 - Passo Junto
 	- [Passo junto com volta](https://youtu.be/2lN9WdCBDhM?si=5cIlJ3IlJKNwHav7&t=81)
 	- [passo junto vai e vem](https://youtu.be/QEusAbNaQ-0?si=phpxZJZ56Yf7Ra1_)
@@ -45,7 +48,12 @@
 	- ==[Passo Junto com Aconchego Frontal](https://youtu.be/_c8h1PGvQ60?si=6ZCIpuZLVpGyhos6)==
 	- ==[Passo Junto com Abertura lateral](https://youtu.be/2o20Rpt5mo8?si=X7LrR_RmPvOQAeGH)==
 	- [Passo Junto com Caminhada](https://youtu.be/4t5-b-grUt0?si=tVFvofv2DUhX96sJ&t=7)
-- [tic tac com passada](https://youtu.be/K0ipnPYU5Oc?si=uoajoi1H70OZfS9S)
+- Passo Curto
+	- position: embrace
+	- contratempo no local
+	- contratempo while moving FWD
+	- also know as stutter s
+- [tic tac alternado](https://youtu.be/K0ipnPYU5Oc?si=uoajoi1H70OZfS9S)
 - [Saídas Referencia](https://youtu.be/GxeaaQzvdT8?si=hYJ-Fk4iawheMSRZ&t=966)
 - [Casamento](https://youtu.be/GxeaaQzvdT8?si=1n4lIMzpOniNQ5DA&t=562)
 - [Casamento 2](https://youtu.be/GxeaaQzvdT8?si=8VAIxmM-mWzK9WXI&t=640)
@@ -63,21 +71,22 @@
 		- [Drill 4](https://youtu.be/qzsj4ShqJXM?si=JbN_jInK8FF13gi3&t=456): Lead fwd while follower bwd
 		- Drill 5: drill 3, change to drill 4
 - ☑ [Pedágio](https://youtu.be/aprZyUIE72o?si=WG1148bXqXeTycBj) (CD16)
-- ==[Tesoura](https://youtu.be/PMlEG0Ph9_A?si=pZubu33VAnLa_f7F)
+- ==[Passo X from rule of 3](https://youtu.be/PMlEG0Ph9_A?si=pZubu33VAnLa_f7F)
 - [Fila da Volta da Homem](https://youtu.be/hlL1kVzQYcs?si=bEFkmqDBJuy7wr0B&t=11) (CF06)
-- [Cruzada Atrás na fila](https://youtu.be/TFwvBwwXDLM?si=9p7moEBtEH-PN4Wt) (CF07)
+- [Cruzada Atrás vai e vem em fila](https://youtu.be/TFwvBwwXDLM?si=9p7moEBtEH-PN4Wt) (CF07)
 - [Diagonal Girada](https://youtu.be/_ywWUsvzAiA?si=YirqUV8-MpuLbC1T&t=10)
 - ==[Fila da Saudação Reversa](https://youtu.be/ZTLQSm2-tB0?si=rQdSCx8eSFtGj7In)==
-- [Deslize Cego](https://youtu.be/ZexYrlsttsQ?si=aS7in2ETmS2hGzEC)
-- ☑ Deslize cego 2 (LI03)
+- [Cruzada Cego](https://youtu.be/ZexYrlsttsQ?si=aS7in2ETmS2hGzEC)
+- ☑ Cruzada cega 2 (LI03)
 	- [Saída do homem](https://youtu.be/lTSwYZBqSow?si=k8cqQODDR6b2-Urh&t=89)
 - ==[Giro Refinado](https://youtu.be/7qn-bYYcKFs?si=oIw8DrDAQhIo2NoC)
-- ==[Bambole](https://youtu.be/eNN3tjgi5yU?si=PW7utef7TZ_qO-qj)==: Woman Saída com Abertura + Woman Saída com Abertura
+- ==[Bambole](https://youtu.be/eNN3tjgi5yU?si=PW7utef7TZ_qO-qj)==: Órbita + Órbita
 - ☑ [Passeio Fila](https://youtu.be/EL2LZ5hcWRc?si=9W7qgro4RZKfxkMz) (CS01)
 - ☑ [Passarela Fila](https://youtu.be/7TVNeoGtltU?si=dgUn0uIzqrpoEuM1&t=7) (CS02)
 - ☑ [Fila Cruzada](https://youtu.be/V88h5Dibl3s?si=4WYFqS7MoH1TlBgg) (CS04)
 - ☑ ==[Fila com Giro](https://youtu.be/V0BJM4QR_OM?si=lUROSxMiSJUBlyMG)== (CS05)
 - ☑ ==[Rolo](https://youtu.be/Pl_cgRpcfeE?si=4JIU3zXIW2PWlla2)== (GC21)
+	- [Woman Saída](https://youtu.be/2lN9WdCBDhM?si=ssMLqeqqQMfSISn9)
 - ==[Desfile em Fila](https://youtu.be/pYbazYtN2sQ?si=aUUKlt06QW8zwE6i)==
 
 ## Giros
@@ -87,8 +96,6 @@
 	- [video](https://youtu.be/wT1i3pMbgSM?si=0UdP1XDozyoSK5Is)
 	- [video](https://youtu.be/hD5dBWb4q-k?si=m_BjX0HT_A98slja)
 - ☑ Rolo (GC21)
-	- [video](https://youtu.be/2lN9WdCBDhM?si=ssMLqeqqQMfSISn9)
-- ==[Giro do Quadril](https://youtu.be/mgmirxlADvk?si=QDuXKneHLF2abGJg&t=23) ==(from man saída)
 
 ## Deslocamentos
 
@@ -118,6 +125,9 @@
 - ☑ [Caranguejo Vai e Volta](https://youtu.be/1CSYFfFPHVs?si=PQMya-_1K4T0h514) - 405
 - [Tropeço com Giro](https://youtu.be/xUpCX6tw1KQ?si=Dhdb_gF7jVDz-WYy&t=32) (LT05)
 - [Levantada Basico 3](https://youtu.be/Z1oJC4Q6vvY?si=GLhbGhQbj0aISkcj) (LR01)
+- [[Kiz - Regresso\|Regresso]]
+	- [Bloqueio com mão](https://youtu.be/LbsuGe5DRiU?si=PTfs4Od8n-7aVDNq&t=1102)
+- [Cortada](https://youtu.be/LbsuGe5DRiU?si=VATyD1H81IMp0vsr&t=1126)
 
 ## Figuras
 
@@ -125,3 +135,47 @@
 - ==Morceguinho==
 - ==Super==
 - Titanique
+- [Rasteira](https://youtube.com/shorts/Zd20ENso_mU?si=12aAeve2XxDHeB7W)
+
+# Rico
+
+- passo cruzado
+- passo marcado
+- desvagar
+- plataforma
+- sanga sussa
+- virgulão
+
+# Dasmara
+
+- Twist
+
+# Mario
+
+- Passo lento
+
+# Eddy Vents
+
+- Passo marcado
+- V
+
+# Manon
+
+- [Circulo](https://www.instagram.com/reel/DESY8qzMysX/?igsh=a2ZydGFvdnd6Y3pp)
+- Desvagar
+- Passo X
+- Passarela Reversa (phone)
+- Virada
+
+# Dr Kizomba
+
+- Enceradeira
+
+# Ben Pedrosa
+
+- Cortada
+
+# Carlos
+
+- Girassol - kizofest 2025
+- Radial - kizo 2025

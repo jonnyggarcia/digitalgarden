@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-diagonais/","tags":["kizomba/step"],"created":"2024-09-18T17:37:39.879-04:00","updated":"2025-01-28T12:15:45.102-05:00"}
+{"dg-publish":true,"permalink":"/kiz-diagonais/","tags":["kizomba/step"],"created":"2024-09-18T17:37:39.879-04:00","updated":"2025-06-05T09:17:11.035-04:00"}
 ---
 
 

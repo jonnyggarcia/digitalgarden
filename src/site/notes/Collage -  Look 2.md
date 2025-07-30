@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-look-2/","tags":["c/hand","c/man","c/bw","c/faceless","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:04.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-look-2/","tags":["c/hand","c/man","c/bw","c/faceless","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-04-07T12:03:53.725-04:00"}
 ---
 
 

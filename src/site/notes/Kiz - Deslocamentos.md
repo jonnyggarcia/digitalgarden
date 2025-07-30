@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2025-03-01T12:50:15.034-05:00"}
+{"dg-publish":true,"permalink":"/kiz-deslocamentos/","created":"2024-09-19T15:34:00.951-04:00","updated":"2025-07-23T17:29:57.742-04:00"}
 ---
 
 
 **Definitions**
-- *Levantadas* means leg raising or leg fishing.
 - *Deslizes* means to slide the feet.
-- *Arrastada* means to push the follower forward.
-- *Puxadas* means to pull the follower in.
+- *Levantadas* means leg raising or leg fishing.
 - *Rasteiras* means to perform a quick traverse move while the follower is in the air.
+- *Puxadas* means to pull the follower in.
 - *Bloqueio* means the woman is stopped and remain in place until the lead provide a new signal.
 
 # Deslizes (DD)
@@ -24,10 +23,10 @@
 | [[Kiz - Caranguejo\|Caranguejo]]                     | DD06        | 501    |
 | [[Kiz - Caranguejo\|Caranguejo]] Vai e Vem           | DD06+CC01   | 501    |
 | [[Kiz - Deslize Duplo\|Deslize Duplo]]               | DD07        | 902    |
-| [[Kiz - Deslize Cego\|Deslize Cego]]                 | DD08        | 803    |
+| [[Kiz - Cruzada Cega\|Deslize Cego]]                 | DD08        | 803    |
 | [[Kiz - Cruzada Dupla\|Cruzada Dupla]]               | DD09        |        |
 | ==[[Kiz - Cuzada Vai e Vem\|Cuzada Vai e Vem]]==     | DD10        |        |
-|                                                      |             |        |
+| Cuzada com Gancho                                    |             |        |
 
 # Levantadas (DL)
 
@@ -41,6 +40,10 @@
 | [[Kiz - Levantada Dupla\|Levantada Dupla]]                         | DL06 |        |
 | [[Kiz - Levantada Cega\|Levantada Cega]]                           | DL07 |        |
 | [[Kiz - Levantada da Mão\|Levantada da Mão]]                       | DL08 |        |
+| Levantada com Calcanhar                                            | DL09 |        |
+| Levantada com Chute                                                |      |        |
+| Corte. Retrocesso                                                  |      |        |
+| Corte.Carrossel                                                    |      |        |
 
 # Rasteiras (DR)
 
@@ -66,3 +69,5 @@
 | [[Kiz - Balance Bloqueado\|Balance Bloqueado]]               | DB01 |        |
 | [[Kiz - Bloqueio do Passeio\|Bloqueio do Passeio]]           | DB02 |        |
 | [[Kiz - Woman Saída com Bloqueio\|Woman Saída com Bloqueio]] | DB03 |        |
+| Bloqueio com Perna                                           |      |        |
+

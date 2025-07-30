@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2025-03-06T13:13:45.627-05:00"}
+{"dg-publish":true,"permalink":"/kiz-figuras/","created":"2024-09-19T15:17:43.260-04:00","updated":"2025-07-25T15:58:33.094-04:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 | [[Kiz - Cadeirinha\|Cadeirinha]]                       | FC02 | 501    |
 | [[Kiz - Cadeirinha Elegante\|Cadeirinha Elegante]]     | FC03 |        |
 | [[Kiz - Cadeirinha Lateral\|Cadeirinha Lateral]]       | FC04 |        |
+| Cadeirinha Alavanca                                    |      |        |
 | [[Kiz - Aconchego Regular\|Aconchego Regular]]         | FC05 | 503    |
 | [[Kiz - Aconchego Paralelo\|Aconchego Paralelo]]       | FC06 | 504    |
 | [[Kiz - Aconchego Frontal\|Aconchego Frontal]]         | FC07 | 504    |
@@ -22,13 +23,23 @@
 | ==[[Kiz - Titanique\|Titanique]]==                     | FC11 |        |
 | ==[[Kiz - Agachada\|Agachada]]==                       | FC12 |        |
 | ==[[Kiz - Chave de Perna\|Chave de Perna]]==           |      |        |
-| ==[[Kiz - Estátua\|Estátua]]==                         |      |        |
-|                                                        |      |        |
+| Estátua                                                |      |        |
+| Espacate                                               |      |        |
+| Bunda                                                  |      |        |
+| Carrossel com arremesso                                |      |        |
+| Desvagar                                               |      |        |
+| Joelhinho                                              |      |        |
+| Círculo                                                |      |        |
+| Eceradeira                                             |      |        |
 
 # Aerial Figures (FA)
 
 | STEP                                                 | CODE | LESSON |
 | ---------------------------------------------------- | ---- | ------ |
-| [[Kiz - Astronauta\|Astronauta]]                     | FA01 | 403    |
+| Astronauta                                           | FA01 | 403    |
 | [[Kiz - Cadeirinha Flutuante\|Cadeirinha Flutuante]] | FA02 | 702    |
 | [[Kiz - Elevador\|Elevador]]                         | FA03 | 901    |
+| Aranha                                               |      |        |
+| Aranha.Cruzada                                       |      |        |
+| Aranha.Girada                                        |      |        |
+| Queda                                                |      |        |

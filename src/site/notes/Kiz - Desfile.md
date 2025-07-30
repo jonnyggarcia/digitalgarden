@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-desfile/","tags":["kizomba/step"],"created":"2024-10-03T13:46:16.902-04:00","updated":"2025-01-28T12:18:27.990-05:00"}
+{"dg-publish":true,"permalink":"/kiz-desfile/","tags":["kizomba/step"],"created":"2024-10-03T13:46:16.902-04:00","updated":"2025-06-05T09:17:10.973-04:00"}
 ---
 
 

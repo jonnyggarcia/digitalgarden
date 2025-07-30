@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cold-hands/","tags":["c/hand","c/blue","c/woman","c/naked","c/cold","c/tatoo","c/question-mark","c/2023","c/printed"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:11.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-cold-hands/","tags":["c/hand","c/blue","c/woman","c/naked","c/cold","c/tatoo","c/question-mark","c/2023","c/printed","c/MM"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-06-09T22:27:25.192-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-passeio/","tags":["kizomba/step"],"created":"2024-09-17T13:34:32.098-04:00","updated":"2025-01-28T12:15:27.844-05:00"}
+{"dg-publish":true,"permalink":"/kiz-passeio/","tags":["kizomba/step"],"created":"2024-09-17T13:34:32.098-04:00","updated":"2025-06-05T09:17:11.269-04:00"}
 ---
 
 

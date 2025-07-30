@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-abertura-lateral/","tags":["kizomba/step"],"created":"2024-09-16T15:40:55.694-04:00","updated":"2025-01-28T12:14:15.524-05:00"}
+{"dg-publish":true,"permalink":"/kiz-abertura-lateral/","tags":["kizomba/step"],"created":"2024-09-16T15:40:55.694-04:00","updated":"2025-06-05T09:17:10.424-04:00"}
 ---
 
 

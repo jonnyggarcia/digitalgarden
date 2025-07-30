@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-aconchego-paralelo/","tags":["kizomba/step","todo"],"created":"2025-01-28T11:53:31.189-05:00","updated":"2025-01-29T15:16:29.862-05:00"}
+{"dg-publish":true,"permalink":"/kiz-aconchego-paralelo/","tags":["kizomba/step","todo"],"created":"2025-01-28T11:53:31.189-05:00","updated":"2025-06-05T09:17:10.458-04:00"}
 ---
 
 

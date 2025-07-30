@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-saudacao/","tags":["kizomba/step"],"created":"2024-09-16T15:48:23.346-04:00","updated":"2025-01-28T12:14:20.739-05:00"}
+{"dg-publish":true,"permalink":"/kiz-saudacao/","tags":["kizomba/step"],"created":"2024-09-16T15:48:23.346-04:00","updated":"2025-06-05T09:17:11.416-04:00"}
 ---
 
 
@@ -12,6 +12,9 @@ The lead indicates the movement to the follower with a gentle push from the left
 **Variation**
 
 When moving toward the partner, you can turn 180 degrees to face away from your partner. Then, reverse the direction as you open. The lead can signal the follower by moving their left hand to the left before the follower step forward.
+
+Saudação com Pé
+- Use the right leg to hook the followers left knee and pull forward
 
 *Keys elements of the move*
 - The lead should give a clear intention to the follower, allowing them to step back. Then, the lead should gently pull the follower in.

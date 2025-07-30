@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-finta/","tags":["kizomba/step","todo"],"created":"2025-01-29T14:44:14.670-05:00","updated":"2025-01-29T14:44:26.489-05:00"}
+{"dg-publish":true,"permalink":"/kiz-finta/","tags":["kizomba/step","todo"],"created":"2025-01-29T14:44:14.670-05:00","updated":"2025-06-05T09:17:11.105-04:00"}
 ---
 
 

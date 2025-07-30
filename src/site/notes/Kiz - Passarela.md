@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-passarela/","tags":["kizomba/step"],"created":"2024-10-03T13:47:23.771-04:00","updated":"2025-01-28T12:17:38.192-05:00"}
+{"dg-publish":true,"permalink":"/kiz-passarela/","tags":["kizomba/step"],"created":"2024-10-03T13:47:23.771-04:00","updated":"2025-07-25T15:34:37.912-04:00"}
 ---
 
-
-[Video](https://youtu.be/BfYTWOXdlsc)
 
 **Passarela** (catwalk, runway) is a left turn for the follower, starting with a left step to the left. It can be performed at any moment when the follower’s weight is on their right leg. The most common way to perform this turn is from Regra de 3.
 
@@ -33,7 +31,7 @@ While the follower is performing the turn, the lead can release the left hand an
 **Variation**
 - Conduzida (GC13-Z)
 
-**Difference between Passarela and [[Kiz - Espiral\|Espiral]]**
+**Difference between Passarela and Espiral**
 - in Passarela the Lead generates momentum for the turn by turning their torso to the right.
 - In Espiral, the Lead generates momentum by use the close action of passeio with their fingertips
 

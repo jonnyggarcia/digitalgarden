@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-deslize-duplo/","tags":["kizomba/step","todo"],"created":"2025-01-29T15:11:35.634-05:00","updated":"2025-01-29T15:11:46.045-05:00"}
+{"dg-publish":true,"permalink":"/kiz-deslize-duplo/","tags":["kizomba/step","todo"],"created":"2025-01-29T15:11:35.634-05:00","updated":"2025-06-05T09:17:10.979-04:00"}
 ---
 
 

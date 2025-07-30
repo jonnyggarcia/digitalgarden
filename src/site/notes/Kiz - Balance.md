@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-balance/","tags":["kizomba/step"],"created":"2024-09-16T18:24:25.536-04:00","updated":"2025-01-28T12:14:34.636-05:00"}
+{"dg-publish":true,"permalink":"/kiz-balance/","tags":["kizomba/step"],"created":"2024-09-16T18:24:25.536-04:00","updated":"2025-06-05T09:17:10.554-04:00"}
 ---
 
 
