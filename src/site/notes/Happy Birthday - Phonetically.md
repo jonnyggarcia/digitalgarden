@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/happy-birthday-phonetically/","created":"2025-08-09T10:14:34.797-04:00","updated":"2025-08-09T10:15:34.169-04:00"}
+{"dg-publish":true,"permalink":"/happy-birthday-phonetically/","created":"2025-08-09T10:14:34.797-04:00","updated":"2025-08-09T10:19:05.454-04:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 4. MOO-ee-tohs    AH-nohs    jee    VEE-dah!
 
-
+---
 
 5. Pah-rah-benz    prah    voh-SEH,
 
@@ -21,7 +21,7 @@
 
 8. MOO-ee-tohs    AH-nohs    jee    VEE-dah!
 
-
+---
 
 9. **JONNY ONLY: E para o Jonny Nada?**
 
@@ -29,7 +29,7 @@
 
 11. **JONNY ONLY: Então como que é?**
 
-
+---
 
 12. Eh    PEE-kee!    Eh    PEE-kee!
 
