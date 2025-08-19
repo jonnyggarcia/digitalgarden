@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/collage-apathetic/","tags":["c/2025","c/series","c/series-feel","c/face","c/man","c/hand","c/abstract","c/blue","c/purple"],"created":"2025-07-23T09:13:49.389-04:00","updated":"2025-07-23T09:15:53.080-04:00"}
+{"dg-publish":true,"permalink":"/collage-apathetic/","tags":["c/2025","c/series","c/series-feel","c/face","c/man","c/hand","c/abstract","c/colour-blue","c/colour-purple"],"created":"2025-07-23T09:13:49.389-04:00","updated":"2025-08-19T17:04:11.429-04:00"}
 ---
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4epqlAEGLle0M3SAqsMnJw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Context: Part of the series [[Collage Series#Feel\|Feel]].
+
+<iframe src="https://www.instagram.com/p/DMbt9LJRXi8/media?size=l" height= 1500  width=3900></iframe>
 
 **[Apathetic](https://www.instagram.com/p/DMbt9LJRXi8/?utm_source=ig_web_copy_link)**: Lack enthusiasm or interest.
 
