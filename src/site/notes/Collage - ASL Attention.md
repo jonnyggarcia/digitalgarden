@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-attention/","tags":["c/asl","c/deaf","c/woman","c/finger","c/lamp","c/light-bulb","c/wall","c/crack","c/blue","c/light","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-asl-attention/","tags":["c/asl","c/deaf","c/woman","c/finger","c/lamp","c/light-bulb","c/wall","c/crack","c/colour-blue","c/light","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T08:49:36.030-04:00"}
 ---
 
 

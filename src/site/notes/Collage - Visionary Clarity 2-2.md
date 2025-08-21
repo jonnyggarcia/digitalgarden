@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-visionary-clarity-2-2/","tags":["c/vase","c/bw","c/flat-background","c/window","c/shape","c/CK","c/2021","c/analog"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:44.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-visionary-clarity-2-2/","tags":["c/vase","c/bw","c/flat-background","c/window","c/shape","c/N-CK","c/2021","c/analog"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T08:32:09.963-04:00"}
 ---
 
 

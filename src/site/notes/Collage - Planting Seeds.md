@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-planting-seeds/","tags":["c/analog","c/boy","c/girl","c/spiral","c/letters","c/flat-background","c/red","c/black","c/beje","c/CK","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:37.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-planting-seeds/","tags":["c/analog","c/boy","c/girl","c/spiral","c/letters","c/flat-background","c/colour-red","c/colour-black","c/colour-beje","c/N-CK","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T08:49:54.842-04:00"}
 ---
 
 

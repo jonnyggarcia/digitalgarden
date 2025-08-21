@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bare-skin/","tags":["c/truco","c/man","c/rose","c/naked","c/number","c/CK","c/2020"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:09.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-bare-skin/","tags":["c/truco","c/man","c/rose","c/naked","c/number","c/N-CK","c/2020"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T08:32:09.856-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-para-life/","tags":["c/paper","c/letters","c/paramedics","c/basement","c/out-of-air","c/life-line","c/line","c/distillary-district","c/flat-background","c/EF","c/MY","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:37.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-para-life/","tags":["c/paper","c/letters","c/paramedics","c/basement","c/out-of-air","c/life-line","c/line","c/distillary-district","c/flat-background","c/N-EF","c/N-MY","c/2019"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T08:34:10.517-04:00"}
 ---
 
 

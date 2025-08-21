@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-woman-saida/","tags":["kizomba/step"],"created":"2024-09-18T12:34:54.067-04:00","updated":"2025-06-05T09:17:11.534-04:00"}
+{"dg-publish":true,"permalink":"/kiz-woman-saida/","tags":["kizomba/step"],"created":"2024-09-18T12:34:54.067-04:00","updated":"2025-08-19T18:29:48.366-04:00"}
 ---
 
 
@@ -45,7 +45,6 @@ Code: CD05
 # Woman Saída with Opening
 
 Code: CD29
-#todo
 
 # Variation
 

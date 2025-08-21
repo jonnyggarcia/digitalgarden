@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-give/","tags":["c/cibc","c/yellow","c/red","c/gold","c/dots","c/2019","c/white","c/line"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:29.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-give/","tags":["c/cibc","c/colour-yellow","c/colour-red","c/colour-gold","c/dots","c/2019","c/colour-white","c/line"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-18T18:10:44.311-04:00"}
 ---
 
 

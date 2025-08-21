@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-l-c-p/","tags":["c/RS","c/woman","c/circle","c/abstract","c/division","c/purple","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:33.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-l-c-p/","tags":["c/N-RS","c/woman","c/circle","c/abstract","c/division","c/colour-purple","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T09:30:02.686-04:00"}
 ---
 
 

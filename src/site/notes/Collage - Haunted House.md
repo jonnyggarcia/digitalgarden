@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-haunted-house/","tags":["c/red","c/stairs","c/cibc","c/2019","c/yellow","c/line","c/white"],"created":"2024-06-28T12:55:28.000-04:00","updated":"2024-04-15T12:04:29.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-haunted-house/","tags":["c/colour-red","c/stairs","c/cibc","c/2019","c/colour-yellow","c/line","c/colour-white"],"created":"2024-06-28T12:55:28.000-04:00","updated":"2025-08-01T08:38:34.264-04:00"}
 ---
 
 

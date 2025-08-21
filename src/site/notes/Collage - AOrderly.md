@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-a-orderly/","tags":["c/2024","c/white","c/AR","c/leaf","c/plant","c/woman","c/face","c/wood","c/fence","c/yellow","c/blue","c/book"],"created":"2024-06-28T12:55:27.000-04:00","updated":"2024-04-23T12:15:06.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-a-orderly/","tags":["c/2024","c/colour-white","c/N-AR","c/leaf","c/plant","c/woman","c/face","c/wood","c/fence","c/colour-yellow","c/colour-blue","c/book"],"created":"2024-06-28T12:55:27.000-04:00","updated":"2025-08-01T08:49:36.027-04:00"}
 ---
 
 

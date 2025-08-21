@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-it-must-stop/","tags":["c/racism","c/negraxa","c/sign","c/man","c/black-person","c/yellow","c/blue","c/red","c/2020"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:33.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-it-must-stop/","tags":["c/racism","c/sign","c/man","c/black-person","c/colour-yellow","c/colour-blue","c/colour-red","c/2020"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T08:49:36.384-04:00"}
 ---
 
 

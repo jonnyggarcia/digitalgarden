@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asas/","tags":["c/forro","c/Falamansa","c/woman","c/faceless","c/abstract","c/moon","c/light-bulb","c/jump","c/2022"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:08.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-asas/","tags":["c/forro","c/artist-Falamansa","c/woman","c/faceless","c/abstract","c/moon","c/light-bulb","c/jump","c/2022","c/perspective"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-18T18:13:12.120-04:00"}
 ---
 
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6n0sloOeyIH1E8gp17giea?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 [Asas](https://www.instagram.com/p/CgSTNy8OkgG/)
 
-Inspired by: [Asas by Falamansa](https://youtu.be/ms6NLRIZCMk?si=a708QRQ8z9ihnhfX)
+Inspired by: Asas by Falamansa
 
 ![](https://youtu.be/ms6NLRIZCMk?si=a708QRQ8z9ihnhfX)
 

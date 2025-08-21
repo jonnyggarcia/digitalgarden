@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-isolation/","tags":["c/analog","c/abstract","c/red","c/blue","c/fromage","c/rain","c/green","c/2019"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2024-04-15T12:04:32.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-isolation/","tags":["c/analog","c/abstract","c/colour-red","c/colour-blue","c/fromage","c/rain","c/colour-green","c/2019"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-08-01T08:49:36.380-04:00"}
 ---
 
 

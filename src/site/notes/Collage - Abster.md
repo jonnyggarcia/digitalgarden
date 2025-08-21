@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-abster/","tags":["c/woman","c/faceless","c/abstract","c/red","c/blue","c/LK","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-abster/","tags":["c/woman","c/faceless","c/abstract","c/colour-red","c/colour-blue","c/N-LK","c/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T08:49:36.037-04:00"}
 ---
 
 

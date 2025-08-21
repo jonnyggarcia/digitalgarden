@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-into-the-arms/","tags":["c/abstract","c/pink","c/statue","c/angel","c/man","c/upsidedown","c/CK","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:32.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-into-the-arms/","tags":["c/abstract","c/colour-pink","c/statue","c/angel","c/man","c/upsidedown","c/N-CK","c/2020","c/perspective"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-18T18:08:33.662-04:00"}
 ---
 
 

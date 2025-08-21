@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-your-number/","tags":["c/woman","c/purple","c/number","c/fireworks","c/clock","c/CK","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:46.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-your-number/","tags":["c/woman","c/colour-purple","c/number","c/fireworks","c/clock","c/N-CK","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T09:30:03.079-04:00"}
 ---
 
 

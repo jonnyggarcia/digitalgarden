@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-after/","tags":["c/elder","c/man","c/age","c/purple","c/chair","c/candle","c/time","c/hourglass","c/paris-collage","c/2019","c/senior"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-after/","tags":["c/elder","c/man","c/age","c/colour-purple","c/chair","c/candle","c/time","c/hourglass","c/paris-collage","c/2019","c/senior"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T09:30:02.413-04:00"}
 ---
 
 

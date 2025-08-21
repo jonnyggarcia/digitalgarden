@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-oraner/","tags":["c/woman","c/tatoo","c/number","c/red","c/purple","c/line","c/pattern","c/LK","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:37.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-oraner/","tags":["c/woman","c/tatoo","c/number","c/colour-red","c/colour-purple","c/line","c/pattern","c/N-LK","c/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T09:30:02.841-04:00"}
 ---
 
 

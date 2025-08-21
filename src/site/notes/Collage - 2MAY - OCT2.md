@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-may-oct-2/","tags":["c/N-IG","c/N-CG","c/key","c/flat-background","c/colour-white","c/N-jonny","c/series-self","c/series","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-21T16:06:29.121-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-may-oct-2/","tags":["c/N-IG","c/N-CG","c/key","c/flat-background","c/colour-white","c/N-jonny","c/series-self","c/series","c/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-21T16:18:08.962-04:00"}
 ---
 
 

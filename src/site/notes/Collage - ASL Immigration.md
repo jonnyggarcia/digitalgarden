@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-immigration/","tags":["c/hand","c/beje","c/uncollage","c/yellow","c/2019","c/asl"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:07.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-asl-immigration/","tags":["c/hand","c/colour-beje","c/uncollage","c/colour-yellow","c/2019","c/asl"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-01T08:49:54.806-04:00"}
 ---
 
 

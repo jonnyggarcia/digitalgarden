@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-snake-eyes/","tags":["c/woman","c/hand","c/flower","c/red","s/snake","c/animal","c/face","c/rose","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2024-04-15T12:04:40.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-snake-eyes/","tags":["c/woman","c/hand","c/flower","c/colour-red","s/snake","c/animal","c/face","c/rose","c/2020"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-01T08:38:34.822-04:00"}
 ---
 
 

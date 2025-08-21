@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-07-23T17:32:22.911-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-08-19T15:23:19.989-04:00"}
 ---
 
 
@@ -46,6 +46,7 @@ Lastly, the **absence of movement** is also part of this framework. **Stops**, s
 This framework is divided into five modules:
 
 - **Fundamentals**: Learning how to walk together.
+- **Disconnections:** Learning how guide disconnected steps.
 - **Strides**: Essential walking patterns.
 - **Turns**: Patterns involving turns and spins.
 - **Displacements**: Advanced patterns that involve footwork.
@@ -69,26 +70,36 @@ With these techniques, the following motions should be achieved:
 - Reverse direction
 - Angled steps
 
+## Disconnections
+
+The Disconnections module teaches how to work with a partner when they are not in the embrace position. The techniques in this module include:
+
+- Guiding the follower around the lead.
+- The lead moving around the follower.
+- Line exit.
+- Line entry.
+
+Using these techniques, the following movements can be achieved:
+
+- Disconnected Walks.
+- Entradas.
+- Saídas.
+
 ## Strides
 
 Once walking together effortlessly is mastered, the Strides module teaches how to perform various connected walking patterns as well as disconnected walks. The techniques covered in this module include:
 
 - Contratempo
-- Disconnected angles
-- Entries
-- Exits
 - Transition Steps
+- Passadas
+- Tempo Play
 
 With these techniques, the following motions should be achieved:
 
-- Side Opening
-- Salute
-- Tic Tac
-- Retrocessos
-- Rules of 3
+- Retrocesso
 - Diagonals
-- Entradas
-- Saídas
+- Orbit
+- V walk
 
 ## Turns
 
