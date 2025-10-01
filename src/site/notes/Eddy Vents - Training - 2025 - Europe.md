@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-09-30T16:47:04.341-04:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-01T17:06:34.006-04:00"}
 ---
 
 
@@ -10,6 +10,7 @@ Bellow you can find the links for all videos and materials part of this course.
 - [SP_Level 1_Eddy-Vents-Teacher-Training-Course_Updated MARCH 2022.pptx](https://1drv.ms/p/c/a28fc125b5d771bc/ESVOxdFf2TtEjurfSeVFO-cBNkkhaTRBjJ9an4Z8lLMxMQ?e=FeTIcD)
 - [Level 1_Eddy-Vents-Teacher-Training-Course_Updated MARCH 2022.pptx](https://1drv.ms/p/c/a28fc125b5d771bc/Ebtbd2xW7KtIvc453M30l3cBBHAS2NRIvikh9iU6vEktBw?e=99eeTS)
 - [[Clippings/Kizomba Bloom's Taxonomy\|Kizomba Bloom's Taxonomy]]
+- [Question about ESTRELA](https://1drv.ms/v/c/a28fc125b5d771bc/EXWgQT56tC1IiBYgkEGNoL0BssuuDt_8R5xHBwsXUV8NVA?e=CpKPl1)
 
 ## Dance Demos
 
@@ -53,3 +54,9 @@ Bellow you can find the links for all videos and materials part of this course.
 
 - [Zoom meeting](https://1drv.ms/v/c/a28fc125b5d771bc/EcKIEgXeMQZBvsVP6DZYvBoBoNAobCKV8T1kPJAtd5epLQ?e=aSk0o0)
 - [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/EZT1Un-WOvRNhpBezC9D7gQBrJIT9NeNU-CJ7Obrf6twAQ?e=jpnhIb)
+
+## 5th Meeting - October 1, 2025
+
+- [Zoom Before](https://1drv.ms/v/c/a28fc125b5d771bc/EdWB-ZytFPdPitPLvrBh8AEBMz812wEY23Om3zaYpUbxVQ?e=E9ie8z)
+- [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/Eau7XRnjATRDqU7PNPTEwGwBCAWBPiINwnZNa32OEuStng?e=kgaoUg)
+- [Zoom After](https://1drv.ms/v/c/a28fc125b5d771bc/EcdnoRMRfhJDio7rGJSBJIsBXCni3jIlNkY81NePm__7dA?e=ukBxt1)
