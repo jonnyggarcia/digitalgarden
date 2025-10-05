@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2024-04-15T12:04:46.000-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-24T12:42:52.432-04:00"}
 ---
+
 
 Welcome to my place on the internet. Here you will find what I like, dislike, personal reflections, my ART, my games and etc. Please reach out to me on [Instagram](https://www.instagram.com/art.by.jonny/) or jonnyggarcia@gmail.com
 
@@ -16,7 +17,8 @@ Welcome to my place on the internet. Here you will find what I like, dislike, pe
 
 [[Who am I\|Who am I]]
 
-![jonnyggarcia.jpg|400](/img/user/MEDIA/jonnyggarcia.jpg)
+![ART - COLLAGE - 2FEB2, 2022, Self, Jonny Garcia.jpg|400](/img/user/MEDIA/ART%20-%20COLLAGE%20-%202FEB2,%202022,%20Self,%20Jonny%20Garcia.jpg)
+
 ```
 2FEB2, 2022, Self, Jonny Garcia
 ```
