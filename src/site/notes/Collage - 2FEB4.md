@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-feb-4/","tags":["c/2024","c/series-self","c/series","c/N-jonny","c/leaf","c/colour-red","c/abstract","c/colour-white","c/colour-purple","c/card","c/PR","c/line","c/canada"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-21T16:18:21.950-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-feb-4/","tags":["collage/year-2024","c/N/jonny","c/leaf","c/colour-red","c/abstract","c/colour-white","c/colour-purple","c/card","c/PR","c/line","c/place/canada","collage/series/self","collage/book/emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-09-03T15:44:49.067-04:00"}
 ---
 
 

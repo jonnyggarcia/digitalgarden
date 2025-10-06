@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-07-23T09:16:22.328-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-09-30T14:54:12.452-04:00"}
 ---
 
+
+# Ephemeral
+
+- [[Collage - Photography\|Collage - Photography]]
+- [[Collage - Never Again\|Collage - Never Again]]
 
 # Feel
 
@@ -41,20 +46,21 @@
 
 # Self
 
+- [[Collage - 2MAY4\|Collage - 2MAY4]]
 - [[Collage - 2JUN5\|Collage - 2JUN5]]
 - [[Collage - 2APR4\|Collage - 2APR4]]
-- [[Collage - 2MAR4-2\|Collage - 2MAR4-2]]
-- [[Collage - 2MAR4-1\|Collage - 2MAR4-1]]
+- [[Collage - 2MAR4 - II\|Collage - 2MAR4 - II]]
+- [[Collage - 2MAR4\|Collage - 2MAR4]]
 - [[Collage - 2FEB4\|Collage - 2FEB4]]
 - [[Collage - 2AUG3\|Collage - 2AUG3]]
 - [[Collage - 2JUL3\|Collage - 2JUL3]]
 - [[Collage - 2JUN3\|Collage - 2JUN3]]
 - [[Collage - 2MAR3\|Collage - 2MAR3]]
-- [[Collage - 2AUG2 B\|Collage - 2AUG2 B]]
+- [[Collage - 2AUG2 - II\|Collage - 2AUG2 - II]]
 - [[Collage - 2AUG2\|Collage - 2AUG2]]
 - [[Collage - 2MAY - OCT2\|Collage - 2MAY - OCT2]]
 - [[Collage - 2MAY2\|Collage - 2MAY2]]
-- [[Collage - 2FEB2 B\|Collage - 2FEB2 B]]
+- [[Collage - 2FEB2 - II\|Collage - 2FEB2 - II]]
 - [[Collage - 2FEB2\|Collage - 2FEB2]]
 - [[Collage - 2NOV1\|Collage - 2NOV1]]
 - [[Collage - 2AUG1\|Collage - 2AUG1]]
@@ -96,10 +102,33 @@
 - [[Collage - Amei Te Ver\|Collage - Amei Te Ver]]
 - [[Collage - Bem Querer\|Collage - Bem Querer]]
 
-# Portraits
+# Depictions
 
 - [[Collage - MVision\|Collage - MVision]]
 - [[Collage - LImagine\|Collage - LImagine]]
 - [[Collage - JDeterminanion\|Collage - JDeterminanion]]
 - [[Collage - FChallenge\|Collage - FChallenge]]
 - [[Collage - AOrderly\|Collage - AOrderly]]
+
+# Corporeal Gestures
+
+[[Corporeal Gestures\|Corporeal Gestures]]
+
+- [[Collage - Aging\|Collage - Aging]]
+- [[Collage - Breathing\|Collage - Breathing]]
+- [[Collage - Communication\|Collage - Communication]]
+- [[Collage - Discharging Waste\|Collage - Discharging Waste]]
+- [[Collage - Dying\|Collage - Dying]]
+- [[Collage - Nourishing\|Collage - Nourishing]]
+- [[Collage - Procreating\|Collage - Procreating]]
+- [[Collage - Resisting the Earth's Pull\|Collage - Resisting the Earth's Pull]]
+- [[Collage - Sleeping\|Collage - Sleeping]]
+
+# Collage Books
+
+- [[Collage - Book 2020\|Collage - Book 2020]]
+- [[Collage - Book 2021\|Collage - Book 2021]]
+- [[Collage - Book 2022\|Collage - Book 2022]]
+- [[Collage - Book 2023\|Collage - Book 2023]]
+- [[Collage - Book 2024\|Collage - Book 2024]]
+- [[Collage - Book 2025\|Collage - Book 2025]]

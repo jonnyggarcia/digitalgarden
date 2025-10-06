@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-aconchego-regular/","tags":["kizomba/step","todo"],"created":"2025-01-28T11:50:37.304-05:00","updated":"2025-06-05T09:17:10.474-04:00"}
+{"dg-publish":true,"permalink":"/kiz-aconchego-regular/","tags":["kizomba/step"],"created":"2025-01-28T11:50:37.304-05:00","updated":"2025-08-28T14:05:04.297-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clippings/kizomba-bloom-s-taxonomy/","tags":["kizomba","eddy-vents"],"created":"2025-09-30T13:59:20.856-04:00","updated":"2025-09-30T14:28:29.558-04:00"}
+{"dg-publish":true,"permalink":"/clippings/kizomba-bloom-s-taxonomy/","tags":["kizomba","eddy-vents"],"created":"2025-09-30T13:59:20.856-04:00","updated":"2025-09-30T14:28:35.715-04:00"}
 ---
 
 

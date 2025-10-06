@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-01-09T13:16:04.000-05:00"}
+{"dg-publish":true,"permalink":"/who-am-i/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-22T00:52:22.591-04:00"}
 ---
 
 
 ![Jonny Garcia.jpeg|200](/img/user/MEDIA/Jonny%20Garcia.jpeg)
 
 *Name*: Jonny Garcia
-*Born*: 1986
 *Where*: Hamilton, ON, CA
 *Nationality*: Brasilian (yes with S!)
 

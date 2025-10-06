@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-argument/","tags":["c/2025","c/man","c/face","c/stairs","c/knot","c/colour-yellow","c/colour-black","c/abstract","c/colour-red","c/colour-purple","c/blurry"],"created":"2025-06-09T22:19:55.381-04:00","updated":"2025-08-21T14:18:01.796-04:00"}
+{"dg-publish":true,"permalink":"/collage-argument/","tags":["collage/year-2025","c/man","c/face","c/stairs","c/knot","c/colour-yellow","c/colour-black","c/abstract","c/colour-red","c/colour-purple","c/blurry","collage/book/2025"],"created":"2025-06-09T22:19:55.381-04:00","updated":"2025-08-26T11:20:43.270-04:00"}
 ---
 
 

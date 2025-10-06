@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-01-27T11:15:37.000-05:00"}
+{"dg-publish":true,"permalink":"/atomic-habits/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-24T12:31:04.309-04:00"}
 ---
 
 
@@ -276,7 +276,7 @@ When I visited Tokyo in 2019, I attended a Collage Exhibition called the Miracle
 Work, 2019, Jonny Garcia
 ```
 
-![ART COLLAGE - Bler, 2021, digital, Jonny Garcia.jpg|400](/img/user/MEDIA/ART%20COLLAGE%20-%20Bler,%202021,%20digital,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Bler, 2021, Jonny Garcia.jpg|400](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Bler,%202021,%20Jonny%20Garcia.jpg)
 
 ```
 Bler, 2021, Jonny Garcia

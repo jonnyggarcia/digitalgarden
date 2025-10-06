@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-or/","tags":["c/2025","c/letters","c/neon","c/ready","c/or","c/open","c/not","c/colour-red","c/woman","c/faceless","c/boobs","c/heart","c/colour-white","c/N-CL","c/word"],"created":"2025-04-28T23:06:26.304-04:00","updated":"2025-08-21T14:03:44.898-04:00"}
+{"dg-publish":true,"permalink":"/collage-or/","tags":["collage/year-2025","c/letters","c/neon","c/ready","c/or","c/open","c/not","c/colour-red","c/woman","c/faceless","c/boobs","c/heart","c/colour-white","c/N/CL","c/word"],"created":"2025-04-28T23:06:26.304-04:00","updated":"2025-08-23T10:25:27.393-04:00"}
 ---
 
 

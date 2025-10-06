@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kiz-caranguejo/","tags":["kizomba/step","todo"],"created":"2025-01-28T11:31:08.448-05:00","updated":"2025-06-05T09:17:10.674-04:00"}
+{"dg-publish":true,"permalink":"/kiz-caranguejo/","tags":["kizomba/step"],"created":"2025-01-28T11:31:08.448-05:00","updated":"2025-08-28T14:05:20.626-04:00"}
 ---
 
 

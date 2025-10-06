@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-00-formation-00/","tags":["c/series-self","c/N-jonny","c/kungfu","c/light-bulb","c/psychoanlysis","c/colour-yellow","c/shirtless","c/series","c/2019","c/remake"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-21T16:15:14.946-04:00"}
+{"dg-publish":true,"permalink":"/collage-00-formation-00/","tags":["c/N/jonny","c/kungfu","c/light-bulb","c/psychoanlysis","c/colour-yellow","collage/year-2019","c/remake","collage/series/self"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-27T16:09:41.574-04:00"}
 ---
 
 
