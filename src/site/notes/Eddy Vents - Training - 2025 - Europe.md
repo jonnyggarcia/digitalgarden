@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-05T13:08:57.190-04:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-16T21:27:02.380-04:00"}
 ---
 
 
@@ -61,3 +61,8 @@ Bellow you can find the links for all videos and materials part of this course.
 - [Zoom Before](https://1drv.ms/v/c/a28fc125b5d771bc/EdWB-ZytFPdPitPLvrBh8AEBMz812wEY23Om3zaYpUbxVQ?e=E9ie8z)
 - [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/Eau7XRnjATRDqU7PNPTEwGwBCAWBPiINwnZNa32OEuStng?e=kgaoUg)
 - [Zoom After](https://1drv.ms/v/c/a28fc125b5d771bc/EcdnoRMRfhJDio7rGJSBJIsBXCni3jIlNkY81NePm__7dA?e=ukBxt1)
+
+## 6th Meeting - October 15, 2025
+
+- [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/EQammvl6rthPpGKOZvbEzRkBGtiV_pDGKo4XW1yP3JsVVw?e=P5f3vf)
+- [Zoom](https://1drv.ms/v/c/a28fc125b5d771bc/ERSaT_cX_GRPj8cx1Y_iyQUB-KfpvJJ8chvwF9xsD06MRQ?e=ovmJ1b)
