@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-16T21:27:02.380-04:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-23T11:05:25.143-04:00"}
 ---
 
 
@@ -10,6 +10,7 @@ Bellow you can find the links for all videos and materials part of this course.
 - [SP_Level 1_Eddy-Vents-Teacher-Training-Course_Updated MARCH 2022.pptx](https://1drv.ms/p/c/a28fc125b5d771bc/ESVOxdFf2TtEjurfSeVFO-cBNkkhaTRBjJ9an4Z8lLMxMQ?e=FeTIcD)
 - [Level 1_Eddy-Vents-Teacher-Training-Course_Updated MARCH 2022.pptx](https://1drv.ms/p/c/a28fc125b5d771bc/Ebtbd2xW7KtIvc453M30l3cBBHAS2NRIvikh9iU6vEktBw?e=99eeTS)
 - [[Clippings/Kizomba Bloom's Taxonomy\|Kizomba Bloom's Taxonomy]]
+- [Teaching Dance A Comprehensive Guide by EddyVents_251007_074335.pdf](https://1drv.ms/b/c/a28fc125b5d771bc/EdEFzhLXbeVHvbumeqy0eaMBPrqer2RBDtOJGyVihQhL8Q?e=1PSM0X)
 - [Compasso Clarification Video](https://1drv.ms/v/c/a28fc125b5d771bc/EXWgQT56tC1IiBYgkEGNoL0BssuuDt_8R5xHBwsXUV8NVA?e=CpKPl1)
 - [[Plena\|Plena]]
 
@@ -66,3 +67,8 @@ Bellow you can find the links for all videos and materials part of this course.
 
 - [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/EQammvl6rthPpGKOZvbEzRkBGtiV_pDGKo4XW1yP3JsVVw?e=P5f3vf)
 - [Zoom](https://1drv.ms/v/c/a28fc125b5d771bc/ERSaT_cX_GRPj8cx1Y_iyQUB-KfpvJJ8chvwF9xsD06MRQ?e=ovmJ1b)
+
+## 7th Meeting - October 22, 2025
+
+- [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/EXSjq3ovrjdHik0hr2e7B4EBK02lXJyMieIdvLyuFWyIVA?e=pXbJb1)
+- [Zoom](https://1drv.ms/v/c/a28fc125b5d771bc/ESLX0c52f3hOpvtyxn1bZM8Bv5vSSt6tpMmPqarrMS0rQQ?e=qr1afx)
