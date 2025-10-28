@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-09-30T14:54:12.452-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-10-27T18:04:11.257-04:00"}
 ---
 
 
 # Ephemeral
+
+[[Series - Ephemeral\|Series - Ephemeral]]
 
 - [[Collage - Photography\|Collage - Photography]]
 - [[Collage - Never Again\|Collage - Never Again]]
 
 # Feel
 
-![ART - COLLAGE - SERIES - FEEL - TABLE.png](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20SERIES%20-%20FEEL%20-%20TABLE.png)
+[[Series - Feel\|Series - Feel]]
 
 **Reds**
 - [[Collage - Enraged\|Collage - Enraged]]
@@ -23,6 +25,12 @@
 - [[Collage - Irate\|Collage - Irate]]
 - [[Collage - Overwhelmed\|Collage - Overwhelmed]]
 - [[Collage - Stressed\|Collage - Stressed]]
+- [[Collage - Annoyed\|Collage - Annoyed]]
+- [[Collage - Pressured\|Collage - Pressured]]
+- [[Collage - Furious\|Collage - Furious]]
+- [[Collage - Frightened\|Collage - Frightened]]
+- [[Collage - Anxious\|Collage - Anxious]]
+- [[Collage - Apprehensive\|Collage - Apprehensive]]
 
 **Blues**
 - [[Collage - Forlorn\|Collage - Forlorn]]
@@ -30,6 +38,10 @@
 
 # Emigration
 
+[[Series - Emigration\|Series - Emigration]]
+
+- [[Collage - 2FEB4\|Collage - 2FEB4]]
+- [[Collage - Passport\|Collage - Passport]]
 - [[Collage -  Sociability\|Collage -  Sociability]]
 - [[Collage - Citizen\|Collage - Citizen]]
 - [[Collage - Culture Embrace\|Collage - Culture Embrace]]
@@ -46,8 +58,14 @@
 
 # Self
 
-- [[Collage - 2MAY4\|Collage - 2MAY4]]
+to make:
+
+- Exhibition
+
+[[Series - Self\|Series - Self]]
+
 - [[Collage - 2JUN5\|Collage - 2JUN5]]
+- [[Collage - 2MAY4\|Collage - 2MAY4]]
 - [[Collage - 2APR4\|Collage - 2APR4]]
 - [[Collage - 2MAR4 - II\|Collage - 2MAR4 - II]]
 - [[Collage - 2MAR4\|Collage - 2MAR4]]
@@ -80,6 +98,8 @@
 
 # Songs
 
+[[Series - Songs\|Series - Songs]]
+
 - [[Collage - Você não me ensinou a te esquecer\|Collage - Você não me ensinou a te esquecer]]
 - [[Collage - Trem das Onze\|Collage - Trem das Onze]]
 - [[Collage - Tear\|Collage - Tear]]
@@ -104,6 +124,8 @@
 
 # Depictions
 
+[[Series - Depctions\|Series - Depctions]]
+
 - [[Collage - MVision\|Collage - MVision]]
 - [[Collage - LImagine\|Collage - LImagine]]
 - [[Collage - JDeterminanion\|Collage - JDeterminanion]]
@@ -112,7 +134,7 @@
 
 # Corporeal Gestures
 
-[[Corporeal Gestures\|Corporeal Gestures]]
+[[Series - Corporeal Gestures\|Series - Corporeal Gestures]]
 
 - [[Collage - Aging\|Collage - Aging]]
 - [[Collage - Breathing\|Collage - Breathing]]

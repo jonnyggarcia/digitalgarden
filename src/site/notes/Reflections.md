@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reflections/","created":"2024-06-28T12:56:50.000-04:00","updated":"2024-05-14T12:40:19.000-04:00"}
+{"dg-publish":true,"permalink":"/reflections/","created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-24T12:26:23.827-04:00"}
 ---
 
 # Art
@@ -18,7 +18,8 @@
 
 [[Art & Fear\|Art & Fear]]
 
-![Mystery.jpg|400](/img/user/MEDIA/Mystery.jpg)
+![ART - COLLAGE - Mystery, 2021, Jonny Garcia.jpg|400](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Mystery,%202021,%20Jonny%20Garcia.jpg)
+
 ```
 Mystery, 2021, Jonny Garcia
 ```

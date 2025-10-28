@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/limbo/","tags":["LARP"],"created":"2025-10-21T09:16:39.461-04:00","updated":"2025-10-24T20:37:55.758-04:00"}
+{"dg-publish":true,"permalink":"/limbo/","tags":["LARP"],"created":"2025-10-21T09:16:39.461-04:00","updated":"2025-10-28T10:55:14.108-04:00"}
 ---
 
 
@@ -56,6 +56,7 @@ The larp takes place in the realm of Limbo, betwixt and between life and death. 
 - [x] Personal objects
 
 [[Limbo - Cheat Sheet\|Limbo - Cheat Sheet]]
+
 # Artefacts
 
 - [[LARP - LIMBO - Making yourself different.pdf]]
@@ -75,6 +76,12 @@ The larp takes place in the realm of Limbo, betwixt and between life and death. 
 	- [End Song](https://open.spotify.com/track/5l9HSVU3wOuZmrXFEs2alL?si=984656cb071f4afe)
 - [[LIMBO - intro\|LIMBO - intro]]
 - [[LIMBO - Host's Speech\|LIMBO - Host's Speech]]
+
+# Reports
+
+- https://jonnyggarcia.wordpress.com/2014/12/08/larp-limbo/
+- [[Report - Larp Limbo\|Report - Larp Limbo]]
+
 # Schedule
 
 10:00 – Novelo de lã (15 min)
