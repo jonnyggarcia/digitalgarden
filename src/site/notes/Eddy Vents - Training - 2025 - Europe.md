@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-10-23T11:05:25.143-04:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-11-02T10:55:16.291-05:00"}
 ---
 
 
@@ -72,3 +72,13 @@ Bellow you can find the links for all videos and materials part of this course.
 
 - [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/EXSjq3ovrjdHik0hr2e7B4EBK02lXJyMieIdvLyuFWyIVA?e=pXbJb1)
 - [Zoom](https://1drv.ms/v/c/a28fc125b5d771bc/ESLX0c52f3hOpvtyxn1bZM8Bv5vSSt6tpMmPqarrMS0rQQ?e=qr1afx)
+
+## 8th Meeting - October 30, 2025
+
+- [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/ERrrzazg_MFPj3kejGdc4cABHb9oQUZg_gbUKYT8Kymmfw?e=14vTTf)
+- [Zoom](https://1drv.ms/v/c/a28fc125b5d771bc/EaTWEQmZ501PmkxITfwVMqUB2q9g9x9b1kg7e7OxX9-fQA?e=9XNPrY)
+
+**Music Links**
+- [Zouk](https://www.youtube.com/playlist?list=PLJBn-1z9-b6wDVvSSZ03Ew4sAEBueXyHj)
+- [Zouk Chiré](https://www.youtube.com/playlist?list=PLJBn-1z9-b6x4L3VPEJ7gzRun3m8VhHIP)
+- [Zouk Love](https://www.youtube.com/playlist?list=PLJBn-1z9-b6x_rzMlUh43ChA1Qbau9UML)
