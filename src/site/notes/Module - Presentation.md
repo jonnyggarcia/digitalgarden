@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-presentation/","created":"2024-06-28T12:56:46.000-04:00","updated":"2024-01-25T15:18:57.000-05:00"}
+{"dg-publish":true,"permalink":"/module-presentation/","created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-24T18:54:42.782-04:00"}
 ---
 
 
@@ -12,17 +12,19 @@ In our final meeting, you are invited to make a short 3-5 minute presentation of
 Identify six images that represent different areas of your practice:
 
 - Play & Research
-![Red Moon, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/Red%20Moon,%202021,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Red Moon, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Red%20Moon,%202021,%20Jonny%20Garcia.jpg)
 - Process
-![Asas, 2022, Jonny Garcia.jpg|200](/img/user/MEDIA/Asas,%202022,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Asas, Songs, 2022, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Asas,%20Songs,%202022,%20Jonny%20Garcia.jpg)
 - Making
-![Mystery, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/Mystery,%202021,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Mystery, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Mystery,%202021,%20Jonny%20Garcia.jpg)
+
 - Finishing
-![ART COLLAGE - Bler, 2021, digital, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20COLLAGE%20-%20Bler,%202021,%20digital,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Bler, 2021, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Bler,%202021,%20Jonny%20Garcia.jpg)
 - Diffusion
-![ART - COLLAGE - Trem das Onze by Adoniram Barbosa, 2022, Songs, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Trem%20das%20Onze%20by%20Adoniram%20Barbosa,%202022,%20Songs,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Trem das Onze, 2022, Songs, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Trem%20das%20Onze,%202022,%20Songs,%20Jonny%20Garcia.jpg)
 - Impact & Engagement
-![Hollow, 2022, Jonny Garcia.jpg|200](/img/user/MEDIA/Hollow,%202022,%20Jonny%20Garcia.jpg)
+
+![ART - COLLAGE - Hollow, 2022, Jonny Garcia.jpg|200](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Hollow,%202022,%20Jonny%20Garcia.jpg)
 
 These images may be artwork or photographs.
 
@@ -49,7 +51,7 @@ Identify 1-2 ideas that explain each of the different areas of your practice. Wr
 	- I maintain a well-organized inventory of all my artworks.
 	- I have name patterns for collages associated with projects.
 	- Describe each element with hashtags
-	- Easy search 
+	- Easy search
 	- Print: they have vital information on the back.
 	- The destination determines how they will be printed and framed.
 - **Diffusion**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-1-sep-9/","tags":["c/2024","c/colour-red","c/colour-blue","c/series","c/abstract","c/series-self","c/N-jonny","c/mapple-leaf","c/plank","c/letters","c/chains","c/canada","c/canada-PR","c/roof"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-21T16:17:54.699-04:00"}
+{"dg-publish":true,"permalink":"/collage-1-sep-9/","tags":["collage/year-2024","c/colour-red","c/colour-blue","c/abstract","c/N/jonny","c/mapple-leaf","c/plank","c/letters","c/chains","c/place/canada","c/canada-PR","c/roof","collage/series/self"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-27T10:57:39.491-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-apathetic/","tags":["collage/year-2025","c/face","c/man","c/hand","c/abstract","c/colour-blue","c/colour-purple","collage/series/feel/blue","collage/book/2025"],"created":"2025-07-23T09:13:49.389-04:00","updated":"2025-08-26T11:19:54.624-04:00"}
+{"dg-publish":true,"permalink":"/collage-apathetic/","tags":["collage/year-2025","c/face","c/man","c/hand","c/abstract","c/colour-blue","c/colour-purple","collage/series/feel/blue","collage/book/2025","c/colour-monochromatic"],"created":"2025-07-23T09:13:49.389-04:00","updated":"2025-10-21T09:03:54.831-04:00"}
 ---
 
 

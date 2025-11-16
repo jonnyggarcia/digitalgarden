@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-access/","tags":["c/2025","c/woman","c/faceless","c/colour-white","c/flat-background","danca/CI/hamilton/guide-lines","c/line","c/colour-yellow","c/colour-red","c/colour-purple","c/N-CL"],"created":"2025-04-30T13:40:06.597-04:00","updated":"2025-08-21T13:43:29.745-04:00"}
+{"dg-publish":true,"permalink":"/collage-access/","tags":["collage/year-2025","c/woman","c/faceless","c/colour-white","c/flat-background","danca/CI/hamilton/guide-lines","c/line","c/colour-yellow","c/colour-red","c/colour-purple","c/N/CL","collage/book/2025"],"created":"2025-04-30T13:40:06.597-04:00","updated":"2025-08-26T11:15:29.704-04:00"}
 ---
 
 

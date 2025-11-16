@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-08-19T15:23:19.989-04:00"}
+{"dg-publish":true,"permalink":"/kizomba-framework/","created":"2025-05-27T13:45:05.938-04:00","updated":"2025-09-09T12:58:28.222-04:00"}
 ---
 
 
@@ -70,7 +70,7 @@ With these techniques, the following motions should be achieved:
 - Reverse direction
 - Angled steps
 
-## Disconnections
+## [[Kizomba Framework - Disconnections\|Disconnections]]
 
 The Disconnections module teaches how to work with a partner when they are not in the embrace position. The techniques in this module include:
 

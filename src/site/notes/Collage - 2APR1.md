@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-apr-1/","tags":["c/2024","c/series-self","c/series","c/motorcycle","c/abstract","c/map","c/wheel","c/colour-purple","c/face"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-21T16:17:58.271-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-apr-1/","tags":["collage/year-2024","c/motorcycle","c/abstract","c/map","c/wheel","c/colour-purple","c/face","collage/series/self","c/N/jonny"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-09-10T08:56:48.887-04:00"}
 ---
 
 

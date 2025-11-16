@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-06-28T12:56:49.000-04:00","updated":"2024-01-23T17:55:44.000-05:00"}
+{"dg-publish":true,"permalink":"/module-ancestors/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-24T13:09:39.582-04:00"}
 ---
 
 
@@ -27,7 +27,7 @@ In parallel, I present one of my own works titled [Abstract](https://www.instagr
 Untitled, cardboard, 48x48 cm, 1980, Abraham Palatnik
 ```
 
-![Abstract, digital collage, 13x19, 2021, Jonny Garcia.jpg|300](/img/user/MEDIA/Abstract,%20digital%20collage,%2013x19,%202021,%20Jonny%20Garcia.jpg)
+![ART - COLLAGE - Abstract, digital collage, 13x19, 2021, Jonny Garcia.jpg|300](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Abstract,%20digital%20collage,%2013x19,%202021,%20Jonny%20Garcia.jpg)
 
 ```
 Abstract, digital collage, 13x19, 2021, Jonny Garcia

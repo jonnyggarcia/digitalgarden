@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-sociability/","tags":["collage/year-2024","c/hand","c/chair","c/plant","c/colour-yellow","c/colour-blue","c/colour-red","c/texture","c/drawing","collage/series/emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-23T10:22:12.886-04:00"}
+{"dg-publish":true,"permalink":"/collage-sociability/","tags":["collage/year-2024","c/hand","c/chair","c/plant","c/colour-yellow","c/colour-blue","c/colour-red","c/texture","c/drawing","collage/series/emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-10-18T12:17:29.210-04:00"}
 ---
 
 
-Context: It is difficult to make friends with the locals. It take years and many attempts.
+**Context**: It is difficult to make friends with the locals. It take years and many attempts.
 
 [Sociability](https://www.instagram.com/p/C3BujPDRp5z/)
 
