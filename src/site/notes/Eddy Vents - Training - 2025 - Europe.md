@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-11-02T10:55:16.291-05:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-11-19T18:05:34.629-05:00"}
 ---
 
 
@@ -82,3 +82,8 @@ Bellow you can find the links for all videos and materials part of this course.
 - [Zouk](https://www.youtube.com/playlist?list=PLJBn-1z9-b6wDVvSSZ03Ew4sAEBueXyHj)
 - [Zouk Chiré](https://www.youtube.com/playlist?list=PLJBn-1z9-b6x4L3VPEJ7gzRun3m8VhHIP)
 - [Zouk Love](https://www.youtube.com/playlist?list=PLJBn-1z9-b6x_rzMlUh43ChA1Qbau9UML)
+
+## 9th Meeting - November 19, 2025
+
+- [Facebook 1](https://1drv.ms/v/c/a28fc125b5d771bc/EcC55r7g0HdDnSkH-wiqjSMBveafbeVYJc4z3NFp-QwUdQ?e=frtvFF)
+- [Facebook 2](https://1drv.ms/v/c/a28fc125b5d771bc/EewgN0w7ce9LqFPHxeBtoFwBPIn552sAIm_iB7jjzHYq1w?e=mXeh9r)
