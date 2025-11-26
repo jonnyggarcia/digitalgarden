@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/collage-citizen/","tags":["collage/year-2024","c/mouth","c/place/canada","c/passaport","c/map","c/speaker","c/letters","c/colour-blue","c/colour-green","c/colour-red","c/colour-yellow","collage/series/emigration","collage/book/emigration"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-09-03T15:47:12.977-04:00"}
+{"dg-publish":true,"permalink":"/collage-citizen/","tags":["collage/year-2024","c/mouth","c/place/canada","c/passaport","c/map","c/speaker","c/letters","c/colour-blue","c/colour-green","c/colour-red","c/colour-yellow","collage/series/emigration","collage/book/emigration","collage/exhibited"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-10-18T12:19:59.469-04:00"}
 ---
 
 
-Context: What defines a person's nationality? Is it the language?  Is it the culture? Or, Does it only require to be there?
+**Context**: As the final artwork of this series, I contemplate what it truly means to be Canadian or Brazilian, and what defines one's nationality. I do not speak perfect English; I was not born in Canada; I don't fully comprehend Canadian culture; I don't share the same cultural background as most of my friends. I do not speak perfect Portuguese; I don't share many moments with my family and dearest friends; I don't eat Brazilian food as often; I don't live in Brazil. I speak Portuguese as much as I speak English. Still, I am Canadian and also Brazilian.
 
 [Citizen](https://www.instagram.com/p/C4E8IHftHdM/)
 
