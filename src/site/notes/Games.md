@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-10-28T10:55:25.548-04:00"}
+{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-11-03T13:01:16.958-05:00"}
 ---
 
 
@@ -46,3 +46,7 @@ Below you can find a list of some the games I made. More details can be found on
 [[Draegeni - O Início da Jornada\|Draegeni - O Início da Jornada]]
 
 [[Criação de Personagens\|Criação de Personagens]]
+
+# Cold Cases
+
+[[CC - O Oyabun\|CC - O Oyabun]]

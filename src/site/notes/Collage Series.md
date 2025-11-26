@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-10-27T18:04:11.257-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-10-31T12:52:13.134-04:00"}
 ---
 
 
@@ -31,6 +31,7 @@
 - [[Collage - Frightened\|Collage - Frightened]]
 - [[Collage - Anxious\|Collage - Anxious]]
 - [[Collage - Apprehensive\|Collage - Apprehensive]]
+- [[Collage - Irritated\|Collage - Irritated]]
 
 **Blues**
 - [[Collage - Forlorn\|Collage - Forlorn]]
