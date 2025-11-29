@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-10-31T12:52:13.134-04:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-11-28T22:34:02.985-05:00"}
 ---
 
 
@@ -32,6 +32,7 @@
 - [[Collage - Anxious\|Collage - Anxious]]
 - [[Collage - Apprehensive\|Collage - Apprehensive]]
 - [[Collage - Irritated\|Collage - Irritated]]
+- [[Collage - Restless\|Collage - Restless]]
 
 **Blues**
 - [[Collage - Forlorn\|Collage - Forlorn]]
@@ -43,19 +44,25 @@
 
 - [[Collage - 2FEB4\|Collage - 2FEB4]]
 - [[Collage - Passport\|Collage - Passport]]
-- [[Collage -  Sociability\|Collage -  Sociability]]
-- [[Collage - Citizen\|Collage - Citizen]]
-- [[Collage - Culture Embrace\|Collage - Culture Embrace]]
-- [[Collage - Disaffection\|Collage - Disaffection]]
-- [[Collage - Festivities\|Collage - Festivities]]
-- [[Collage - Immersion\|Collage - Immersion]]
+- [[Collage - Wishes\|Collage - Wishes]]
 - [[Collage - Language\|Collage - Language]]
-- [[Collage - Outlander\|Collage - Outlander]]
-- [[Collage - Permanency\|Collage - Permanency]]
-- [[Collage - Reasons\|Collage - Reasons]]
+- [[Collage - Immersion\|Collage - Immersion]]
+	- [[Collage - Immigrant\|Collage - Immigrant]]
+- [[Collage - Festivities\|Collage - Festivities]]
+	- [[Collage - Celebrations\|Collage - Celebrations]]
+- [[Collage - Culture Embrace\|Collage - Culture Embrace]]
+	- [[Collage - Foreigner\|Collage - Foreigner]]
+- [[Collage - Disaffection\|Collage - Disaffection]]
+	- [[Collage - Intimacy\|Collage - Intimacy]]
 - [[Collage - Residency\|Collage - Residency]]
 - [[Collage - Roots\|Collage - Roots]]
-- [[Collage - Wishes\|Collage - Wishes]]
+- [[Collage - Permanency\|Collage - Permanency]]
+- [[Collage - Citizen\|Collage - Citizen]]
+
+*Archived*
+- [[Collage - Outlander\|Collage - Outlander]]
+- [[Collage -  Sociability\|Collage -  Sociability]]
+- [[Collage - Reasons\|Collage - Reasons]]
 
 # Self
 

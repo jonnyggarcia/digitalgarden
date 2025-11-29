@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry","gardenEntry"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-24T12:42:52.432-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/","title":"Jonny Garcia Space","tags":["gardenEntry","gardenEntry","gardenEntry"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-08-24T12:42:52.432-04:00"}
 ---
 
 
