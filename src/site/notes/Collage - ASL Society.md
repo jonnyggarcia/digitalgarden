@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-society/","tags":["collage/uncollage","c/hand","c/colour-purple","c/fist","collage/year-2019","collage/series/ASL","collage/landscape"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-09-09T13:30:00.410-04:00"}
+{"dg-publish":true,"permalink":"/collage-asl-society/","tags":["collage/uncollage","c/hand","c/colour-purple","c/fist","collage/year-2019","collage/series/ASL","collage/horizontal"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-11-30T00:56:43.737-05:00"}
 ---
 
 

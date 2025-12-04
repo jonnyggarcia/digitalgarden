@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dwelling/","tags":["c/colour-red","c/building","c/tower","c/flat-background","collage/year-2019","c/colour-grey","c/diagonal","collage/landscape"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-27T09:26:25.424-04:00"}
+{"dg-publish":true,"permalink":"/collage-dwelling/","tags":["c/colour-red","c/building","c/tower","c/flat-background","collage/year-2019","c/colour-grey","c/diagonal","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:56:43.796-05:00"}
 ---
 
 

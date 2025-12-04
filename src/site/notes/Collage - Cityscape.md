@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cityscape/","tags":["collage/year-2019","collage/analog","collage/landscape","c/strip","c/city","c/landscape"],"created":"2025-08-27T15:55:31.032-04:00","updated":"2025-08-27T16:01:45.864-04:00"}
+{"dg-publish":true,"permalink":"/collage-cityscape/","tags":["collage/year-2019","collage/analog","collage/horizontal","c/strip","c/city","c/landscape"],"created":"2025-08-27T15:55:31.032-04:00","updated":"2025-11-30T00:56:43.771-05:00"}
 ---
 
 

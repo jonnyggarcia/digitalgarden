@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-transition/","tags":["c/abstract","c/stamp","c/circle","c/letters","c/colour-orange","c/colour-red","c/colour-purple","collage/analog","collage/year-2019","collage/landscape"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-27T16:07:54.913-04:00"}
+{"dg-publish":true,"permalink":"/collage-transition/","tags":["c/abstract","c/stamp","c/circle","c/letters","c/colour-orange","c/colour-red","c/colour-purple","collage/analog","collage/year-2019","collage/horizontal"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-11-30T00:56:43.695-05:00"}
 ---
 
 

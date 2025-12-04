@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dust/","tags":["c/statue","c/hand","c/dust","c/gear","c/flat-background","c/colour-white","c/colour-red","collage/year-2022","collage/book/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-10T13:23:11.620-04:00"}
+{"dg-publish":true,"permalink":"/collage-dust/","tags":["c/statue","c/hand","c/dust","c/gear","c/flat-background","c/colour-white","c/colour-red","collage/year-2022","collage/book/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-12-02T10:31:02.049-05:00"}
 ---
 
 

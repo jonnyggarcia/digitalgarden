@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-demeaned/","tags":["collage/year-2025","c/woman","c/body","c/hand","c/man","c/face","c/flame","c/sand","c/desert","c/colour-red","c/colour-blue","c/colour-black","c/colour-purple","c/colour-yellow","c/N/CL","collage/book/2025"],"created":"2025-07-23T09:02:30.990-04:00","updated":"2025-09-09T13:51:55.973-04:00"}
+{"dg-publish":true,"permalink":"/collage-demeaned/","tags":["collage/year-2025","c/woman","c/body","c/hand","c/man","c/face","c/flame","c/sand","c/desert","c/colour-red","c/colour-blue","c/colour-black","c/colour-purple","c/colour-yellow","c/N/CL","collage/book/2025"],"created":"2025-07-23T09:02:30.990-04:00","updated":"2025-12-02T10:31:42.570-05:00"}
 ---
 
 

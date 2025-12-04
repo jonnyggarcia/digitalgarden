@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bler/","tags":["c/favorite","c/woman","c/ripples","c/colour-blue","c/colour-pink","c/flower","c/sign","c/grafitti","c/colour-black","c/tatoo","c/N/LK","collage/year-2021","collage/printed","collage/printed/metal","collage/book/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-09-17T12:16:14.725-04:00"}
+{"dg-publish":true,"permalink":"/collage-bler/","tags":["c/favorite","c/woman","c/ripples","c/colour-blue","c/colour-pink","c/flower","c/sign","c/grafitti","c/colour-black","c/tatoo","c/N/LK","collage/year-2021","collage/printed","collage/printed/metal","collage/book/2021","collage/submission/AGH"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-12-02T09:45:48.814-05:00"}
 ---
 
 

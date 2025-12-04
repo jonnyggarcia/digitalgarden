@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-agape/","tags":["c/woman","c/polka","c/dots","c/hand","c/place/japan","c/thank-you","c/colour-orange","c/heart","collage/year-2019","collage/series/ASL","collage/landscape","collage/series/crystallized-feelings"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-27T10:57:43.818-04:00"}
+{"dg-publish":true,"permalink":"/collage-agape/","tags":["c/woman","c/polka","c/dots","c/hand","c/place/japan","c/thank-you","c/colour-orange","c/heart","collage/year-2019","collage/series/ASL","collage/horizontal","collage/series/crystallized-feelings"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:56:44.161-05:00"}
 ---
 
 

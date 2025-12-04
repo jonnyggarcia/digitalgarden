@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-consciousness/","tags":["c/abstract","c/letters","c/number","c/stamp","collage/year-2019","collage/analog","collage/landscape","c/colour-brown","c/colour-yellow","c/colour-orange"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-08-27T13:28:37.911-04:00"}
+{"dg-publish":true,"permalink":"/collage-consciousness/","tags":["c/abstract","c/letters","c/number","c/stamp","collage/year-2019","collage/analog","collage/horizontal","c/colour-brown","c/colour-yellow","c/colour-orange"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-11-30T00:56:43.776-05:00"}
 ---
 
 

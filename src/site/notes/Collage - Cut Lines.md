@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-cut-lines/","tags":["c/building","c/geometric","c/colour-blue","c/colour-green","c/colour-beje","collage/year-2019","collage/landscape"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T10:10:13.691-04:00"}
+{"dg-publish":true,"permalink":"/collage-cut-lines/","tags":["c/building","c/geometric","c/colour-blue","c/colour-green","c/colour-beje","collage/year-2019","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:56:43.794-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-amei-te-ver/","tags":["c/body","c/man","c/woman","c/colour-purple","c/colour-red","c/flower","c/hand","c/water","collage/year-2022","c/artist/Tiago-Iorc","c/songs/pop","collage/series/songs"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-28T14:02:58.779-04:00"}
+{"dg-publish":true,"permalink":"/collage-amei-te-ver/","tags":["c/body","c/man","c/woman","c/colour-purple","c/colour-red","c/flower","c/hand","c/water","collage/year-2022","c/artist/Tiago-Iorc","c/songs/pop","collage/series/songs"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-02T10:31:09.017-05:00"}
 ---
 
 

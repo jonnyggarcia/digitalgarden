@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-contrast/","tags":["c/paris-collage","c/rainbow","c/mountain","collage/year-2019","c/colour-colorfull","c/landscape","c/colour-yellow","c/colour-red","c/colour-green","c/colour-purple"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T10:10:37.644-04:00"}
+{"dg-publish":true,"permalink":"/collage-contrast/","tags":["c/paris-collage","c/rainbow","c/mountain","collage/year-2019","c/colour-colorfull","c/colour-yellow","c/colour-red","c/colour-green","c/colour-purple","c/landscape","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:57:36.850-05:00"}
 ---
 
 

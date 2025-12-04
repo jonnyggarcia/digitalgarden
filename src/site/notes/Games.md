@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-11-03T13:01:16.958-05:00"}
+{"dg-publish":true,"permalink":"/games/","created":"2024-06-28T12:56:49.000-04:00","updated":"2025-12-01T16:43:12.437-05:00"}
 ---
 
 
@@ -49,4 +49,5 @@ Below you can find a list of some the games I made. More details can be found on
 
 # Cold Cases
 
-[[CC - O Oyabun\|CC - O Oyabun]]
+- [[CC - O Oyabun\|CC - O Oyabun]]
+- [[CC - O Portal Triangular\|CC - O Portal Triangular]]

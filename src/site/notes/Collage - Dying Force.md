@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-dying-force/","tags":["c/flower","c/colour-brown","c/colour-blue","c/colour-purple","c/crack","c/N/YT","c/N/SG","collage/year-2020","c/landscape","collage/series/crystallized-feelings"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-27T10:52:41.264-04:00"}
+{"dg-publish":true,"permalink":"/collage-dying-force/","tags":["c/flower","c/colour-brown","c/colour-blue","c/colour-purple","c/crack","c/N/YT","c/N/SG","collage/year-2020","collage/series/crystallized-feelings","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:57:23.415-05:00"}
 ---
 
 

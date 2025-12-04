@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-bloodbath/","tags":["c/N/DM","collage/commission","collage/year-2020","c/wall","c/colour-red","c/bathtube","c/crack","c/tile","collage/landscape"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-10T10:03:09.866-04:00"}
+{"dg-publish":true,"permalink":"/collage-bloodbath/","tags":["c/N/DM","collage/commission","collage/year-2020","c/wall","c/colour-red","c/bathtube","c/crack","c/tile","collage/horizontal"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-11-30T00:56:43.755-05:00"}
 ---
 
 

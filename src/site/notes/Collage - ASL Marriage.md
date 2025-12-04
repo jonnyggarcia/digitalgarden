@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-asl-marriage/","tags":["c/hand","c/person","c/silhouete","c/colour-yellow","c/colour-orange","collage/year-2019","collage/series/ASL","collage/landscape"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-09T13:29:32.032-04:00"}
+{"dg-publish":true,"permalink":"/collage-asl-marriage/","tags":["c/hand","c/person","c/silhouete","c/colour-yellow","c/colour-orange","collage/year-2019","collage/series/ASL","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:56:43.725-05:00"}
 ---
 
 
