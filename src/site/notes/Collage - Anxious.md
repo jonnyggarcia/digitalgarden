@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-anxious/","tags":["collage/year-2025","c/colour-monochromatic","c/colour-red","collage/series/feel/red","c/hand","c/man","c/dust","c/crack","c/ghost-effect","c/colour-white","collage/book/2025"],"created":"2025-10-21T08:59:07.653-04:00","updated":"2025-11-19T19:08:09.257-05:00"}
+{"dg-publish":true,"permalink":"/collage-anxious/","tags":["collage/year-2025","c/colour-monochromatic","c/colour-red","collage/series/feel/red","c/hand","c/man","c/dust","c/crack","c/ghost-effect","c/colour-white","collage/book/2025","collage/website"],"created":"2025-10-21T08:59:07.653-04:00","updated":"2025-12-05T09:48:26.492-05:00"}
 ---
 
 

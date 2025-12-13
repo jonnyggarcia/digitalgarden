@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-affection/","tags":["c/hand","c/colour-blue","c/abstract","c/colour-purple","collage/year-2020","collage/printed","collage/book/2020","collage/series/crystallized-feelings"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-12-02T09:48:54.839-05:00"}
+{"dg-publish":true,"permalink":"/collage-affection/","tags":["c/hand","c/colour-blue","c/abstract","c/colour-purple","collage/year-2020","collage/printed","collage/book/2020","collage/series/crystallized-feelings","collage/website"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-12-05T09:56:08.391-05:00"}
 ---
 
 

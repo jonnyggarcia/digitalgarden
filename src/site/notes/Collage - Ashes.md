@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ashes/","tags":["c/man","c/body","c/woman","c/abstract","c/letters","c/colour-purple","c/colour-black","collage/year-2022","c/artist/The-Struts","c/songs/rock-glam","c/hand","collage/series/songs","collage/book/2022"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-09T13:27:33.488-04:00"}
+{"dg-publish":true,"permalink":"/collage-ashes/","tags":["c/man","c/body","c/woman","c/abstract","c/letters","c/colour-purple","c/colour-black","collage/year-2022","c/artist/The-Struts","c/songs/rock-glam","c/hand","collage/series/songs","collage/book/2022","collage/website"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-12-05T09:52:31.450-05:00"}
 ---
 
 

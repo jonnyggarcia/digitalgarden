@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-failing/","tags":["collage/year-2025","c/man","c/woman","c/colour-red","c/colour-blue","c/flat-background","c/colour-black","c/tatoo","c/upsidedown","c/N/CL","c/N/AK","collage/book/2025"],"created":"2025-07-07T17:59:51.395-04:00","updated":"2025-09-09T13:52:17.391-04:00"}
+{"dg-publish":true,"permalink":"/collage-failing/","tags":["collage/year-2025","c/man","c/woman","c/colour-red","c/colour-blue","c/flat-background","c/colour-black","c/tatoo","c/upsidedown","c/N/CL","c/N/AK","collage/book/2025","collage/submission/AGH","collage/website"],"created":"2025-07-07T17:59:51.395-04:00","updated":"2025-12-05T09:49:06.708-05:00"}
 ---
 
 

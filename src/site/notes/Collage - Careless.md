@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-careless/","tags":["c/stairs","c/clock","c/flower","c/woman","c/falling-to-pieces","c/colour-bw","c/moon","collage/year-2021","collage/book/2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-09-10T13:11:53.883-04:00"}
+{"dg-publish":true,"permalink":"/collage-careless/","tags":["c/stairs","c/clock","c/flower","c/woman","c/falling-to-pieces","c/colour-bw","c/moon","collage/year-2021","collage/book/2021","collage/website"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-12-05T10:03:48.095-05:00"}
 ---
 
 

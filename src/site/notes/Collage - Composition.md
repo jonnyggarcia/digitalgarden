@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-composition/","tags":["c/woman","c/geometric","c/man","c/colour-blue","c/water","c/flower","c/N/RS","collage/year-2021"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-09-10T08:50:04.457-04:00"}
+{"dg-publish":true,"permalink":"/collage-composition/","tags":["c/woman","c/geometric","c/man","c/colour-blue","c/water","c/flower","c/N/RS","collage/year-2021","collage/website"],"created":"2024-06-28T12:56:49.000-04:00","updated":"2025-12-05T09:54:15.766-05:00"}
 ---
 
 

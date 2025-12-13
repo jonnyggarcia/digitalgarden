@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-consume/","tags":["c/N/RS","c/fruit","c/lips","c/hand","c/strawberry","c/colour-red","c/cup","collage/year-2022","collage/book/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-02T10:31:35.249-05:00"}
+{"dg-publish":true,"permalink":"/collage-consume/","tags":["c/N/RS","c/fruit","c/lips","c/hand","c/strawberry","c/colour-red","c/cup","collage/year-2022","collage/book/2022","collage/website"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-05T09:53:08.807-05:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-eclipsian-eyes/","tags":["c/woman","c/circle","c/colour-red","c/fireworks","c/abstract","c/vampire","collage/year-2021","collage/series/inDignos","collage/book/2021"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T09:22:36.101-04:00"}
+{"dg-publish":true,"permalink":"/collage-eclipsian-eyes/","tags":["c/woman","c/circle","c/colour-red","c/fireworks","c/abstract","c/vampire","collage/year-2021","collage/series/inDignos","collage/book/2021","collage/website"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-05T10:07:07.670-05:00"}
 ---
 
 

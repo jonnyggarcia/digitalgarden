@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-frightened/","tags":["collage/year-2025","collage/series/feel/red","c/flat-background","c/ghost-effect","c/man","c/heart","c/vein","c/crack","c/abstract","c/colour-red","c/colour-monochromatic"],"created":"2025-10-10T14:23:52.808-04:00","updated":"2025-10-21T09:03:38.066-04:00"}
+{"dg-publish":true,"permalink":"/collage-frightened/","tags":["collage/year-2025","collage/series/feel/red","c/flat-background","c/ghost-effect","c/man","c/heart","c/vein","c/crack","c/abstract","c/colour-red","c/colour-monochromatic","collage/book/2025"],"created":"2025-10-10T14:23:52.808-04:00","updated":"2025-11-19T19:08:06.281-05:00"}
 ---
 
 

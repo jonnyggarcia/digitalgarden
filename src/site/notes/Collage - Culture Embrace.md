@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["collage/year-2024","c/baby","c/colour-red","c/colour-yellow","c/hand","c/flat-background","c/colour-black","collage/series/emigration","collage/book/emigration","collage/exhibited"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-10-18T12:19:00.509-04:00"}
+{"dg-publish":true,"permalink":"/collage-culture-embrace/","tags":["collage/year-2024","c/baby","c/colour-red","c/colour-yellow","c/hand","c/flat-background","c/colour-black","collage/series/emigration","collage/book/emigration","collage/exhibited","collage/website"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-12-05T09:49:59.882-05:00"}
 ---
 
 

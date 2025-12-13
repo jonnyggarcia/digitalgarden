@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-akindred/","tags":["c/phone","c/light-bulb","c/colour-bw","c/flat-background","c/barbed-wire","collage/year-2023","collage/book/2023"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-02T12:17:19.451-04:00"}
+{"dg-publish":true,"permalink":"/collage-akindred/","tags":["c/phone","c/light-bulb","c/colour-bw","c/flat-background","c/barbed-wire","collage/year-2023","collage/book/2023","collage/website"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-05T09:50:30.504-05:00"}
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/collage-flor-siquiera/","tags":["c/inDignos","c/woman","c/green","c/flower","c/purple","c/2020"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2024-04-15T12:04:27.000-04:00"}
+{"dg-publish":true,"permalink":"/collage-flor-siquiera/","tags":["c/woman","c/colour-green","c/flower","c/colour-purple","collage/year-2020","collage/series/inDignos","c/texture"],"created":"2024-06-28T12:56:46.000-04:00","updated":"2025-08-23T10:21:11.082-04:00"}
 ---
 
 
-![Flor_Siqueira.jpg](/img/user/MEDIA/Flor_Siqueira.jpg)
+![MEDIA/ART - COLLAGE - Flor_Siqueira, inDignos, 2020, Jonny Garcia.jpg|ART - COLLAGE - Flor_Siqueira, inDignos, 2020, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Flor_Siqueira,%20inDignos,%202020,%20Jonny%20Garcia.jpg)
+

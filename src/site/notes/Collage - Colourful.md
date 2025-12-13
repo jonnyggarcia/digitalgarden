@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-colourful/","tags":["c/grafitti","c/abstract","c/letters","c/colour-colorfull","collage/year-2021","collage/book/2021"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-10T13:11:11.530-04:00"}
+{"dg-publish":true,"permalink":"/collage-colourful/","tags":["c/grafitti","c/abstract","c/letters","c/colour-colorfull","collage/year-2021","collage/book/2021","collage/website"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-12-05T09:54:46.043-05:00"}
 ---
 
 

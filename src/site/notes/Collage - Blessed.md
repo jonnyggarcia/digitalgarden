@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-blessed/","tags":["c/woman","c/faceless","c/statue","c/saint","c/colour-bw","c/flat-background","c/moon","c/eclipse","collage/year-2022","collage/book/2022"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T13:01:08.241-04:00"}
+{"dg-publish":true,"permalink":"/collage-blessed/","tags":["c/woman","c/faceless","c/statue","c/saint","c/colour-bw","c/flat-background","c/moon","c/eclipse","collage/year-2022","collage/book/2022","collage/website"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-05T09:51:43.049-05:00"}
 ---
 
 

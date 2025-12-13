@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-enraged/","tags":["collage/year-2025","c/head","c/man","c/hand","c/colour-red","c/violance","c/mouth","c/colour-black","c/colour-monochromatic","c/distortion","collage/series/feel/red","collage/book/2025"],"created":"2025-07-08T12:04:02.638-04:00","updated":"2025-09-17T12:25:55.040-04:00"}
+{"dg-publish":true,"permalink":"/collage-enraged/","tags":["collage/year-2025","c/head","c/man","c/hand","c/colour-red","c/violance","c/mouth","c/colour-black","c/colour-monochromatic","c/distortion","collage/series/feel/red","collage/book/2025","collage/website"],"created":"2025-07-08T12:04:02.638-04:00","updated":"2025-12-05T09:49:02.699-05:00"}
 ---
 
 

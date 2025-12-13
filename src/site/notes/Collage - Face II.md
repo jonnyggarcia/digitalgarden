@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-face-ii/","tags":["c/fromage","c/man","c/woman","c/face","collage/year-2019","collage/analog","collage/landscape"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-08-27T15:49:47.726-04:00"}
+{"dg-publish":true,"permalink":"/collage-face-ii/","tags":["c/fromage","c/man","c/woman","c/face","collage/year-2019","collage/analog","collage/horizontal"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-11-30T00:56:43.851-05:00"}
 ---
 
 

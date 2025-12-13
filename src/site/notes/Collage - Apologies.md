@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-apologies/","tags":["c/man","c/abstract","c/woman","c/shadow","c/colour-red","c/colour-black","c/N/SG","collage/year-2020","collage/book/2020","collage/series/crystallized-feelings"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-17T12:17:26.976-04:00"}
+{"dg-publish":true,"permalink":"/collage-apologies/","tags":["c/man","c/abstract","c/woman","c/shadow","c/colour-red","c/colour-black","c/N/SG","collage/year-2020","collage/book/2020","collage/series/crystallized-feelings","collage/website"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-12-05T09:57:03.072-05:00"}
 ---
 
 
