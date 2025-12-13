@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-11-19T18:05:34.629-05:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2025-12-13T12:54:36.980-05:00"}
 ---
 
 
@@ -87,3 +87,7 @@ Bellow you can find the links for all videos and materials part of this course.
 
 - [Facebook 1](https://1drv.ms/v/c/a28fc125b5d771bc/EcC55r7g0HdDnSkH-wiqjSMBveafbeVYJc4z3NFp-QwUdQ?e=frtvFF)
 - [Facebook 2](https://1drv.ms/v/c/a28fc125b5d771bc/EewgN0w7ce9LqFPHxeBtoFwBPIn552sAIm_iB7jjzHYq1w?e=mXeh9r)
+
+## 10th Meeting - December 10, 2025
+
+- [Facebook](https://1drv.ms/v/c/a28fc125b5d771bc/IQDD2Ng5s655TpemX7-1qzsMAQWPhla7zJIwqW3B2LRRbYM?e=799wJW)
