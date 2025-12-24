@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-may-4/","tags":["collage/year-2025","collage/series/self","c/woman","c/N/jonny","c/hand","c/gear","c/abstract","c/cloud","c/colour-red","c/colour-blue","c/colour-purple","c/colour-yellow","c/hat","c/faceless"],"created":"2025-09-17T13:06:21.673-04:00","updated":"2025-09-17T13:20:52.192-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-may-4/","tags":["collage/year-2025","collage/series/self","c/woman","c/N/jonny","c/hand","c/gear","c/abstract","c/cloud","c/colour-red","c/colour-blue","c/colour-purple","c/colour-yellow","c/hat","c/faceless"],"created":"2025-09-17T13:06:21.673-04:00","updated":"2025-12-14T21:07:05.287-05:00"}
 ---
 
 

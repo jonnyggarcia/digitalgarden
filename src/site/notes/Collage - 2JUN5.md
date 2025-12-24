@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-2-jun-5/","tags":["collage/year-2025","c/frame","c/N/CL","c/hand","c/abstract","c/colour-white","c/paint","c/letters","collage/series/self","c/N/jonny"],"created":"2025-07-02T21:29:18.947-04:00","updated":"2025-09-10T08:55:27.882-04:00"}
+{"dg-publish":true,"permalink":"/collage-2-jun-5/","tags":["collage/year-2025","c/frame","c/N/CL","c/hand","c/abstract","c/colour-white","c/paint","c/letters","collage/series/self","c/N/jonny"],"created":"2025-07-02T21:29:18.947-04:00","updated":"2025-12-14T21:08:15.151-05:00"}
 ---
 
 

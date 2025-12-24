@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-chilling/","tags":["collage/year-2025","c/abstract","c/flame","c/woman","c/circle","c/line","c/hand","c/glass","c/colour-red","c/colour-green","c/colour-orange","c/colour-blue","c/N/CL","c/perspective"],"created":"2025-08-26T11:48:28.158-04:00","updated":"2025-09-09T13:38:42.246-04:00"}
+{"dg-publish":true,"permalink":"/collage-chilling/","tags":["collage/year-2025","c/abstract","c/flame","c/woman","c/circle","c/line","c/hand","c/glass","c/colour-red","c/colour-green","c/colour-orange","c/colour-blue","c/N/CL","c/perspective"],"created":"2025-08-26T11:48:28.158-04:00","updated":"2025-12-14T21:07:08.690-05:00"}
 ---
 
 
