@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/collage-ablate/","tags":["collage/year-2025","c/woman","c/circle","c/peel","c/crack","c/colour-yellow","c/colour-red","c/colour-grey","c/cloth"],"created":"2025-12-23T19:53:38.020-05:00","updated":"2025-12-24T14:43:38.681-05:00"}
+{"dg-publish":true,"permalink":"/collage-ablate/","tags":["collage/year-2025","c/woman","c/circle","c/peel","c/crack","c/colour-yellow","c/colour-red","c/colour-grey","c/cloth"],"created":"2025-12-23T19:53:38.020-05:00","updated":"2025-12-25T15:29:13.852-05:00"}
 ---
+
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6V2s9YraHChx7sZKhQ5ano?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

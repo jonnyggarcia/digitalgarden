@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-annoyed/","tags":["collage/year-2025","collage/series/feel/red","c/colour-red","c/colour-yellow","c/ghost-effect","c/abstract","c/man","c/hood","c/geometric"],"created":"2025-10-06T21:22:57.042-04:00","updated":"2025-10-06T21:27:45.040-04:00"}
+{"dg-publish":true,"permalink":"/collage-annoyed/","tags":["collage/year-2025","collage/series/feel/red","c/colour-red","c/colour-yellow","c/ghost-effect","c/abstract","c/man","c/hood","c/geometric"],"created":"2025-10-06T21:22:57.042-04:00","updated":"2025-12-14T21:06:43.902-05:00"}
 ---
 
 
