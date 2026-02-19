@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2025-11-28T22:34:02.985-05:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2026-01-19T12:28:23.477-05:00"}
 ---
 
 
-# Ephemeral
+# Evanescent
 
-[[Series - Ephemeral\|Series - Ephemeral]]
+[[Series - Evanescent\|Series - Evanescent]]
 
 - [[Collage - Photography\|Collage - Photography]]
 - [[Collage - Never Again\|Collage - Never Again]]
+- [[Collage - Evanescent\|Collage - Evanescent]]
 
 # Feel
 
