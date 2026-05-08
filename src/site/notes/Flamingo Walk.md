@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flamingo-walk/","created":"2026-05-03T13:16:44.441-04:00","updated":"2026-05-03T13:17:13.646-04:00"}
+{"dg-publish":true,"permalink":"/flamingo-walk/","created":"2026-05-03T13:16:44.441-04:00","updated":"2026-05-04T18:31:10.614-04:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 The goal of this exercise is to practice dynamic balance, which means starting in motion, stopping in balance, and then resuming movement.
 
-## Flaming Stance
+## Flamingo Stance
 
 - One leg is straight, but the knee is not locked.
 - The other leg is raised, forming a “4” shape.
@@ -77,3 +77,14 @@ Combine all previous stages, for example:
 - From Flamingo Stance, transition into another Flamingo Stance on the other leg:
     - Move forward, backward, or to the side.
     - Add rotation.
+
+## Stage 6: Following Flamingo
+
+1. Start on a Flamingo Stance
+2. A part will push you
+3. Landing and perform a Flamingo Stance.
+
+*Notes:*
+- The pusher can play with the intensity of the push
+- The pusher can add rotation by turning the chest as they push.
+- The pusher can push before the partner stabilish balance
