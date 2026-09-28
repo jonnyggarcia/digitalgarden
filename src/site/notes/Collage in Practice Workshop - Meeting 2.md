@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-06-28T12:56:47.000-04:00","updated":"2024-01-23T17:56:01.000-05:00"}
+{"dg-publish":true,"permalink":"/collage-in-practice-workshop-meeting-2/","created":"2024-06-28T12:56:47.000-04:00","updated":"2026-07-22T12:40:07.295-04:00","dg-note-properties":{"tags":null,"backlink":["[[Collage in Practice Workshop - Notes]]"],"date":"2024-01-11"}}
 ---
 
 
@@ -27,7 +27,7 @@ Any documentation is useful on many levels.
 - Clue: They are all Collage as per Ric.
 - Why is it a collage?
 
-![Tie, Allan Bealy.png](/img/user/MEDIA/Tie,%20Allan%20Bealy.png)
+![ART - Tie, Allan Bealy.png](/img/user/MEDIA/ART%20-%20Tie,%20Allan%20Bealy.png)
 
 ```
 Tie, Allan Bealy
@@ -36,7 +36,7 @@ Tie, Allan Bealy
 - Box unfolded
 - It has tridimensionality
 
-![Landscape Sublime, Anastasia Samoylova.png](/img/user/MEDIA/Landscape%20Sublime,%20Anastasia%20Samoylova.png)
+![ART - Landscape Sublime, Anastasia Samoylova.png](/img/user/MEDIA/ART%20-%20Landscape%20Sublime,%20Anastasia%20Samoylova.png)
 
 ```
 Landscape Sublime, Anastasia Samoylova
@@ -45,7 +45,7 @@ Landscape Sublime, Anastasia Samoylova
 - She constructs an installation, creating a life-size scene.
 - Upon completion, she captures a photograph. The photography binds all the elements together, and the print itself becomes the artwork.
 
-![The New Social Order, Andrea Bowers.png](/img/user/MEDIA/The%20New%20Social%20Order,%20Andrea%20Bowers.png)
+![ART - The New Social Order, Andrea Bowers.png](/img/user/MEDIA/ART%20-%20The%20New%20Social%20Order,%20Andrea%20Bowers.png)
 
 ```
 The New Social Order – Work For All – Art For All, 2016, 45”x66”, Andrea Bowers
@@ -89,7 +89,7 @@ Artist: Jenny Hampe
 - I suspect this is her [Instagram](https://www.instagram.com/jennysfolkartmuseum/) profile.
 - Repurpose of a picture
 
-![Ivanhoe, circa 1830, John Thomas Haines.png](/img/user/MEDIA/Ivanhoe,%20circa%201830,%20John%20Thomas%20Haines.png)
+![ART - Ivanhoe, circa 1830, John Thomas Haines.png](/img/user/MEDIA/ART%20-%20Ivanhoe,%20circa%201830,%20John%20Thomas%20Haines.png)
 
 ```
 Ivanhoe, circa 1830, John Thomas Haines
@@ -100,7 +100,7 @@ Ivanhoe, circa 1830, John Thomas Haines
 - It is a print with jewels added on top of it.
 - Mixing materials.
 
-![Dolores James, 1962, John Chamberlain.png](/img/user/MEDIA/Dolores%20James,%201962,%20John%20Chamberlain.png)
+![ART - Dolores James, 1962, John Chamberlain.png](/img/user/MEDIA/ART%20-%20Dolores%20James,%201962,%20John%20Chamberlain.png)
 
 ```
 Dolores James, 1962, John Chamberlain
@@ -182,7 +182,7 @@ Quilt, Galen Cheney
 - Once ready, she enters her studio to emerge 8 or 9 hours later with a completed artwork.
 - An artifact of an experience, inviting the viewer to contemplate it.
 
-![Claire Healy and Sean Cordeiro, Stories and ideas, MCA Australia.jpg](/img/user/MEDIA/Claire%20Healy%20and%20Sean%20Cordeiro,%20Stories%20and%20ideas,%20MCA%20Australia.jpg)
+![ART - Claire Healy and Sean Cordeiro, Stories and ideas, MCA Australia.jpg](/img/user/MEDIA/ART%20-%20Claire%20Healy%20and%20Sean%20Cordeiro,%20Stories%20and%20ideas,%20MCA%20Australia.jpg)
 
 ```
 Claire Healy & Sean Cordeiro, Stories & ideas, MCA Australia
@@ -200,7 +200,7 @@ Stereo, Jason-Pappas
 - Assemblage.
 - Create a stereo system using an old stove.
 
-![Try Quit, Tm Gratkowski.jpeg](/img/user/MEDIA/Try%20Quit,%20Tm%20Gratkowski.jpeg)
+![ART - Try Quit, Tm Gratkowski.jpeg](/img/user/MEDIA/ART%20-%20Try%20Quit,%20Tm%20Gratkowski.jpeg)
 
 ![Paper Crete 36, Tm Gratkowski.jpeg](/img/user/MEDIA/Paper%20Crete%2036,%20Tm%20Gratkowski.jpeg)
 
@@ -262,7 +262,7 @@ Where do we draw the line on what is a collage?
 
 ---
 
-![Landscape Sublime, Anastasia Samoylova.png|300](/img/user/MEDIA/Landscape%20Sublime,%20Anastasia%20Samoylova.png)
+![ART - Landscape Sublime, Anastasia Samoylova.png\|300](/img/user/MEDIA/ART%20-%20Landscape%20Sublime,%20Anastasia%20Samoylova.png)
 
 ```
 Landscape Sublime, Anastasia Samoylova
@@ -285,7 +285,7 @@ Anastasia creates an experience and invites people to encounter it through a pho
 - **What is our medium?**
 - **What is our genre?**
 
-![Rainbow, oil on canvas, 234 X 422 cm, 2007, David Elliott.jpg|300](/img/user/MEDIA/Rainbow,%20oil%20on%20canvas,%20234%20X%20422%20cm,%202007,%20David%20Elliott.jpg)
+![Rainbow, oil on canvas, 234 X 422 cm, 2007, David Elliott.jpg\|300](/img/user/MEDIA/Rainbow,%20oil%20on%20canvas,%20234%20X%20422%20cm,%202007,%20David%20Elliott.jpg)
 
 ```
 Rainbow, 2007, David Elliott
@@ -293,7 +293,7 @@ Rainbow, 2007, David Elliott
 
 - David's work medium is painting but from the collage genre.
 
-![Vortumnus Vertumno, Giuseppe Arcimboldo.png](/img/user/MEDIA/Vortumnus%20Vertumno,%20Giuseppe%20Arcimboldo.png)
+![ART - Vortumnus Vertumno, Giuseppe Arcimboldo.png](/img/user/MEDIA/ART%20-%20Vortumnus%20Vertumno,%20Giuseppe%20Arcimboldo.png)
 
 ```
 Vortumnus Vertumno, Giuseppe Arcimboldo
@@ -318,13 +318,13 @@ Remastered Art Bennington 1945 by Anna Mary Robertson Moses aka Grandma Moses
 
 How to approach collage in this workshop?
 
-![Screen Shot 2024-01-11 at 16.46.07.png|400](/img/user/MEDIA/Screen%20Shot%202024-01-11%20at%2016.46.07.png)
+![Screen Shot 2024-01-11 at 16.46.07.png\|400](/img/user/MEDIA/Screen%20Shot%202024-01-11%20at%2016.46.07.png)
 
 - Some sort of material
 - Some sort of glue
 - Some sort surface
 
-![Screen Shot 2024-01-11 at 16.58.51.png|400](/img/user/MEDIA/Screen%20Shot%202024-01-11%20at%2016.58.51.png)
+![Screen Shot 2024-01-11 at 16.58.51.png\|400](/img/user/MEDIA/Screen%20Shot%202024-01-11%20at%2016.58.51.png)
 
 - Material: Materials used.
 - Juxtaposition: Conversation between the elements.
@@ -390,14 +390,14 @@ Artist: Stefaan De Croock
 - Made out of wood.
 - Juxtaposition with the city
 
-![Liquid Pupils, 2014, Justin Angelos.png|300](/img/user/MEDIA/Liquid%20Pupils,%202014,%20Justin%20Angelos.png)
+![Liquid Pupils, 2014, Justin Angelos.png\|300](/img/user/MEDIA/Liquid%20Pupils,%202014,%20Justin%20Angelos.png)
 
 ```
 Liquid Pupils, 2014, Justin Angelos
 ```
 - Layering
 
-![A Moment’s Pleasure, 2019, Mickalene Thomas.png|500](/img/user/MEDIA/A%20Moment%E2%80%99s%20Pleasure,%202019,%20Mickalene%20Thomas.png)
+![A Moment’s Pleasure, 2019, Mickalene Thomas.png\|500](/img/user/MEDIA/A%20Moment%E2%80%99s%20Pleasure,%202019,%20Mickalene%20Thomas.png)
 
 ```
 A Moment’s Pleasure, 2019, Mickalene Thomas
@@ -405,7 +405,7 @@ A Moment’s Pleasure, 2019, Mickalene Thomas
 - Juxtaposition: different materials on the walls. Chairs made of various elements.
 - Fragmented world.
 
-![Earthlings, Richard Kalvar.png](/img/user/MEDIA/Earthlings,%20Richard%20Kalvar.png)
+![ART - Earthlings, Richard Kalvar.png](/img/user/MEDIA/ART%20-%20Earthlings,%20Richard%20Kalvar.png)
 
 ```
 Earthlings, Richard Kalvar
@@ -426,7 +426,7 @@ What needs to be done to fit a particular ecosystem?
 
 ## White Cube Model
 
-![ecosystem - white cube.png|500](/img/user/MEDIA/ecosystem%20-%20white%20cube.png)
+![ART -  ecosystem - white cube.png\|500](/img/user/MEDIA/ART%20-%20%20ecosystem%20-%20white%20cube.png)
 
 - Creation of New York post 2nd World War.
 - Related to the city and its economy, marked by an abundance of empty rectangular industrial spaces.
@@ -435,7 +435,7 @@ What needs to be done to fit a particular ecosystem?
 
 ## Retail Market Model
 
-![ecosystem - retail market.png|500](/img/user/MEDIA/ecosystem%20-%20retail%20market.png)
+![ART - ecosystem - retail market.png\|500](/img/user/MEDIA/ART%20-%20ecosystem%20-%20retail%20market.png)
 
 - Usually, collage is shown like that.
 - Before the white cube model, that was a common way to display art.
@@ -446,7 +446,7 @@ Many people don't associate with art because they don't feel it is for them.
 
 ## Museums
 
-![Galeries Dalmau 1912 exhibition, Barcelona, Spain.png|500](/img/user/MEDIA/Galeries%20Dalmau%201912%20exhibition,%20Barcelona,%20Spain.png)
+![ART - Galeries Dalmau 1912 exhibition, Barcelona, Spain.png\|500](/img/user/MEDIA/ART%20-%20Galeries%20Dalmau%201912%20exhibition,%20Barcelona,%20Spain.png)
 
 ```
 Galeries Dalmau 1912 exhibition, Barcelona, Spain
@@ -455,7 +455,7 @@ Galeries Dalmau 1912 exhibition, Barcelona, Spain
  - High-end gallery.
  - Retail market model approach.
 
-![National Gallery of Canada.png|500](/img/user/MEDIA/National%20Gallery%20of%20Canada.png)
+![National Gallery of Canada.png\|500](/img/user/MEDIA/National%20Gallery%20of%20Canada.png)
 
 ```
 National Gallery of Canada
@@ -472,7 +472,7 @@ National Gallery of Canada
 Paintings for the Future, Hilma af Klint
 ```
 
- ![Infinite Variety - Three Centuries of Red and White Quilts.png](/img/user/MEDIA/Infinite%20Variety%20-%20Three%20Centuries%20of%20Red%20and%20White%20Quilts.png)
+ ![ART - Infinite Variety - Three Centuries of Red and White Quilts.png](/img/user/MEDIA/ART%20-%20Infinite%20Variety%20-%20Three%20Centuries%20of%20Red%20and%20White%20Quilts.png)
 
 ```
 Infinite Variety - Three Centuries of Red and White Quilts

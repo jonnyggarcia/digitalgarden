@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artist-mentality/","tags":["plena","dance","kizomba","bachata","creativity"],"created":"2025-06-02T22:55:00.699-04:00","updated":"2025-06-12T17:28:12.696-04:00"}
+{"dg-publish":true,"permalink":"/artist-mentality/","tags":["danca/plena","danca","kizomba","danca/bachata","creativity"],"created":"2025-06-02T22:55:00.699-04:00","updated":"2026-04-22T13:00:00.524-04:00","dg-note-properties":{"backlink":["[[Kizomba]]"],"date":"2025-06-02","tags":["danca/plena","danca","kizomba","danca/bachata","creativity"]}}
 ---
 
 

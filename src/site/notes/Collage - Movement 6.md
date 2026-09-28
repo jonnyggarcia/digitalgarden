@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-movement-6/","tags":["collage/series/movement","c/line","c/motion","c/skate","c/colour-bw","c/man","collage/year-2021"],"created":"2025-08-24T14:47:52.914-04:00","updated":"2025-09-10T13:14:18.441-04:00"}
+{"dg-publish":true,"permalink":"/collage-movement-6/","tags":["collage/series/movement","c/line","c/motion","c/skate","c/colour-bw","c/man","collage/year-2021"],"created":"2025-08-24T14:47:52.914-04:00","updated":"2025-09-10T13:14:18.441-04:00","dg-note-properties":{"tags":["collage/series/movement","c/line","c/motion","c/skate","c/colour-bw","c/man","collage/year-2021"],"date":"2021-12-13","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Movement 6, 2021, Movement, Jonny Garcia.jpg]]"}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 Belongs to series Movement
 
-![MEDIA/ART - COLLAGE - Movement 6, 2021, Movement, Jonny Garcia.jpg|ART - COLLAGE - Movement 6, 2021, Movement, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Movement%206,%202021,%20Movement,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Movement 6, 2021, Movement, Jonny Garcia.jpg\|ART - COLLAGE - Movement 6, 2021, Movement, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Movement%206,%202021,%20Movement,%20Jonny%20Garcia.jpg)

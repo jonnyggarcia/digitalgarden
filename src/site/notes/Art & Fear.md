@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-and-fear/","created":"2024-06-28T12:58:11.000-04:00","updated":"2025-04-20T21:04:25.419-04:00"}
+{"dg-publish":true,"permalink":"/art-and-fear/","created":"2024-06-28T12:58:11.000-04:00","updated":"2025-04-20T21:04:25.419-04:00","dg-note-properties":{"tags":null,"autor":["David Bayles","Ted Orland"],"amazon":"https://www.amazon.ca/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733/ref=sr_1_1?crid=1NJ77EQHVL3DV&keywords=Art+%26+Fear&qid=1693595774&sprefix=art+%26+fear%2Caps%2C148&sr=8-1","review":true,"status":true,"backlink":["[[Livros]]"]}}
 ---
 
 

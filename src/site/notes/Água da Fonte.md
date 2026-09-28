@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agua-da-fonte/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T17:37:23.820-05:00","updated":"2025-01-26T19:05:37.016-05:00"}
+{"dg-publish":true,"permalink":"/agua-da-fonte/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T17:37:23.820-05:00","updated":"2025-01-26T19:05:37.016-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

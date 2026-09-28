@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/escalada-negativa/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T13:53:14.027-05:00","updated":"2025-01-12T12:45:10.389-05:00"}
+{"dg-publish":true,"permalink":"/escalada-negativa/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T13:53:14.027-05:00","updated":"2025-01-12T12:45:10.389-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

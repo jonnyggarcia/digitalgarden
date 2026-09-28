@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aguardando-no-longo-corredor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T20:18:01.792-05:00","updated":"2025-01-08T16:14:25.650-05:00"}
+{"dg-publish":true,"permalink":"/aguardando-no-longo-corredor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-26T20:18:01.792-05:00","updated":"2025-01-08T16:14:25.650-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

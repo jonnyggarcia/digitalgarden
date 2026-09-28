@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/criaturas-da-galeria-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2025-01-12T12:36:01.705-05:00","updated":"2025-01-12T12:40:18.951-05:00"}
+{"dg-publish":true,"permalink":"/criaturas-da-galeria-de-gelo/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2025-01-12T12:36:01.705-05:00","updated":"2025-01-12T12:40:18.951-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

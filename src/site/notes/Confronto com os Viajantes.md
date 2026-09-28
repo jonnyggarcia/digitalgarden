@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/confronto-com-os-viajantes/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T16:57:15.819-05:00","updated":"2025-01-12T12:44:10.727-05:00"}
+{"dg-publish":true,"permalink":"/confronto-com-os-viajantes/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-27T16:57:15.819-05:00","updated":"2025-01-12T12:44:10.727-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/amanhecer-em-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T16:15:16.221-05:00","updated":"2025-01-08T16:14:25.670-05:00"}
+{"dg-publish":true,"permalink":"/amanhecer-em-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T16:15:16.221-05:00","updated":"2025-01-08T16:14:25.670-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

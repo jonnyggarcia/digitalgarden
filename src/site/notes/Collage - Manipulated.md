@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-manipulated/","tags":["c/2025","c/face","c/hand","c/claw","c/man","c/distortion","c/bubbles","c/colour-purple","c/colour-blue","c/colour-green","c/colour-brown","c/N-CL","c/mouth","c/blood"],"created":"2025-08-19T18:20:20.559-04:00","updated":"2025-08-21T14:02:38.082-04:00"}
+{"dg-publish":true,"permalink":"/collage-manipulated/","tags":["collage/year-2025","c/face","c/hand","c/claw","c/man","c/distortion","c/bubbles","c/colour-purple","c/colour-blue","c/colour-green","c/colour-brown","c/N/CL","c/mouth","c/blood"],"created":"2025-08-19T18:20:20.559-04:00","updated":"2026-02-23T19:24:48.434-05:00","dg-note-properties":{"tags":["collage/year-2025","c/face","c/hand","c/claw","c/man","c/distortion","c/bubbles","c/colour-purple","c/colour-blue","c/colour-green","c/colour-brown","c/N/CL","c/mouth","c/blood"],"date":"2025-08-19","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Manipulated,_2025,_Jonny_Garcia.jpg]]","size":"13x19"}}
 ---
 
 
@@ -9,4 +9,4 @@ Context: This was an attempt to redo [[Collage - Captive\|Collage - Captive]] be
 
 [Manipulated](https://www.instagram.com/p/DNjZjrdR_86/?utm_source=ig_web_copy_link&igsh=MTNqNHNxeHE4NHIzdQ==)
 
-<iframe src="https://www.instagram.com/p/DNjZjrdR_86/media?size=l" height= 1500  width=3900></iframe>
+![MEDIA/ART - COLLAGE - Manipulated,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Manipulated,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Manipulated,_2025,_Jonny_Garcia.jpg)

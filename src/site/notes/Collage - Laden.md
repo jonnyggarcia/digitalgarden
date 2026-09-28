@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-laden/","tags":["collage/year-2026","c/man","c/suit","c/hand","c/water","c/glass","c/colour-blue","c/colour-yellow","c/colour-green","c/light","collage/website"],"created":"2026-02-23T13:13:28.275-05:00","updated":"2026-03-12T15:44:12.498-04:00"}
+{"dg-publish":true,"permalink":"/collage-laden/","tags":["collage/year-2026","c/man","c/suit","c/hand","c/water","c/glass","c/colour-blue","c/colour-yellow","c/colour-green","c/light","collage/website"],"created":"2026-02-23T13:13:28.275-05:00","updated":"2026-03-12T15:44:12.498-04:00","dg-note-properties":{"cover-img":"[ART - COLLAGE - Laden, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Laden,%2034x44,%202026,%20Jonny%20Garcia.jpg)","tags":["collage/year-2026","c/man","c/suit","c/hand","c/water","c/glass","c/colour-blue","c/colour-yellow","c/colour-green","c/light","collage/website"],"date":"2026-02-23","size":"34x44","backlink":["[[Digital Collage]]"]}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 Laden: heavily loaded or weighed down.
 
-![MEDIA/ART - COLLAGE - Laden, 34x44, 2026, Jonny Garcia.jpg|ART - COLLAGE - Laden, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Laden,%2034x44,%202026,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Laden, 34x44, 2026, Jonny Garcia.jpg\|ART - COLLAGE - Laden, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Laden,%2034x44,%202026,%20Jonny%20Garcia.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/encontro-inesperado/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T15:51:13.139-05:00","updated":"2025-01-08T16:14:25.665-05:00"}
+{"dg-publish":true,"permalink":"/encontro-inesperado/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T15:51:13.139-05:00","updated":"2025-01-08T16:14:25.665-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

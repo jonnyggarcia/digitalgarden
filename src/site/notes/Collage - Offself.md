@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-offself/","tags":["collage/year-2026","c/flower","c/woman","c/scream","c/veil","c/hand","c/colour-orange","c/colour-red","c/colour-blue","c/alexthymia"],"created":"2026-04-05T14:25:47.020-04:00","updated":"2026-04-10T14:12:22.876-04:00"}
+{"dg-publish":true,"permalink":"/collage-offself/","tags":["collage/year-2026","c/flower","c/woman","c/scream","c/veil","c/hand","c/colour-orange","c/colour-red","c/colour-blue","c/alexthymia"],"created":"2026-04-05T14:25:47.020-04:00","updated":"2026-04-10T14:12:22.876-04:00","dg-note-properties":{"cover-img":"[ART - COLLAGE - Offself, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Offself,%2034x44,%202026,%20Jonny%20Garcia.jpg)","tags":["collage/year-2026","c/flower","c/woman","c/scream","c/veil","c/hand","c/colour-orange","c/colour-red","c/colour-blue","c/alexthymia"],"date":"2026-04-05","size":"34x44","backlink":["[[Digital Collage]]"]}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 Offself
 
-![MEDIA/ART - COLLAGE - Offself, 34x44, 2026, Jonny Garcia.jpg|ART - COLLAGE - Offself, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Offself,%2034x44,%202026,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Offself, 34x44, 2026, Jonny Garcia.jpg\|ART - COLLAGE - Offself, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Offself,%2034x44,%202026,%20Jonny%20Garcia.jpg)

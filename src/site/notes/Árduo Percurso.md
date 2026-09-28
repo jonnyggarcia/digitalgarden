@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arduo-percurso/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T16:18:16.094-05:00","updated":"2025-01-12T12:30:33.913-05:00"}
+{"dg-publish":true,"permalink":"/arduo-percurso/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-19T16:18:16.094-05:00","updated":"2025-01-12T12:30:33.913-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-taken-for-a-fool/","tags":["collage/year-2025","c/man","c/hand","c/abstract","c/colour-colorfull","c/crown","c/ghost-effect","c/N/CL"],"created":"2025-11-19T18:43:26.799-05:00","updated":"2025-11-19T18:51:11.772-05:00"}
+{"dg-publish":true,"permalink":"/collage-taken-for-a-fool/","tags":["collage/year-2025","c/man","c/hand","c/abstract","c/colour-colorfull","c/crown","c/ghost-effect","c/N/CL"],"created":"2025-11-19T18:43:26.799-05:00","updated":"2025-12-14T21:06:35.067-05:00","dg-note-properties":{"tags":["collage/year-2025","c/man","c/hand","c/abstract","c/colour-colorfull","c/crown","c/ghost-effect","c/N/CL"],"date":"2025-11-19","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg]]","size":"13x19"}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 [Taken for a Fool](https://www.instagram.com/p/DRQdDRqjLf_/)
 
-![MEDIA/ART - COLLAGE - Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Taken_for_a_Fool,_2025,_Jonny_Garcia.jpg)

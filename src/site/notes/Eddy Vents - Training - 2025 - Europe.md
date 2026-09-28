@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2026-02-05T14:38:19.726-05:00"}
+{"dg-publish":true,"permalink":"/eddy-vents-training-2025-europe/","created":"2025-09-18T15:53:25.359-04:00","updated":"2026-02-05T14:38:19.726-05:00","dg-note-properties":{"backlink":["[[Eddy Vents - Cursos]]"]}}
 ---
 
 

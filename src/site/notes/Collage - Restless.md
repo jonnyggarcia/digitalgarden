@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-restless/","tags":["collage/year-2025","collage/series/feel/red","c/man","c/ghost","c/street","c/abstract","c/faceless","c/flower","c/colour-red","c/flat-background","c/colour-black"],"created":"2025-11-28T22:18:54.706-05:00","updated":"2025-11-28T22:30:07.801-05:00"}
+{"dg-publish":true,"permalink":"/collage-restless/","tags":["collage/year-2025","collage/series/feel/red","c/man","c/ghost","c/street","c/abstract","c/faceless","c/flower","c/colour-red","c/flat-background","c/colour-black"],"created":"2025-11-28T22:18:54.706-05:00","updated":"2025-12-14T21:06:30.222-05:00","dg-note-properties":{"tags":["collage/year-2025","collage/series/feel/red","c/man","c/ghost","c/street","c/abstract","c/faceless","c/flower","c/colour-red","c/flat-background","c/colour-black"],"date":"2025-11-28","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Restless,_2025,_Feel,_Jonny_Garcia.jpg]]","series-feel-subset":"red","size":"13x19"}}
 ---
 
 
@@ -7,6 +7,6 @@
 
 Context: Part of the series [[Collage Series#Feel\|Feel]].
 
-**Restless:** Unable to relax due to anxiety or boredom.
+**[Restless](https://www.instagram.com/p/DRoBTwwjOj0/):** Unable to relax due to anxiety or boredom.
 
-![MEDIA/ART - COLLAGE - Restless,_2025,_Feel,_Jonny_Garcia.jpg|ART - COLLAGE - Restless,_2025,_Feel,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Restless,_2025,_Feel,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Restless,_2025,_Feel,_Jonny_Garcia.jpg\|ART - COLLAGE - Restless,_2025,_Feel,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Restless,_2025,_Feel,_Jonny_Garcia.jpg)

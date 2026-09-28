@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-rabbit/","tags":["collage/year-2025","c/hand","c/clock","c/woman","c/faceless","c/arrow","c/texture","c/abstract","c/colour-black","c/colour-red","c/sign","c/number","c/N/CL"],"created":"2025-06-13T11:14:33.863-04:00","updated":"2025-09-09T13:54:30.330-04:00"}
+{"dg-publish":true,"permalink":"/collage-rabbit/","tags":["collage/year-2025","c/hand","c/clock","c/woman","c/faceless","c/arrow","c/texture","c/abstract","c/colour-black","c/colour-red","c/sign","c/number","c/N/CL"],"created":"2025-06-13T11:14:33.863-04:00","updated":"2025-12-14T21:08:20.528-05:00","dg-note-properties":{"tags":["collage/year-2025","c/hand","c/clock","c/woman","c/faceless","c/arrow","c/texture","c/abstract","c/colour-black","c/colour-red","c/sign","c/number","c/N/CL"],"date":"2025-06-13","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Rabbit,_2025,_Jonny_Garcia.jpg]]","size":"13x19"}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 [Rabbit](https://www.instagram.com/p/DK2FK-1Rwch/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-![MEDIA/ART - COLLAGE - Rabbit,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Rabbit,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Rabbit,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Rabbit,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Rabbit,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Rabbit,_2025,_Jonny_Garcia.jpg)

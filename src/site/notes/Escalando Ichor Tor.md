@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/escalando-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T12:42:51.818-05:00","updated":"2025-01-12T12:45:24.167-05:00"}
+{"dg-publish":true,"permalink":"/escalando-ichor-tor/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T12:42:51.818-05:00","updated":"2025-01-12T12:45:24.167-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

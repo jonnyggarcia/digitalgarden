@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-perplexity/","tags":["collage/year-2026","c/woman","c/shadow","c/geometric","c/veil","c/colour-yellow","c/colour-red","c/alexthymia","c","collage"],"created":"2026-04-03T11:51:47.091-04:00","updated":"2026-04-13T22:42:05.628-04:00"}
+{"dg-publish":true,"permalink":"/collage-perplexity/","tags":["collage/year-2026","c/woman","c/shadow","c/geometric","c/veil","c/colour-yellow","c/colour-red","c/alexthymia","collage/book/2026"],"created":"2026-04-03T11:51:47.091-04:00","updated":"2026-09-18T11:18:49.148-04:00","dg-note-properties":{"cover-img":"[ART - COLLAGE - Perplexity, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Perplexity,%2034x44,%202026,%20Jonny%20Garcia.jpg)","tags":["collage/year-2026","c/woman","c/shadow","c/geometric","c/veil","c/colour-yellow","c/colour-red","c/alexthymia","collage/book/2026"],"date":"2026-04-03","size":"34x44","backlink":["[[Digital Collage]]"]}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 Perplexity 
 
-![MEDIA/ART - COLLAGE - Perplexity, 34x44, 2026, Jonny Garcia.jpg|ART - COLLAGE - Perplexity, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Perplexity,%2034x44,%202026,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Perplexity, 34x44, 2026, Jonny Garcia.jpg\|ART - COLLAGE - Perplexity, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Perplexity,%2034x44,%202026,%20Jonny%20Garcia.jpg)

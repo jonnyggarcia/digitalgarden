@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-words/","tags":["collage/year-2025","c/face","c/phone","c/line","c/stairs","c/man","c/woman","c/ghost-effect","c/colour-purple","c/colour-blue","c/colour-yellow","c/colour-black","c/N/CL","c/colour-colorfull"],"created":"2025-08-01T08:26:55.778-04:00","updated":"2025-09-09T13:50:25.922-04:00"}
+{"dg-publish":true,"permalink":"/collage-words/","tags":["collage/year-2025","c/face","c/phone","c/line","c/stairs","c/man","c/woman","c/ghost-effect","c/colour-purple","c/colour-blue","c/colour-yellow","c/colour-black","c/N/CL","c/colour-colorfull"],"created":"2025-08-01T08:26:55.778-04:00","updated":"2025-12-14T21:07:23.841-05:00","dg-note-properties":{"tags":["collage/year-2025","c/face","c/phone","c/line","c/stairs","c/man","c/woman","c/ghost-effect","c/colour-purple","c/colour-blue","c/colour-yellow","c/colour-black","c/N/CL","c/colour-colorfull"],"date":"2025-07-31","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Words,_2025,_Jonny_Garcia.jpg]]","size":"13x19"}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 [Words](https://www.instagram.com/p/DMyBWuuxkaZ/?utm_source=ig_web_copy_link&igsh=b2FkMjdkMHdpazlw)
 
-![MEDIA/ART - COLLAGE - Words,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Words,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Words,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Words,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Words,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Words,_2025,_Jonny_Garcia.jpg)

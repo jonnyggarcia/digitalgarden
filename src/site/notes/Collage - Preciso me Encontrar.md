@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-preciso-me-encontrar/","tags":["c/door","c/colour-orange","c/flat-background","c/compass","c/magnifying-glass","c/kingston","c/artist/Cartola","collage/year-2020","c/songs/samba","collage/printed","collage/exhibited","collage/series/songs"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T09:00:16.910-04:00"}
+{"dg-publish":true,"permalink":"/collage-preciso-me-encontrar/","tags":["c/door","c/colour-orange","c/flat-background","c/compass","c/magnifying-glass","c/kingston","c/artist/Cartola","collage/year-2020","c/songs/samba","collage/printed","collage/exhibited","collage/series/songs"],"created":"2024-06-28T12:56:50.000-04:00","updated":"2025-09-10T09:00:16.910-04:00","dg-note-properties":{"tags":["c/door","c/colour-orange","c/flat-background","c/compass","c/magnifying-glass","c/kingston","c/artist/Cartola","collage/year-2020","c/songs/samba","collage/printed","collage/exhibited","collage/series/songs"],"backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Preciso me Encontrar, Songs.jpg]]","owner":"Kingston Scholl Board","date":"2020-09-18"}}
 ---
 
 
@@ -9,4 +9,4 @@
 
 Acquired by the City of Kingston.
 
-![MEDIA/ART - COLLAGE - Preciso me Encontrar, Songs.jpg|ART - COLLAGE - Preciso me Encontrar, Songs.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Preciso%20me%20Encontrar,%20Songs.jpg)
+![MEDIA/ART - COLLAGE - Preciso me Encontrar, Songs.jpg\|ART - COLLAGE - Preciso me Encontrar, Songs.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Preciso%20me%20Encontrar,%20Songs.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/distraindo-a-horda/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T16:42:53.012-05:00","updated":"2025-01-26T17:57:20.447-05:00"}
+{"dg-publish":true,"permalink":"/distraindo-a-horda/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-24T16:42:53.012-05:00","updated":"2025-01-26T17:57:20.447-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

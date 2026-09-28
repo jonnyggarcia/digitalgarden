@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-photography/","tags":["collage/year-2025","c/man","c/lenses","c/photography","c/hand","c/abstract","c/colour-white","c/colour-blue","c/colour-green","c/faceless","collage/series/ephemeral"],"created":"2025-09-30T14:37:10.242-04:00","updated":"2025-09-30T14:42:26.486-04:00"}
+{"dg-publish":true,"permalink":"/collage-photography/","tags":["collage/year-2025","c/man","c/lenses","c/photography","c/hand","c/abstract","c/colour-white","c/colour-blue","c/colour-green","c/faceless","collage/series/ephemeral"],"created":"2025-09-30T14:37:10.242-04:00","updated":"2025-12-14T21:06:55.546-05:00","dg-note-properties":{"tags":["collage/year-2025","c/man","c/lenses","c/photography","c/hand","c/abstract","c/colour-white","c/colour-blue","c/colour-green","c/faceless","collage/series/ephemeral"],"date":"2025-09-21","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Photography,_2025,_Jonny_Garcia.jpg]]","series-ephemeral-subset":1,"size":"13x19"}}
 ---
 
 
@@ -9,4 +9,4 @@
 
 Context: The memories we carry are photography from the past frozen in time.
 
-![MEDIA/ART - COLLAGE - Photography,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Photography,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Photography,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Photography,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Photography,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Photography,_2025,_Jonny_Garcia.jpg)

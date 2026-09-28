@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-quietus/","tags":["collage/year-2026","c/face","c/shadow","c/hand","c/colour-red","c/colour-green","c/colour-yellow"],"created":"2026-03-15T11:56:45.915-04:00","updated":"2026-03-15T11:58:10.258-04:00"}
+{"dg-publish":true,"permalink":"/collage-quietus/","tags":["collage/year-2026","c/face","c/shadow","c/hand","c/colour-red","c/colour-green","c/colour-yellow","collage/book/2026"],"created":"2026-03-15T11:56:45.915-04:00","updated":"2026-09-18T11:18:34.988-04:00","dg-note-properties":{"cover-img":"[ART - COLLAGE - Quietus, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Quietus,%2034x44,%202026,%20Jonny%20Garcia.jpg)","tags":["collage/year-2026","c/face","c/shadow","c/hand","c/colour-red","c/colour-green","c/colour-yellow","collage/book/2026"],"date":"2026-03-15","size":"34x44","backlink":["[[Digital Collage]]"]}}
 ---
 
 
@@ -8,4 +8,4 @@
 
 Quietus
 
-![MEDIA/ART - COLLAGE - Quietus, 34x44, 2026, Jonny Garcia.jpg|ART - COLLAGE - Quietus, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Quietus,%2034x44,%202026,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Quietus, 34x44, 2026, Jonny Garcia.jpg\|ART - COLLAGE - Quietus, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Quietus,%2034x44,%202026,%20Jonny%20Garcia.jpg)

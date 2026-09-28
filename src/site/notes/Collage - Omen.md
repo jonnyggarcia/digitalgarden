@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-omen/","tags":["collage/year-2026","c/shadow","c/face","c/hand","c/line","c/noise","c/cloth","c/colour-monochromatic","c/colour-yellow","c/N/CL","collage/website"],"created":"2026-01-27T21:18:10.140-05:00","updated":"2026-02-07T13:00:23.690-05:00"}
+{"dg-publish":true,"permalink":"/collage-omen/","tags":["collage/year-2026","c/shadow","c/face","c/hand","c/line","c/noise","c/cloth","c/colour-monochromatic","c/colour-yellow","c/N/CL","collage/website","collage/book/2026"],"created":"2026-01-27T21:18:10.140-05:00","updated":"2026-09-18T11:17:52.920-04:00","dg-note-properties":{"cover-img":"[ART - COLLAGE - Omen, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Omen,%2034x44,%202026,%20Jonny%20Garcia.jpg)","tags":["collage/year-2026","c/shadow","c/face","c/hand","c/line","c/noise","c/cloth","c/colour-monochromatic","c/colour-yellow","c/N/CL","collage/website","collage/book/2026"],"date":"2026-01-27","size":"34x44","backlink":["[[Digital Collage]]"]}}
 ---
 
 
@@ -7,4 +7,4 @@
 
 Omen
 
-![MEDIA/ART - COLLAGE - Omen, 34x44, 2026, Jonny Garcia.jpg|ART - COLLAGE - Omen, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Omen,%2034x44,%202026,%20Jonny%20Garcia.jpg)
+![MEDIA/ART - COLLAGE - Omen, 34x44, 2026, Jonny Garcia.jpg\|ART - COLLAGE - Omen, 34x44, 2026, Jonny Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Omen,%2034x44,%202026,%20Jonny%20Garcia.jpg)

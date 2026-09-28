@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-worship/","tags":["collage/year-2025","c/flat-background","c/colour-white","c/colour-bw","c/statue","c/Mary","c/crown","c/spikes","c/religion","c/hand","c/smoke","collage/horizontal","collage/commission","c/N/DM"],"created":"2025-11-30T00:49:47.808-05:00","updated":"2025-12-03T21:21:32.229-05:00"}
+{"dg-publish":true,"permalink":"/collage-worship/","tags":["collage/year-2025","c/flat-background","c/colour-white","c/colour-bw","c/statue","c/Mary","c/crown","c/spikes","c/religion","c/hand","c/smoke","collage/horizontal","collage/commission","c/N/DM"],"created":"2025-11-30T00:49:47.808-05:00","updated":"2025-12-14T21:06:29.108-05:00","dg-note-properties":{"tags":["collage/year-2025","c/flat-background","c/colour-white","c/colour-bw","c/statue","c/Mary","c/crown","c/spikes","c/religion","c/hand","c/smoke","collage/horizontal","collage/commission","c/N/DM"],"date":"2025-11-30","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Worship,_2025,_Jonny_Garcia.jpg]]","requestor":"Daniel Menezes","size":"13x19"}}
 ---
 
 
@@ -7,6 +7,6 @@
 
 [Worship](https://www.instagram.com/p/DR0wlXBDFQ8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==): Request for the album produce by Daniel Menezes
 
-![MEDIA/ART - COLLAGE - Worship,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Worship,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Worship,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Worship,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Worship,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Worship,_2025,_Jonny_Garcia.jpg)
 
 ![ART - COLLAGE - Worship_V2,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Worship_V2,_2025,_Jonny_Garcia.jpg)

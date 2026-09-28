@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/despertando-durante-a-noite/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T13:14:34.434-05:00","updated":"2025-01-12T12:22:08.129-05:00"}
+{"dg-publish":true,"permalink":"/despertando-durante-a-noite/","tags":["RPG/livro-jogo/Aasthar/story-points"],"created":"2024-12-18T13:14:34.434-05:00","updated":"2025-01-12T12:22:08.129-05:00","dg-note-properties":{"tags":["RPG/livro-jogo/Aasthar/story-points"],"backlink":["[[Aasthar - Story Points]]"]}}
 ---
 
 

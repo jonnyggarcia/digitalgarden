@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-playing-cards/","tags":["c/playing-card","collage/year-2021","collage/analog"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-10T10:04:42.057-04:00"}
+{"dg-publish":true,"permalink":"/collage-playing-cards/","tags":["c/playing-card","collage/year-2021","collage/analog"],"created":"2024-06-28T12:56:47.000-04:00","updated":"2025-09-10T10:04:42.057-04:00","dg-note-properties":{"tags":["c/playing-card","collage/year-2021","collage/analog"],"backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Card Collage Format Exploration - 1 - 20210109.jpg]]","date":"2021-01-12"}}
 ---
 
 

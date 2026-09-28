@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-06-03T00:05:35.890-04:00"}
+{"dg-publish":true,"permalink":"/dissociation-from-studio-g/","created":"2025-05-21T10:26:43.751-04:00","updated":"2025-06-03T00:05:35.890-04:00","dg-note-properties":{"backlink":["[[Melodia]]"]}}
 ---
 
 

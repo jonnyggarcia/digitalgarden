@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-knot/","tags":["collage/year-2025","c/colour-white","c/flat-background","c/paper","c/knot","c/hand","c/man","c/body","c/colour-blue","c/N/CL","collage/book/2025"],"created":"2025-06-08T16:08:16.402-04:00","updated":"2025-09-09T13:55:29.154-04:00"}
+{"dg-publish":true,"permalink":"/collage-knot/","tags":["collage/year-2025","c/colour-white","c/flat-background","c/paper","c/knot","c/hand","c/man","c/body","c/colour-blue","c/N/CL","collage/submission/enrichment-2026"],"created":"2025-06-08T16:08:16.402-04:00","updated":"2026-06-11T14:45:27.846-04:00","dg-note-properties":{"tags":["collage/year-2025","c/colour-white","c/flat-background","c/paper","c/knot","c/hand","c/man","c/body","c/colour-blue","c/N/CL","collage/submission/enrichment-2026"],"date":"2025-06-08","backlink":["[[Digital Collage]]"],"cover-img":"[[ART - COLLAGE - Knot,_2025,_Jonny_Garcia.jpg]]","collage_book_subset":"10","size":"13x19"}}
 ---
 
 
@@ -8,4 +8,4 @@
 
 [Knot](https://www.instagram.com/p/DKpxNCJRBtc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
-![MEDIA/ART - COLLAGE - Knot,_2025,_Jonny_Garcia.jpg|ART - COLLAGE - Knot,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Knot,_2025,_Jonny_Garcia.jpg)
+![MEDIA/ART - COLLAGE - Knot,_2025,_Jonny_Garcia.jpg\|ART - COLLAGE - Knot,_2025,_Jonny_Garcia.jpg](/img/user/MEDIA/ART%20-%20COLLAGE%20-%20Knot,_2025,_Jonny_Garcia.jpg)

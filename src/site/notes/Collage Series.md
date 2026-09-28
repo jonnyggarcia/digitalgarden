@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2026-01-19T12:28:23.477-05:00"}
+{"dg-publish":true,"permalink":"/collage-series/","created":"2024-06-28T12:55:28.000-04:00","updated":"2026-08-06T10:40:43.135-04:00","dg-note-properties":{"tags":[],"backlink":["[[Digital Collage]]","[[Colagens]]"]}}
 ---
 
 
@@ -16,6 +16,7 @@
 [[Series - Feel\|Series - Feel]]
 
 **Reds**
+
 - [[Collage - Enraged\|Collage - Enraged]]
 - [[Collage - Terrified\|Collage - Terrified]]
 - [[Collage - Panicked\|Collage - Panicked]]
@@ -34,8 +35,10 @@
 - [[Collage - Apprehensive\|Collage - Apprehensive]]
 - [[Collage - Irritated\|Collage - Irritated]]
 - [[Collage - Restless\|Collage - Restless]]
+- [[Collage - Jealous\|Collage - Jealous]]
 
 **Blues**
+
 - [[Collage - Forlorn\|Collage - Forlorn]]
 - [[Collage - Apathetic\|Collage - Apathetic]]
 
@@ -61,6 +64,7 @@
 - [[Collage - Citizen\|Collage - Citizen]]
 
 *Archived*
+
 - [[Collage - Outlander\|Collage - Outlander]]
 - [[Collage -  Sociability\|Collage -  Sociability]]
 - [[Collage - Reasons\|Collage - Reasons]]
@@ -70,40 +74,44 @@
 to make:
 
 - Exhibition
+- Angola Trip
+- 
 
 [[Series - Self\|Series - Self]]
 
-- [[Collage - 2JUN5\|Collage - 2JUN5]]
-- [[Collage - 2MAY4\|Collage - 2MAY4]]
-- [[Collage - 2APR4\|Collage - 2APR4]]
-- [[Collage - 2MAR4 - II\|Collage - 2MAR4 - II]]
-- [[Collage - 2MAR4\|Collage - 2MAR4]]
-- [[Collage - 2FEB4\|Collage - 2FEB4]]
-- [[Collage - 2AUG3\|Collage - 2AUG3]]
-- [[Collage - 2JUL3\|Collage - 2JUL3]]
-- [[Collage - 2JUN3\|Collage - 2JUN3]]
-- [[Collage - 2MAR3\|Collage - 2MAR3]]
-- [[Collage - 2AUG2 - II\|Collage - 2AUG2 - II]]
-- [[Collage - 2AUG2\|Collage - 2AUG2]]
-- [[Collage - 2MAY - OCT2\|Collage - 2MAY - OCT2]]
-- [[Collage - 2MAY2\|Collage - 2MAY2]]
-- [[Collage - 2FEB2 - II\|Collage - 2FEB2 - II]]
-- [[Collage - 2FEB2\|Collage - 2FEB2]]
-- [[Collage - 2NOV1\|Collage - 2NOV1]]
-- [[Collage - 2AUG1\|Collage - 2AUG1]]
-- [[Collage - 2JUN1\|Collage - 2JUN1]]
-- [[Collage - 2MAY1\|Collage - 2MAY1]]
-- [[Collage - 2APR1\|Collage - 2APR1]]
-- [[Collage - 2JAN1\|Collage - 2JAN1]]
-- [[Collage - 2DEC0\|Collage - 2DEC0]]
-- [[Collage - 1SEP9\|Collage - 1SEP9]]
-- [[Collage - 1AUG9\|Collage - 1AUG9]]
-- [[Collage - 1APR9\|Collage - 1APR9]]
-- [[Collage - 1FEB9\|Collage - 1FEB9]]
-- [[Collage - 1AUG7\|Collage - 1AUG7]]
-- [[Collage - 1JUN4\|Collage - 1JUN4]]
-- [[Collage - 00ART00\|Collage - 00ART00]]
-- [[Collage - 00FORMATION00\|Collage - 00FORMATION00]]
+- [[Collage - 2AUG6\|Collage - 2AUG6]] - 40 years bday with anastasia
+- [[Collage - 2FEB6\|Collage - 2FEB6]] - broke up with aline
+- [[Collage - 2JUN5\|Collage - 2JUN5]] - broke up with claire
+- [[Collage - 2MAY4\|Collage - 2MAY4]] - start kizomba
+- [[Collage - 2APR4\|Collage - 2APR4]] -solar eclipse
+- [[Collage - 2MAR4 - II\|Collage - 2MAR4 - II]] - ember diagnosis
+- [[Collage - 2MAR4\|Collage - 2MAR4]] - Passport
+- [[Collage - 2FEB4\|Collage - 2FEB4]] - Citizenship
+- [[Collage - 2AUG3\|Collage - 2AUG3]] - Dating Aline
+- [[Collage - 2JUL3\|Collage - 2JUL3]] - Rainbow car
+- [[Collage - 2JUN3\|Collage - 2JUN3]] - Starting dancing salsa
+- [[Collage - 2MAR3\|Collage - 2MAR3]] - Luiz's visit
+- [[Collage - 2AUG2 - II\|Collage - 2AUG2 - II]] - Visit to Sweden
+- [[Collage - 2AUG2\|Collage - 2AUG2]] - Covid in Sweden
+- [[Collage - 2MAY - OCT2\|Collage - 2MAY - OCT2]] - Parents' visit
+- [[Collage - 2MAY2\|Collage - 2MAY2]] - House acquisition
+- [[Collage - 2FEB2 - II\|Collage - 2FEB2 - II]] - Eye Surgery
+- [[Collage - 2FEB2\|Collage - 2FEB2]] - Visit to Brasil
+- [[Collage - 2NOV1\|Collage - 2NOV1]] - Rachel's dating
+- [[Collage - 2AUG1\|Collage - 2AUG1]] - Cat adopition
+- [[Collage - 2JUN1\|Collage - 2JUN1]] - Kidney stones
+- [[Collage - 2MAY1\|Collage - 2MAY1]] - Money Scam
+- [[Collage - 2APR1\|Collage - 2APR1]] - Motorcycle acquisition
+- [[Collage - 2JAN1\|Collage - 2JAN1]] - Celia dating
+- [[Collage - 2DEC0\|Collage - 2DEC0]] - Yuuka's break up
+- [[Collage - 1SEP9\|Collage - 1SEP9]] - PR landing
+- [[Collage - 1AUG9\|Collage - 1AUG9]] - Bday and Imperia release
+- [[Collage - 1APR9\|Collage - 1APR9]] - Art
+- [[Collage - 1FEB9\|Collage - 1FEB9]] - Japan Visit
+- [[Collage - 1AUG7\|Collage - 1AUG7]] - Trip to brasil with Yuka
+- [[Collage - 1JUN4\|Collage - 1JUN4]] - Canada Immigration
+- [[Collage - 00ART00\|Collage - 00ART00]] - Art formation
+- [[Collage - 00FORMATION00\|Collage - 00FORMATION00]] - Education
 
 # Songs
 
